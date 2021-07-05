@@ -3,7 +3,7 @@
 In 1915,
 
 2
-00:00:03,527 --> 00:00:06,527
+00:00:03,440 --> 00:00:07,079
 World War I entered its second year of unprecedented tragedy.
 
 3
@@ -32,7 +32,7 @@ Zhongfu, get rid of your illusions and be ready to fight.
 
 9
 00:00:38,572 --> 00:00:41,120
-We need to complete the great change that has not been seen in three thousand years,
+We need to complete a great change that has not been seen in three thousand years,
 
 10
 00:00:41,320 --> 00:00:43,840
@@ -171,15 +171,15 @@ I will write another novel.
 I will compete with Lin Qinnan!
 
 44
-00:01:57,240 --> 00:01:59,480
+00:01:57,240 --> 00:02:02,860
 This debate over culture is just and dignified.
 
 45
-00:02:00,335 --> 00:02:03,335
+00:02:00,335 --> 00:02:02,836
 This is not natural!
 
 46
-00:02:03,526 --> 00:02:04,320
+00:02:03,160 --> 00:02:04,091
 How could you think of that?
 
 47
@@ -196,7 +196,7 @@ I don't think people can live for themselves.
 
 50
 00:02:15,084 --> 00:02:15,840
-Go to Changxin store
+Go to Changxin
 
 51
 00:02:15,840 --> 00:02:18,280
@@ -204,7 +204,7 @@ and take a look at the ruined shanties.
 
 52
 00:02:18,521 --> 00:02:20,000
-Go to Jinpu line and take a look at them:
+Go to Jinpu and take a look at them:
 
 53
 00:02:20,000 --> 00:02:21,280
@@ -264,7 +264,7 @@ Qingdao should be returned!
 
 67
 00:02:45,934 --> 00:02:47,320
-If we are defeated, we must bide our time.
+In defeat, one bides their time.
 
 68
 00:02:47,439 --> 00:02:48,720
@@ -344,7 +344,7 @@ from our nation's blood,
 
 87
 00:03:22,730 --> 00:03:23,960
-is a day's work?
+is achieved in a day?
 
 88
 00:03:24,425 --> 00:03:26,560
@@ -380,7 +380,7 @@ because I love this country.
 
 96
 00:03:41,771 --> 00:03:44,480
-I'm going to do something for this country.
+I will do something for this country.
 
 97
 00:03:44,480 --> 00:03:45,760
@@ -408,7 +408,7 @@ China is a people's country.
 
 103
 00:03:57,463 --> 00:03:59,960
-So the people should be in charge
+Thus the people should be in charge
 
 104
 00:04:00,324 --> 00:04:02,560
