@@ -5,6 +5,6 @@ if __name__ == '__main__':  # This check is mandatory for Windows.
                            file_path='觉醒年代.Age.of.Awakening_预告片.Trailer.zh.srt',
                            lang='chi_sim',
                            #time_end='00:01:28.820',
-                           conf_threshold=60,
-                           sim_threshold=100,
+                           conf_threshold=75,
+                           sim_threshold=70,
                            use_fullframe=True)
