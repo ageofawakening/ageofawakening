@@ -8,1031 +8,1039 @@
 
 3
 00:00:07,200 --> 00:00:08,440
-
+Brothers have to go to work now.
 
 4
 00:00:08,640 --> 00:00:09,640
-
+I can't play with you this time.
 
 5
 00:00:09,880 --> 00:00:10,680
-
+Next time?
 
 6
 00:00:11,440 --> 00:00:11,920
-
+Let's go.
 
 7
 00:00:12,440 --> 00:00:13,400
-
+Goodbye Aunt.
 
 8
 00:00:17,200 --> 00:00:17,932
-
+Wait a minute. Wait a minute.
 
 9
 00:00:18,087 --> 00:00:18,402
-
+Come.
 
 10
 00:00:19,400 --> 00:00:20,080
-
+Take all the buns.
 
 11
 00:00:20,120 --> 00:00:21,720
-
+Brother, you promised to give me a grasshopper!
 
 12
 00:00:21,960 --> 00:00:23,160
-
+I'll keep my promise!
 
 13
 00:00:24,000 --> 00:00:25,242
-
+Come home if you need to.
 
 14
 00:00:25,242 --> 00:00:26,246
-
+Thank you Aunt.
 
 15
-00:00:46,932 --> 00:00:49,932
-
+00:00:46,932 --> 00:00:48,856
+[Songshan Road, French Concession, Shanghai]
 
 16
 00:00:48,856 --> 00:00:50,767
-
+[Songshan Road, French Concession, Shanghai]
+Pear paste pastries... sweet and savoury,
 
 17
 00:00:50,767 --> 00:00:51,891
-
+[Songshan Road, French Concession, Shanghai]
+a mouthful of delight!
 
 18
 00:00:51,891 --> 00:00:52,844
-
+a mouthful of delight!
 
 19
 00:00:53,161 --> 00:00:54,445
-
+The song goes:
 
 20
 00:00:54,445 --> 00:00:55,641
-
+[Chen Henian, youngest son of Chen Duxiu]
+Xiao Fangqing in the Pearl Tower
 
 21
 00:00:55,771 --> 00:00:56,563
-
+Xiao Fangqing in the Pearl Tower
 
 22
 00:00:56,757 --> 00:00:58,080
-
+is so happy to meet 
 
 23
 00:00:58,080 --> 00:00:59,683
-
+Xiao Qingqing in "The Legend of the White Snake".
 
 24
 00:00:59,683 --> 00:01:01,763
-
+Xiao Fangqing
 
 25
 00:01:02,082 --> 00:01:03,716
-
+is so happy
 
 26
 00:01:04,044 --> 00:01:07,008
-
+to the movies with her.
 
 27
 00:01:13,320 --> 00:01:17,880
-
+Hey! Selling pear pastries!
 
 28
 00:01:23,920 --> 00:01:24,480
-
+Good, stop!
 
 29
 00:01:25,600 --> 00:01:26,720
-
+Mr Menzou is here!
 
 30
 00:01:29,760 --> 00:01:32,120
-
+[Wang Mengzou, Manager of Yadong Library]
 
 31
 00:01:32,570 --> 00:01:33,566
-
+Menzou!
 
 32
 00:01:33,760 --> 00:01:34,560
-
+Junman!
 
 33
 00:01:35,360 --> 00:01:37,640
-
+I've brought you Zhong Fu back from the dock!
 
 34
 00:01:37,800 --> 00:01:38,480
-
+Where?
 
 35
 00:01:38,960 --> 00:01:39,600
-
+At the back!
 
 36
 00:01:40,240 --> 00:01:40,760
-
+Look!
 
 37
 00:01:45,600 --> 00:01:49,240
-
+Zimei! Henian! Look who's back!
 
 38
 00:01:50,000 --> 00:01:51,480
-
+It's Dad! Call Dad!
 
 39
 00:01:56,125 --> 00:01:58,840
-
+[Chen Duxiu, styled Zhong Fu, famous revolutionary]
 
 40
 00:02:12,480 --> 00:02:13,480
-
+Why don't you have an umbrella?
 
 41
 00:02:26,320 --> 00:02:28,760
-
+Zimei! Henian!
 
 42
 00:02:37,680 --> 00:02:38,400
-
+Qiaonian? Yannian? Where are they?
 
 43
 00:02:38,840 --> 00:02:40,440
-
+Let's go home first.
 
 44
 00:02:40,480 --> 00:02:42,720
-
+Okay, go, go, go.
 
 45
 00:02:42,760 --> 00:02:43,880
-
+Let's go home!
 
 46
 00:02:44,640 --> 00:02:45,640
-
+Thank you, Menzou.
 
 47
 00:02:47,360 --> 00:02:48,360
-
+Go, go, go!
 
 48
 00:03:16,400 --> 00:03:17,400
-
+What are you doing?
 
 49
 00:03:17,560 --> 00:03:18,920
-
+What are you doing out in the rain?
 
 50
 00:03:20,640 --> 00:03:22,120
-
+Tasting the Jiangnan rain.
 
 51
 00:03:24,680 --> 00:03:26,160
-
+Quick, quick, quick!
 
 52
 00:03:27,160 --> 00:03:28,840
-
+Were you that stupid in Japan?
 
 53
 00:03:29,240 --> 00:03:30,600
-
+Look at the rain on you!
 
 54
 00:03:30,920 --> 00:03:31,600
-
+There's raindrops all over!
 
 55
 00:03:32,320 --> 00:03:33,280
-
+What's a drop of rain?
 
 56
 00:03:34,440 --> 00:03:35,600
-
+When I was in Japan,
 
 57
 00:03:36,240 --> 00:03:37,440
-
+I was covered in lice.
 
 58
 00:03:39,720 --> 00:03:40,480
-
+Once.
 
 59
 00:03:41,240 --> 00:03:44,320
-
+Then Zhang Shizhao asked me to edit an issue.
 
 60
 00:03:45,080 --> 00:03:46,960
-
+I locked myself in my room,
 
 61
 00:03:47,040 --> 00:03:48,680
-
+I didn't leave the house for half a month.
 
 62
 00:03:48,960 --> 00:03:50,440
-
+Then the article was finished.
 
 63
 00:03:50,600 --> 00:03:51,480
-
+I went out,
 
 64
 00:03:51,800 --> 00:03:53,160
-
+Yi Baisha looked at me and said:
 
 65
 00:03:54,080 --> 00:03:56,080
-
+What are those spots on your body?
 
 66
 00:03:56,320 --> 00:03:57,520
-
+I looked down and it was all...
 
 67
 00:03:58,520 --> 00:04:00,000
-
+Don't say, don't say, don't say.
 
 68
 00:04:08,320 --> 00:04:09,280
-
+Mr Chen.
 
 69
 00:04:10,120 --> 00:04:11,200
-
+You've suffered.
 
 70
 00:04:16,976 --> 00:04:17,763
-
+Come. Sit.
 
 71
 00:04:20,080 --> 00:04:22,120
-
+Sit with me and listen to the rain for a while.
 
 72
 00:04:28,400 --> 00:04:30,320
-
+There is no revolution without suffering,
 
 73
 00:04:30,960 --> 00:04:33,720
-
+but I brought this misery upon myself.
 
 74
 00:04:34,480 --> 00:04:37,200
-
+I like to... I like to enjoy it.
 
 75
 00:04:37,840 --> 00:04:40,680
-
+It's just that... I got you into trouble.
 
 76
 00:04:41,520 --> 00:04:43,000
-
+You're a talented student from Beijing Normal University,
 
 77
 00:04:43,360 --> 00:04:44,680
-
+suffering with me.
 
 78
 00:04:45,880 --> 00:04:46,680
-
+I'm sorry.
 
 79
 00:04:47,800 --> 00:04:49,480
-
+As long as the family can be together,
 
 80
 00:04:49,920 --> 00:04:52,160
-
+whatever the suffering and hardship,
 
 81
 00:04:52,360 --> 00:04:53,360
-
+I'm not afraid.
 
 82
 00:04:57,240 --> 00:04:59,640
-
+It's just that Yannian and Qiaonian don't want to go home.
 
 83
 00:05:00,000 --> 00:05:01,440
-
+I don't feel well.
 
 84
 00:05:03,160 --> 00:05:03,880
-
+Zhong Fu.
 
 85
 00:05:05,680 --> 00:05:08,240
-
+Why don't you go and get the two children tomorrow
 
 86
 00:05:08,400 --> 00:05:09,600
-
+and bring them home?
 
 87
 00:05:10,320 --> 00:05:11,560
-
+Don't let them roam around outside.
 
 88
 00:05:11,800 --> 00:05:13,240
-
+I'm not going to pick them up.
 
 89
 00:05:15,160 --> 00:05:17,000
-
+These two boys have a lot of backbone.
 
 90
 00:05:19,280 --> 00:05:21,920
-
+It's good to go out and make your own living.
 
 91
 00:05:23,920 --> 00:05:25,240
-
+Yannian and Qiaonian
 
 92
 00:05:25,480 --> 00:05:27,840
-
+are two good boys with big ambitions.
 
 93
 00:05:28,160 --> 00:05:29,600
-
+After the May 9th National Disgrace,
 
 94
 00:05:30,200 --> 00:05:31,720
-
+they both came to Shanghai to study.
 
 95
 00:05:31,920 --> 00:05:33,320
-
+Seeing our family's difficulties,
 
 96
 00:05:33,640 --> 00:05:34,640
-
+they had brought from the countryside
 
 97
 00:05:34,720 --> 00:05:36,200
-
+100 silver yuan for tuition
 
 98
 00:05:36,240 --> 00:05:37,120
-
+and gave it to me.
 
 99
 00:05:37,680 --> 00:05:38,840
-
+They went out to work on their own.
 
 100
 00:05:39,680 --> 00:05:40,680
-
+I tried to give it back to them
 
 101
 00:05:40,720 --> 00:05:41,880
-
+but they wouldn't listen.
 
 102
 00:05:42,360 --> 00:05:43,960
-
+You said Shanghai docks are so rough.
 
 103
 00:05:45,120 --> 00:05:48,040
-
+What would happen if something happened to them?
 
 104
 00:05:49,560 --> 00:05:50,400
-
+Zhong Fu.
 
 105
 00:05:51,440 --> 00:05:52,520
-
+I'm begging you.
 
 106
 00:05:53,000 --> 00:05:54,520
-
+You go and bring them both home.
 
 107
 00:05:56,120 --> 00:05:57,040
-
+Junman.
 
 108
 00:05:57,880 --> 00:05:59,120
-
+When I was abroad,
 
 109
 00:06:01,440 --> 00:06:03,200
-
+I heard a song from Europe
 
 110
 00:06:03,680 --> 00:06:04,920
-
+called "The Internationale".
 
 111
 00:06:05,600 --> 00:06:08,360
-
+Although the lyrics have not been translated into Chinese,
 
 112
 00:06:08,880 --> 00:06:10,120
-
+there are a few lines in it
 
 113
 00:06:10,360 --> 00:06:12,080
-
+I was very impressed by.
 
 114
 00:06:12,400 --> 00:06:13,280
-
+The idea is 
 
 115
 00:06:13,680 --> 00:06:15,120
-
+there is no saviour
 
 116
 00:06:16,280 --> 00:06:18,040
-
+or there is no fairy god.
 
 117
 00:06:19,920 --> 00:06:21,640
-
+To create happiness for all
 
 118
 00:06:22,760 --> 00:06:24,400
-
+is up to us.
 
 119
 00:06:26,280 --> 00:06:28,000
-
+Well sung... well said.
 
 120
 00:06:28,280 --> 00:06:30,480
-
+From large countries to small individuals,
 
 121
 00:06:31,680 --> 00:06:34,046
-
+one should forge their own destiny.
 
 122
 00:06:34,725 --> 00:06:35,563
-
+Trusting your life
 
 123
 00:06:35,640 --> 00:06:37,440
-
+to your father and family.
 
 124
 00:06:37,480 --> 00:06:38,640
-
+You can't rely on that.
 
 125
 00:06:39,160 --> 00:06:41,600
-
+So, what is the job of the father?
 
 126
 00:06:42,320 --> 00:06:44,197
-
+Where has your duty as a father gone?
 
 127
 00:06:44,197 --> 00:06:45,488
-
+It is my duty
 
 128
 00:06:46,200 --> 00:06:47,560
-
+to let them know
 
 129
 00:06:48,280 --> 00:06:50,120
-
+how to be live up to
 
 130
 00:06:50,200 --> 00:06:53,120
-
+the social and historical responsibilities of this country.
 
 131
 00:06:56,240 --> 00:06:57,440
-
+In these troubled times,
 
 132
 00:06:57,960 --> 00:06:59,240
-
+to be a son of I, Chen Duxiu,
 
 133
 00:06:59,680 --> 00:07:01,960
-
+one must first work hard on one's heart and soul.
 
 134
 00:07:02,600 --> 00:07:04,360
-
+Starve the body and the skin, but not the soul.
 
 135
 00:07:04,640 --> 00:07:05,920
-
+Act in accordance with the law,
 
 136
 00:07:05,960 --> 00:07:07,480
-
+so your heart is willing
 
 137
 00:07:07,680 --> 00:07:08,880
-
+to endure what it once could not.
 
 138
 00:07:09,560 --> 00:07:12,280
-
+You are a thinker against the ways of Confucius and Mencius.
 
 139
 00:07:12,560 --> 00:07:14,080
-
+Why did you make a statement
 
 140
 00:07:14,160 --> 00:07:15,240
-
+out of Mencius' quotes?
 
 141
 00:07:15,480 --> 00:07:17,760
-
+Yuan Shikai wants to make Confucianism the state religion,
 
 142
 00:07:17,800 --> 00:07:19,040
-
+of course I want to oppose it.
 
 143
 00:07:19,360 --> 00:07:20,600
-
+But make no mistake,
 
 144
 00:07:20,960 --> 00:07:21,880
-
+I am against
 
 145
 00:07:21,960 --> 00:07:24,240
-
+the three principles of Confucianism that are poisoning the people.
 
 146
 00:07:24,960 --> 00:07:27,560
-
+Neither Confucius nor Mencius.
 
 147
 00:07:29,480 --> 00:07:31,960
-
+All right, all right, I can't talk you out of it.
 
 148
 00:07:34,520 --> 00:07:35,760
-
+Step inside.
 
 149
 00:07:35,960 --> 00:07:37,240
-
+It's cold.
 
 150
 00:07:38,920 --> 00:07:39,480
-
+Let's go.
 
 151
 00:07:44,320 --> 00:07:47,021
-
+[Yadong Library]
 
 152
 00:07:57,840 --> 00:07:58,600
-
+Brother.
 
 153
 00:08:00,080 --> 00:08:01,360
-
+That thing, put it in the jar.
 
 154
 00:08:01,400 --> 00:08:02,200
-
+Is it fine?
 
 155
 00:08:02,840 --> 00:08:03,680
-
+It's fine.
 
 156
 00:08:07,760 --> 00:08:08,520
-
+You're all set, right?
 
 157
 00:08:08,640 --> 00:08:09,920
-
+There is no point in playing chess. Put it back.
 
 158
 00:08:09,960 --> 00:08:11,880
-
+Ready to go Huangshan, Maofeng?
 
 159
 00:08:15,080 --> 00:08:15,496
-
+Zhong Fu!
 
 160
 00:08:15,496 --> 00:08:16,086
-
+Brother Zhong Fu!
 
 161
 00:08:16,643 --> 00:08:16,960
-
+Zhong Fu!
 
 162
 00:08:16,960 --> 00:08:17,480
-
+Put it here.
 
 163
 00:08:17,520 --> 00:08:18,440
-
+Come on, come on, we're waiting for you.
 
 164
 00:08:18,520 --> 00:08:18,960
-
+Zhong Fu, ladies and gentlemen!
 
 165
 00:08:19,040 --> 00:08:19,680
-
+Everyone's here!
 
 166
 00:08:19,880 --> 00:08:21,320
-
+Brother Zhong Fu, we're all waiting for you!
 
 167
 00:08:25,400 --> 00:08:26,240
-
+Zishou.
 
 168
 00:08:26,600 --> 00:08:27,320
-
+Zipei.
 
 169
 00:08:27,400 --> 00:08:27,883
-
+Zhong Fu.
 
 170
 00:08:27,883 --> 00:08:28,678
-
+Baisha.
 
 171
 00:08:30,209 --> 00:08:30,676
-
+Zhong Fu.
 
 172
 00:08:30,680 --> 00:08:31,200
-
+Yongcheng.
 
 173
 00:08:32,920 --> 00:08:34,760
-
+Since we left the boat, I've missed you.
 
 174
 00:08:35,080 --> 00:08:35,920
-
+Greetings, gentlemen.
 
 175
 00:08:37,240 --> 00:08:38,640
-
+Come on, you're barging in.
 
 176
 00:08:38,960 --> 00:08:40,200
-
+Go and meet us at the front!
 
 177
 00:08:40,800 --> 00:08:42,560
-
+No, I'm not going to meet him.
 
 178
 00:08:43,160 --> 00:08:45,160
-
+Why is this child so stubborn?
 
 179
 00:08:45,720 --> 00:08:48,000
-
+You tell me, he's still your old man,
 
 180
 00:08:48,160 --> 00:08:50,040
-
+then the bones are still attached to the tendons.
 
 181
 00:08:50,320 --> 00:08:51,720
-
+Where did all the hate come from?
 
 182
 00:08:52,000 --> 00:08:52,800
-
+I don't have a grudge against him,
 
 183
 00:08:53,120 --> 00:08:54,240
-
+but I just don't go to see him.
 
 184
 00:08:54,760 --> 00:08:56,520
-
+Same temper as your father.
 
 185
 00:08:56,800 --> 00:08:57,920
-
+I'm sure of it.
 
 186
 00:08:58,360 --> 00:09:00,120
-
+I can't get it back with nine oxen.
 
 187
 00:09:01,640 --> 00:09:02,360
-
+The fire is good.
 
 188
 00:09:02,520 --> 00:09:03,800
-
+Why are you, Wang Menzou,
 
 189
 00:09:04,040 --> 00:09:05,360
-
+so stingy?
 
 190
 00:09:06,000 --> 00:09:07,200
-
+I'm invited to dinner,
 
 191
 00:09:07,360 --> 00:09:08,760
-
+not at a restaurant, but at a home.
 
 192
 00:09:09,320 --> 00:09:10,200
-
+How much money do you save?
 
 193
 00:09:11,280 --> 00:09:12,840
-
+He said it! I do save money.
 
 194
 00:09:13,400 --> 00:09:14,440
-
+What would you like to eat?
 
 195
 00:09:14,560 --> 00:09:15,920
-
+I prepared it all yesterday.
 
 196
 00:09:16,160 --> 00:09:19,000
-
+The cook was also taken from Zishou's house.
 
 197
 00:09:19,360 --> 00:09:21,200
-
+I didn't spend any mony on this.
 
 198
 00:09:21,520 --> 00:09:22,600
-
+I can attest.
 
 199
 00:09:22,840 --> 00:09:24,720
-
+What Menzou said is true in every sense of the word.
 
 200
 00:09:25,000 --> 00:09:26,000
-
+[Chen Zishou, owner of Qunyi Book Club]
+Our family cook
 
 201
 00:09:26,120 --> 00:09:27,120
-
+[Chen Zishou, owner of Qunyi Book Club]
+was dragged here by him.
 
 202
 00:09:28,280 --> 00:09:31,160
-
+Zhong Fu, I'm borrowing the cook's skills.
 
 203
 00:09:31,360 --> 00:09:32,760
-
+You should also write us a couple of words.
 
 204
 00:09:33,120 --> 00:09:34,000
-
+To each his own.
 
 205
 00:09:34,320 --> 00:09:35,120
-
+He gave me a reception
 
 206
 00:09:35,240 --> 00:09:36,160
-
+by borrowing the cook from you.
 
 207
 00:09:36,440 --> 00:09:37,560
-
+He should be grateful to you.
 
 208
 00:09:37,680 --> 00:09:38,520
-
+What's it to do with me?
 
 209
 00:09:39,960 --> 00:09:40,800
-
+Me!
 
 210
 00:09:41,120 --> 00:09:42,880
-
+Zhong Fu, who is the stingy one?
 
 211
 00:09:43,080 --> 00:09:44,320
-
+Of course, he's stingy one!
 
 212
 00:09:44,760 --> 00:09:47,720
-
+And the famous Yadong Library
 
 213
 00:09:47,920 --> 00:09:49,520
-
+has always been housed in this alley.
 
 214
 00:09:49,800 --> 00:09:51,200
-
+I've tried so many times to get him to move out
 
 215
 00:09:51,280 --> 00:09:52,000
-
+but he won't listen!
 
 216
 00:09:52,320 --> 00:09:53,640
-
+It's easy to move out!
 
 217
 00:09:54,160 --> 00:09:54,960
-
+Wang Mengzou, I tell you,
 
 218
 00:09:55,080 --> 00:09:57,120
-
+we are doing great things with a bang.
 
 219
 00:09:57,400 --> 00:09:58,120
-
+If you want to die,
 
 220
 00:09:58,280 --> 00:09:59,360
-
+just cower in the alleyway.
 
 221
 00:09:59,600 --> 00:10:00,520
-
+If you want to live, 
 
 222
 00:10:00,640 --> 00:10:01,600
-
+you have to move out of the alleyway
 
 223
 00:10:01,760 --> 00:10:02,480
-
+and onto the main road.
 
 224
 00:10:03,440 --> 00:10:04,040
-
+All right, all right.
 
 225
 00:10:04,320 --> 00:10:05,560
-
+You're standing around talking,
 
 226
 00:10:05,680 --> 00:10:06,360
-
+then sit down and talk.
 
 227
 00:10:07,080 --> 00:10:07,680
-
+Everyone sit down.
 
 228
 00:10:09,535 --> 00:10:10,199
-
+Sit down, sit down.
 
 229
 00:10:11,037 --> 00:10:11,684
-
+[Chen Qiaonian, second son of Chen Duxiu]
+Qiaonian.
 
 230
 00:10:11,684 --> 00:10:12,159
-
+[Chen Qiaonian, second son of Chen Duxiu]
 
 231
 00:10:12,080 --> 00:10:13,440
-
+[Chen Qiaonian, second son of Chen Duxiu]
+You're too young to hold a grudge.
 
 232
 00:10:13,880 --> 00:10:16,640
-
+This is a lotus leaf and yellow beef feet dish.
 
 233
 00:10:16,920 --> 00:10:18,120
-
+Serve it to your father.
 
 234
 00:10:18,680 --> 00:10:19,720
-
+Meet him.
 
 235
 00:10:19,800 --> 00:10:20,720
-
+Give him a surprise.
 
 236
 00:10:21,640 --> 00:10:22,880
-
+OK, I'll send him up later
 
 237
 00:10:23,040 --> 00:10:23,840
-
+and surprise him.
 
 238
 00:10:24,200 --> 00:10:25,160
-
+[Chen Yannian, eldest son of Chen Duxiu]
+That's right!
 
 239
 00:10:25,160 --> 00:10:26,606
-
+[Chen Yannian, eldest son of Chen Duxiu]
 
 240
 00:10:27,000 --> 00:10:28,560
-
+Today, everyone invited to
 
 241
 00:10:29,560 --> 00:10:30,160
-
+firstly
 
 242
 00:10:30,400 --> 00:10:33,000
-
+celebrate Zhong Fu's return to the country.
 
 243
 00:10:33,600 --> 00:10:34,480
-
+That's the second.
 
 244
 00:10:34,880 --> 00:10:36,920
-
+Since the failure of the Second Revolution,
 
 245
 00:10:37,440 --> 00:10:38,960
-
+We revolutionaries
 
 246
 00:10:39,400 --> 00:10:40,640
-
+have been scattered to the winds.
 
 247
 00:10:41,600 --> 00:10:43,960
-
+We went our separate ways and hid into hiding.
 
 248
 00:10:44,440 --> 00:10:46,240
-
+Some died, some were wounded.
 
 249
 00:10:46,640 --> 00:10:49,000
-
+Today, having us all here together
 
 250
 00:10:49,240 --> 00:10:50,840
-
+after the disaster
 
 251
 00:10:51,000 --> 00:10:52,240
-
+is not easy.
 
 252
 00:10:52,560 --> 00:10:54,080
-
+The situation now
 
 253
 00:10:54,320 --> 00:10:55,960
-
+is that European powers are at war.
 
 254
 00:10:56,520 --> 00:10:58,040
-
+Originally it was our country's
 
 255
 00:10:58,120 --> 00:11:00,280
-
+time to take a break.
 
 256
 00:11:00,800 --> 00:11:01,597
-
+But what about the Japanese?
 
 257
 00:11:01,760 --> 00:11:02,969
-
+They took advantage of the situation,
 
 258
 00:11:03,438 --> 00:11:04,120
-
+by proposing
 
 259
 00:11:04,120 --> 00:11:06,600
-
+the Twenty-One Demands of powers in Shandong.
 
 260
 00:11:07,280 --> 00:11:08,160
