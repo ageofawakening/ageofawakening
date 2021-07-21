@@ -2904,11 +2904,11 @@
 
 727
 00:30:00,160 --> 00:30:01,680
-I borrowed/lent money three times
+I borrowed/lent money three times (?)
 
 728
 00:30:02,040 --> 00:30:04,600
-Two 4 () one 10 ()
+4 dollars two times. 10 dollars one time. 
 
 729
 00:30:04,920 --> 00:30:06,240
@@ -2916,15 +2916,15 @@ Why don't I have any impression of this?
 
 730
 00:30:06,400 --> 00:30:08,320
-These matters, you don't need to think about it.
+These matters, you don't need to think over it.
 
 731
 00:30:08,480 --> 00:30:09,840
-These matters, I'll deal with.
+These are the matters I'll look after. 
 
 732
 00:30:09,880 --> 00:30:11,040
-You, big thinker
+As for you, great thinker
 
 733
 00:30:11,440 --> 00:30:13,560
@@ -2940,31 +2940,31 @@ you say, this Yuan Shikai
 
 736
 00:30:16,920 --> 00:30:19,520
-determined to be an emperor (?)
+this determination to be an emperor (?)
 
 737
 00:30:20,040 --> 00:30:21,920
-is making the heavens angry, people resent (?)
+makes the heavens angry and causes people to resent (?)
 
 738
 00:30:22,120 --> 00:30:24,680
-This authority, right now also has no time...
+This authority, right now also has no time
 
 739
 00:30:24,880 --> 00:30:26,120
-to look after revolution party members (?)
+to look after ?upper? Revolution party members (?)
 
 740
 00:30:26,600 --> 00:30:28,040
-As soon as the current political situation starts to relax 
+As soon as the current political situation starts to ease
 
 741
 00:30:28,200 --> 00:30:29,360
-This business opportunity, it will come.
+this business opportunity, it will come.
 
 742
 00:30:29,520 --> 00:30:32,080
-I want to seize the opportunity, go out and share offers (?)
+I want to seize onto the opportunity, go out and recruit shares (?)
 
 743
 00:30:32,440 --> 00:30:34,440
@@ -2972,11 +2972,11 @@ With your great persona, you have a lot of acquaintances
 
 744
 00:30:34,600 --> 00:30:36,520
-Bring over more people with money to invest
+Bring over more people with money to invest (?)
 
 745
 00:30:36,760 --> 00:30:39,040
-
+This magazine of ours, maybe it will resume operations (?)
 
 746
 00:30:39,200 --> 00:30:40,680
@@ -2984,11 +2984,11 @@ Alright. No problem.
 
 747
 00:30:40,840 --> 00:30:43,000
-Your responsible for finding people, I'll show up (?)
+You're responsible for finding people, I'll show up (?)
 
 748
 00:30:43,240 --> 00:30:44,440
-As long as the magazine can be handled well,
+As long as the magazine can be managed well,
 
 749
 00:30:44,680 --> 00:30:46,560
@@ -3012,7 +3012,7 @@ Why have you come back so early today?
 
 754
 00:30:58,840 --> 00:31:00,400
-It's raining today, unable to work (?)
+It's raining today, impossible to work (?)
 
 755
 00:31:02,800 --> 00:31:04,040
@@ -3036,27 +3036,27 @@ Speaking about this pay,
 
 760
 00:31:12,840 --> 00:31:15,400
-
+it's made up for in my accommodation fees here(?)
 
 761
 00:31:17,000 --> 00:31:18,320
-I wanted to straightly discuss it with you (?)
+I want to properly discuss with you (?)
 
 762
 00:31:18,360 --> 00:31:19,720
-these two children's matters 
+these two children's matters. 
 
 763
 00:31:19,880 --> 00:31:21,920
-In the daytime, they are working at the port 
+In the daytime, they are working at the port.
 
 764
 00:31:22,120 --> 00:31:23,920
-At night, they come over to my place to be editors
+At night, they come over to my place to be editors.
 
 765
 00:31:24,120 --> 00:31:25,640
-and still need to learn French
+And they still need to learn French.
 
 766
 00:31:25,880 --> 00:31:27,560
@@ -3076,11 +3076,11 @@ That's right.
 
 770
 00:31:36,560 --> 00:31:38,720
-I have also heard, at the port
+I have also heard, at the port they
 
 771
 00:31:38,880 --> 00:31:40,520
-the working times have been prolonged. 
+extended the working time.  
 
 772
 00:31:40,720 --> 00:31:42,320
@@ -3092,7 +3092,7 @@ what's going on?
 
 774
 00:31:43,920 --> 00:31:47,040
-He said for the tuition fees to learn French (?)
+He said it's for collecting the tuition to learn French (?)
 
 775
 00:31:48,280 --> 00:31:49,800
@@ -3104,11 +3104,11 @@ This child, right now
 
 777
 00:31:52,960 --> 00:31:54,600
-
+the time when his body is growing (?)
 
 778
 00:31:54,760 --> 00:31:57,000
-If it's like this, wouldn't his body break down?
+If he's like this, wouldn't his body break down?
 
 779
 00:31:57,160 --> 00:31:58,640
@@ -3116,11 +3116,11 @@ You say, what to do with this?
 
 780
 00:32:00,200 --> 00:32:02,240
-Those two, they don't want the editing pay
+Those two, if they didn't want the editing pay
 
 781
 00:32:02,760 --> 00:32:03,960
-You should give it me. 
+you should give it me. 
 
 782
 00:32:04,640 --> 00:32:05,880
@@ -3136,7 +3136,7 @@ It should be normal too, right?
 
 785
 00:32:11,200 --> 00:32:12,680
-What? You really... (?)
+What! This is...(?)
 
 786
 00:32:12,840 --> 00:32:14,440
@@ -3148,11 +3148,11 @@ Didn't I already tell you?
 
 788
 00:32:16,640 --> 00:32:18,360
-Yannian used the pay
+Yannian had the pay
 
 789
 00:32:18,560 --> 00:32:20,680
-included it in the accommodation expenses here (?)
+included it in the accommodation fees here (?)
 
 790
 00:32:20,920 --> 00:32:22,240
@@ -3184,7 +3184,7 @@ This is 20.
 
 797
 00:32:53,280 --> 00:32:54,200
-Dad, you giving me so much to.. 
+Dad, what are you giving me so much.. 
 
 798
 00:32:54,240 --> 00:32:55,160
@@ -3192,7 +3192,7 @@ Listen to me.
 
 799
 00:32:55,200 --> 00:32:58,040
-This money, is to give you two brothers to pay tuition.
+This money, I give it to you two brothers to pay tuition.
 
 800
 00:32:58,440 --> 00:32:59,360
@@ -3220,7 +3220,7 @@ You say, just now
 
 806
 00:33:18,200 --> 00:33:20,360
-said something like I borrowed/lent money three times.
+said something like I borrowed/lent money three times. (?)
 
 807
 00:33:20,520 --> 00:33:22,400
@@ -3256,7 +3256,7 @@ I'll look at the account. How come I didn't...
 
 815
 00:33:37,720 --> 00:33:38,240
-Stay there!
+Stop there!
 
 816
 00:33:43,920 --> 00:33:44,800
@@ -3280,7 +3280,7 @@ Today, you say it to me clearly.
 
 821
 00:33:52,680 --> 00:33:54,640
-What is it about me that you are so opposed to? 
+What is it about me that you are so against? 
 
 822
 00:33:57,480 --> 00:33:59,000
@@ -3288,23 +3288,23 @@ You are too greedy.
 
 823
 00:33:59,040 --> 00:34:01,471
-Want both family and to love the country. (?)
+Want both family and to love your country. (?)
 
 824
 00:34:01,886 --> 00:34:03,829
-I want to have a family and to love the country, 
+I want to have a family and to love my country, 
 
 825
 00:34:03,929 --> 00:34:05,200
-Is there a conflict with both of these? (?)
+Is there a conflict between these two (?)
 
 826
 00:34:05,240 --> 00:34:06,240
-There is. 
+There is a conflict. 
 
 827
 00:34:06,280 --> 00:34:08,320
-If you want to love the country, then you must give up the family.
+If you want to love your country, then you must give up the family.
 
 828
 00:34:08,560 --> 00:34:09,720
@@ -3316,7 +3316,7 @@ an even greater harm (?)
 
 830
 00:34:11,400 --> 00:34:14,040
-You really feel your insisting has value? (?)
+You really feel your assertion has value? (?)
 
 831
 00:34:14,240 --> 00:34:15,560
@@ -3344,7 +3344,7 @@ Being older, want to chat (?)
 
 837
 00:34:35,400 --> 00:34:36,640
-Collapse with a single conversation (?)
+but it collapses with a single conversation (?)
 
 838
 00:34:43,343 --> 00:34:46,759
@@ -3352,7 +3352,7 @@ Collapse with a single conversation (?)
 
 839
 00:34:46,760 --> 00:34:47,520
-
+Shouchang (his other name)
 
 840
 00:34:49,720 --> 00:34:51,320
@@ -3364,7 +3364,7 @@ Did you see the announcement at the school's entrance?
 
 842
 00:34:53,120 --> 00:34:54,640
-expelled you!
+
 
 843
 00:34:54,680 --> 00:34:57,080
@@ -3372,23 +3372,23 @@ I saw it. This was within my expectations.
 
 844
 00:34:57,640 --> 00:34:59,040
-Originally ... for a few months. (?)
+Originally was grouped together for a few months. (?)
 
 845
 00:34:59,080 --> 00:35:01,400
-It's good now. There are results.
+It's done now. There are results. (?)
 
 846
 00:35:01,560 --> 00:35:04,160
-I can completely focus on taking care of the revolution now
+I can completely focus on taking care of the revolution now.
 
 847
 00:35:04,200 --> 00:35:06,040
-Brother ...
+Brother Shouchang
 
 848
 00:35:06,720 --> 00:35:08,560
-It was all me that harmed you
+It's completely me who harmed you
 
 849
 00:35:09,314 --> 00:35:11,114
@@ -3400,15 +3400,15 @@ to be the editor-in-chief of 《MinYi》magazine.
 
 851
 00:35:12,840 --> 00:35:14,400
-
+You were originally at the Association of Students Staying in Japan (?)
 
 852
 00:35:14,440 --> 00:35:16,120
-head of editing in literature and history committee (?)
+being the head editor in the literature and history committee (?)
 
 853
 00:35:16,160 --> 00:35:18,240
-already very busy (?)
+and already very busy (?)
 
 854
 00:35:18,280 --> 00:35:19,520
@@ -3420,7 +3420,7 @@ It's me who likes to edit magazines.
 
 856
 00:35:22,000 --> 00:35:24,200
-Right now, Yuan Shikai is an emperor.
+Right now, Yuan Shikai acts an emperor.
 
 857
 00:35:24,680 --> 00:35:26,360
@@ -3444,11 +3444,11 @@ edit the first issue of《MinYi》magazine
 
 862
 00:35:33,120 --> 00:35:34,800
-Have it become the overseas bugle horn that ... Yuan Shikai. (?)
+Have it become the overseas bugle horn that denounces Yuan Shikai. (?)
 
 863
 00:35:35,320 --> 00:35:37,600
-Then, I'll return. Head to the battlefield.
+Then, I'll return to the country. Head to the battlefield.
 
 864
 00:35:38,960 --> 00:35:40,640
@@ -3464,11 +3464,11 @@ When the time comes, I'll return with you.
 
 867
 00:35:44,080 --> 00:35:45,240
-
+but returning to the main topic,
 
 868
 00:35:45,400 --> 00:35:46,840
-really going to fire guns to fight war (?)
+if we're really going to the firing line to fire guns and battle (?)
 
 869
 00:35:47,000 --> 00:35:48,440
@@ -3476,7 +3476,7 @@ I don't know if I can do it.
 
 870
 00:35:49,680 --> 00:35:52,120
-Who said to provoke Yuan Shikai you must use real swords, real guns (?)
+Who said to ? Yuan Shikai you must use real swords, real guns (?)
 
 871
 00:35:52,480 --> 00:35:54,160
@@ -3484,19 +3484,19 @@ Our Chen Duxiu takes care of instructing the young people's thinking (?)
 
 872
 00:35:54,320 --> 00:35:55,320
-that way also provokes Yuan Shikai
+that way also ? Yuan Shikai
 
 873
 00:35:55,480 --> 00:35:56,840
-Moreover, it provokes from the root up.
+Moreover, it ? from the root up.
 
 874
 00:35:57,000 --> 00:35:58,800
-It's not bad like the results of a firearm. (?)
+It's not bad compared to the results of a firearm. (?)
 
 875
 00:35:59,040 --> 00:36:00,560
-I heard that his magazine
+Shouchang, I heard that his magazine
 
 876
 00:36:00,720 --> 00:36:01,880
@@ -3504,7 +3504,7 @@ ran into big trouble.
 
 877
 00:36:02,120 --> 00:36:03,280
-Already stopped printing.
+Already stopped publishing.
 
 878
 00:36:03,480 --> 00:36:04,360
@@ -3524,11 +3524,11 @@ Right now, I am in the middle of
 
 882
 00:36:10,200 --> 00:36:11,880
-
+writing an article for  ... (?)
 
 883
 00:36:12,080 --> 00:36:14,680
-You are? I want to see (?)
+You are? I want to take a look (?)
 
 884
 00:36:16,800 --> 00:36:18,760
@@ -3576,23 +3576,23 @@ Okay, okay.
 
 895
 00:37:13,000 --> 00:37:14,360
-1916
+In 1916,
 
 896
 00:37:15,440 --> 00:37:18,920
-Li Dazhao wrote down a famous piece
+Li Dazhao wrote down a famous piece (?) 
 
 897
 00:37:18,960 --> 00:37:20,120
-《Youth》in Japan
+《Youth》in Japan (?)
 
 898
 00:37:21,200 --> 00:37:23,920
-
+The article used an uplifting revolutionary spirit (?)
 
 899
 00:37:23,960 --> 00:37:25,720
-and the life approach of a scientific person (?)
+And the life approach of a scientific person (?)
 
 900
 00:37:26,120 --> 00:37:29,120
@@ -3600,19 +3600,19 @@ Expressed an obvious materialistic ideology (?)
 
 901
 00:37:29,600 --> 00:37:33,400
-
+Proposed to reform the ideal views of China's youth (?)
 
 902
 00:37:34,760 --> 00:37:35,800
-To call the youth
+To appeal the youth to
 
 903
 00:37:36,560 --> 00:37:38,760
-to burst past the historical fetters (?)
+burst past the historical fetters (?)
 
 904
 00:37:39,440 --> 00:37:41,600
-Destroy the prison of the overused theory (?)
+Destroy the prison of cliched theory (?)
 
 905
 00:37:42,800 --> 00:37:46,200
@@ -3624,7 +3624,7 @@ Use the vitality of youth, the ideals of youth
 
 907
 00:37:49,440 --> 00:37:52,440
-Wake up the old China from a century of dormancy (?)
+Wake up the old China from the century of dormancy (?)
 
 908
 00:37:52,880 --> 00:37:55,600
@@ -3632,17 +3632,17 @@ Establish a youthful China
 
 909
 00:37:59,320 --> 00:38:01,080
-[Shanghai first-rate fragrant hotel]
+[Shanghai first-rate fragrant hotel] (?)
 
-Hurry, hurry, hurry. 
+Hurry, hurry, hurry. (?)
 
 910
 00:38:01,240 --> 00:38:02,240
-Hurry, come ... the fire (?)
+Hurry, come warm up in the fire (?)
 
 911
 00:38:02,280 --> 00:38:04,080
-Quickly sit, quickly sit.  ...
+Quickly sit, quickly sit. Warm up.
 
 912
 00:38:05,080 --> 00:38:06,720
@@ -3654,11 +3654,11 @@ You guys even came to see me.  Good!
 
 914
 00:38:10,240 --> 00:38:12,120
-By contrast, your guys' father...
+By contrast, your guys' father
 
 915
 00:38:12,560 --> 00:38:16,200
-Don't know if he doesn't welcome me back
+don't know if he doesn't welcome me back
 
 916
 00:38:16,440 --> 00:38:18,920
@@ -3682,15 +3682,15 @@ What is Chen Duxiu busy with.
 
 921
 00:38:28,640 --> 00:38:30,160
-《Youth Magazine》...
+《Youth Magazine》 became renowned with other people.
 
 922
 00:38:30,320 --> 00:38:31,880
-
+Have other people (?)
 
 923
 00:38:32,080 --> 00:38:32,880
-
+stopped publishing. (?)
 
 924
 00:38:33,000 --> 00:38:34,440
@@ -3750,11 +3750,11 @@ I returned this time
 
 938
 00:39:03,920 --> 00:39:06,160
-
+First is to assist in overthrowing (?)
 
 939
 00:39:06,280 --> 00:39:09,400
-
+Second is to launch a campaign (?)
 
 940
 00:39:09,680 --> 00:39:11,680
