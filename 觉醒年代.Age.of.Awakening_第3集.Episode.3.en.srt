@@ -2834,11 +2834,11 @@ I'm calculating the big accounts.
 
 707
 00:29:01,120 --> 00:29:03,320
-Haven't had a chance yet to take you into account.
+Haven't had a chance yet to take you into consideration.
 
 708
 00:29:03,840 --> 00:29:05,800
-Hold on, you have to take me into account as well.
+Hold on, you have to take me into consideration as well.
 
 709
 00:29:06,000 --> 00:29:07,520
@@ -2846,7 +2846,7 @@ If your capital has been recouped
 
 710
 00:29:07,720 --> 00:29:09,240
-then should the payment for my editorial
+then shouldn't the payment for my editorial
 
 711
 00:29:09,400 --> 00:29:11,920
@@ -2854,7 +2854,7 @@ be given back to me?
 
 712
 00:29:13,760 --> 00:29:17,400
-Alright, then let me take you into account right now.
+Alright, then let me take you into consideration right now.
 
 713
 00:29:18,120 --> 00:29:19,440
