@@ -29,13 +29,7 @@ Fork the repository and make your desired change on your repository. Then submit
 Subtitling new episodes
 -----------------------
 
-Contact agentofchange [at] courrier.dev if you want to contribute to subtitling new episodes. 
-
-Each episode will be divided into equal parts where contributors subtitle their assigned portion. Each contributor has their own branch on THIS REPOSITORY denoting the episode number and the numbered part they're assigned to. 
-
-For example, if you're assigned to the second part of episode 11, your branch is called "ep11-2". 
-
-When you have finished subtitling this portion, you must make a merge request to "dev" branch.
+Contact agentofchange@courrier.dev if you want to contribute to subtitling new episodes. Each episode will be divided into equal parts where contributors subtitle their assigned portion. Each contributor has their own branch on THIS REPOSITORY denoting the episode number and the numbered part they're assigned to. For example, if you're assigned to the second part of episode 11, your branch is called "ep11-2". When you have finished subtitling this portion, you must make a merge request to "dev" branch.
 
 Sources
 =======
