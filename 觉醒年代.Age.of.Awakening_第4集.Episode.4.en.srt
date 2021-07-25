@@ -2524,11 +2524,11 @@ Here you go.
 
 632
 00:15:16,240 --> 00:15:17,200
-44 cents all together.
+Forty-four cents all together.
 
 633
 00:15:17,440 --> 00:15:18,240
-22 cents each.
+Twenty-two cents each.
 
 634
 00:15:18,720 --> 00:15:19,200
@@ -2600,7 +2600,7 @@ are you keeping track?
 
 651
 00:15:49,760 --> 00:15:50,720
-That's another 2 issues.
+That's another two issues.
 
 652
 00:15:51,120 --> 00:15:52,000
@@ -2611,8 +2611,8 @@ Yes.
 I've got a few too.
 
 654
-00:15:56,240 --> 00:16:00,400
-[Qianmenwei Street, Baishun Lane, Beijing]
+00:15:56,240 --> 00:16:03,316
+[Baishun Lane, Qianmenwei Street, Beijing]
 
 655
 00:16:10,400 --> 00:16:11,440
@@ -2759,7 +2759,7 @@ Stop fighting!
 Help!
 
 691
-00:17:43,600 --> 00:17:49,760
+00:17:43,600 --> 00:17:49,166
 [Shanghai]
 
 692
@@ -2788,7 +2788,7 @@ Can't remember.
 
 698
 00:18:26,320 --> 00:18:27,360
-Five hundred and eight three silver dollars.
+Five hundred and eighty-three silver dollars.
 
 699
 00:18:27,440 --> 00:18:28,160
@@ -2892,7 +2892,7 @@ Hungry.
 
 724
 00:20:26,160 --> 00:20:27,480
-Bear with it
+Bear with it.
 
 725
 00:20:27,880 --> 00:20:29,600
@@ -2904,11 +2904,11 @@ Are you hungry?
 
 727
 00:20:31,440 --> 00:20:32,400
-I.. hm
+I...
 
 728
 00:20:33,440 --> 00:20:34,320
-I am also hungry.
+I'm also hungry.
 
 729
 00:20:35,840 --> 00:20:37,520
@@ -2992,7 +2992,7 @@ Six silver certificates.
 
 749
 00:22:19,600 --> 00:22:21,120
-583 silver dollars all together.
+Five hundred and eighty-three silver dollars all together.
 
 750
 00:22:21,520 --> 00:22:23,200
@@ -3052,7 +3052,7 @@ Mister,
 
 764
 00:22:51,280 --> 00:22:52,400
-You don't need to be like this.
+you don't need to be like this.
 
 765
 00:22:52,480 --> 00:22:53,680
@@ -3303,7 +3303,7 @@ Please, the coffee.
 Thank you.
 
 827
-00:25:06,360 --> 00:25:07,440
+00:25:06,360 --> 00:25:07,400
 I'm hungry.
 
 828
@@ -3383,12 +3383,12 @@ how you are wrong, have you?
 Who has wronged whom?
 
 847
-00:25:43,120 --> 00:25:45,880
+00:25:43,120 --> 00:25:44,880
 Setting up stalls without permission is in violation of school rules.
 
 848
 00:25:47,520 --> 00:25:48,640
-You've brought you wares here.
+You've brought your wares here.
 
 849
 00:25:49,200 --> 00:25:50,960
@@ -3464,7 +3464,7 @@ Sister, didn't we already explain to you
 
 867
 00:26:24,480 --> 00:26:26,400
-that our stall is a student-worker program.
+that our stall is a work-study program.
 
 868
 00:26:26,880 --> 00:26:28,160
