@@ -1464,7 +1464,7 @@ Eat.
 
 367
 00:16:14,400 --> 00:16:15,280
-Zhong Fu,
+Zhongfu,
 
 368
 00:16:15,920 --> 00:16:17,360
@@ -1472,7 +1472,7 @@ You've frightened the kids.
 
 369
 00:16:18,480 --> 00:16:19,360
-Mr. Zhong Fu,
+Mr. Zhongfu,
 
 370
 00:16:19,520 --> 00:16:20,880
@@ -1532,7 +1532,7 @@ Please.
 
 384
 00:17:01,200 --> 00:17:03,360
-Jing Shen,
+Jingshen,
 
 385
 00:17:05,200 --> 00:17:07,360
@@ -1560,7 +1560,7 @@ It is for you to decide when.
 
 391
 00:17:27,600 --> 00:17:28,720
-And as for where to start.
+And as for where to start,
 
 392
 00:17:29,040 --> 00:17:30,560
@@ -1620,7 +1620,7 @@ I've thought of someone.
 
 406
 00:18:03,200 --> 00:18:05,360
-Cheng Zhongfu, or Chen Duxiu.
+Chen Zhongfu, or Chen Duxiu.
 
 407
 00:18:06,240 --> 00:18:09,920
@@ -1692,7 +1692,7 @@ Zhongfu, listen to me. Zhongfu.
 
 424
 00:18:50,560 --> 00:18:53,040
-That's one hundred thousand shares gotten in one go.
+That's one hundred thousand shares acquired in one go.
 
 425
 00:18:57,600 --> 00:18:58,480
@@ -1864,7 +1864,7 @@ I was born in the sixth year of the reign of Emperor Tongzhi. (1867)
 
 467
 00:21:40,320 --> 00:21:43,120
-You see, I did remember I am a cycle older than you.
+You see, I remembered I am a cycle older than you.
 
 468
 00:21:47,840 --> 00:21:51,040
@@ -1983,8 +1983,8 @@ A breath of fresh air.
 I read every issue of your magazine "New Youth."
 
 497
-00:22:56,800 --> 00:22:58,480
-With each reading, always something gained.
+00:22:56,600 --> 00:22:58,480
+With each reading, there's always something to be gained.
 
 498
 00:22:58,640 --> 00:23:00,560
@@ -2059,8 +2059,8 @@ I'm not mentally prepared.
 Zhongfu,
 
 516
-00:24:13,760 --> 00:24:16,720
-the Dean of Liberal Arts is like the Deputy President of Peking University,
+00:24:13,760 --> 00:24:16,920
+the Dean of Liberal Arts is equivalent to the Deputy President of Peking University,
 
 517
 00:24:17,040 --> 00:24:20,080
@@ -2120,7 +2120,7 @@ It's true that this is very abrupt.
 
 531
 00:25:00,320 --> 00:25:02,000
-You can discuss this with at your leisure
+You can discuss this at your leisure
 
 532
 00:25:02,240 --> 00:25:04,320
@@ -2128,7 +2128,7 @@ with friends and family and then make a decision.
 
 533
 00:25:04,800 --> 00:25:08,720
-I am really in haste of searching for talent.
+I am indeed eager in my search for talent.
 
 534
 00:25:09,360 --> 00:25:11,040
@@ -2192,11 +2192,11 @@ that has just started picking up.
 
 549
 00:25:51,360 --> 00:25:52,400
-This time, coming to Beijing,
+I came to Beijing this time
 
 550
 00:25:52,640 --> 00:25:55,040
-is also for the magazine. Looking for investors and resources.
+precisely because of the magazine. Looking for investors and resources.
 
 551
 00:25:56,000 --> 00:25:57,040
@@ -2220,11 +2220,11 @@ if I leave "New Youth" behind without a care
 
 556
 00:26:06,640 --> 00:26:08,000
-to take a position at Peking University.
+to take a position at Peking University,
 
 557
 00:26:08,160 --> 00:26:09,520
-Wouldn't I be letting down
+wouldn't I be letting down
 
 558
 00:26:09,760 --> 00:26:11,600
@@ -2300,7 +2300,7 @@ I beg of you to handle the matter of signing the contracts.
 
 576
 00:27:22,320 --> 00:27:24,240
-I have nothing to say to these business men.
+I have nothing to say to those business men.
 
 577
 00:27:24,480 --> 00:27:26,080
@@ -2316,7 +2316,7 @@ You're not going?
 
 580
 00:27:32,640 --> 00:27:35,200
-Zhongfu, everyone is coming for you.
+Zhongfu, everyone is coming to see you.
 
 581
 00:27:35,440 --> 00:27:36,720
@@ -2384,7 +2384,7 @@ I surmise
 
 597
 00:28:14,800 --> 00:28:16,720
-Master Qian will not be buying it.
+Master Qian will not be singing the same tune.
 
 598
 00:28:16,960 --> 00:28:18,080
@@ -2420,19 +2420,19 @@ I've been looking forward to meeting you. Your reputation preceeds you.
 
 606
 00:28:44,080 --> 00:28:46,240
-Today, I've finally seen your face in person.
+Today, I finally see your face in person.
 
 607
 00:28:48,560 --> 00:28:50,480
-Things have different forms, but they are the same in essence.
+Myriad entities have different forms, but they are the same in essence.
 
 608
 00:28:50,640 --> 00:28:52,720
-Though in the corners of the world, we have never met.
+Though in the corners of the world, we have never met,
 
 609
 00:28:52,960 --> 00:28:54,240
-We have long since been alike in spirit.
+we have long since been alike in spirit.
 
 610
 00:28:54,480 --> 00:28:55,120
@@ -2469,7 +2469,7 @@ To see Taoran in the snow?
 
 618
 00:29:07,360 --> 00:29:08,240
-'Elegant' is the only word.
+'Elegant' is the only word for it.
 
 619
 00:29:08,480 --> 00:29:09,280
