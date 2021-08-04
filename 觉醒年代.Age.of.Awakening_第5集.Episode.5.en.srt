@@ -1504,7 +1504,7 @@ Are you pulling a rickshaw?
 
 377
 00:16:43,360 --> 00:16:45,600
-Pulling in shareholders! Hurry.
+Pulling in investors! Hurry.
 
 378
 00:16:45,680 --> 00:16:46,240
@@ -1532,11 +1532,11 @@ Please.
 
 384
 00:17:01,200 --> 00:17:03,360
-Jingshen,
+Jingsheng, this is hard to come by.
 
 385
 00:17:05,200 --> 00:17:07,360
-this is hard to come by. I will cherish it.
+I will cherish it.
 
 386
 00:17:12,160 --> 00:17:14,800
@@ -1544,7 +1544,7 @@ I thank everyone for their help.
 
 387
 00:17:15,840 --> 00:17:18,720
-I will certainly fulfil the mission.
+I, Yuanpei, will certainly fulfill the mission.
 
 388
 00:17:20,080 --> 00:17:22,720
@@ -1596,7 +1596,7 @@ This liberal arts dean
 
 400
 00:17:49,920 --> 00:17:52,400
-must be sympatico with you,
+must be sympathetic to you,
 
 401
 00:17:52,960 --> 00:17:54,480
@@ -1640,7 +1640,7 @@ Are you know Chen Duxiu well?
 
 411
 00:18:21,440 --> 00:18:22,320
-I only know of him.
+Only as an acquaintance.
 
 412
 00:18:22,880 --> 00:18:24,720
