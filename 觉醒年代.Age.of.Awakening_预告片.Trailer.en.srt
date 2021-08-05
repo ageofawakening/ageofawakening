@@ -1,21 +1,21 @@
 1
-00:00:01,711 --> 00:00:02,960
+00:00:01,680 --> 00:00:02,880
 In 1915,
 
 2
-00:00:03,440 --> 00:00:07,079
+00:00:03,360 --> 00:00:06,960
 World War I entered its second year of unprecedented tragedy.
 
 3
-00:00:07,618 --> 00:00:10,118
+00:00:07,520 --> 00:00:10,000
 Yuan Shikai's vain attempt to restore the monarchy
 
 4
-00:00:10,396 --> 00:00:12,577
+00:00:10,080 --> 00:00:12,240
 also gradually resurfaced.
 
 5
-00:00:12,577 --> 00:00:18,760
+00:00:12,320 --> 00:00:18,320
 Domestic and foreign troubles have once again thrown China into turmoil.
 
 6
@@ -23,343 +23,343 @@ Domestic and foreign troubles have once again thrown China into turmoil.
 Kneel!
 
 7
-00:00:31,960 --> 00:00:33,800
+00:00:31,840 --> 00:00:33,760
 Twice in three years!
 
 8
-00:00:34,200 --> 00:00:37,160
+00:00:34,160 --> 00:00:37,040
 Zhongfu, get rid of your illusions and be ready to fight.
 
 9
-00:00:38,572 --> 00:00:41,120
+00:00:38,240 --> 00:00:40,960
 We need to complete a great change that has not been seen in three thousand years,
 
 10
-00:00:41,320 --> 00:00:43,840
+00:00:41,120 --> 00:00:43,520
 defeat a powerful enemy that has not been met in three thousand years.
 
 11
-00:00:43,840 --> 00:00:45,720
+00:00:43,760 --> 00:00:45,520
 Each generation has their duty.
 
 12
-00:00:45,720 --> 00:00:49,320
+00:00:45,600 --> 00:00:49,200
 I'd like to invite you to Peking University as a liberal arts student,
 
 13
-00:00:49,570 --> 00:00:51,360
+00:00:49,440 --> 00:00:51,120
 and give the university a helping hand.
 
 14
-00:00:51,360 --> 00:00:53,280
+00:00:51,200 --> 00:00:53,040
 With the efforts of all our colleagues,
 
 15
-00:00:53,280 --> 00:00:56,280
+00:00:53,280 --> 00:00:55,920
 our "New Youth" magazine has already accomplished in becoming
 
 16
-00:00:56,280 --> 00:00:58,480
+00:00:56,080 --> 00:00:58,240
 the most influential publication in China.
 
 17
-00:00:58,952 --> 00:00:59,720
+00:00:58,640 --> 00:00:59,600
 We should use new ideas,
 
 18
-00:01:00,020 --> 00:01:00,880
+00:01:00,720 --> 00:01:00,800
 new culture,
 
 19
-00:01:01,002 --> 00:01:01,920
+00:01:00,960 --> 00:01:01,600
 new ethics,
 
 20
-00:01:01,907 --> 00:01:03,600
+00:01:01,680 --> 00:01:03,440
 to arm the minds of our members,
 
 21
-00:01:03,600 --> 00:01:05,680
+00:01:03,600 --> 00:01:05,360
 improve their conduct,
 
 22
-00:01:05,979 --> 00:01:07,600
+00:01:05,840 --> 00:01:07,360
 advance their knowledge.
 
 23
-00:01:07,918 --> 00:01:10,918
+00:01:07,680 --> 00:01:10,800
 This is also the first and only mission of our Xinmin Society.
 
 24
-00:01:11,137 --> 00:01:13,600
+00:01:10,880 --> 00:01:13,200
 Call on the masses of patriotic youth to consciously
 
 25
-00:01:13,600 --> 00:01:14,680
+00:01:13,280 --> 00:01:14,560
 transform their thinking.
 
 26
-00:01:14,680 --> 00:01:16,400
+00:01:14,640 --> 00:01:16,320
 Combine social transformation
 
 27
-00:01:16,727 --> 00:01:19,080
+00:01:16,560 --> 00:01:18,800
 with the fundamental transformation of Chinese society.
 
 28
-00:01:19,724 --> 00:01:20,880
+00:01:19,360 --> 00:01:20,560
 We advocate new culture:
 
 29
-00:01:21,148 --> 00:01:23,280
+00:01:20,960 --> 00:01:23,200
 this is to seek liberation in all aspects.
 
 30
-00:01:23,945 --> 00:01:25,200
+00:01:23,840 --> 00:01:25,040
 Our golden world,
 
 31
-00:01:25,623 --> 00:01:27,240
+00:01:25,600 --> 00:01:27,120
 our splendid world,
 
 32
-00:01:27,712 --> 00:01:28,840
+00:01:27,600 --> 00:01:28,720
 is right in front of us!
 
 33
-00:01:29,027 --> 00:01:30,840
+00:01:29,040 --> 00:01:30,640
 Use your journalist status
 
 34
-00:01:31,279 --> 00:01:32,520
+00:01:31,200 --> 00:01:32,320
 to get some people to write articles
 
 35
-00:01:32,997 --> 00:01:35,400
+00:01:33,040 --> 00:01:35,280
 directly aimed at Chen Duxiu and Cai Yuanpei.
 
 36
-00:01:35,985 --> 00:01:37,600
+00:01:35,680 --> 00:01:37,360
 Make a big deal out of it. Make him look bad.
 
 37
-00:01:38,037 --> 00:01:39,800
+00:01:37,680 --> 00:01:39,760
 Chen Duxiu! Hypocrite!
 
 38
-00:01:40,131 --> 00:01:43,131
+00:01:40,080 --> 00:01:43,040
 Chen Duxiu! You don't deserve to be a teacher!
 
 39
-00:01:44,622 --> 00:01:46,280
+00:01:44,400 --> 00:01:46,000
 Chen Duxiu! Hypocrite!
 
 40
-00:01:46,649 --> 00:01:48,920
+00:01:46,640 --> 00:01:48,800
 If we don't fight back,
 
 41
-00:01:49,057 --> 00:01:52,057
+00:01:49,120 --> 00:01:51,920
 the torch of new culture will be put out.
 
 42
-00:01:52,160 --> 00:01:53,520
+00:01:52,160 --> 00:01:53,360
 I will write another novel.
 
 43
-00:01:54,114 --> 00:01:56,920
+00:01:54,000 --> 00:01:56,720
 I will compete with Lin Qinnan!
 
 44
-00:01:57,240 --> 00:02:02,860
+00:01:57,200 --> 00:01:59,360
 This debate over culture is just and dignified.
 
 45
-00:02:00,335 --> 00:02:02,836
+00:02:00,160 --> 00:02:02,800
 This is not natural!
 
 46
-00:02:03,160 --> 00:02:04,091
+00:02:03,040 --> 00:02:04,000
 How could you think of that?
 
 47
-00:02:05,572 --> 00:02:08,480
+00:02:05,520 --> 00:02:08,320
 I know you won't do anything to harm the people.
 
 48
-00:02:08,808 --> 00:02:11,360
+00:02:08,800 --> 00:02:11,280
 We can't let people poke us in the back, can we?
 
 49
-00:02:11,799 --> 00:02:14,760
+00:02:11,600 --> 00:02:14,560
 I don't think people can live for themselves.
 
 50
-00:02:15,084 --> 00:02:15,840
+00:02:14,960 --> 00:02:15,760
 Go to Changxin
 
 51
-00:02:15,840 --> 00:02:18,280
+00:02:15,840 --> 00:02:17,760
 and take a look at the ruined shanties.
 
 52
-00:02:18,521 --> 00:02:20,000
+00:02:18,400 --> 00:02:19,920
 Go to Jinpu and take a look at them:
 
 53
-00:02:20,000 --> 00:02:21,280
+00:02:20,000 --> 00:02:21,200
 refugees with thousands of hungry people.
 
 54
-00:02:21,853 --> 00:02:23,240
+00:02:21,920 --> 00:02:23,040
 Go to Qianmen Street
 
 55
-00:02:23,240 --> 00:02:25,080
+00:02:23,120 --> 00:02:24,960
 and go see the the beggars begging along the street.
 
 56
-00:02:25,080 --> 00:02:27,160
+00:02:25,040 --> 00:02:27,040
 Shouldn't we do something for them?
 
 57
-00:02:27,549 --> 00:02:29,400
+00:02:27,520 --> 00:02:29,280
 Are you asking us to be like you?
 
 58
-00:02:29,400 --> 00:02:30,680
+00:02:29,360 --> 00:02:30,640
 Clean and shiny?
 
 59
-00:02:31,459 --> 00:02:33,360
+00:02:31,440 --> 00:02:33,120
 Two proposals from your delegation,
 
 60
-00:02:33,507 --> 00:02:35,080
+00:02:33,520 --> 00:02:35,040
 none of them are in the authority of the peace conference.
 
 61
-00:02:35,476 --> 00:02:36,440
+00:02:35,440 --> 00:02:36,400
 The Shandong Peninsula
 
 62
-00:02:36,600 --> 00:02:38,080
+00:02:36,560 --> 00:02:37,920
 is not in the interests of China and Germany
 
 63
-00:02:38,325 --> 00:02:39,840
+00:02:38,240 --> 00:02:39,760
 but in the interets of Japan and Germany.
 
 64
-00:02:40,197 --> 00:02:41,960
+00:02:40,000 --> 00:02:41,920
 Didn't we win?
 
 65
-00:02:42,419 --> 00:02:43,440
+00:02:42,400 --> 00:02:43,360
 Germany was defeated!
 
 66
-00:02:43,581 --> 00:02:45,720
+00:02:43,600 --> 00:02:45,680
 Qingdao should be returned!
 
 67
-00:02:45,934 --> 00:02:47,320
+00:02:46,000 --> 00:02:47,120
 In defeat, one bides their time.
 
 68
-00:02:47,439 --> 00:02:48,720
+00:02:47,360 --> 00:02:48,640
 We shouldn't have to put up with powers anymore!
 
 69
-00:02:48,979 --> 00:02:51,520
+00:02:48,960 --> 00:02:51,360
 Weak countries get pushed around. This is the law of the world.
 
 70
-00:02:51,644 --> 00:02:54,640
+00:02:51,680 --> 00:02:54,480
 China is our Chinese people's China.
 
 71
-00:02:54,810 --> 00:02:56,320
+00:02:54,800 --> 00:02:56,240
 If we do not love our country,
 
 72
-00:02:56,473 --> 00:02:58,640
+00:02:56,400 --> 00:02:58,480
 who will love it?
 
 73
-00:02:58,640 --> 00:03:00,600
+00:02:58,560 --> 00:02:59,680
 Yeah!
 
 74
-00:03:00,991 --> 00:03:01,960
+00:03:00,800 --> 00:03:01,920
 The country is at its tipping point in time.
 
 75
-00:03:02,255 --> 00:03:03,240
+00:03:02,000 --> 00:03:03,120
 We have to fight hard.
 
 76
-00:03:03,851 --> 00:03:04,960
+00:03:03,600 --> 00:03:04,880
 "Life and death for the country.
 
 77
-00:03:05,202 --> 00:03:07,600
+00:03:05,040 --> 00:03:07,440
 Is it because of fortune or misfortune?"
 
 78
-00:03:07,874 --> 00:03:08,800
+00:03:07,840 --> 00:03:08,720
 Do you think
 
 79
-00:03:08,922 --> 00:03:10,080
+00:03:08,960 --> 00:03:10,000
 waking one up
 
 80
-00:03:10,716 --> 00:03:11,520
+00:03:10,480 --> 00:03:11,440
 from feudal thought
 
 81
-00:03:11,520 --> 00:03:13,360
+00:03:11,520 --> 00:03:13,280
 in a nation imprisoned for thousands of years
 
 82
-00:03:13,635 --> 00:03:15,000
+00:03:13,600 --> 00:03:14,800
 is that easy?
 
 83
-00:03:15,543 --> 00:03:16,560
+00:03:15,440 --> 00:03:16,400
 Do you think
 
 84
-00:03:17,083 --> 00:03:18,480
+00:03:16,880 --> 00:03:18,400
 removing numbness, indifference
 
 85
-00:03:18,762 --> 00:03:21,040
+00:03:18,720 --> 00:03:20,960
 and outdated thinking
 
 86
-00:03:21,290 --> 00:03:22,520
+00:03:21,200 --> 00:03:22,400
 from our nation's blood,
 
 87
-00:03:22,730 --> 00:03:23,960
+00:03:22,720 --> 00:03:23,840
 is achieved in a day?
 
 88
-00:03:24,425 --> 00:03:26,560
+00:03:24,400 --> 00:03:26,400
 Once a man's mind is awakened,
 
 89
-00:03:26,698 --> 00:03:29,040
+00:03:26,640 --> 00:03:28,960
 the old order loses its foundation.
 
 90
-00:03:29,174 --> 00:03:30,760
+00:03:29,200 --> 00:03:30,640
 I was a young man,
 
 91
-00:03:30,995 --> 00:03:33,080
+00:03:30,960 --> 00:03:33,040
 a revolutionary who was determined to save the country.
 
 92
@@ -367,119 +367,119 @@ a revolutionary who was determined to save the country.
 I must
 
 93
-00:03:34,320 --> 00:03:37,000
+00:03:34,320 --> 00:03:36,960
 put myself in a position to die first.
 
 94
-00:03:37,222 --> 00:03:39,720
+00:03:37,120 --> 00:03:39,680
 I have to fight with them
 
 95
-00:03:40,010 --> 00:03:41,560
+00:03:39,920 --> 00:03:41,360
 because I love this country.
 
 96
-00:03:41,771 --> 00:03:44,480
+00:03:41,760 --> 00:03:44,320
 I will do something for this country.
 
 97
-00:03:44,480 --> 00:03:45,760
+00:03:44,480 --> 00:03:45,680
 I do it for them,
 
 98
-00:03:45,902 --> 00:03:47,960
+00:03:45,840 --> 00:03:47,920
 for them to be able to speak like a human being,
 
 99
-00:03:48,315 --> 00:03:51,280
+00:03:48,320 --> 00:03:51,200
 to have the rights of a human being,
 
 100
-00:03:51,510 --> 00:03:52,960
+00:03:51,520 --> 00:03:52,880
 to be happy,
 
 101
-00:03:53,117 --> 00:03:54,360
+00:03:53,040 --> 00:03:54,240
 to be dignified.
 
 102
-00:03:54,577 --> 00:03:57,040
+00:03:54,560 --> 00:03:56,960
 China is a people's country.
 
 103
-00:03:57,463 --> 00:03:59,960
+00:03:57,440 --> 00:03:59,840
 Thus the people should be in charge
 
 104
-00:04:00,324 --> 00:04:02,560
+00:04:00,320 --> 00:04:02,480
 and become their own masters.
 
 105
-00:04:02,829 --> 00:04:04,880
+00:04:02,880 --> 00:04:04,800
 This is what a country should do.
 
 106
-00:04:05,151 --> 00:04:06,640
+00:04:05,200 --> 00:04:06,560
 The founding of the Communist Party of China:
 
 107
-00:04:06,903 --> 00:04:07,600
+00:04:06,960 --> 00:04:07,520
 it's not just
 
 108
-00:04:07,600 --> 00:04:09,400
+00:04:07,600 --> 00:04:09,280
 the awakening of our intellectuals.
 
 109
-00:04:09,866 --> 00:04:12,680
+00:04:09,840 --> 00:04:12,640
 It is, above all, the awakening of the Chinese working class.
 
 110
-00:04:12,925 --> 00:04:15,040
+00:04:12,880 --> 00:04:14,880
 It is the awakening of all Chinese people.
 
 111
-00:04:15,135 --> 00:04:17,480
+00:04:15,120 --> 00:04:17,280
 It is the great awakening of the Chinese nation.
 
 112
-00:04:17,715 --> 00:04:19,560
+00:04:17,680 --> 00:04:19,440
 The Communist Party of China represents
 
 113
-00:04:19,560 --> 00:04:22,200
+00:04:19,520 --> 00:04:22,160
 the fundamental interests of the overwhelming majority of the people.
 
 114
-00:04:22,449 --> 00:04:23,880
+00:04:22,400 --> 00:04:23,840
 This is the rational and scientific nature of our Party today,
 
 115
-00:04:23,880 --> 00:04:26,760
+00:04:23,920 --> 00:04:26,640
 and the fundamental driving force
 
 116
-00:04:26,861 --> 00:04:28,360
+00:04:26,800 --> 00:04:28,160
 of the Communist Party of China,
 
 117
-00:04:28,360 --> 00:04:31,920
+00:04:28,240 --> 00:04:31,840
 which is vibrant and unstoppable.
 
 118
-00:04:32,360 --> 00:04:35,320
+00:04:32,320 --> 00:04:35,120
 China must take the socialist road.
 
 119
-00:04:35,885 --> 00:04:37,000
+00:04:35,840 --> 00:04:36,880
 Only then can it be realized:
 
 120
-00:04:37,209 --> 00:04:40,640
+00:04:37,200 --> 00:04:40,560
 the rejuvenation of the Chinese nation.
 
 121
-00:04:40,622 --> 00:04:45,760
+00:04:40,640 --> 00:04:45,680
 Socialism will never fail China!
 
 122
