@@ -32,11 +32,11 @@ Zhongfu, get rid of your illusions and be ready to fight.
 
 9
 00:00:38,240 --> 00:00:40,960
-We need to complete a great change that has not been seen in three thousand years,
+We need to fulfill the most critical transformation in three thousand years,
 
 10
 00:00:41,120 --> 00:00:43,520
-defeat a powerful enemy that has not been met in three thousand years.
+defeat the most powerful enemy in three thousand years.
 
 11
 00:00:43,760 --> 00:00:45,520
@@ -44,7 +44,7 @@ Each generation has their duty.
 
 12
 00:00:45,600 --> 00:00:49,200
-I'd like to invite you to Peking University as a liberal arts student,
+I'd like to invite you to Peking University as the Dean of Liberal Arts
 
 13
 00:00:49,440 --> 00:00:51,120
@@ -168,7 +168,7 @@ I will write another novel.
 
 43
 00:01:54,000 --> 00:01:56,720
-I will compete with Lin Qinnan!
+I will compete with this Lin Qinnan.
 
 44
 00:01:57,200 --> 00:01:59,360
@@ -196,7 +196,7 @@ I don't think people can live for themselves.
 
 50
 00:02:14,960 --> 00:02:15,760
-Go to Changxin
+Go to Changxindian
 
 51
 00:02:15,840 --> 00:02:17,760
@@ -204,7 +204,7 @@ and take a look at the ruined shanties.
 
 52
 00:02:18,400 --> 00:02:19,920
-Go to Jinpu and take a look at them:
+Go to the Jinpu railway and take a look at them:
 
 53
 00:02:20,000 --> 00:02:21,200
@@ -264,11 +264,11 @@ Qingdao should be returned!
 
 67
 00:02:46,000 --> 00:02:47,120
-In defeat, one bides their time.
+In defeat, we must endure.
 
 68
 00:02:47,360 --> 00:02:48,640
-We shouldn't have to put up with powers anymore!
+In victory, we still have to endure!
 
 69
 00:02:48,960 --> 00:02:51,360
@@ -368,15 +368,15 @@ I must
 
 93
 00:03:34,320 --> 00:03:36,960
-put myself in a position to die first.
+put myself in a position to sacrifice myself first.
 
 94
 00:03:37,120 --> 00:03:39,680
-I have to fight with them
+I must be with them to fight.
 
 95
 00:03:39,920 --> 00:03:41,360
-because I love this country.
+Because I love this country,
 
 96
 00:03:41,760 --> 00:03:44,320
@@ -452,19 +452,19 @@ the fundamental interests of the overwhelming majority of the people.
 
 114
 00:04:22,400 --> 00:04:23,840
-This is the rational and scientific nature of our Party today,
+This is what makes our party's establishment
 
 115
 00:04:23,920 --> 00:04:26,640
-and the fundamental driving force
+rational and scientific today.
 
 116
 00:04:26,800 --> 00:04:28,160
-of the Communist Party of China,
+It is the Communist Party of China's
 
 117
 00:04:28,240 --> 00:04:31,840
-which is vibrant and unstoppable.
+the fundamental driving force for vigorous progress.
 
 118
 00:04:32,320 --> 00:04:35,120
@@ -484,4 +484,4 @@ Socialism will never fail China!
 
 122
 00:04:48,283 --> 00:04:54,160
-[Age of Awakening]
+[The Age of Awakening]
