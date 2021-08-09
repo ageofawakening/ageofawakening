@@ -348,7 +348,7 @@ I don't dare to accept it!
 
 88
 00:03:02,758 --> 00:03:04,862
-[Chen Duxiu, styled Zhongfu, editor-in-chief of "New Youth"]
+[Chen Duxiu, styled Zhongfu, Editor-in-chief of "New Youth"]
 
 89
 00:03:03,280 --> 00:03:05,040
@@ -356,7 +356,7 @@ Two of them are industrial workers in Changxingdian.
 
 90
 00:03:05,262 --> 00:03:06,141
-[Li Dazhao, styled Shouchang, editor of "The Tiger Daily"]
+[Li Dazhao, styled Shouchang, Editor of "The Tiger Daily"]
 
 91
 00:03:05,280 --> 00:03:06,080
@@ -376,7 +376,7 @@ Mr. Chen, you flatter us.
 
 95
 00:03:11,585 --> 00:03:14,983
-[Ge Shugui, worker at Changxindian, Beijing]
+[Ge Shugui, Worker at Changxindian, Beijing]
 
 96
 00:03:12,720 --> 00:03:14,720
@@ -488,7 +488,7 @@ and was almost beaten to death.
 
 123
 00:03:58,180 --> 00:03:59,286
-[Wang Mengzou, manager of Yadong Library]
+[Wang Mengzou, Manager of Yadong Library]
 
 124
 00:03:59,840 --> 00:04:00,720
@@ -656,7 +656,7 @@ Factories. Schools.
 
 165
 00:05:17,440 --> 00:05:18,960
-[Zhao Shiyan, styled Qinsheng, student at The High School Affiliated to Beijing Normal University]
+[Zhao Shiyan, styled Qinsheng, Student at The High School Affiliated to Beijing Normal University]
 
 166
 00:05:19,520 --> 00:05:20,640
@@ -901,7 +901,7 @@ In addition, the magazine placed in Beijing
 
 226
 00:07:18,652 --> 00:07:21,688
-[Gao Yihan, editor of "The Tiger Daily"]
+[Gao Yihan, Editor of "The Tiger Daily"]
 
 227
 00:07:20,320 --> 00:07:22,400
@@ -1195,7 +1195,7 @@ Now the school will get better and better!
 
 299
 00:12:07,360 --> 00:12:08,739
-[Wang Daxie, styled Botang, diplomat of the Beiyang government]
+[Wang Daxie, styled Botang, Diplomat of the Beiyang government]
 
 300
 00:12:07,600 --> 00:12:09,120
@@ -1215,11 +1215,11 @@ He should be here soon.
 
 304
 00:12:14,400 --> 00:12:16,585
-[Qian Xuantong, styled Deqian, professor at Peking University]
+[Qian Xuantong, styled Deqian, Professor at Peking University]
 
 305
 00:12:16,955 --> 00:12:19,426
-[Huang Kan, styled Ligang, professor at Peking University]
+[Huang Kan, styled Ligang, Professor at Peking University]
 
 306
 00:12:20,160 --> 00:12:21,520
@@ -1247,11 +1247,11 @@ Keep it down!
 
 312
 00:12:48,400 --> 00:12:49,280
-By the way, Father Tang.
+By the way, Honorable Tang.
 
 313
 00:12:52,480 --> 00:12:53,360
-Father Tang.
+Honorable Tang.
 
 314
 00:12:54,160 --> 00:12:55,440
@@ -1275,7 +1275,7 @@ It is detestable! Extremely arrogant!
 
 319
 00:13:11,004 --> 00:13:18,024
-[Gu Hongming, styled Tangsheng, professor at Peking University]
+[Gu Hongming, styled Tangsheng, Professor at Peking University]
 
 320
 00:13:11,920 --> 00:13:15,200
@@ -1395,7 +1395,7 @@ Write this down for me.
 
 349
 00:14:40,480 --> 00:14:41,360
-Father Tang.
+Honorable Tang.
 
 350
 00:14:41,520 --> 00:14:44,080
@@ -1419,7 +1419,7 @@ Three hundred silver dollars per month.
 
 355
 00:14:56,320 --> 00:14:57,360
-I'm disgruntled, Father Tang.
+I'm disgruntled, Honorable Tang.
 
 356
 00:14:57,680 --> 00:14:58,720
