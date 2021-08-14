@@ -1703,7 +1703,7 @@ It can't be accomplished overnight.
 
 425
 00:16:48,240 --> 00:16:51,800
-It true. This requires a long process
+True. This requires a long process
 
 426
 00:16:53,040 --> 00:16:54,040
