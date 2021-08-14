@@ -1256,11 +1256,11 @@ A wall of dirt can not be an altar.
 
 315
 00:14:53,440 --> 00:14:54,640
-
+Let's go, let's get away.
 
 316
 00:14:58,880 --> 00:15:02,160
-
+Good. Students, let's continue our class.
 
 317
 00:15:02,240 --> 00:15:04,480
