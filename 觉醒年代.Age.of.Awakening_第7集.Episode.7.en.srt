@@ -124,7 +124,7 @@ including foreign.
 
 32
 00:01:26,560 --> 00:01:28,320
-We must accept all to Peking University
+We must all accept into Peking University
 
 33
 00:01:28,560 --> 00:01:30,400
@@ -428,7 +428,7 @@ As the Dean of Liberal Arts at Peking University,
 
 108
 00:05:18,560 --> 00:05:20,400
-you can't tolerate people.
+you can't be unable to tolerate people.
 
 109
 00:05:21,360 --> 00:05:24,560
@@ -3822,4 +3822,5 @@ Good. Students, let's continue our class.
 
 956
 00:41:33,920 --> 00:41:35,840
+
 
