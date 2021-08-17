@@ -2999,11 +2999,11 @@ Hello.
 
 750
 00:32:23,200 --> 00:32:25,040
-This person is our student.
+This person is our student,
 
 751
 00:32:25,120 --> 00:32:26,000
-Called Mao Zedong.
+called Mao Zedong.
 
 752
 00:32:26,400 --> 00:32:28,080
@@ -3039,7 +3039,7 @@ As soon as he starts talking about politics
 
 760
 00:32:40,560 --> 00:32:42,000
-he always brings up "New Youth."
+he always brings up "New Youth".
 
 761
 00:32:42,160 --> 00:32:43,280
@@ -3047,7 +3047,7 @@ He even nitpicks for us.
 
 762
 00:32:43,440 --> 00:32:45,040
-Finding errors and correcting mistakes in "New Youth."
+Finding errors and correcting mistakes in "New Youth".
 
 763
 00:32:45,840 --> 00:32:46,480
@@ -3063,11 +3063,11 @@ what errors you've found.
 
 766
 00:32:50,320 --> 00:32:50,800
-
+Sir.
 
 767
 00:32:51,360 --> 00:32:52,880
-Sir. I believe Mr. Chen Duxiu's
+I believe Mr. Chen Duxiu's
 
 768
 00:32:52,960 --> 00:32:54,640
@@ -3091,11 +3091,11 @@ Those foreigners
 
 773
 00:33:00,720 --> 00:33:02,480
-don't they always say we are the sick men of Asia? 
+don't they always say we are the sick men of Asia?
 
 774
 00:33:02,800 --> 00:33:04,560
-Sick men, they are not able to save China. 
+Sick men, they are not able to save China.
 
 775
 00:33:05,440 --> 00:33:06,880
@@ -3127,7 +3127,7 @@ I still have matters to be busy with.
 
 782
 00:33:19,440 --> 00:33:21,440
-I'll... take my leave first. 
+I'll... take my leave first.
 
 783
 00:33:21,600 --> 00:33:22,400
@@ -3167,11 +3167,11 @@ Okay.
 
 792
 00:33:51,440 --> 00:33:53,040
-Our nation is wanting in strenght. The military spirit has not been encouraged;
+Our nation is wanting in strength. The military spirit has not been encouraged,
 
 793
 00:33:53,120 --> 00:33:56,320
-The physical condition of the population deteriorates daily.
+the physical condition of the population deteriorates daily.
 
 794
 00:33:56,720 --> 00:33:59,760
@@ -3187,7 +3187,7 @@ and therefore, their efforts, though prolonged, have not been effective.
 
 797
 00:34:05,840 --> 00:34:07,680
-Our weakness wil increase further...
+Our weakness will increase further...
 
 798
 00:34:09,520 --> 00:34:10,400
@@ -3203,7 +3203,7 @@ I invite you, sir, to lend your advice.
 
 801
 00:34:39,120 --> 00:34:41,120
-Good essay , good essay.
+Good essay, good essay.
 
 802
 00:34:41,600 --> 00:34:42,480
