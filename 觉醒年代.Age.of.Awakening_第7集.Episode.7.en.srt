@@ -2318,7 +2318,7 @@ student at Beijing Normal University's affiliated high school,
 
 580
 00:26:23,600 --> 00:26:24,400
-disciple of Shou Chang,
+disciple of Shouchang,
 
 581
 00:26:24,560 --> 00:26:25,600
@@ -2402,11 +2402,11 @@ Thought you'd have need for it.
 
 601
 00:26:48,560 --> 00:26:50,800
-Shou Chang, it's an honour to meet you at last.
+Shouchang, it's an honour to meet you at last.
 
 602
 00:26:51,280 --> 00:26:52,880
-You article "New Youth," is deeply moving.
+You article "New Youth", is deeply moving.
 
 603
 00:26:53,280 --> 00:26:55,200
@@ -2427,7 +2427,7 @@ I've actually read your poetry before.
 607
 00:27:00,560 --> 00:27:02,560
 Graceful and subdued like Li Qingzhao, heartbreaking.
-[southen Song dynasty female poet]
+(southern Song dynasty female poet)
 
 608
 00:27:02,880 --> 00:27:03,840
@@ -2455,7 +2455,7 @@ Really!
 
 614
 00:27:12,880 --> 00:27:13,840
-Zhimei, Henian,
+Zimei, Henian,
 
 615
 00:27:14,080 --> 00:27:16,000
@@ -2487,7 +2487,7 @@ Alright.
 
 622
 00:27:25,600 --> 00:27:26,560
-Here, Shou Chang, sit.
+Here, Shouchang, sit.
 
 623
 00:27:26,800 --> 00:27:27,200
@@ -2543,7 +2543,7 @@ I understand.
 
 636
 00:27:52,720 --> 00:27:54,160
-From now on Mr. Shou Chang,
+From now on Mr. Shouchang,
 
 637
 00:27:54,320 --> 00:27:55,520
@@ -2559,7 +2559,7 @@ What are we eating today?
 
 640
 00:28:01,520 --> 00:28:02,240
-Shou Chang,
+Shouchang,
 
 641
 00:28:02,720 --> 00:28:04,320
@@ -2575,7 +2575,7 @@ That's right.
 
 644
 00:28:07,440 --> 00:28:08,720
-Mr. Shou Chang is so valiant.
+Mr. Shouchang is so valiant.
 
 645
 00:28:09,120 --> 00:28:10,880
@@ -2623,7 +2623,7 @@ Two of them died young.
 
 656
 00:28:33,920 --> 00:28:36,240
-Mr. Shou Chang is of noble character and very admirable.
+Mr. Shouchang is of noble character and very admirable.
 
 657
 00:28:38,160 --> 00:28:41,520
@@ -2671,7 +2671,7 @@ I've seen the list of appointees
 
 668
 00:29:23,040 --> 00:29:24,960
-for your Liberal Arts department.
+for your liberal arts department.
 
 669
 00:29:25,920 --> 00:29:27,920
@@ -2711,11 +2711,11 @@ could be put on file with the education ministry.
 
 678
 00:29:44,240 --> 00:29:44,720
-Hello, Sirs.
+Greetings, sir.
 
 679
 00:29:44,880 --> 00:29:45,440
-Hello, students.
+Greetings, student.
 
 680
 00:29:47,040 --> 00:29:48,240
@@ -2807,7 +2807,7 @@ For example, Zhang Shizhao, Li Dazhao
 
 702
 00:30:35,920 --> 00:30:37,680
-They are in the middle of running "Jiayin", unable to leave it. (?)
+They are in the middle of running "The Tiger", unable to leave it.
 
 703
 00:30:38,000 --> 00:30:40,080
@@ -2879,7 +2879,7 @@ Hushi is a talent that is hard to come by.
 
 720
 00:31:19,520 --> 00:31:20,400
-Since he has --
+Since he has--
 
 721
 00:31:20,720 --> 00:31:21,040
@@ -2891,7 +2891,7 @@ Greetings, student.
 
 723
 00:31:22,160 --> 00:31:24,000
-Since he has this PhD,
+Since he has this doctorate,
 
 724
 00:31:24,160 --> 00:31:25,040
@@ -2942,8 +2942,8 @@ How about it. Let's hire him at Peking University.
 Sure!
 
 736
-00:31:49,040 --> 00:31:51,100
-[Hunan province, first established teacher-training school]
+00:31:47,020 --> 00:31:51,008
+[Hunan Provincial First Normal School]
 
 737
 00:31:54,480 --> 00:31:57,040
