@@ -1270,7 +1270,7 @@ Good. Students, let's continue our class.
 
 318
 00:15:02,240 --> 00:15:04,480
-Today's lecture is on "The Literary Mind and the Carving of Dragons."
+Today's lecture is on "The Literary Mind and the Carving of Dragons".
 
 319
 00:15:04,640 --> 00:15:05,680
@@ -1286,7 +1286,7 @@ let's begin our meeting.
 
 322
 00:15:12,240 --> 00:15:15,280
-Liberal Arts professor Huang Kan has submitted a complaint in writing to Mr. Cai
+Liberal arts professor Huang Kan has submitted a complaint in writing to Mr. Cai
 
 323
 00:15:15,520 --> 00:15:18,080
@@ -1522,7 +1522,7 @@ Gentlemen,
 
 381
 00:17:49,120 --> 00:17:51,280
-Professor Wang Kan personally attacked
+Professor Huang Kan personally attacked
 
 382
 00:17:51,680 --> 00:17:53,600
@@ -1530,7 +1530,7 @@ Professor Wang Kan personally attacked
 
 383
 00:17:53,840 --> 00:17:55,680
-He said "New Youth" was fly-covered cowshit
+He said "New Youth" was fly-covered cow dung
 
 384
 00:17:55,840 --> 00:17:57,760
@@ -1626,11 +1626,11 @@ but rather the one who used the classroom to publicly vent their personal spite.
 
 407
 00:18:54,480 --> 00:18:57,440
-The thief who cries thief, Professor Wang Kan.
+The thief who cries thief, Professor Huang Kan.
 
 408
 00:18:57,840 --> 00:18:59,600
-Wang Kan was vulgar in his speech,
+Huang Kan was vulgar in his speech,
 
 409
 00:19:00,240 --> 00:19:01,440
@@ -1690,7 +1690,7 @@ Mr. Qian Xuantong, you were too harsh.
 
 423
 00:19:36,960 --> 00:19:39,280
-Wang Jigang acted in the interest of the public good,
+Huang Jigang acted in the interest of the public good,
 
 424
 00:19:39,680 --> 00:19:42,560
@@ -1705,8 +1705,8 @@ It is not a crime.
 Completely unreasonable remarks!
 
 427
-00:19:46,400 --> 00:19:48,080
-[Shen Yinmo, Peking University Professor]
+00:19:46,400 --> 00:19:48,449
+[Shen Yinmo, Professor at Peking University]
 
 428
 00:19:48,080 --> 00:19:50,960
@@ -1873,7 +1873,7 @@ the more there are, the merrier.
 Well said!
 
 469
-00:22:14,520 --> 00:22:15,760
+00:22:14,520 --> 00:22:16,568
 [Spring, 1917]
 
 470
@@ -2210,7 +2210,7 @@ Hard to figure him out.
 
 553
 00:25:33,680 --> 00:25:35,200
-Yannian shouldn't get too close too him.
+Yannian shouldn't get too close to him.
 
 554
 00:25:37,840 --> 00:25:38,480
@@ -2221,11 +2221,11 @@ It's no good.
 I have to write him a letter. Advise him.
 
 556
-00:25:46,400 --> 00:25:47,560
+00:25:46,400 --> 00:25:47,381
 You're writing a letter?
 
 557
-00:25:49,560 --> 00:25:50,720
+00:25:50,000 --> 00:25:50,720
 You write.
 
 558
