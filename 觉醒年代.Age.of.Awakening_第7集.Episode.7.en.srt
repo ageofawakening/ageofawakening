@@ -3343,7 +3343,7 @@ its impact will be limited.
 
 836
 00:35:42,080 --> 00:35:44,160
-We can first put it aside, and talk about it again later. (?)
+We can put it aside, and talk about it again later.
 
 837
 00:35:44,640 --> 00:35:45,920
@@ -3391,7 +3391,7 @@ is Mao Zedong
 
 848
 00:36:04,240 --> 00:36:05,200
-Only twenty four years old.
+Only twenty-four-years-old.
 
 849
 00:36:05,440 --> 00:36:06,880
@@ -3435,7 +3435,7 @@ The subject is to look into and discuss
 
 859
 00:36:43,360 --> 00:36:46,720
-Peking University's list of appointed professors in the Liberal Arts department.
+Peking University's list of appointed professors in the liberal arts department.
 
 860
 00:36:47,520 --> 00:36:50,800
@@ -3475,7 +3475,7 @@ as well as consideration of what is pratically required
 
 869
 00:37:23,120 --> 00:37:26,000
-to construct our Liberal Arts department at Peking University.
+to construct our liberal arts department at Peking University.
 
 870
 00:37:26,800 --> 00:37:28,080
@@ -3639,7 +3639,8 @@ Brother Deqian,
 
 910
 00:39:35,760 --> 00:39:38,800
-you have your heart set on smashing my rice bowl. [taking away my job]
+you have your heart set on taking my job away.
+(lit. smashing my rice bowl)
 
 911
 00:39:39,120 --> 00:39:40,480
@@ -3647,7 +3648,7 @@ Was I not telling the truth?
 
 912
 00:39:40,880 --> 00:39:41,600
-Gentlemen Qian,
+Master Qian,
 
 913
 00:39:43,120 --> 00:39:45,200
@@ -3735,8 +3736,7 @@ is a normal phenomenon.
 
 934
 00:40:41,760 --> 00:40:44,800
-It is said that people of noble character can be in disagreement 
-but get along with one another.
+It is said that people of noble character can be in disagreement but get along with one another.
 
 935
 00:40:45,440 --> 00:40:47,520
@@ -3808,7 +3808,7 @@ was originally one school of thought out of the hundred
 
 952
 00:41:31,600 --> 00:41:32,560
-from the Spring and Autumn Period.
+from the Spring and Autumn period.
 
 953
 00:41:32,720 --> 00:41:33,760
