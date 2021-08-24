@@ -1055,7 +1055,7 @@ My son is saved!
 
 264
 00:11:00,960 --> 00:11:03,600
-This cut, the young man will be gone! (?)
+With that cut, this young man is no more!
 
 265
 00:11:04,000 --> 00:11:05,040
@@ -1063,7 +1063,7 @@ No. No.
 
 266
 00:11:05,280 --> 00:11:08,160
-That cutting method is far worse than back in Qing dynasty.
+That cutting method was far worse than back in Qing dynasty.
 
 267
 00:11:08,320 --> 00:11:08,880
@@ -1071,7 +1071,7 @@ Right!
 
 268
 00:11:09,040 --> 00:11:12,080
-That knife is not as fast as the knife in the Reform Movement of 1898 (?)
+That knife was not as fast as the knife of the Hundred Days' Reform.
 
 269
 00:11:13,280 --> 00:11:14,320
@@ -1083,7 +1083,7 @@ With a steel knife covered in yellow rice wine,
 
 271
 00:11:16,648 --> 00:11:19,903
-[Zhou Shuren (Lu Xun), Civil servant under the Ministry of Education]
+[Zhou Shuren (Lu Xun), styled Yucai, Civil servant under the Ministry of Education]
 
 272
 00:11:16,800 --> 00:11:19,440
@@ -1111,7 +1111,7 @@ How did you find me?
 
 278
 00:11:49,600 --> 00:11:50,720
-You have to come here to find you.
+Finding you means coming here.
 
 279
 00:11:50,960 --> 00:11:51,920
@@ -1119,7 +1119,7 @@ Do you not know?
 
 280
 00:11:52,080 --> 00:11:53,200
-How is my teacher Master Gong?
+How is my teacher Master Cai?
 
 281
 00:11:53,840 --> 00:11:56,160
@@ -1135,7 +1135,7 @@ He looks much more high-spirited than you, man.
 
 284
 00:11:59,760 --> 00:12:01,520
-Where do you see that I'm not high-spirited.
+Where do you see that I'm not high-spirited?
 
 285
 00:12:02,000 --> 00:12:04,000
@@ -1151,19 +1151,19 @@ Don't even look back.
 
 288
 00:12:09,040 --> 00:12:10,080
-It's really determined. (?)
+It's really obsessive.
 
 289
 00:12:10,400 --> 00:12:12,160
-You know what it is without looking at it.
+You know what it is without looking.
 
 290
 00:12:12,880 --> 00:12:13,840
-Find me something.
+Find me a job.
 
 291
 00:12:14,080 --> 00:12:14,720
-Find something?
+A job?
 
 292
 00:12:14,960 --> 00:12:16,480
@@ -1219,35 +1219,36 @@ I now
 
 305
 00:12:48,720 --> 00:12:50,960
-hide in a small building. Don't ask about Spring and Autumn. (?)
+live in a small building, don't talk about current politics,
+(lit. asking about Spring and Autumn period)
 
 306
 00:12:51,920 --> 00:12:53,120
-I only do three things:
+and only do three things:
 
 307
 00:12:53,360 --> 00:12:54,080
-copying ancient monuments (?)
+copying ancient inscriptions on monuments,
 
 308
 00:12:54,240 --> 00:12:55,280
-cataloging epigraphy (?)
+compiling inscriptions on stone tablets
 
 309
 00:12:55,520 --> 00:12:56,240
-proofreading ancient books (?)
+proofreading ancient books.
 
 310
 00:12:56,320 --> 00:12:57,760
-I'm not interested in the rest. (?)
+I'm not interested in anything else.
 
 311
 00:12:58,240 --> 00:13:00,400
-If you come to me to write a manuscript, don't talk. (?)
+If you come to me to write a manuscript, forget it.
 
 312
 00:13:05,120 --> 00:13:06,240
-What do you mean, don't talk?
+What do you mean, forget it?
 
 313
 00:13:06,560 --> 00:13:07,920
@@ -1307,7 +1308,7 @@ Some people want to restore the monarchy
 
 327
 00:13:34,320 --> 00:13:36,240
-and ask the little Xuantong to come out as emperor again.
+and ask the little Xuantong to become emperor again.
 
 328
 00:13:36,960 --> 00:13:38,320
@@ -1315,11 +1316,11 @@ Don't you want to say something?
 
 329
 00:13:38,640 --> 00:13:40,480
-Circle yourself in that self-painted small building. (?)
+You locked yourself up in that small, self-decorated building!
 
 330
 00:13:40,640 --> 00:13:41,840
-This is not depression. What is it?
+This is not depression! What is it?
 
 331
 00:13:41,920 --> 00:13:42,960
@@ -1327,11 +1328,11 @@ Don't yell at me!
 
 332
 00:13:44,320 --> 00:13:47,440
-Suppose, there is such an iron room. (?)
+Suppose, there is such an iron room
 
 333
 00:13:48,320 --> 00:13:50,560
-There is no window and it is hard to break.
+with no window and and unbreakable.
 
 334
 00:13:51,360 --> 00:13:53,120
@@ -1363,7 +1364,7 @@ but this unfortunate minority
 
 341
 00:14:09,040 --> 00:14:10,560
-will have to suffer the irreparable
+will have to heed the irreparable
 
 342
 00:14:10,640 --> 00:14:11,440
@@ -1387,7 +1388,7 @@ You can never say
 
 347
 00:14:18,960 --> 00:14:20,720
-that he has no hope of destroying the iron house. (?)
+that one has no hope of destroying the iron room.
 
 348
 00:14:28,080 --> 00:14:29,680
@@ -1447,7 +1448,7 @@ I'm here to buy you a drink.
 
 362
 00:14:54,160 --> 00:14:55,520
-Guangheju has already booked a seat. (?)
+Guangheju has already reserved a table.
 
 363
 00:14:55,840 --> 00:14:56,800
@@ -1467,7 +1468,7 @@ Careful.
 
 367
 00:15:01,800 --> 00:15:02,640
-Watch your legs.
+Careful, your legs.
 
 368
 00:15:26,480 --> 00:15:27,760
