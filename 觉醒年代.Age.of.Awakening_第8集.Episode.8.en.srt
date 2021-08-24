@@ -2788,7 +2788,7 @@
 
 698
 00:31:40,880 --> 00:31:42,480
-Zhang Shuai (?) arrives!
+Marshal Zhang approaching!
 
 699
 00:31:43,520 --> 00:31:44,480
@@ -2796,11 +2796,11 @@ Salute!
 
 700
 00:32:20,679 --> 00:32:23,514
-[Zhang Xun courtesy name Shaoxuan, Anhui province's military governor]
+[Zhang Xun, styled Shaoxuan, Provincial military governor of Anhui]
 
 701
 00:32:25,920 --> 00:32:26,720
-Ceremony complete (?)
+At ease!
 
 702
 00:32:45,920 --> 00:32:47,600
