@@ -44,7 +44,7 @@ And we must not allow
 
 12
 00:00:25,200 --> 00:00:28,800
-the Zhang Xun Restoration's scheme to succeed!
+Zhang Xun's restoration scheme to succeed!
 
 13
 00:00:29,200 --> 00:00:32,357
@@ -224,7 +224,7 @@ Exactly.
 
 57
 00:01:56,720 --> 00:01:57,120
-You guys are tough.
+Alright, you win.
 
 58
 00:01:57,840 --> 00:01:58,240
@@ -328,7 +328,7 @@ Disperse! Quickly, quickly, quickly!
 
 83
 00:02:42,400 --> 00:02:43,760
-Everybody split up. Don't mess around.
+Everybody split up. Stay orderly.
 
 84
 00:02:44,160 --> 00:02:45,360
@@ -336,7 +336,7 @@ Come on, come on, come on. Get your stuff together.
 
 85
 00:02:45,520 --> 00:02:46,800
-Let's go to the east and catch on.
+We'll continue the speech in the east end.
 
 86
 00:02:46,960 --> 00:02:47,360
@@ -380,11 +380,11 @@ Wait for me.
 
 96
 00:03:11,520 --> 00:03:12,240
-What was that?
+Who the hell do you think you are!
 
 97
 00:03:12,480 --> 00:03:13,520
-You can't grow up!
+You won't last long!
 
 98
 00:03:16,480 --> 00:03:17,200
@@ -428,7 +428,7 @@ Excuse me. Excuse me.
 
 108
 00:03:59,360 --> 00:04:00,400
-Sir, run through that path.
+Sir, take the alley.
 
 109
 00:04:00,640 --> 00:04:01,440
@@ -508,7 +508,7 @@ Make way!
 
 128
 00:04:33,040 --> 00:04:33,440
-Citizen!
+Where are they?
 
 129
 00:04:34,240 --> 00:04:34,960
@@ -520,11 +520,11 @@ Nonsense!
 
 131
 00:04:37,200 --> 00:04:38,640
-Why search so many buildings from door to door?
+So many buildings! How can we search from door to door?
 
 132
 00:04:39,200 --> 00:04:40,960
-Peking University. They're going back to Peking University.
+Peking University. They're going back to Peking University for sure.
 
 133
 00:04:41,200 --> 00:04:41,520
@@ -548,7 +548,7 @@ What's this for?
 
 138
 00:04:49,840 --> 00:04:51,600
-Sir, let's leave Beijing and lie low until the wind blows over.
+Sir, leave Beijing and lie low until this blows over.
 
 139
 00:04:52,000 --> 00:04:53,120
@@ -556,11 +556,11 @@ No, I can't leave.
 
 140
 00:04:53,440 --> 00:04:54,240
-I have to hold on to "The Tiger"!
+I have to watch over "The Tiger"!
 
 141
 00:04:54,480 --> 00:04:55,440
-"The Tiger" has been closed.
+"The Tiger" has been shut down.
 
 142
 00:04:55,520 --> 00:04:56,880
@@ -668,11 +668,11 @@ Okay, okay, okay, no need to continue.
 
 168
 00:05:40,640 --> 00:05:42,240
-Tell me something about our Peking University.
+Let's discuss the situation at our Peking University.
 
 169
 00:05:43,520 --> 00:05:45,840
-Most teachers and students are still opposed to restoration.
+Most teachers and students are still opposed to the restoration.
 
 170
 00:05:46,400 --> 00:05:47,520
@@ -696,7 +696,7 @@ who spontaneously, in the early morning,
 
 175
 00:05:54,560 --> 00:05:56,720
-went to the streets to preach and encourage the people.
+went to the streets to raise awareness and rouse the people.
 
 176
 00:05:58,560 --> 00:06:00,880
@@ -772,7 +772,7 @@ Inform the doorman to close the school gate.
 
 194
 00:06:31,040 --> 00:06:33,280
-Never let the Queue Army's cavalry to rush into the campus.
+We cannot let the Queue Army's cavalry rush into the campus.
 
 195
 00:06:34,000 --> 00:06:35,520
@@ -788,19 +788,19 @@ Master Cai, don't get excited.
 
 198
 00:06:38,800 --> 00:06:40,560
-I expected this Zhang Xun Restoration
+I am certain this Zhang Xun Restoration
 
 199
 00:06:41,280 --> 00:06:42,240
-was a farce
+will be a farce
 
 200
 00:06:42,480 --> 00:06:43,280
-and would not achieve anything.
+and will not achieve anything.
 
 201
 00:06:43,440 --> 00:06:44,800
-We'd better wait and see.
+It would be better to bide our time.
 
 202
 00:06:44,880 --> 00:06:47,760
@@ -836,7 +836,7 @@ What are you going to do in the Ministry of Education at this time?
 
 210
 00:07:06,160 --> 00:07:09,920
-Zhongfu. Politics is within the university's interests.
+Zhongfu. Politics can make a big difference.
 
 211
 00:07:10,400 --> 00:07:13,040
@@ -968,11 +968,11 @@ to ask you.
 
 243
 00:09:33,440 --> 00:09:34,400
-You have time.
+When you have time,
 
 244
 00:09:34,800 --> 00:09:36,000
-Come to my place sometime.
+find a chance to come by my place sometime.
 
 245
 00:09:36,720 --> 00:09:37,200
@@ -984,7 +984,7 @@ Master Cai.
 
 247
 00:09:39,680 --> 00:09:42,000
-How many business trips are you here for in this war-torn place?
+With the chaos of war, are you here on official business?
 
 248
 00:09:47,120 --> 00:09:48,240
@@ -1024,23 +1024,23 @@ Why are you laughing?
 
 257
 00:10:44,480 --> 00:10:45,920
-When the current situation develops like this,
+With the current situation like this,
 
 258
 00:10:46,000 --> 00:10:47,040
-you can still laugh.
+you can still laugh?
 
 259
 00:10:47,760 --> 00:10:50,880
-Brother Jiemin, I'm laughing at Brother Botang.
+Brother Jiemin, I'm laughing at Brother Botang's sublime acumen.
 
 260
 00:10:51,440 --> 00:10:53,520
-He brought me good tea early in the morning,
+He brought me good tea a long while ago,
 
 261
 00:10:54,000 --> 00:10:57,360
-said that Cai Jiemin would come later to hand in his resignation.
+saying Cai Jiemin is certain to come later to hand in his resignation.
 
 262
 00:10:55,248 --> 00:11:00,279
@@ -1048,7 +1048,7 @@ said that Cai Jiemin would come later to hand in his resignation.
 
 263
 00:10:58,800 --> 00:11:00,480
-Let me wait for the tea.
+Told me to just steep my tea and wait.
 
 264
 00:11:04,400 --> 00:11:08,000
@@ -1060,7 +1060,7 @@ I, uh, came to ask Brother Botang for advice.
 
 266
 00:11:08,720 --> 00:11:10,080
-What did you say is going on?
+What do you think is going on?
 
 267
 00:11:10,320 --> 00:11:12,320
@@ -1124,7 +1124,7 @@ The result is widespread indignation and discontent, that will be defamed throug
 
 282
 00:11:51,360 --> 00:11:53,440
-Brother Botang, tell me about it.
+Brother Botang, what do you think?
 
 283
 00:11:53,680 --> 00:11:56,160
@@ -1156,7 +1156,7 @@ Zhang Xun's five-thousand-strong Queue Army
 
 290
 00:12:10,880 --> 00:12:12,400
-collapsed at the first blow!
+will collapse at the first blow for sure!
 
 291
 00:12:12,640 --> 00:12:15,520
@@ -1184,7 +1184,7 @@ If that's the case,
 
 297
 00:12:27,280 --> 00:12:30,000
-then how should we live with ourselves?
+then where does that leave us?
 
 298
 00:12:30,400 --> 00:12:32,240
@@ -1204,7 +1204,7 @@ You must leave Beijing as soon as possible.
 
 302
 00:12:37,680 --> 00:12:38,720
-Flee and hide.
+Lie low.
 
 303
 00:12:39,040 --> 00:12:40,051
@@ -1216,7 +1216,7 @@ Why?
 
 305
 00:12:41,120 --> 00:12:43,520
-Why do you have to make me flee and hide?
+Why must I leave and lie low?
 
 306
 00:12:43,920 --> 00:12:46,480
@@ -1228,19 +1228,19 @@ Once the war starts,
 
 308
 00:12:48,240 --> 00:12:50,320
-we should prevent the Queue Clique from jumping over the wall
+the Queue Clique must be prevented from desperate recklessness
 
 309
 00:12:50,480 --> 00:12:51,600
-and taking Peking University.
+that would make an example out of Peking University.
 
 310
 00:12:51,920 --> 00:12:52,800
-You ran away.
+If you ran away,
 
 311
 00:12:52,880 --> 00:12:55,040
-Then you have nothing to do with Peking University and Zhang Xun.
+Then you'll have nothing to do with Peking University and Zhang Xun.
 
 312
 00:12:55,520 --> 00:12:59,920
@@ -1276,11 +1276,11 @@ That will do, Brother Jiemin.
 
 320
 00:13:21,920 --> 00:13:23,120
-You took your props (?)
+You brought your props
 
 321
 00:13:23,360 --> 00:13:25,040
-and went around my Ministry of Education. (?)
+for a spin around my Ministry of Education.
 
 322
 00:13:25,280 --> 00:13:26,800
@@ -1288,7 +1288,7 @@ You've got a good hand.
 
 323
 00:13:27,120 --> 00:13:30,000
-To say high, you're taller than him. (?)
+And even more tricks up your sleeves than him.
 
 324
 00:13:31,200 --> 00:13:31,840
@@ -1384,7 +1384,7 @@ That's the sound.
 
 347
 00:14:44,080 --> 00:14:45,760
-Do you think Shanghai will fight?
+Do you think the battle will get to Shanghai?
 
 348
 00:14:45,920 --> 00:14:47,280
@@ -1392,11 +1392,11 @@ Will Yannian and Qiaonian be all right?
 
 349
 00:14:47,760 --> 00:14:49,120
-Shanghai will not fight.
+The battle won't get to Shanghai.
 
 350
 00:14:49,600 --> 00:14:51,680
-A few days at most.
+It'll be a few chaotic days at most.
 
 351
 00:14:52,240 --> 00:14:53,200
