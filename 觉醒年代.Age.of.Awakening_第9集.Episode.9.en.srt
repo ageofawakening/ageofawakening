@@ -2200,7 +2200,7 @@ Extra! Extra!
 
 551
 00:22:53,360 --> 00:22:55,200
-Emperor Xuantong has abdicated again.
+The Xuantong Emperor has abdicated again.
 
 552
 00:22:55,520 --> 00:22:58,000
@@ -2228,7 +2228,7 @@ Extra! Extra!
 
 558
 00:23:11,680 --> 00:23:13,120
-Emperor Xuantong has abdicated again.
+The Xuantong Emperor has abdicated again.
 
 559
 00:23:13,520 --> 00:23:15,760
@@ -2252,7 +2252,7 @@ Extra! Extra!
 
 564
 00:23:25,120 --> 00:23:26,720
-Emperor Xuantong has abdicated again.
+The Xuantong Emperor has abdicated again.
 
 565
 00:23:26,800 --> 00:23:28,720
@@ -2272,7 +2272,7 @@ He's abdicated!
 
 569
 00:23:35,200 --> 00:23:36,800
-Emperor Xuantong has abdicated!
+The Xuantong Emperor has abdicated!
 
 570
 00:23:39,280 --> 00:23:40,720
@@ -3858,12 +3858,9 @@ Us two often group up to drink our sorrows away.
 00:39:57,760 --> 00:40:00,611
 [Yi Baisha, styled Yuecun, Scholar of the New Culture Movement]
 
-938
-Coming back this time, is to procure arms for the Hunan army.
-
 966
 00:40:00,160 --> 00:40:02,480
-
+Coming back this time, is to procure arms for the Hunan army.
 
 967
 00:40:03,360 --> 00:40:04,480
