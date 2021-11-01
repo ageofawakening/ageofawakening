@@ -1436,11 +1436,11 @@ Thanks.
 
 360
 00:16:26,927 --> 00:16:28,874
-<i>Pear-syrup candy, pear-syrup candy.</i>
+~Pear-syrup candy, pear-syrup candy.~
 
 361
 00:16:29,166 --> 00:16:31,155
-<i>Pear-syrup candy, there's just something to it.</i>
+~Pear-syrup candy, there's just something to it.~
 
 362
 00:16:30,240 --> 00:16:31,520
@@ -1448,7 +1448,7 @@ Could I borrow this, master?
 
 363
 00:16:31,693 --> 00:16:34,459
-<i>Old men eat my pear-syrup candy.</i>
+~Old men eat my pear-syrup candy.~
 
 364
 00:16:31,920 --> 00:16:32,640
@@ -1464,31 +1464,31 @@ No problem.
 
 367
 00:16:34,881 --> 00:16:36,680
-<i>It makes your body stronger and stronger.</i>
+~It makes your body stronger and stronger.~
 
 368
 00:16:36,680 --> 00:16:39,593
-<i>Old ladies eat my pear-syrup candy.</i>
+~Old ladies eat my pear-syrup candy.~
 
 369
 00:16:40,317 --> 00:16:42,243
-<i>Lively, lovely and generous ladies.</i>
+~Lively, lovely and generous ladies.~
 
 370
 00:16:42,763 --> 00:16:45,599
-<i>Young people eat my pear-syrup candy.</i>
+~Young people eat my pear-syrup candy.~
 
 371
 00:16:46,173 --> 00:16:47,911
-<i>Singing and dancing at wedding.</i>
+~Singing and dancing at wedding.~
 
 372
 00:16:48,193 --> 00:16:51,406
-<i>Little kids eat my pear-syrup candy,</i>
+~Little kids eat my pear-syrup candy,~
 
 373
 00:16:51,561 --> 00:16:54,958
-<i>smarty-pants going to school.</i>
+~smarty-pants going to school.~
 
 374
 00:16:55,280 --> 00:16:57,367
