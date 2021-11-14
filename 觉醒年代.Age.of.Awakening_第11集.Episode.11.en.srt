@@ -2209,11 +2209,11 @@ For example, Americans,
 
 547
 00:27:07,760 --> 00:27:09,440
-they are honest, broad, 
+they are honest, broad,
 
 548
 00:27:09,920 --> 00:27:11,680
-but they are not profound. 
+but they are not profound.
 
 549
 00:27:12,240 --> 00:27:13,440
@@ -2221,19 +2221,19 @@ The British
 
 550
 00:27:14,000 --> 00:27:15,760
-honest, profound, 
+honest, profound,
 
 551
 00:27:16,560 --> 00:27:18,400
-but they are not broad. 
+but they are not broad.
 
 552
 00:27:18,720 --> 00:27:20,960
-The Germans. Broad, profound. 
+The Germans. Broad, profound.
 
 553
 00:27:21,680 --> 00:27:23,120
-But no honesty. 
+But no honesty.
 
 554
 00:27:23,840 --> 00:27:26,560
