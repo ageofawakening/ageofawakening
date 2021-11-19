@@ -1792,7 +1792,7 @@ There's no need to confine ourselves.
 
 449
 00:15:20,560 --> 00:15:21,520
-We should simply discuss 
+We should simply discuss
 
 450
 00:15:21,760 --> 00:15:23,040
@@ -1812,7 +1812,7 @@ Sir,
 
 454
 00:15:31,520 --> 00:15:33,280
-The Ministry of Foreign Affairs called for you with urgent matters. 
+The Ministry of Foreign Affairs called for you with urgent matters.
 
 455
 00:15:33,760 --> 00:15:34,320
@@ -1836,7 +1836,7 @@ the British professor Cartwright, who was dismissed by our university,
 
 460
 00:15:41,200 --> 00:15:42,480
-wrote to the British Prime Minister 
+wrote to the British Prime Minister
 
 461
 00:15:42,560 --> 00:15:43,120
@@ -1864,11 +1864,11 @@ Okay, I'm aware of that now.
 
 467
 00:15:53,280 --> 00:15:55,040
-But the matter of dismissing Cartwright 
+But the matter of dismissing Cartwright
 
 468
 00:15:55,120 --> 00:15:56,640
-is supposed to be relevant to the Ministry of Education. 
+is supposed to be relevant to the Ministry of Education.
 
 469
 00:15:56,720 --> 00:15:58,240
@@ -1908,7 +1908,7 @@ vernacular essays, vernacular poems,
 
 478
 00:16:21,760 --> 00:16:24,000
-even funeral affairs or folk customs. 
+even funeral affairs or folk customs.
 
 479
 00:16:24,480 --> 00:16:25,840
@@ -1924,7 +1924,7 @@ in case the government intervenes.
 
 482
 00:16:32,240 --> 00:16:33,120
-This include 
+This include
 
 483
 00:16:33,360 --> 00:16:35,040
@@ -2024,7 +2024,7 @@ I'm leaving.
 
 507
 00:17:28,720 --> 00:17:31,200
-Shizhi, with regard to the discussion of academics and current affairs 
+Shizhi, with regard to the discussion of academics and current affairs
 
 508
 00:17:31,440 --> 00:17:32,320
@@ -2036,7 +2036,7 @@ Hang on a moment,
 
 510
 00:17:33,520 --> 00:17:34,560
-let's not talk about 
+let's not talk about
 
 511
 00:17:34,800 --> 00:17:35,920
@@ -2092,7 +2092,7 @@ Brother Jiemin, you're finally here!
 
 524
 00:17:56,720 --> 00:17:58,080
-It seems that the chancellor of Peking University 
+It seems that the chancellor of Peking University
 
 525
 00:17:58,720 --> 00:18:00,160
@@ -2136,7 +2136,7 @@ caused big trouble.
 
 535
 00:18:22,640 --> 00:18:25,440
-Cartwright turned out to be a descendant of British aristocracy. 
+Cartwright turned out to be a descendant of British aristocracy.
 
 536
 00:18:25,760 --> 00:18:28,080
@@ -2156,7 +2156,7 @@ He's demanding apologies, compensation and resumption of their posts
 
 540
 00:18:35,200 --> 00:18:37,360
-for both himself and other discharged British personnel 
+for both himself and other discharged British personnel
 
 541
 00:18:38,240 --> 00:18:40,640
@@ -2164,11 +2164,11 @@ from Peking University.
 
 542
 00:18:40,960 --> 00:18:42,000
-Lloyd-George 
+Lloyd-George
 
 543
 00:18:42,240 --> 00:18:43,840
-assigned the British Envoy 
+assigned the British Envoy
 
 544
 00:18:44,560 --> 00:18:46,000
@@ -2176,7 +2176,7 @@ John Newell Jordan to handle this complaint.
 
 545
 00:18:46,400 --> 00:18:47,600
-The British Embassy 
+The British Embassy
 
 546
 00:18:47,920 --> 00:18:49,600
@@ -2184,7 +2184,7 @@ had already presented a note to our government.
 
 547
 00:18:49,920 --> 00:18:51,040
-Both Feng Guozhang and Duan Qirui 
+Both Feng Guozhang and Duan Qirui
 
 548
 00:18:51,360 --> 00:18:53,920
@@ -2200,7 +2200,7 @@ Peking University is a Chinese national university.
 
 551
 00:19:03,280 --> 00:19:06,240
-The hiring and discharging of teaching personnel 
+The hiring and discharging of teaching personnel
 
 552
 00:19:06,480 --> 00:19:08,960
@@ -2208,7 +2208,7 @@ are the rights and responsibilities entrusted by the state.
 
 553
 00:19:09,200 --> 00:19:12,080
-How are these relevant to 
+How are these relevant to
 
 554
 00:19:13,200 --> 00:19:14,400
@@ -2220,7 +2220,7 @@ Furthermore, there were prior cases of
 
 556
 00:19:17,440 --> 00:19:19,200
-discharging foreign personnel 
+discharging foreign personnel
 
 557
 00:19:19,520 --> 00:19:22,640
@@ -2236,7 +2236,7 @@ Why is it all of a sudden a big trouble
 
 560
 00:19:29,360 --> 00:19:30,800
-when I'm involved? 
+when I'm involved?
 
 561
 00:19:31,360 --> 00:19:33,600
@@ -2300,7 +2300,7 @@ Strictly speaking,
 
 576
 00:20:06,720 --> 00:20:09,360
-his incompetency at teaching duties 
+his incompetency at teaching duties
 
 577
 00:20:09,440 --> 00:20:10,880
@@ -2356,11 +2356,11 @@ We're are on the same boat.
 
 590
 00:20:40,880 --> 00:20:43,360
-He hopes Peking University would focus on the big picture 
+He hopes Peking University would focus on the big picture
 
 591
 00:20:44,240 --> 00:20:45,360
-and wouldn't harm the relationship 
+and wouldn't harm the relationship
 
 592
 00:20:45,520 --> 00:20:47,040
@@ -2404,11 +2404,11 @@ Can you tell me how can I continue my jobs as the chancellor?
 
 602
 00:21:20,240 --> 00:21:21,120
-Not to mention 
+Not to mention
 
 603
 00:21:21,520 --> 00:21:24,160
-it concerns the our national dignity and general fairness, 
+it concerns the our national dignity and general fairness,
 
 604
 00:21:24,640 --> 00:21:27,760
@@ -2420,7 +2420,7 @@ Brother Jiemin, I understand your difficulties.
 
 606
 00:21:31,840 --> 00:21:32,560
-But this is 
+But this is
 
 607
 00:21:32,800 --> 00:21:35,120
@@ -2440,7 +2440,7 @@ Why don't you go back and discuss the issue with your faculties?
 
 611
 00:21:42,640 --> 00:21:44,320
-Once you guys reached a consensus, 
+Once you guys reached a consensus,
 
 612
 00:21:44,640 --> 00:21:46,240
@@ -2452,11 +2452,11 @@ Brother Botang,
 
 614
 00:21:48,960 --> 00:21:50,160
-Discharging unqualified foreign personnel 
+Discharging unqualified foreign personnel
 
 615
 00:21:50,400 --> 00:21:52,240
-like Cartwright 
+like Cartwright
 
 616
 00:21:52,480 --> 00:21:55,360
@@ -2552,7 +2552,7 @@ for the New Culture lecture series.
 
 639
 00:23:24,480 --> 00:23:25,440
-All of the topics are substantial. 
+All of the topics are substantial.
 
 640
 00:23:31,280 --> 00:23:31,920
@@ -2572,7 +2572,7 @@ What happened.
 
 644
 00:23:43,120 --> 00:23:43,840
-Shouchang, 
+Shouchang,
 
 645
 00:23:44,320 --> 00:23:45,360
@@ -2604,7 +2604,7 @@ We can't do this!
 
 652
 00:24:26,480 --> 00:24:27,840
-This is the copy of démarche.  
+This is the copy of démarche.
 
 653
 00:24:28,240 --> 00:24:29,280
@@ -2616,7 +2616,7 @@ We cannot destroy it!
 
 655
 00:24:31,360 --> 00:24:32,400
-Let's hurry up and discuss 
+Let's hurry up and discuss
 
 656
 00:24:32,560 --> 00:24:33,920
@@ -2644,19 +2644,19 @@ This fellow Cartwright had written a complaint
 
 662
 00:24:44,880 --> 00:24:46,560
-to his Prime Minister Lloyd-George. 
+to his Prime Minister Lloyd-George.
 
 663
 00:24:46,880 --> 00:24:47,680
-Lloyd-George gave his orders 
+Lloyd-George gave his orders
 
 664
 00:24:48,000 --> 00:24:50,880
-to the British Envoy Jordan. 
+to the British Envoy Jordan.
 
 665
 00:24:51,360 --> 00:24:53,280
-And the Envoy Jordan presented a note 
+And the Envoy Jordan presented a note
 
 666
 00:24:53,600 --> 00:24:54,720
@@ -2668,7 +2668,7 @@ This whole thing turned into a diplomatic event.
 
 668
 00:24:57,520 --> 00:24:59,680
-Feng Guozhang and Duan Qirui of our government 
+Feng Guozhang and Duan Qirui of our government
 
 669
 00:24:59,920 --> 00:25:01,680
@@ -2740,7 +2740,7 @@ Du Qirui exhorted again and again,
 
 686
 00:25:34,320 --> 00:25:35,600
-saying that 
+saying that
 
 687
 00:25:36,000 --> 00:25:37,040
@@ -2772,7 +2772,7 @@ Okay then, now that it is a diplomatic event,
 
 694
 00:25:50,000 --> 00:25:51,840
-our Peking University and Cartwright 
+our Peking University and Cartwright
 
 695
 00:25:52,000 --> 00:25:53,440
@@ -2780,7 +2780,7 @@ can be seen as the representatives of the interests of our nations.
 
 696
 00:25:54,000 --> 00:25:56,000
-Our Peking University holds in her one hand the national honor 
+Our Peking University holds in her one hand the national honor
 
 697
 00:25:56,320 --> 00:25:57,600
@@ -2804,7 +2804,7 @@ Let's talk about it right now
 
 702
 00:26:07,200 --> 00:26:08,400
-how are we going to hold 
+how are we going to hold
 
 703
 00:26:08,560 --> 00:26:09,680
@@ -2888,11 +2888,11 @@ After I learned what happened from Mr. Cai,
 
 723
 00:27:45,280 --> 00:27:48,400
-I was furious. 
+I was furious.
 
 724
 00:27:48,880 --> 00:27:49,920
-This suddenly brought my mind 
+This suddenly brought my mind
 
 725
 00:27:50,160 --> 00:27:51,680
@@ -2908,11 +2908,11 @@ How did they plunder our nation?
 
 728
 00:27:58,160 --> 00:28:00,000
-Even back then, 
+Even back then,
 
 729
 00:28:00,480 --> 00:28:01,440
-the British government 
+the British government
 
 730
 00:28:01,600 --> 00:28:04,000
@@ -2920,7 +2920,7 @@ used the excuse of protecting British citizens in China
 
 731
 00:28:04,480 --> 00:28:06,000
-to open the gate of our country 
+to open the gate of our country
 
 732
 00:28:06,240 --> 00:28:07,440
@@ -2936,7 +2936,7 @@ Today, they are playing their same old tricks.
 
 735
 00:28:14,720 --> 00:28:17,280
-Again, using protecting their citizen in China as an excuse, 
+Again, using protecting their citizen in China as an excuse,
 
 736
 00:28:17,840 --> 00:28:18,560
@@ -2984,7 +2984,7 @@ All I wanted is to be
 
 747
 00:28:40,720 --> 00:28:42,080
-an upright and dignified Chinese. 
+an upright and dignified Chinese.
 
 748
 00:28:42,560 --> 00:28:44,080
@@ -2992,7 +2992,7 @@ What the British is doing is too absurd.
 
 749
 00:28:44,400 --> 00:28:46,800
-If we have to surrender to 
+If we have to surrender to
 
 750
 00:28:47,040 --> 00:28:48,240
@@ -3040,7 +3040,7 @@ Rest assured!
 
 761
 00:29:07,920 --> 00:29:10,240
-Last night, Shouchang read through 
+Last night, Shouchang read through
 
 762
 00:29:10,480 --> 00:29:12,000
@@ -3080,7 +3080,7 @@ Peking University has the right to independently decide upon
 
 771
 00:29:27,600 --> 00:29:29,760
-the employing and discharging of teaching personnel. 
+the employing and discharging of teaching personnel.
 
 772
 00:29:30,480 --> 00:29:32,720
@@ -3096,7 +3096,7 @@ which means it has legal effect.
 
 775
 00:29:36,320 --> 00:29:37,440
-Besides, I looked through the approval document 
+Besides, I looked through the approval document
 
 776
 00:29:37,760 --> 00:29:40,080
@@ -3108,27 +3108,27 @@ Peking University forming its appraisal committee.
 
 778
 00:29:42,320 --> 00:29:43,360
-One of the stipulations stated, 
+One of the stipulations stated,
 
 779
 00:29:43,680 --> 00:29:45,440
-Peking University Appraisal Committee 
+Peking University Appraisal Committee
 
 780
 00:29:45,680 --> 00:29:46,960
-may base on actual circumstances 
+may base on actual circumstances
 
 781
 00:29:47,360 --> 00:29:48,640
-dismiss unqualified teaching personnel. 
+dismiss unqualified teaching personnel.
 
 782
 00:29:49,120 --> 00:29:50,480
-These two should suffice to prove 
+These two should suffice to prove
 
 783
 00:29:50,720 --> 00:29:53,600
-Cartwright's litigation is complete nonsense. 
+Cartwright's litigation is complete nonsense.
 
 784
 00:29:54,000 --> 00:29:54,800
