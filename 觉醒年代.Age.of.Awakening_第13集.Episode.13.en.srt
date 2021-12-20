@@ -8,1105 +8,1113 @@
 
 3
 00:00:04,400 --> 00:00:05,520
-
+Greetings, sir.
 
 4
-00:00:07,920 --> 00:00:08,640
-
+00:00:06,954 --> 00:00:08,811
+[Gu Hongming, born Tangsheng, Peking University Professor]
 
 5
-00:00:09,600 --> 00:00:10,320
-
+00:00:07,920 --> 00:00:08,640
+Some rare guests!
 
 6
-00:00:10,720 --> 00:00:13,280
-
+00:00:09,037 --> 00:00:10,424
+[Hu Shi, styled Shizhi, Peking University Professor]
 
 7
-00:00:13,600 --> 00:00:14,400
-
+00:00:09,600 --> 00:00:10,320
+Professor Hu,
 
 8
-00:00:15,040 --> 00:00:17,360
-
+00:00:10,720 --> 00:00:13,280
+Are you here to learn English from me?
 
 9
-00:00:18,000 --> 00:00:18,800
-
+00:00:13,600 --> 00:00:14,400
+Or?
 
 10
-00:00:19,680 --> 00:00:21,040
-
+00:00:13,983 --> 00:00:15,679
+[Chen Duxiu, styled Zhongfu, Peking University Dean of Liberal Arts]
 
 11
-00:00:21,520 --> 00:00:23,760
-
+00:00:15,040 --> 00:00:17,360
+Professor Gu, I'm here to seek you as a master.
 
 12
-00:00:24,000 --> 00:00:24,720
-
+00:00:18,000 --> 00:00:18,800
+How interesting!
 
 13
-00:00:25,920 --> 00:00:28,800
-
+00:00:19,680 --> 00:00:21,040
+You speak in the vernacular,
 
 14
-00:00:32,480 --> 00:00:34,800
-
+00:00:19,874 --> 00:00:21,317
+[Li Dazhao, styled Shouchang, Peking University Library Director]
 
 15
-00:00:36,560 --> 00:00:37,280
-
+00:00:21,520 --> 00:00:23,760
+yet come here to learn English poems.
 
 16
-00:00:38,080 --> 00:00:39,040
-
+00:00:24,000 --> 00:00:24,720
+It doesn't make any sense.
 
 17
-00:00:40,080 --> 00:00:41,120
-
+00:00:25,920 --> 00:00:28,800
+Sir, I'm sincerely here to learn from you.
 
 18
-00:00:42,800 --> 00:00:43,440
-
+00:00:32,480 --> 00:00:34,800
+In that case, have you brought any presents to your master-to-be?
 
 19
-00:00:45,040 --> 00:00:46,160
-
+00:00:36,560 --> 00:00:37,280
+Presents,
 
 20
-00:00:46,400 --> 00:00:47,440
-
+00:00:38,080 --> 00:00:39,040
+didn't you bring them?
 
 21
-00:00:47,760 --> 00:00:48,320
-
+00:00:40,080 --> 00:00:41,120
+Shouchang, have you brought any 
 
 22
-00:00:48,560 --> 00:00:49,120
-
+00:00:42,800 --> 00:00:43,440
+presents to our master-to-be?
 
 23
-00:00:49,200 --> 00:00:50,880
-
+00:00:45,040 --> 00:00:46,160
+I thought it's you who came to be apprenticed.
 
 24
-00:00:55,360 --> 00:00:58,880
-
+00:00:46,400 --> 00:00:47,440
+Right, didn't you bring the presents?
 
 25
-00:00:59,520 --> 00:01:01,040
-
+00:00:47,760 --> 00:00:48,320
+Right?
 
 26
-00:01:01,360 --> 00:01:05,360
-
+00:00:48,560 --> 00:00:49,120
+It's him seeking to be apprenticed.
 
 27
-00:01:05,760 --> 00:01:06,720
-
+00:00:49,200 --> 00:00:50,880
+Professor Gu, I'll treat you with a meal.
 
 28
-00:01:07,280 --> 00:01:08,000
-
+00:00:55,360 --> 00:00:58,880
+I, Gu Hongming, have dined with the emperor before,
 
 29
-00:01:08,880 --> 00:01:10,960
-
+00:00:59,520 --> 00:01:01,040
+I also have eaten next to coolies.
 
 30
-00:01:11,840 --> 00:01:14,720
-
+00:01:01,360 --> 00:01:05,360
+But with snobs who forget their origins and toady to foreign powers, 
 
 31
-00:01:15,200 --> 00:01:17,200
-
+00:01:05,760 --> 00:01:06,720
+never ever!
 
 32
-00:01:18,160 --> 00:01:18,960
-
+00:01:07,280 --> 00:01:08,000
+Not even once!
 
 33
-00:01:19,200 --> 00:01:19,680
-
+00:01:08,880 --> 00:01:10,960
+Mr. Tangsheng, I apologize about the confusion.
 
 34
-00:01:21,600 --> 00:01:23,200
-
+00:01:11,840 --> 00:01:14,720
+We're here by order of Mr. Cai
 
 35
-00:01:23,840 --> 00:01:24,480
-
+00:01:15,200 --> 00:01:17,200
+and we're sending this invitation on behalf of Peking University. 
 
 36
-00:01:25,120 --> 00:01:26,240
-
+00:01:18,160 --> 00:01:18,960
+By order of Mr. Cai?
 
 37
-00:01:26,480 --> 00:01:27,200
-
+00:01:19,200 --> 00:01:19,680
+Exactly.
 
 38
-00:01:28,240 --> 00:01:31,760
-
+00:01:21,600 --> 00:01:23,200
+Then I must honor this invitation.
 
 39
-00:01:32,480 --> 00:01:35,360
-
+00:01:23,840 --> 00:01:24,480
+I must.
 
 40
-00:01:35,760 --> 00:01:38,000
-
+00:01:25,120 --> 00:01:26,240
+But I also have one condition.
 
 41
-00:01:38,320 --> 00:01:39,920
-
+00:01:26,480 --> 00:01:27,200
+Please let us know.
 
 42
-00:01:40,480 --> 00:01:41,760
-
+00:01:28,240 --> 00:01:31,760
+I will pick the restaurant and order drinks and dishes.
 
 43
-00:01:42,240 --> 00:01:45,040
-
+00:01:32,480 --> 00:01:35,360
+And my two servants will also be there to wait on me.
 
 44
-00:01:45,440 --> 00:01:46,880
-
+00:01:35,760 --> 00:01:38,000
+Would you concur with this condition?
 
 45
-00:01:47,200 --> 00:01:47,760
-
+00:01:38,320 --> 00:01:39,920
+We concur, absolutely!
 
 46
-00:01:48,720 --> 00:01:50,720
-
+00:01:40,480 --> 00:01:41,760
+It's all up to you to decide.
 
 47
-00:02:27,920 --> 00:02:28,560
-
+00:01:42,240 --> 00:01:45,040
+Well then, I'll ask my servants to make arrangement.
 
 48
-00:02:29,280 --> 00:02:29,840
-
+00:01:45,440 --> 00:01:46,880
+You can wait for further notice.
 
 49
-00:02:31,680 --> 00:02:32,400
-
+00:01:47,200 --> 00:01:47,760
+Alright.
 
 50
-00:02:34,480 --> 00:02:35,040
-
+00:01:48,720 --> 00:01:50,720
+Sir, please excuse us then.
 
 51
-00:02:35,280 --> 00:02:35,680
-
+00:02:27,920 --> 00:02:28,560
+Thank you, sir.
 
 52
-00:02:35,760 --> 00:02:36,240
-
+00:02:29,280 --> 00:02:29,840
+Thank you.
 
 53
-00:02:37,280 --> 00:02:38,560
-
+00:02:31,680 --> 00:02:32,400
+Please come in side.
 
 54
-00:02:38,720 --> 00:02:39,760
-
+00:02:34,480 --> 00:02:35,040
+Had our guests arrived?
 
 55
-00:02:40,080 --> 00:02:41,120
-
+00:02:35,280 --> 00:02:35,680
+Yes, they have.
 
 56
-00:02:41,440 --> 00:02:42,640
-
+00:02:35,760 --> 00:02:36,240
+How many of them?
 
 57
-00:02:42,960 --> 00:02:44,160
-
+00:02:37,280 --> 00:02:38,560
+Oh, my goodness, today our Donxing Inn 
 
 58
-00:02:44,560 --> 00:02:45,760
-
+00:02:38,720 --> 00:02:39,760
+has an eye-opener!
 
 59
-00:02:47,520 --> 00:02:48,080
-
+00:02:40,080 --> 00:02:41,120
+This Master Gu you invited 
 
 60
-00:02:48,400 --> 00:02:49,280
-
+00:02:41,440 --> 00:02:42,640
+has a huge display.
 
 61
-00:02:49,520 --> 00:02:50,880
-
+00:02:42,960 --> 00:02:44,160
+He has two servants waiting on him.
 
 62
-00:02:51,120 --> 00:02:53,120
-
+00:02:44,560 --> 00:02:45,760
+They are all wearing queues. How dazzling!
 
 63
-00:02:53,840 --> 00:02:54,400
-
+00:02:47,520 --> 00:02:48,080
+Brother Zhongfu,
 
 64
-00:02:55,280 --> 00:02:56,240
-
+00:02:48,400 --> 00:02:49,280
+I feel uncertain now --
 
 65
-00:02:57,040 --> 00:02:58,240
-
+00:02:49,520 --> 00:02:50,880
+What if we didn't bring enough money?
 
 66
-00:02:58,640 --> 00:02:59,440
-
+00:02:51,120 --> 00:02:53,120
+Our guest is probably going to be as extravagant as possible.
 
 67
-00:03:03,040 --> 00:03:05,840
-
+00:02:53,840 --> 00:02:54,400
+Not necessarily.
 
 68
-00:03:34,000 --> 00:03:35,840
-
+00:02:55,280 --> 00:02:56,240
+The reason why he's so affected is  
 
 69
-00:03:38,000 --> 00:03:40,400
-
+00:02:57,040 --> 00:02:58,240
+because he didn't want to be slighted.
 
 70
-00:03:40,800 --> 00:03:42,640
-
+00:02:58,640 --> 00:02:59,440
+He simply lacks confidence.
 
 71
-00:03:43,040 --> 00:03:45,280
-
+00:03:03,040 --> 00:03:05,840
+Why don't you turn off the lights in daytime? Such a waste of wax
 
 72
-00:03:45,760 --> 00:03:47,360
-
+00:03:34,000 --> 00:03:35,840
+Professor Gu, wishing you good health. (In Qing Dynasty style)
 
 73
-00:03:48,240 --> 00:03:49,520
-
+00:03:38,000 --> 00:03:40,400
+We apologize for keeping you wait.
 
 74
-00:03:50,000 --> 00:03:51,600
-
+00:03:40,800 --> 00:03:42,640
+We're all colleagues from Peking University.
 
 75
-00:03:52,560 --> 00:03:55,360
-
+00:03:43,040 --> 00:03:45,280
+Based on seniority, I'm taking my seat at the head of the table.
 
 76
-00:03:55,840 --> 00:03:56,480
-
+00:03:45,760 --> 00:03:47,360
+Dean Chen should take the second seat after that,
 
 77
-00:03:56,560 --> 00:03:58,880
-
+00:03:48,240 --> 00:03:49,520
+followed by Director Li.
 
 78
-00:03:59,680 --> 00:04:01,520
-
+00:03:50,000 --> 00:03:51,600
+According to the etiquette of Qing Empire, 
 
 79
-00:04:04,160 --> 00:04:05,040
-
+00:03:52,560 --> 00:03:55,360
+Dr. Hu wouldn't even be eligible for seats at the table.
 
 80
-00:04:05,440 --> 00:04:06,480
-
+00:03:55,840 --> 00:03:56,480
+But today,
 
 81
-00:04:06,640 --> 00:04:07,840
-
+00:03:56,560 --> 00:03:58,880
+since you were sent here by Chancellor Cai,
 
 82
-00:04:10,480 --> 00:04:10,960
-
+00:03:59,680 --> 00:04:01,520
+please take the end seat.
 
 83
-00:04:12,000 --> 00:04:13,120
-
+00:04:04,160 --> 00:04:05,040
+Thank you for offering us the seats.
 
 84
-00:04:13,520 --> 00:04:14,080
-
+00:04:05,440 --> 00:04:06,480
+Thank you, Professor Gu, for offering us the seats.
 
 85
-00:04:21,600 --> 00:04:24,640
-
+00:04:06,640 --> 00:04:07,840
+Okay, let's sit down.
 
 86
-00:04:25,280 --> 00:04:27,840
-
+00:04:10,480 --> 00:04:10,960
+Waiter,
 
 87
-00:04:29,200 --> 00:04:30,480
-
+00:04:12,000 --> 00:04:13,120
+you may now bring the warm dishes.
 
 88
-00:04:31,040 --> 00:04:32,320
-
+00:04:13,520 --> 00:04:14,080
+Coming soon!
 
 89
-00:04:32,880 --> 00:04:34,960
-
+00:04:21,600 --> 00:04:24,640
+Boundless universe, bright sun and moon.
 
 90
-00:04:35,440 --> 00:04:37,760
-
+00:04:25,280 --> 00:04:27,840
+There are only two decent men in China at the moment.
 
 91
-00:04:38,320 --> 00:04:39,840
-
+00:04:29,200 --> 00:04:30,480
+One is Mr. Cai Yuanpei.
 
 92
-00:04:40,560 --> 00:04:43,360
-
+00:04:31,040 --> 00:04:32,320
+The other is me, Gu Hongming.
 
 93
-00:04:43,600 --> 00:04:45,040
-
+00:04:32,880 --> 00:04:34,960
+For after Mr. Cai was selected to be a member of Imperial Academy,
 
 94
-00:04:45,360 --> 00:04:47,360
-
+00:04:35,440 --> 00:04:37,760
+he refused to become an official, but rather joined the revolution.
 
 95
-00:04:47,840 --> 00:04:48,960
-
+00:04:38,320 --> 00:04:39,840
+He's still part the revolution even till now.
 
 96
-00:04:49,360 --> 00:04:50,720
-
+00:04:40,560 --> 00:04:43,360
+As for me, after I followed Master Zhang Zhidong (one of the four most famous officials of the late Qing dynasty, known for advocating controlled reform and modernization of Chinese troops)
 
 97
-00:04:51,280 --> 00:04:52,240
-
+00:04:43,600 --> 00:04:45,040
+I served the Qing Court, 
 
 98
-00:04:53,040 --> 00:04:56,720
-
+00:04:45,360 --> 00:04:47,360
+and I have remained a Royalist till today.
 
 99
-00:04:57,200 --> 00:04:58,560
-
+00:04:47,840 --> 00:04:48,960
+For a Royalist such as myself,
 
 100
-00:04:58,960 --> 00:05:01,120
-
+00:04:49,360 --> 00:04:50,720
+I only follow orders of two people.
 
 101
-00:05:02,000 --> 00:05:03,840
-
+00:04:51,280 --> 00:04:52,240
+One is the Emperor himself,
 
 102
-00:05:04,960 --> 00:05:06,240
-
+00:04:53,040 --> 00:04:56,720
+the other is Mr. Cai Yuanpei.
 
 103
-00:05:19,360 --> 00:05:20,160
-
+00:04:57,200 --> 00:04:58,560
+Mr. Cai is my chancellor.
 
 104
-00:05:20,800 --> 00:05:21,360
-
+00:04:58,960 --> 00:05:01,120
+He invited me to this meal today, so I was obliged to come.
 
 105
-00:05:28,080 --> 00:05:29,280
-
+00:05:02,000 --> 00:05:03,840
+Therefore, this first cup
 
 106
-00:05:29,760 --> 00:05:32,400
-
+00:05:04,960 --> 00:05:06,240
+is to Chancellor Cai.
 
 107
-00:05:32,960 --> 00:05:34,080
-
+00:05:19,360 --> 00:05:20,160
+We can get started.
 
 108
-00:05:34,400 --> 00:05:36,160
-
+00:05:20,800 --> 00:05:21,360
+Please.
 
 109
-00:05:36,640 --> 00:05:37,120
-
+00:05:28,080 --> 00:05:29,280
+In terms of gourmet food,
 
 110
-00:05:38,800 --> 00:05:41,840
-
+00:05:29,760 --> 00:05:32,400
+the top restaurants in Beijing are the "Eight Inns".
 
 111
-00:05:42,640 --> 00:05:44,320
-
+00:05:32,960 --> 00:05:34,080
+Among the "Eight Inns",
 
 112
-00:05:44,800 --> 00:05:44,800
-
+00:05:34,400 --> 00:05:36,160
+Dongxing Inn takes the first place.
 
 113
-00:05:45,600 --> 00:05:46,480
-
+00:05:36,640 --> 00:05:37,120
+Of course.
 
 114
-00:05:47,920 --> 00:05:48,960
-
+00:05:38,800 --> 00:05:41,840
+The dishes they prepare here belong to the Jiaodong Cuisine of Shandong Province.
 
 115
-00:05:49,440 --> 00:05:50,400
-
+00:05:42,640 --> 00:05:44,320
+You'll be able to have their signature dishes in a bit.
 
 116
-00:05:51,360 --> 00:05:52,640
-
+00:05:45,600 --> 00:05:46,480
+Braised Sliced Chicken with Egg and Milk
 
 117
-00:05:52,880 --> 00:05:54,560
-
+00:05:47,920 --> 00:05:48,960
+Stewed Cuttlefish Roe
 
 118
-00:05:56,000 --> 00:05:58,000
-
+00:05:49,440 --> 00:05:50,400
+Braised Sea Cucumber with Scallion
 
 119
-00:05:58,480 --> 00:05:59,360
-
+00:05:51,360 --> 00:05:52,640
+Stir-fried Chicken with Soybean Sauce
 
 120
-00:06:00,480 --> 00:06:01,760
-
+00:05:52,880 --> 00:05:54,560
+Deep-fried Chicken Gizzards, and etc.
 
 121
-00:06:02,240 --> 00:06:03,280
-
+00:05:56,000 --> 00:05:58,000
+Dr. Hu, this is your first time here, right?
 
 122
-00:06:07,200 --> 00:06:07,840
-
+00:05:58,480 --> 00:05:59,360
+Do the dishes sound intriguing to you?
 
 123
-00:06:08,400 --> 00:06:09,440
-
+00:06:00,480 --> 00:06:01,760
+This meal with Professor Gu is
 
 124
-00:06:10,480 --> 00:06:11,120
-
+00:06:02,240 --> 00:06:03,280
+really eye-opening to me.
 
 125
-00:06:11,520 --> 00:06:12,880
-
+00:06:07,200 --> 00:06:07,840
+Professor Gu,
 
 126
-00:06:13,680 --> 00:06:15,520
-
+00:06:08,400 --> 00:06:09,440
+may I propose a toast to you?
 
 127
-00:06:16,720 --> 00:06:17,760
-
+00:06:10,480 --> 00:06:11,120
+Hang on a minute,
 
 128
-00:06:36,480 --> 00:06:39,680
-
+00:06:11,520 --> 00:06:12,880
+I thought you are here to seek me as your master.
 
 129
-00:06:40,080 --> 00:06:41,200
-
+00:06:13,680 --> 00:06:15,520
+I have to quiz you first. 
 
 130
-00:06:42,080 --> 00:06:45,520
-
+00:06:16,720 --> 00:06:17,760
+Please ask away, sir.
 
 131
-00:06:46,400 --> 00:06:50,720
-
+00:06:36,480 --> 00:06:39,680
+Last year when Zhang Xun was having his birthday,
 
 132
-00:06:51,360 --> 00:06:52,640
-
+00:06:40,080 --> 00:06:41,200
+I sent him a couplet.
 
 133
-00:06:54,560 --> 00:06:56,320
-
+00:06:42,080 --> 00:06:45,520
+The first line was "Lotus wilts and the rain-holding top gone"
 
 134
-00:06:57,920 --> 00:06:59,600
-
+00:06:46,400 --> 00:06:50,720
+The second line reads "Chrysanthemum withers but the frost-resistant stem remains"
 
 135
-00:06:59,680 --> 00:07:02,480
-
+00:06:51,360 --> 00:06:52,640
+What are these two lines referring to?
 
 136
-00:07:03,920 --> 00:07:06,160
-
+00:06:54,560 --> 00:06:56,320
+In the line "Chrysanthemum withers but the frost-resistant stem remains"
 
 137
-00:07:06,720 --> 00:07:07,920
-
+00:06:57,920 --> 00:06:59,600
+the "frost-resistant stem" naturally refers to 
 
 138
-00:07:11,760 --> 00:07:15,200
-
+00:06:59,680 --> 00:07:02,480
+the queue you and Zhang Xun both keeps.
 
 139
-00:07:15,600 --> 00:07:17,520
-
+00:07:03,920 --> 00:07:06,160
+The "rain-holding top" Professor Gu just mentioned 
 
 140
-00:07:21,120 --> 00:07:22,000
-
+00:07:06,720 --> 00:07:07,920
+is of course...
 
 141
-00:07:23,120 --> 00:07:25,600
-
+00:07:11,760 --> 00:07:15,200
+what is it?
 
 142
-00:07:26,160 --> 00:07:27,360
-
+00:07:15,600 --> 00:07:17,520
+I actually have no idea, Professor Gu.
 
 143
-00:07:31,840 --> 00:07:34,000
-
+00:07:21,120 --> 00:07:22,000
+Director Li,
 
 144
-00:07:34,400 --> 00:07:36,400
-
+00:07:23,120 --> 00:07:25,600
+you're the director of Peking University Library.
 
 145
-00:07:38,480 --> 00:07:40,560
-
+00:07:26,160 --> 00:07:27,360
+You should know what it is.
 
 146
-00:07:40,960 --> 00:07:44,320
-
+00:07:31,840 --> 00:07:34,000
+Professor Gu, I have little talent,
 
 147
-00:07:44,800 --> 00:07:47,760
-
+00:07:34,400 --> 00:07:36,400
+but if I'm not mistaken,
 
 148
-00:07:49,200 --> 00:07:51,120
-
+00:07:38,480 --> 00:07:40,560
+this "rain-holding top" should be
 
 149
-00:07:51,440 --> 00:07:52,160
-
+00:07:40,960 --> 00:07:44,320
+the hat worn by Qing Officials.
 
 150
-00:07:53,920 --> 00:07:55,520
-
+00:07:44,800 --> 00:07:47,760
+Smart! You're deserving the title of library director.
 
 151
-00:08:00,480 --> 00:08:03,280
-
+00:07:49,200 --> 00:07:51,120
+Dr. Hu, now you're learning, right?
 
 152
-00:08:03,920 --> 00:08:05,520
-
+00:07:51,440 --> 00:07:52,160
+Thank you for your teaching.
 
 153
-00:08:12,880 --> 00:08:13,520
-
+00:07:53,920 --> 00:07:55,520
+I'm talentless, I'll drink this as a punishment.
 
 154
-00:08:15,920 --> 00:08:18,800
-
+00:08:00,480 --> 00:08:03,280
+Dean Chen has always been articulate person with eloquent speech,
 
 155
-00:08:29,280 --> 00:08:30,240
-
+00:08:03,920 --> 00:08:05,520
+how come you're so quiet today?
 
 156
-00:08:32,320 --> 00:08:33,840
-
+00:08:12,880 --> 00:08:13,520
+Professor Gu,
 
 157
-00:08:35,040 --> 00:08:36,160
-
+00:08:15,920 --> 00:08:18,800
+upon hearing Professor Gu's informed opinion,
 
 158
-00:08:40,640 --> 00:08:42,960
-
+00:08:24,000 --> 00:08:27,000
+which enlightens the benighted and rouses the ignorant,
 
 159
-00:08:43,920 --> 00:08:46,800
-
+00:08:29,280 --> 00:08:30,240
+I all of a sudden
 
 160
-00:08:48,320 --> 00:08:51,360
-
+00:08:32,320 --> 00:08:33,840
+feels... slightly nervous
 
 161
-00:08:52,000 --> 00:08:53,680
-
+00:08:35,040 --> 00:08:36,160
+and didn't know what to contribute to the conversation.
 
 162
-00:08:54,000 --> 00:08:55,280
-
+00:08:40,640 --> 00:08:42,960
+I'm just afraid...
 
 163
-00:08:56,000 --> 00:08:58,960
-
+00:08:43,920 --> 00:08:46,800
+Dean Chen is the standard-bearer of New Culture,
 
 164
-00:08:59,600 --> 00:09:00,400
-
+00:08:48,320 --> 00:08:51,360
+while I'm the clear stream among the Royalists.
 
 165
-00:09:00,640 --> 00:09:02,320
-
+00:08:52,000 --> 00:08:53,680
+We're vehicles on two parallel tracks,
 
 166
-00:09:03,040 --> 00:09:05,120
-
+00:08:54,000 --> 00:08:55,280
+and will never have any intersections.
 
 167
-00:09:05,840 --> 00:09:07,680
-
+00:08:56,000 --> 00:08:58,960
+But Dean Chen is paying respect to worthy and virtuous men today
 
 168
-00:09:08,240 --> 00:09:09,680
-
+00:08:59,600 --> 00:09:00,400
+through this 
 
 169
-00:09:12,320 --> 00:09:16,000
-
+00:09:00,640 --> 00:09:02,320
+sumptuous banquet. 
 
 170
-00:09:22,560 --> 00:09:23,280
-
+00:09:03,040 --> 00:09:05,120
+You must have some favor to ask me.
 
 171
-00:09:24,000 --> 00:09:25,840
-
+00:09:05,840 --> 00:09:07,680
+Now that we've had three rounds of wine,
 
 172
-00:09:26,320 --> 00:09:30,240
-
+00:09:08,240 --> 00:09:09,680
+please just tell me what it is, Dean Chen.
 
 173
-00:09:30,560 --> 00:09:31,520
-
+00:09:12,320 --> 00:09:16,000
+Well, I'll drink up this to show my respect to you first.
 
 174
-00:09:32,640 --> 00:09:36,160
-
+00:09:22,560 --> 00:09:23,280
+Professor Gu,
 
 175
-00:09:37,920 --> 00:09:39,280
-
+00:09:24,000 --> 00:09:25,840
+I assume you've already heard of
 
 176
-00:09:39,440 --> 00:09:41,040
-
+00:09:26,320 --> 00:09:30,240
+the dismissal of Cartwright from our university.
 
 177
-00:09:43,840 --> 00:09:46,720
-
+00:09:30,560 --> 00:09:31,520
+Of course, I have.
 
 178
-00:09:47,280 --> 00:09:50,240
-
+00:09:32,640 --> 00:09:36,160
+If it was not for Mr Cai's mercy,
 
 179
-00:09:50,640 --> 00:09:53,360
-
+00:09:37,920 --> 00:09:39,280
+you probably would have
 
 180
-00:09:53,840 --> 00:09:55,520
-
+00:09:39,440 --> 00:09:41,040
+categorized me with people like Cartwright.
 
 181
-00:09:55,600 --> 00:09:57,520
-
+00:09:43,840 --> 00:09:46,720
+Professor Gu's matter has reached forgone conclusion. 
 
 182
-00:09:57,920 --> 00:09:59,440
-
+00:09:47,280 --> 00:09:50,240
+But the discharge of Cartwright 
 
 183
-00:09:59,520 --> 00:10:03,120
-
+00:09:50,640 --> 00:09:53,360
+had become a thorny pending case nowadays.
 
 184
-00:10:03,440 --> 00:10:04,560
-
+00:09:53,840 --> 00:09:55,520
+Cartwright instigated the British Prime Minister, 
 
 185
-00:10:04,960 --> 00:10:07,760
-
+00:09:55,600 --> 00:09:57,520
+the British Embassy and various of other power 
 
 186
-00:10:08,240 --> 00:10:12,320
-
+00:09:57,920 --> 00:09:59,440
+to pressure Peking University into their terms.
 
 187
-00:10:12,560 --> 00:10:13,520
-
+00:09:59,520 --> 00:10:03,120
+They are pressing false charges against us, including breach of contract
 
 188
-00:10:13,920 --> 00:10:14,880
-
+00:10:03,440 --> 00:10:04,560
+and discrimination against foreigners.
 
 189
-00:10:15,280 --> 00:10:17,280
-
+00:10:04,960 --> 00:10:07,760
+They are demanding apologies, financial compensation and resumption of posts.
 
 190
-00:10:17,920 --> 00:10:20,000
-
+00:10:08,240 --> 00:10:12,320
+They will be satisfied with nothing but Mr Cai's destruction.
 
 191
-00:10:22,080 --> 00:10:23,280
-
+00:10:12,560 --> 00:10:13,520
+This is outrageous!
 
 192
-00:10:23,440 --> 00:10:25,440
-
+00:10:13,920 --> 00:10:14,880
+This Cartwright,
 
 193
-00:10:25,680 --> 00:10:28,160
-
+00:10:15,280 --> 00:10:17,280
+how dare he coerce our Mr. Cai!
 
 194
-00:10:28,400 --> 00:10:30,720
-
+00:10:17,920 --> 00:10:20,000
+I, Gu Hongming, will fight him to death!
 
 195
-00:10:31,440 --> 00:10:34,000
-
+00:10:22,080 --> 00:10:23,280
+After a lot of twists and turns, 
 
 196
-00:10:34,960 --> 00:10:36,080
-
+00:10:23,440 --> 00:10:25,440
+Beiyang Government finally agreed that 
 
 197
-00:10:36,720 --> 00:10:38,560
-
+00:10:25,680 --> 00:10:28,160
+Peking University can form a professor delegation 
 
 198
-00:10:38,880 --> 00:10:42,560
-
+00:10:28,400 --> 00:10:30,720
+to formally negotiate with the British Embassy 
 
 199
-00:10:42,800 --> 00:10:43,440
-
+00:10:31,440 --> 00:10:34,000
+regarding the discharge of Cartwright.
 
 200
-00:10:44,000 --> 00:10:45,600
-
+00:10:34,960 --> 00:10:36,080
+Mr. Cai pointed out,
 
 201
-00:10:45,840 --> 00:10:47,680
-
+00:10:36,720 --> 00:10:38,560
+how can we go to court with the British
 
 202
-00:10:48,160 --> 00:10:51,600
-
+00:10:38,880 --> 00:10:42,560
+without Gu Tangsheng, the Britain Expert?
 
 203
-00:10:52,160 --> 00:10:55,040
-
+00:10:42,800 --> 00:10:43,440
+Indeed.
 
 204
-00:10:55,440 --> 00:10:56,960
-
+00:10:44,000 --> 00:10:45,600
+This why today the three of us
 
 205
-00:10:57,360 --> 00:11:00,240
-
+00:10:45,840 --> 00:10:47,680
+entrusted by Mr. Cai and on behalf of Peking University 
 
 206
-00:11:12,080 --> 00:11:14,640
-
+00:10:48,160 --> 00:10:51,600
+to invite you to take up this important duty.
 
 207
-00:11:16,160 --> 00:11:17,120
-
+00:10:52,160 --> 00:10:55,040
+We sincerely hope Professor Gu would condescend to 
 
 208
-00:11:17,360 --> 00:11:18,240
-
+00:10:55,440 --> 00:10:56,960
+join our professor delegation 
 
 209
-00:11:21,840 --> 00:11:22,640
-
+00:10:57,360 --> 00:11:00,240
+and fight it out with the Brits!
 
 210
-00:11:22,960 --> 00:11:23,600
-
+00:11:12,080 --> 00:11:14,640
+No one knows me better than Mr. Cai!
 
 211
-00:11:24,160 --> 00:11:25,280
-
+00:11:16,160 --> 00:11:17,120
+You don't have to do it yourself, I'll help.
 
 212
-00:11:29,760 --> 00:11:31,360
-
+00:11:17,360 --> 00:11:18,240
+I'll help, don't worry.
 
 213
-00:11:32,160 --> 00:11:32,880
-
+00:11:21,840 --> 00:11:22,640
+Sorry, sorry.
 
 214
-00:11:33,440 --> 00:11:34,240
-
+00:11:22,960 --> 00:11:23,600
+I was just... Alright.
 
 215
-00:11:34,560 --> 00:11:36,320
-
+00:11:24,160 --> 00:11:25,280
+Thank you, thank you!
 
 216
-00:11:38,160 --> 00:11:40,400
-
+00:11:29,760 --> 00:11:31,360
+Great, Dean Chen,
 
 217
-00:11:40,880 --> 00:11:41,440
-
+00:11:32,160 --> 00:11:32,880
+Director Li,
 
 218
-00:11:52,960 --> 00:11:54,080
-
+00:11:33,440 --> 00:11:34,240
+Dr. Hu,
 
 219
-00:11:54,720 --> 00:11:56,000
-
+00:11:34,560 --> 00:11:36,320
+for this professor delegation, I'm in!
 
 220
-00:11:56,960 --> 00:11:59,040
-
+00:11:38,160 --> 00:11:40,400
+Let's all drink a toast for this!
 
 221
-00:11:59,760 --> 00:12:01,360
-
+00:11:40,880 --> 00:11:41,440
+Wonderful!
 
 222
-00:12:01,600 --> 00:12:03,920
-
+00:11:52,960 --> 00:11:54,080
+I, old Gu,
 
 223
-00:12:04,160 --> 00:12:04,720
-
+00:11:54,720 --> 00:11:56,000
+went to Britain at the age of ten.
 
 224
-00:12:05,600 --> 00:12:06,720
-
+00:11:56,960 --> 00:11:59,040
+I studied in Europe at fourteen. 
 
 225
-00:12:08,560 --> 00:12:09,360
-
+00:11:59,760 --> 00:12:01,360
+I'm very familiar with the mindset of westerners (British people)
 
 226
-00:12:09,920 --> 00:12:11,440
-
+00:12:01,600 --> 00:12:03,920
+as well as their dispositions and manners.
 
 227
-00:12:12,320 --> 00:12:14,080
-
+00:12:04,160 --> 00:12:04,720
+We can tell.
 
 228
-00:12:14,880 --> 00:12:16,800
-
+00:12:05,600 --> 00:12:06,720
+Let me give you a few pointers:
 
 229
-00:12:17,360 --> 00:12:17,920
-
+00:12:08,560 --> 00:12:09,360
+First, 
 
 230
-00:12:18,320 --> 00:12:19,040
-
+00:12:09,920 --> 00:12:11,440
+aloof and cunning.
 
 231
-00:12:19,280 --> 00:12:20,640
-
+00:12:12,320 --> 00:12:14,080
+They're scared of taking responsibilities, 
 
 232
-00:12:20,960 --> 00:12:22,240
-
+00:12:14,880 --> 00:12:16,800
+they shirk as much as they can.
 
 233
-00:12:22,560 --> 00:12:24,000
-
+00:12:17,360 --> 00:12:17,920
+Right on point!
 
 234
-00:12:24,480 --> 00:12:25,120
-
+00:12:18,320 --> 00:12:19,040
+Second,
 
 235
-00:12:26,080 --> 00:12:27,040
-
+00:12:19,280 --> 00:12:20,640
+hypocritical and vain.
 
 236
-00:12:28,320 --> 00:12:28,960
-
+00:12:20,960 --> 00:12:22,240
+On the one hand, they're greedy for profits,
 
 237
-00:12:29,760 --> 00:12:31,280
-
+00:12:22,560 --> 00:12:24,000
+on the other hand, they often feel ashamed to ask bluntly. 
 
 238
-00:12:31,680 --> 00:12:32,000
-
+00:12:24,480 --> 00:12:25,120
+Exactly!
 
 239
-00:12:33,360 --> 00:12:35,760
-
+00:12:26,080 --> 00:12:27,040
+They care only for the show.
 
 240
-00:12:35,840 --> 00:12:35,920
-
+00:12:28,320 --> 00:12:28,960
+Third,
 
 241
-00:12:36,000 --> 00:12:36,720
-
+00:12:29,760 --> 00:12:31,280
+exclusiveness,
 
 242
-00:12:37,120 --> 00:12:37,600
-
+00:12:31,680 --> 00:12:32,000
+Yes!
 
 243
-00:12:37,920 --> 00:12:40,160
-
+00:12:33,360 --> 00:12:36,720
+unsociable, arrogant, stubborn and inarticulate,
 
 244
-00:12:40,960 --> 00:12:42,800
-
+00:12:37,120 --> 00:12:37,600
+Indeed!
 
 245
-00:12:42,880 --> 00:12:43,360
-
+00:12:37,920 --> 00:12:40,160
+difficult towards foreigners. 
 
 246
-00:12:44,320 --> 00:12:45,040
-
+00:12:40,960 --> 00:12:42,800
+Typically island country mindset.
 
 247
-00:12:45,520 --> 00:12:47,120
-
+00:12:42,880 --> 00:12:43,360
+You're right!
 
 248
-00:12:49,360 --> 00:12:50,960
-
+00:12:44,320 --> 00:12:45,040
+Forth,
 
 249
-00:12:51,440 --> 00:12:52,800
-
+00:12:45,520 --> 00:12:47,120
+Conservativeness
 
 250
-00:12:53,280 --> 00:12:55,120
-
+00:12:49,360 --> 00:12:50,960
+Yes!
 
 251
-00:12:57,360 --> 00:12:59,520
-
+00:12:51,440 --> 00:12:52,800
+(Translating "conservativeness" into Chinese)
 
 252
-00:13:01,280 --> 00:13:02,720
-
+00:12:53,280 --> 00:12:55,120
+Extremely reluctant to accept new things.
 
 253
-00:13:03,360 --> 00:13:04,960
-
+00:12:57,360 --> 00:12:59,520
+I'll handle this case successfully.
 
 254
-00:13:06,320 --> 00:13:07,440
-
+00:13:01,280 --> 00:13:02,720
+As soon as I show up,
 
 255
-00:13:07,760 --> 00:13:09,600
-
+00:13:03,360 --> 00:13:04,960
+they will be intimidated.
 
 256
-00:13:10,080 --> 00:13:12,480
-
+00:13:06,320 --> 00:13:07,440
+As soon as I speak,
 
 257
-00:13:16,720 --> 00:13:17,280
-
+00:13:07,760 --> 00:13:09,600
+they will flee pell-mell.
 
 258
-00:13:19,520 --> 00:13:23,120
-
+00:13:10,080 --> 00:13:12,480
+Awesome!
 
 259
-00:13:24,240 --> 00:13:26,800
-
+00:13:16,720 --> 00:13:17,280
+Professor Gu,
 
 260
-00:13:27,760 --> 00:13:28,480
-
+00:13:19,520 --> 00:13:23,120
+Mr. Cai also asked me to tell me that
 
 261
-00:13:31,360 --> 00:13:33,200
-
+00:13:24,240 --> 00:13:26,800
+the chief negotiator of our delegation is
 
 262
-00:13:39,200 --> 00:13:40,880
-
+00:13:27,760 --> 00:13:28,480
+Hu Shi.
 
 263
-00:13:41,600 --> 00:13:43,040
-
+00:13:31,360 --> 00:13:33,200
+The others are supposed to support his work. 
 
 264
-00:13:43,280 --> 00:13:44,000
-
+00:13:39,200 --> 00:13:40,880
+So this is
 
 265
-00:13:57,040 --> 00:14:00,160
-
+00:13:41,600 --> 00:13:43,040
+Mr. Cai's arrangement?
 
 266
-00:14:00,880 --> 00:14:03,440
-
+00:13:43,280 --> 00:13:44,000
+Indeed.
 
 267
-00:14:05,600 --> 00:14:09,040
-
+00:13:57,040 --> 00:14:00,160
+“Within plane tree blossoms lining the roads on Mount Danshan,”
 
 268
-00:14:09,440 --> 00:14:12,160
-
+00:14:00,880 --> 00:14:03,440
+“Sweeter is the singing of young phoenixes than that of seniors.”
 
 269
-00:14:13,120 --> 00:14:14,960
-
+00:14:05,600 --> 00:14:09,040
+Alright, then, I, Gu Hongming, will submit myself to the service of 
 
 270
-00:14:16,160 --> 00:14:17,200
-
+00:14:09,440 --> 00:14:12,160
+this vernacular kid, as his military advisor.
 
 271
-00:14:18,080 --> 00:14:21,200
-
+00:14:13,120 --> 00:14:14,960
+Great! 
 
 272
-00:14:21,840 --> 00:14:23,040
-
+00:14:16,160 --> 00:14:17,200
+Professor Gu,
 
 273
-00:14:23,280 --> 00:14:24,160
-
+00:14:18,080 --> 00:14:21,200
+The three of us will propose a toast to you together.
 
 274
-00:14:25,520 --> 00:14:26,160
-
+00:14:21,840 --> 00:14:23,040
+Thank you, Sir.
 
 275
-00:14:27,280 --> 00:14:28,320
-
+00:14:23,280 --> 00:14:24,160
+Thank you, Sir.
 
 276
-00:14:28,720 --> 00:14:31,280
-
+00:14:25,520 --> 00:14:26,160
+Good!
 
 277
-00:14:31,680 --> 00:14:33,920
-
+00:14:27,280 --> 00:14:28,320
+For Peking University,
 
 278
+00:14:28,720 --> 00:14:31,280
+and for Mr. Cai, cheers!
+
+279
+00:14:31,680 --> 00:14:33,920
+Cheers!
+
+280
 00:14:38,160 --> 00:14:40,560
 The Chinese guests will soon arrive.
 
