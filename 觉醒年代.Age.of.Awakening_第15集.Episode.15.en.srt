@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:00,000 --> 00:00:02,244
 [The Age of Awakening]
 
@@ -71,23 +71,23 @@
 
 
 19
-00:00:45,760 --> 00:00:45,760
+00:00:45,760 --> 00:00:45,770
 
 
 20
-00:00:46,320 --> 00:00:46,320
+00:00:46,320 --> 00:00:46,330
 
 
 21
-00:00:47,120 --> 00:00:47,120
+00:00:47,120 --> 00:00:47,130
 
 
 22
-00:00:48,080 --> 00:00:48,080
+00:00:48,080 --> 00:00:48,090
 
 
 23
-00:00:48,160 --> 00:00:48,160
+00:00:48,160 --> 00:00:48,170
 
 
 24
@@ -95,7 +95,7 @@
 
 
 25
-00:00:53,440 --> 00:00:53,440
+00:00:53,440 --> 00:00:53,450
 
 
 26
@@ -591,7 +591,7 @@
 
 
 149
-00:05:09,360 --> 00:05:09,360
+00:05:09,360 --> 00:05:09,370
 
 
 150
@@ -599,11 +599,11 @@
 
 
 151
-00:05:12,240 --> 00:05:12,240
+00:05:12,240 --> 00:05:12,250
 
 
 152
-00:05:12,480 --> 00:05:12,480
+00:05:12,480 --> 00:05:12,490
 
 
 153
@@ -1003,23 +1003,23 @@
 
 
 252
-00:09:00,960 --> 00:09:00,960
+00:09:00,960 --> 00:09:00,970
 
 
 253
-00:09:01,120 --> 00:09:01,120
+00:09:01,120 --> 00:09:01,130
 
 
 254
-00:09:01,200 --> 00:09:01,200
+00:09:01,200 --> 00:09:01,210
 
 
 255
-00:09:01,280 --> 00:09:01,280
+00:09:01,280 --> 00:09:01,290
 
 
 256
-00:09:01,840 --> 00:09:01,840
+00:09:01,840 --> 00:09:01,850
 
 
 257
@@ -1111,7 +1111,7 @@
 
 
 279
-00:11:42,960 --> 00:11:42,960
+00:11:42,960 --> 00:11:42,970
 
 
 280
@@ -1151,7 +1151,7 @@
 
 
 289
-00:12:21,840 --> 00:12:21,840
+00:12:21,840 --> 00:12:21,850
 
 
 290
@@ -1163,7 +1163,7 @@
 
 
 292
-00:12:27,360 --> 00:12:27,360
+00:12:27,360 --> 00:12:27,370
 
 
 293
@@ -1315,7 +1315,7 @@
 
 
 330
-00:13:46,880 --> 00:13:46,880
+00:13:46,880 --> 00:13:46,890
 
 
 331
@@ -1495,7 +1495,7 @@
 
 
 375
-00:15:20,240 --> 00:15:20,240
+00:15:20,240 --> 00:15:20,250
 
 
 376
@@ -1532,1130 +1532,1130 @@
 
 384
 00:15:30,240 --> 00:15:30,480
-
+Come, come, come.
 
 385
 00:15:30,640 --> 00:15:31,760
-
+Meeting time! Meeting time! (?)
 
 386
 00:15:32,720 --> 00:15:34,000
-
+I already went over the discussion we had before (?)
 
 387
 00:15:34,080 --> 00:15:34,560
-
+and corrected it. (?)
 
 388
 00:15:35,200 --> 00:15:35,760
-
+Here, here, here.
 
 389
 00:15:35,920 --> 00:15:36,400
-
+Be careful.
 
 390
 00:15:36,640 --> 00:15:37,600
-
+Careful, careful.
 
 391
-00:15:38,480 --> 00:15:38,480
+00:15:38,480 --> 00:15:38,490
 
 
 392
 00:15:39,360 --> 00:15:40,960
-
+You take a look and see what else is missing.
 
 393
 00:15:41,040 --> 00:15:42,400
-
+I'll change it again, and add more.
 
 394
 00:15:43,280 --> 00:15:44,320
-
+Come. Put it over there, put it over there.
 
 395
 00:15:44,800 --> 00:15:45,280
-
+It's quite detailed. Alright!
 
 396
 00:15:45,680 --> 00:15:46,320
-
+Look at this.
 
 397
 00:15:46,560 --> 00:15:47,040
-
+Alright.
 
 398
 00:15:47,200 --> 00:15:47,680
-
+Faster, faster.
 
 399
 00:15:48,080 --> 00:15:48,240
-
+Put it here.
 
 400
 00:15:48,320 --> 00:15:49,040
-
+Not hypocritical. (?)
 
 401
 00:15:49,360 --> 00:15:49,520
-
+Not idle.
 
 402
 00:15:49,680 --> 00:15:50,720
-
+Everyone please take a seat.
 
 403
 00:15:51,040 --> 00:15:51,600
-
+All, please take a seat.
 
 404
 00:15:51,920 --> 00:15:52,160
-
+Quite good.
 
 405
 00:15:52,240 --> 00:15:52,640
-
+Runzhi.
 
 406
 00:15:53,680 --> 00:15:53,920
-
+The meeting's starting.
 
 407
 00:15:54,240 --> 00:15:55,040
-
+Is everyone here?
 
 408
 00:15:55,200 --> 00:15:56,560
-
+Everyone's here.
 
 409
 00:15:56,720 --> 00:15:57,040
-
+Everyone should be here.
 
 410
 00:15:57,360 --> 00:15:57,760
-
+Runzhi.
 
 411
 00:15:58,400 --> 00:16:00,160
-
+Then, we are starting the meeting now.
 
 412
 00:16:00,880 --> 00:16:01,760
-
+You speak first Xudong.
 
 413
 00:16:02,000 --> 00:16:02,080
-
+Okay.
 
 414
 00:16:07,440 --> 00:16:08,080
-
+All members (?)
 
 415
 00:16:08,720 --> 00:16:09,360
-
+last winter
 
 416
 00:16:09,920 --> 00:16:10,720
-
+Mao Zedong waited for students
 
 417
 00:16:10,800 --> 00:16:11,600
-
+to send suggestions
 
 418
 00:16:11,680 --> 00:16:12,480
-
+to gather comrades
 
 419
 00:16:12,560 --> 00:16:13,360
-
+to organize an association
 
 420
 00:16:13,440 --> 00:16:14,400
-
+to create a new environment
 
 421
 00:16:14,640 --> 00:16:15,520
-
+for joint activities (?)
 
 422
 00:16:15,840 --> 00:16:17,040
-
+got everyone's responses (?)
 
 423
 00:16:17,600 --> 00:16:19,200
-
+Went through a few months of contact (?)
 
 424
 00:16:19,280 --> 00:16:19,840
-
+Now
 
 425
 00:16:20,240 --> 00:16:21,600
-
+finally the conditions are right (?)
 
 426
 00:16:22,400 --> 00:16:23,200
-
+Setting up an association
 
 427
 00:16:23,440 --> 00:16:25,280
-
+the goal is to reform everyone's behavior. (?)
 
 428
 00:16:25,360 --> 00:16:26,640
-
+To improve everyone's knowledge.
 
 429
 00:16:27,040 --> 00:16:27,680
-
+(?) Confucius says:
 
 430
 00:16:28,080 --> 00:16:28,960
-
+the principle of the Great Learning
 
 431
 00:16:29,200 --> 00:16:30,080
-
+is in plain virtue (?)
 
 432
 00:16:30,240 --> 00:16:31,120
-
+is in knowing people (?)
 
 433
 00:16:31,280 --> 00:16:32,560
-
+(?)
 
 434
 00:16:32,960 --> 00:16:33,600
-
+(?)
 
 435
 00:16:33,760 --> 00:16:34,560
-
+(?)
 
 436
 00:16:34,720 --> 00:16:35,520
-
+(?)
 
 437
 00:16:36,160 --> 00:16:36,640
-
+I think
 
 438
 00:16:37,040 --> 00:16:38,320
-
+being a generation of new people (?)
 
 439
 00:16:38,400 --> 00:16:40,560
-
+is our common pursuit.
 
 440
 00:16:41,200 --> 00:16:41,760
-
+Therefore
 
 441
 00:16:42,080 --> 00:16:44,160
-
+our organization's name is called "xinmin Association"
 
 442
 00:16:44,320 --> 00:16:44,960
-
+xinmin Association
 
 443
 00:16:45,120 --> 00:16:45,840
-
+This name is good!
 
 444
 00:16:46,000 --> 00:16:46,400
-
+This name is good!
 
 445
 00:16:46,480 --> 00:16:47,520
-
+Now I declare
 
 446
 00:16:47,600 --> 00:16:49,200
-
+xinmin Association is formally established.
 
 447
 00:16:49,520 --> 00:16:51,680
-
+Good!
 
 448
 00:16:54,560 --> 00:16:55,520
-
+Now asking Mao Zedong
 
 449
 00:16:55,680 --> 00:16:57,760
-
+to read "xinmin Association's regulations" (?)
 
 450
 00:17:04,560 --> 00:17:05,200
-
+All members
 
 451
 00:17:06,160 --> 00:17:07,280
-
+our xinmin Association
 
 452
 00:17:07,440 --> 00:17:09,520
-
+emerged from the New Culture Movement. (?)
 
 453
 00:17:09,840 --> 00:17:10,640
-
+Its characteristic
 
 454
 00:17:10,800 --> 00:17:11,840
-
+is also its spirit.
 
 455
 00:17:12,080 --> 00:17:12,720
-
+There's only one.
 
 456
 00:17:13,120 --> 00:17:14,080
-
+It is "new".
 
 457
 00:17:14,720 --> 00:17:15,040
-
+Therefore,
 
 458
 00:17:15,280 --> 00:17:16,240
-
+we need to use new ideas
 
 459
 00:17:16,640 --> 00:17:17,440
-
+new culture
 
 460
 00:17:17,600 --> 00:17:18,320
-
+new ethics
 
 461
 00:17:18,400 --> 00:17:20,080
-
+to arm the minds of our members.
 
 462
 00:17:20,240 --> 00:17:22,080
-
+To improve the moral conduct of our members.
 
 463
 00:17:22,560 --> 00:17:24,080
-
+To improve the learning of our members.
 
 464
 00:17:24,400 --> 00:17:26,640
-
+This is also xinmin Association's original intention
 
 465
 00:17:26,960 --> 00:17:27,760
-
+and mission.
 
 466
 00:17:28,000 --> 00:17:28,400
-
+Therefore
 
 467
 00:17:28,640 --> 00:17:30,400
-
+I believe xinmin association's objective
 
 468
 00:17:30,640 --> 00:17:31,920
-
+is innovative learning, (?)
 
 469
 00:17:32,320 --> 00:17:33,200
-
+honing moral conduct,
 
 470
 00:17:33,440 --> 00:17:35,440
-
+to improve the will of the people and social custom. (?)
 
 471
 00:17:36,000 --> 00:17:36,640
-
+Consequently
 
 472
 00:17:36,720 --> 00:17:37,360
-
+the association's regulations
 
 473
 00:17:37,840 --> 00:17:39,680
-
+every member must be able to accomplish them. (?)
 
 474
 00:17:39,760 --> 00:17:40,800
-
+First, don't be hypocritical.
 
 475
 00:17:41,200 --> 00:17:42,320
-
+Second, don't be idle.
 
 476
 00:17:42,640 --> 00:17:43,840
-
+Third, don't be wasteful.
 
 477
 00:17:44,000 --> 00:17:44,960
-
+Fourth, don't gamble.
 
 478
-00:17:45,840 --> 00:17:45,840
+00:17:45,840 --> 00:17:45,850
 
 
 479
 00:17:46,080 --> 00:17:46,160
-
+Fifth, don't visit prostitutes (?)
 
 480
-00:17:46,480 --> 00:17:46,480
+00:17:46,480 --> 00:17:46,490
 
 
 481
 00:17:47,200 --> 00:17:47,600
-
+I say
 
 482
 00:17:47,840 --> 00:17:49,840
-
+Isn't this a bit too strict (?)
 
 483
 00:17:50,000 --> 00:17:51,040
-
+It's too harsh.
 
 484
 00:17:51,200 --> 00:17:52,320
-
+I think what Runzhi said is right.
 
 485
 00:17:52,640 --> 00:17:54,000
-
+Where is it too strict, it should be strict like this. (?)
 
 486
 00:17:54,160 --> 00:17:55,040
-
+It should be like this. (?)
 
 487
 00:17:55,280 --> 00:17:56,320
-
+Everyone please quiet down.
 
 488
 00:17:59,760 --> 00:18:02,320
-
+Now we'll follow the regulations and carry out a vote. (?)
 
 489
 00:18:02,480 --> 00:18:03,680
-
+Those who agree raise your hands.
 
 490
 00:18:12,160 --> 00:18:12,720
-
+It passes.
 
 491
 00:18:14,960 --> 00:18:15,840
-
+All members
 
 492
 00:18:16,000 --> 00:18:16,960
-
+According to the regulations,
 
 493
 00:18:17,120 --> 00:18:19,520
-
+xinmin Association establishes one secretary-general (?)
 
 494
 00:18:19,680 --> 00:18:20,480
-
+Two executive secretaries (?)
 
 495
 00:18:20,640 --> 00:18:23,040
-
+The preparation group... also already sought everyone's opinions (?)
 
 496
 00:18:23,200 --> 00:18:24,400
-
+Seeing that member Xiao Zisheng
 
 497
 00:18:24,480 --> 00:18:25,520
-
+already completed studies
 
 498
 00:18:25,760 --> 00:18:26,640
-
+and graduated
 
 499
 00:18:26,800 --> 00:18:27,920
-
+if there is a time when (?)
 
 500
 00:18:28,000 --> 00:18:29,680
-
+You can engage in the association's work. (?)
 
 501
 00:18:30,160 --> 00:18:31,440
-
+Recommend for general-secretary
 
 502
 00:18:31,840 --> 00:18:32,640
-
+Mao Zedong
 
 503
 00:18:32,880 --> 00:18:34,320
-
+Chen Shunong for executive secretary
 
 504
 00:18:34,960 --> 00:18:36,080
-
+Those who agree please raise your hands.
 
 505
 00:18:42,800 --> 00:18:43,840
-
+Pass through a unanimous vote (?)
 
 506
 00:18:48,080 --> 00:18:49,440
-
+Thank you for everyone's trust
 
 507
 00:18:49,600 --> 00:18:52,240
-
+But recently I have been getting in touch to go to France to study
 
 508
 00:18:52,960 --> 00:18:53,680
-
+Runzhi
 
 509
 00:18:53,920 --> 00:18:54,800
-
+The association's matters
 
 510
 00:18:54,960 --> 00:18:56,160
-
+still asking you to worry about (?)
 
 511
 00:18:56,240 --> 00:18:57,040
-
+It's my duty.
 
 512
 00:18:57,680 --> 00:18:59,840
-
+I hope I can do more for everyone (?)
 
 513
 00:19:00,000 --> 00:19:00,320
-
+Okay!
 
 514
 00:19:03,600 --> 00:19:04,320
-
+I believe
 
 515
 00:19:04,400 --> 00:19:06,160
-
+Member Zuzhi's work-study program in France (?)
 
 516
 00:19:06,320 --> 00:19:07,680
-
+is very necessary.
 
 517
 00:19:08,160 --> 00:19:09,440
-
+Also the association's (?)
 
 518
 00:19:09,520 --> 00:19:10,880
-
+one of the most major work (?)
 
 519
 00:19:11,280 --> 00:19:11,840
-
+Runzhi
 
 520
 00:19:12,400 --> 00:19:13,120
-
+This matter
 
 521
 00:19:13,440 --> 00:19:14,160
-
+we are troubling you with. (?)
 
 522
 00:19:18,320 --> 00:19:18,800
-
+Although
 
 523
 00:19:19,360 --> 00:19:21,040
-
+I am not very interested in going abroad to study
 
 524
 00:19:21,600 --> 00:19:22,640
-
+but I still wish
 
 525
 00:19:22,800 --> 00:19:24,160
-
+I can do more for everyone. (?)
 
 526
 00:19:24,960 --> 00:19:25,520
-
+Moreover,
 
 527
 00:19:25,760 --> 00:19:27,280
-
+I heard Mr. Yang Changji say before,
 
 528
 00:19:27,600 --> 00:19:28,160
-
+Cai Yuanpei is waiting for people
 
 529
 00:19:28,480 --> 00:19:29,280
-
+in Beijing
 
 530
 00:19:29,360 --> 00:19:31,120
-
+to start a prepatory school for (?)
 
 531
 00:19:31,200 --> 00:19:32,000
-
+sending people to a work-study program in France. (?)
 
 532
 00:19:32,480 --> 00:19:32,960
-
+I want to
 
 533
 00:19:33,120 --> 00:19:34,000
-
+write a letter to give Mr. Yang
 
 534
 00:19:34,240 --> 00:19:35,280
-
+to get him to help connect us. (?)
 
 535
 00:19:35,600 --> 00:19:36,320
-
+That's so good!
 
 536
 00:19:38,160 --> 00:19:38,640
-
+Runzhi
 
 537
 00:19:43,200 --> 00:19:45,280
-
+The France work-study program is a good matter (?)
 
 538
 00:19:45,360 --> 00:19:46,320
-
+You have to work hard on this. (?)
 
 539
 00:19:50,160 --> 00:19:50,800
-
+Children (?)
 
 540
 00:19:52,320 --> 00:19:53,760
-
+If it is doable
 
 541
 00:19:54,000 --> 00:19:57,200
-
+This elderly lady is also doing the work-study program in France.
 
 542
 00:19:57,680 --> 00:19:58,720
-
+Broaden the horizons.
 
 543
 00:19:58,800 --> 00:20:00,240
-
+Learn more new things.
 
 544
 00:20:00,960 --> 00:20:01,120
-
+Okay!
 
 545
 00:20:01,360 --> 00:20:01,840
-
+Welcome!
 
 546
 00:20:02,160 --> 00:20:03,920
-
+Welcoming aunt to go! My . (?)
 
 547
 00:20:11,040 --> 00:20:13,040
-
+April, 1918
 
 548
 00:20:13,680 --> 00:20:14,560
-
+Mao Zedong
 
 549
 00:20:14,800 --> 00:20:15,760
-
+Cai Hesen
 
 550
 00:20:15,840 --> 00:20:17,120
-
+He Shuheng etc
 
 551
 00:20:17,200 --> 00:20:19,520
-
+Established xinmin Association in Changsha.
 
 552
 00:20:20,400 --> 00:20:21,840
-
+This is New Culture Movement
 
 553
 00:20:21,920 --> 00:20:24,080
-
+(?)
 
 554
 00:20:24,240 --> 00:20:27,360
-
+(?)
 
 555
 00:20:28,080 --> 00:20:30,960
-
+Young Mao Zedong (?)
 
 556
 00:20:31,040 --> 00:20:34,400
-
+Seek  (?)
 
 557
 00:20:37,840 --> 00:20:38,880
-
+Exploitative exploitative exploitative.
 
 558
 00:20:39,040 --> 00:20:40,320
-
+these three "exploitatives" were written well. (?)
 
 559
 00:20:40,560 --> 00:20:41,360
-
+Everyone.
 
 560
 00:20:41,520 --> 00:20:42,320
-
+Wait, wait, wait.
 
 561
 00:20:42,480 --> 00:20:43,600
-
+Brother Zhongfu. Today, you
 
 562
 00:20:43,840 --> 00:20:45,600
-
+will stand on this chair and talk to everyone.
 
 563
 00:20:45,840 --> 00:20:47,360
-
+As for us, we will get a taste of
 
 564
 00:20:47,600 --> 00:20:49,120
-
+the elegant manner of brother Zhongfu's lecture.
 
 565
 00:20:50,080 --> 00:20:51,360
-
+Sure!
 
 566
 00:20:51,600 --> 00:20:53,120
-
+It's still teacher (?) who understands my mood.
 
 567
 00:20:53,520 --> 00:20:55,360
-
+(?)
 
 568
 00:20:55,600 --> 00:20:58,240
-
+Our New Youth magazine already became
 
 569
 00:20:58,400 --> 00:21:00,560
-
+China's most influential publication.
 
 570
 00:21:00,960 --> 00:21:02,000
-
+Good!
 
 571
 00:21:02,800 --> 00:21:03,920
-
+What's special is this period
 
 572
 00:21:04,320 --> 00:21:06,000
-
+Lu Xun's novel in vernacular writing (?)
 
 573
 00:21:06,320 --> 00:21:07,360
-
+"Diary of A Madam"
 
 574
 00:21:07,680 --> 00:21:08,720
-
+aroused the attention of all social circles. (?)
 
 575
 00:21:09,120 --> 00:21:10,240
-
+We can say this is (?)
 
 576
 00:21:10,480 --> 00:21:12,240
-
+New Culture Movement's milestone
 
 577
 00:21:12,720 --> 00:21:13,440
-
+Good! Brother Zhongfu.
 
 578
 00:21:13,840 --> 00:21:14,560
-
+What did I say before? (?)
 
 579
 00:21:14,800 --> 00:21:16,480
-
+If New Youth wants to be popular it has to come to Beijing.
 
 580
 00:21:16,800 --> 00:21:17,760
-
+You, you, you. Come down. You come down.
 
 581
 00:21:18,000 --> 00:21:18,480
-
+Come down and talk.
 
 582
 00:21:18,720 --> 00:21:19,680
-
+Let me stay up here to say a paragraph.
 
 583
 00:21:20,160 --> 00:21:20,720
-
+Okay, okay. You stand and talk.
 
 584
 00:21:20,960 --> 00:21:21,520
-
+I'll tell you
 
 585
 00:21:21,760 --> 00:21:22,800
-
+admittedly it's true that location is important.
 
 586
 00:21:23,120 --> 00:21:25,360
-
+But the determining factor
 
 587
 00:21:25,840 --> 00:21:26,640
-
+is still people.
 
 588
 00:21:27,120 --> 00:21:27,760
-
+What you said is right.
 
 589
 00:21:28,000 --> 00:21:29,120
-
+Brother Zhongfu. Come. Runrun (?)
 
 590
 00:21:30,240 --> 00:21:32,400
-
+I very much approve this point of brother Zhongfu.
 
 591
 00:21:32,880 --> 00:21:33,840
-
+People are the most important.
 
 592
 00:21:34,800 --> 00:21:37,360
-
+Since this publication's profits went up
 
 593
 00:21:37,440 --> 00:21:38,000
-
+My proposal
 
 594
 00:21:38,240 --> 00:21:41,760
-
+The editors' wage, author's remuneration of this publisher (?)
 
 595
 00:21:42,160 --> 00:21:43,200
-
+shouldn't it-
 
 596
 00:21:44,000 --> 00:21:44,960
-
+Professor Shen
 
 597
 00:21:45,440 --> 00:21:48,080
-
+Why do you bring up money as soon as you talk? (?)
 
 598
 00:21:48,640 --> 00:21:50,640
-
+Senior Chen. That's not what I mean.
 
 599
 00:21:50,880 --> 00:21:51,840
-
+I don't care what meaning you have
 
 600
 00:21:52,080 --> 00:21:53,040
-
+being editor-in-chief
 
 601
 00:21:53,280 --> 00:21:54,480
-
+I have to remind everyone
 
 602
 00:21:54,800 --> 00:21:56,720
-
+New Youth (?)
 
 603
 00:21:56,800 --> 00:21:57,920
-
+First results (?)
 
 604
 00:21:58,000 --> 00:21:59,440
-
+We still can't have our thoughts (?)
 
 605
 00:21:59,600 --> 00:22:00,400
-
+used on other places.
 
 606
 00:22:01,040 --> 00:22:01,680
-
+Brother Zhongfu.
 
 607
 00:22:01,840 --> 00:22:02,960
-
+Brother Yinmo.
 
 608
 00:22:03,200 --> 00:22:04,320
-
+I believe
 
 609
 00:22:04,560 --> 00:22:06,400
-
+Brother Zhongfu's reminder is right.
 
 610
 00:22:06,960 --> 00:22:09,760
-
+To be in a successful big situation, we must have strict requirements. (?)
 
 611
 00:22:10,160 --> 00:22:12,720
-
+But, what brother Yinmo said is also reasonable.
 
 612
 00:22:13,520 --> 00:22:14,880
-
+See, profits rose.
 
 613
 00:22:15,360 --> 00:22:16,880
-
+Raising the editor wage, author remuneration too (?)
 
 614
 00:22:17,120 --> 00:22:18,240
-
+is not inexcusable. (?)
 
 615
 00:22:18,720 --> 00:22:21,280
-
+This editor wage, author's remuneration going up
 
 616
 00:22:22,000 --> 00:22:23,600
-
+The magazine's set price also goes down (?)
 
 617
 00:22:24,240 --> 00:22:25,840
-
+This was the original aspiration to implement (?)
 
 618
 00:22:26,080 --> 00:22:27,360
-
+Have the reader's principle (?)
 
 619
 00:22:27,440 --> 00:22:29,520
-
+Okay. We will check this principle (?)
 
 620
 00:22:29,840 --> 00:22:31,440
-
+Okay. Come. Talk about the main topic. (?)
 
 621
 00:22:33,440 --> 00:22:35,440
-
+The editorial board we have today is very important.
 
 622
 00:22:35,920 --> 00:22:37,840
-
+There's two matters we need to discuss over. (?)
 
 623
 00:22:38,960 --> 00:22:41,280
-
+First, starting from this period
 
 624
 00:22:41,520 --> 00:22:43,840
-
+All articles without exception will use vernacular writing (?)
 
 625
 00:22:44,320 --> 00:22:45,280
-
+This creation (?)
 
 626
 00:22:45,600 --> 00:22:48,720
-
+(?)
 
 627
 00:22:49,120 --> 00:22:50,880
-
+(?)
 
 628
 00:22:51,520 --> 00:22:53,440
-
+Second, starting from next period
 
 629
 00:22:53,680 --> 00:22:54,960
-
+New Youth magazine
 
 630
 00:22:55,040 --> 00:22:57,040
-
+will implement an editorial board responsibility system (?)
 
 631
 00:22:57,760 --> 00:23:00,320
-
+through editorial members taking turns (?)
 
 632
 00:23:00,960 --> 00:23:02,720
-
+every period's editing affairs (?)
 
 633
 00:23:03,280 --> 00:23:05,440
-
+editorial board's person-in-charge is Chen Duxiu.
 
 634
 00:23:06,080 --> 00:23:08,640
-
+Present and today's missing Huzhi (?)
 
 635
 00:23:08,960 --> 00:23:11,360
-
+are all the editorial board's official members. (?)
 
 636
 00:23:11,840 --> 00:23:13,360
-
+From this, our New Youth
 
 637
 00:23:13,600 --> 00:23:15,040
-
+will enter a new stage. (?)
 
 638
 00:23:16,320 --> 00:23:19,680
-
+Can I become a member of an outside editorial? (?)
 
 639
 00:23:19,760 --> 00:23:20,160
-
+I don't agree.
 
 640
 00:23:20,480 --> 00:23:21,120
-
+Why?
 
 641
 00:23:21,520 --> 00:23:22,080
-
+I already said
 
 642
 00:23:22,240 --> 00:23:24,160
-
+those present are all official members.
 
 643
 00:23:24,960 --> 00:23:26,080
-
+(?)
 
 644
 00:23:26,640 --> 00:23:27,600
-
+What are everyone's opinions.
 
 645
 00:23:28,960 --> 00:23:30,480
-
+This editorial, it must be this editorial. (?)
 
 646
 00:23:31,040 --> 00:23:32,000
-
+Such an enthusiastic applause
 
 647
 00:23:32,800 --> 00:23:33,920
-
+we can only pass this.
 
 648
 00:23:34,400 --> 00:23:36,080
-
+Next, we request this
 
 649
 00:23:36,320 --> 00:23:37,840
-
+believing himself as a member of another editorial (?)
 
 650
 00:23:38,320 --> 00:23:39,280
-
+to say a few words to everyone.
 
 651
 00:23:41,680 --> 00:23:43,600
-
+I (?)
 
 652
 00:23:44,480 --> 00:23:45,520
-
+Having a way of thinking like this (?)
 
 653
 00:23:45,760 --> 00:23:46,960
-
+also counts as a kind of awareness. (?)
 
 654
 00:23:47,520 --> 00:23:49,920
-
+In my brain repeatedly mulling (?)
 
 655
 00:23:50,160 --> 00:23:52,000
-
+(?)
 
 656
 00:23:52,240 --> 00:23:53,200
-
+(?)
 
 657
 00:23:53,360 --> 00:23:54,560
-
+Everyone, let's discuss
 
 658
 00:23:55,200 --> 00:23:58,320
-
+The time Zhongfu has come to Peking University has been about
 
 659
 00:23:59,120 --> 00:24:00,000
-
+has been one year.
 
 660
 00:24:00,560 --> 00:24:00,880
-
+It's been a year.
 
 661
 00:24:00,960 --> 00:24:01,600
-
+It's been more than a year.
 
 662
 00:24:02,000 --> 00:24:02,880
-
+One year and half.
 
 663
 00:24:03,920 --> 00:24:05,920
-
+Look, a year and a half ago,
 
 664
 00:24:06,480 --> 00:24:06,560
-
+when Zhongfu arrived at Peking University,
 
 665
-00:24:06,640 --> 00:24:06,640
+00:24:06,640 --> 00:24:06,650
 
 
 666
@@ -2664,355 +2664,355 @@
 
 667
 00:24:07,760 --> 00:24:09,120
-
+I requested him for New Youth
 
 668
 00:24:09,200 --> 00:24:10,000
-
+to be brought into Peking University
 
 669
 00:24:10,080 --> 00:24:11,920
-
+This still went by a short time (?)
 
 670
 00:24:12,400 --> 00:24:13,760
-
+But New Youth this (?)
 
 671
 00:24:13,840 --> 00:24:16,240
-
+represents New Culture Movement's model magazine. (?)
 
 672
 00:24:16,720 --> 00:24:18,320
-
+In Beijing. Even all over the country.
 
 673
 00:24:18,720 --> 00:24:19,680
-
+Acting alone. (?)
 
 674
 00:24:20,560 --> 00:24:21,280
-
+Mr. Cai
 
 675
 00:24:21,760 --> 00:24:22,720
-
+I believe right now
 
 676
 00:24:23,120 --> 00:24:24,720
-
+everyone should strike while the iron is hot.
 
 677
 00:24:25,760 --> 00:24:28,080
-
+Set off the climax of New Culture at Peking University. (?)
 
 678
 00:24:28,640 --> 00:24:30,240
-
+Then, make use of New Youth
 
 679
 00:24:30,320 --> 00:24:31,040
-
+acting as a model. (?)
 
 680
 00:24:31,680 --> 00:24:32,880
-
+Encite Peking University's teachers and students
 
 681
 00:24:33,440 --> 00:24:34,800
-
+(?)
 
 682
 00:24:35,920 --> 00:24:39,360
-
+The crucial point is to come out with more different voices. (?)
 
 683
 00:24:41,920 --> 00:24:43,440
-
+Okay, okay, okay. Come out with more voices. (?)
 
 684
 00:24:44,160 --> 00:24:46,720
-
+That... He always disrupts me. (?)
 
 685
 00:24:47,760 --> 00:24:49,360
-
+Have opposition, have support. (?)
 
 686
 00:24:49,680 --> 00:24:50,800
-
+Even have derision. (?)
 
 687
 00:24:51,360 --> 00:24:54,480
-
+Have New Culture be within derision and struggle
 
 688
 00:24:54,800 --> 00:24:55,680
-
+and grow sturdy and strong out of it.(?)
 
 689
 00:24:55,840 --> 00:24:56,480
-
+Okay.
 
 690
 00:24:57,120 --> 00:24:58,080
-
+Well said!
 
 691
 00:25:00,560 --> 00:25:01,440
-
+I heard (?)
 
 692
 00:25:02,080 --> 00:25:02,960
-
+this Huang Kan
 
 693
-00:25:03,040 --> 00:25:03,040
+00:25:03,040 --> 00:25:03,050
 
 
 694
 00:25:03,440 --> 00:25:06,000
-
+has recently often with Gu Hongming and Liu Shipei (?)
 
 695
 00:25:06,400 --> 00:25:08,400
-
+gone together to Lin Shu's house to meet. (?)
 
 696
 00:25:08,800 --> 00:25:09,840
-
+Doing what?
 
 697
 00:25:10,160 --> 00:25:12,160
-
+Looking into how to take down our New Youth.
 
 698
 00:25:14,320 --> 00:25:15,760
-
+I say, bother Deqian
 
 699
 00:25:16,000 --> 00:25:16,880
-
+this is nothing much. (?)
 
 700
 00:25:17,200 --> 00:25:18,080
-
+This isn't exact proof.
 
 701
 00:25:18,320 --> 00:25:20,160
-
+The power of New Culture is in (?)
 
 702
 00:25:20,640 --> 00:25:22,800
-
+the shock it causes in everyone's hearts. (?)
 
 703
 00:25:23,200 --> 00:25:24,160
-
+Seeing a small part. (?)
 
 704
 00:25:27,280 --> 00:25:28,640
-
+Okay. Just put it over here.
 
 705
 00:25:29,520 --> 00:25:30,800
-
+I'll talk about a matter to everyone. (?)
 
 706
 00:25:30,880 --> 00:25:32,000
-
+The other day (?)
 
 707
 00:25:32,720 --> 00:25:34,880
-
+I received a letter from old gentleman Lin. (?)
 
 708
 00:25:35,360 --> 00:25:37,200
-
+In the letter, regarding our Peking University
 
 709
 00:25:37,520 --> 00:25:40,480
-
+advocating and lifting the New Culture Movement, (?)
 
 710
 00:25:40,720 --> 00:25:42,080
-
+expressed strong dissatisfaction.
 
 711
 00:25:43,760 --> 00:25:46,400
-
+In the letter, old gentleman also used very sharp words.
 
 712
 00:25:47,280 --> 00:25:48,080
-
+I told him,
 
 713
 00:25:48,160 --> 00:25:49,280
-
+I said old gentleman Lin
 
 714
 00:25:49,680 --> 00:25:51,120
-
+you can come to Peking University and take a look.
 
 715
 00:25:51,760 --> 00:25:52,560
-
+If necessary,
 
 716
 00:25:53,040 --> 00:25:56,080
-
+you can also set up a lecture at the university.
 
 717
 00:25:56,960 --> 00:25:57,920
-
+My meaning is/intention (?)
 
 718
 00:25:58,320 --> 00:26:00,160
-
+let those towards New Culture Movement
 
 719
 00:26:00,240 --> 00:26:02,640
-
+masters of national culture who maintain an opposing opinion (?)
 
 720
 00:26:03,200 --> 00:26:06,000
-
+also have a speaking platform at Peking University.
 
 721
 00:26:06,400 --> 00:26:08,000
-
+We who engage in the New Culture Movement
 
 722
 00:26:08,960 --> 00:26:10,480
-
+ought to have this magnanimity.
 
 723
 00:26:11,200 --> 00:26:12,400
-
+What does everyone think?
 
 724
 00:26:12,560 --> 00:26:13,440
-
+No problem.
 
 725
 00:26:14,000 --> 00:26:15,040
-
+We are not afraid of being scolded.
 
 726
 00:26:15,200 --> 00:26:16,080
-
+We are also not afraid to argue.
 
 727
 00:26:16,480 --> 00:26:18,160
-
+Not right. It's not arguing.
 
 728
 00:26:18,720 --> 00:26:20,000
-
+We are not afraid of challenges.
 
 729
 00:26:20,320 --> 00:26:22,080
-
+We grow from challenges. (?)
 
 730
 00:26:22,480 --> 00:26:23,120
-
+Correct.
 
 731
 00:26:23,840 --> 00:26:25,040
-
+If it's like this,
 
 732
 00:26:25,280 --> 00:26:26,240
-
+I want to say
 
 733
 00:26:26,560 --> 00:26:28,400
-
+whether we rechoose a theme. (?)
 
 734
 00:26:29,120 --> 00:26:30,480
-
+Look
 
 735
 00:26:30,560 --> 00:26:32,880
-
+"Diary of a Madam" that Lu Xun just published
 
 736
 00:26:33,120 --> 00:26:35,040
-
+is already rising in society. (?)
 
 737
 00:26:35,520 --> 00:26:37,760
-
+How can vernacular writing be used as a topic to discuss (?)
 
 738
 00:26:39,200 --> 00:26:42,240
-
+Mr. Cai, straightforwardly at Peking University
 
 739
 00:26:42,480 --> 00:26:43,920
-
+use vernacular writing as a subject
 
 740
 00:26:44,400 --> 00:26:45,840
-
+to hold a series of lectures.
 
 741
 00:26:46,400 --> 00:26:48,560
-
+Have vernacular writing promoted and spread. (?)
 
 742
 00:26:49,360 --> 00:26:50,240
-
+Okay.
 
 743
 00:26:50,320 --> 00:26:51,600
-
+Right. I agree.
 
 744
 00:26:51,840 --> 00:26:53,200
-
+Yucai, you speak first.
 
 745
 00:26:53,440 --> 00:26:54,400
-
+What are you going to do. (?)
 
 746
 00:26:55,680 --> 00:26:56,160
-
+I
 
 747
 00:26:58,160 --> 00:26:59,520
-
+will speak about vernacular novels (?)
 
 748
 00:27:00,160 --> 00:27:00,560
-
+Good.
 
 749
 00:27:01,040 --> 00:27:04,320
-
+I want to talk about the question . (?)
 
 750
 00:27:04,560 --> 00:27:05,280
-
+This topic is good!
 
 751
 00:27:05,520 --> 00:27:06,000
-
+Okay.
 
 752
 00:27:06,240 --> 00:27:06,960
-
+What's your topic?
 
 753
 00:27:07,200 --> 00:27:07,600
-
+Not certain.
 
 754
 00:27:07,760 --> 00:27:08,080
-
+Allow me to deliberate.
 
 755
 00:27:08,240 --> 00:27:08,720
@@ -3020,1232 +3020,1229 @@
 
 756
 00:27:09,200 --> 00:27:09,840
-
+Decide as quickly as possible.
 
 757
 00:27:10,160 --> 00:27:10,960
-
+Remember it. (?)
 
 758
 00:27:11,760 --> 00:27:12,400
-
+Okay, okay. I'll quickly decide. I'll quickly decide.
 
 759
 00:27:12,960 --> 00:27:13,360
-
+Zhongfu
 
 760
 00:27:13,600 --> 00:27:14,720
-
+I'll discuss my literature outlook. (?)
 
 761
 00:27:15,520 --> 00:27:15,840
-
+Okay.
 
 762
 00:27:16,160 --> 00:27:18,880
-
+I believe we have to attach importance to the effect of literature on society. (?)
 
 763
 00:27:19,120 --> 00:27:21,920
-
+Emphasize what literature . (?)
 
 764
 00:27:22,000 --> 00:27:23,440
-
+Series of lectures about vernacular writing. (?)
 
 765
 00:27:23,760 --> 00:27:24,720
-
+Chen Duxiu.
 
 766
 00:27:25,120 --> 00:27:26,160
-
+"Literature Revolution Discussion"
 
 767
 00:27:26,640 --> 00:27:27,920
-
+Third lecture. Qian Xuantong.
 
 768
 00:27:28,400 --> 00:27:29,920
-
+"The Question of the Future of Chinese Characters" (?)
 
 769
 00:27:30,560 --> 00:27:31,680
-
+Fourth lecture. Hu Shi.
 
 770
 00:27:32,160 --> 00:27:33,120
-
+"Vernacular Writing vs Vernacular Free Verse" (?)
 
 771
 00:27:33,200 --> 00:27:33,520
-
+"Vernacular Writing vs Vernacular Free Verse" (?)
 
 772
 00:27:34,400 --> 00:27:35,600
-
+Fifth lecture. Lu Xun.
 
 773
 00:27:35,920 --> 00:27:36,960
-
+"Discussion About Vernacular Novels" (?)
 
 774
 00:27:37,600 --> 00:27:38,640
-
+Sixth lecture. Li Dazhao.
 
 775
 00:27:39,120 --> 00:27:40,080
-
+"My Outlook On Literature" (?)
 
 776
 00:27:40,560 --> 00:27:42,480
-
+Seventh lecture. Cai Yuanpei.
 
 777
 00:27:42,880 --> 00:27:44,240
-
+"The Future of the Nation's Culture" (?)
 
 778
 00:27:44,880 --> 00:27:45,440
-
+This one's especially good.
 
 779
 00:27:45,680 --> 00:27:46,000
-
+Look.
 
 780
 00:27:46,480 --> 00:27:48,720
-
+Mr. Zhongfu and Mr. Shouchang are all starting lectures.
 
 781
 00:27:48,800 --> 00:27:49,760
-
+I must go. (?)
 
 782
 00:27:49,840 --> 00:27:51,680
-
+Especially Mr. Chen's "Literature Revolution Discussion".
 
 783
 00:27:51,760 --> 00:27:52,160
-
+Right.
 
 784
 00:27:53,920 --> 00:27:57,040
-
+Everyone here is Peking University's learned scholar. (?)
 
 785
 00:27:57,600 --> 00:28:00,240
-
+My humble home is honored with your presence. (?)
 
 786
 00:28:00,880 --> 00:28:02,480
-
+Brother Qinnan, you're too polite (?)
 
 787
 00:28:03,280 --> 00:28:04,480
-
+May I ask brother Qinnan
 
 788
 00:28:05,760 --> 00:28:08,960
-
+how many kinds of published translated works do you have? (?)
 
 789
 00:28:09,760 --> 00:28:12,160
-
+About more than 180 kinds.
 
 790
 00:28:12,720 --> 00:28:14,960
-
+Among these, there are more than 40 kinds of world masterpieces. (?)
 
 791
 00:28:15,600 --> 00:28:17,440
-
+Everybody, everybody. (?)
 
 792
 00:28:18,960 --> 00:28:20,240
-
+It's not that I'm speaking highly of you all.
 
 793
 00:28:20,720 --> 00:28:21,840
-
+When it comes to translators,
 
 794
 00:28:22,400 --> 00:28:26,080
-
+it could be said you are China's unprecedented number one people. (?)
 
 795
 00:28:26,960 --> 00:28:28,320
-
+Mr. Tangsheng, you overpraise!
 
 796
 00:28:28,800 --> 00:28:30,320
-
+Compared to Mr. Tangsheng,
 
 797
 00:28:30,800 --> 00:28:34,480
-
+I am only ... on Mt Tai. (?)
 
 798
 00:28:35,760 --> 00:28:37,440
-
+Honorable Qinnan, you are really too modest.
 
 799
 00:28:39,360 --> 00:28:40,800
-
+Brother Qinnan, to say it (?)
 
 800
 00:28:41,280 --> 00:28:42,560
-
+we are both of the same trade. (?)
 
 801
 00:28:43,040 --> 00:28:46,640
-
+You take the west's classics and translate it into Chinese language. (?)
 
 802
 00:28:47,120 --> 00:28:52,160
-
+I take Chinese classics and translate them into foreign languages. (?)
 
 803
 00:28:52,960 --> 00:28:54,320
-
+Different methods, but same results.
 
 804
 00:28:55,440 --> 00:28:59,040
-
+These Hu Shi, Chen Duxiu are enthusiastically promoting what New Culture.
 
 805
 00:28:59,600 --> 00:29:01,280
-
+What do they understand about what is called New Culture? (?)
 
 806
 00:29:01,920 --> 00:29:02,800
-
+If I was saying it, (?)
 
 807
 00:29:03,040 --> 00:29:06,800
-
+only when Lin Qinnan and me Gu Hongming are together
 
 808
 00:29:07,040 --> 00:29:08,720
-
+is it really New Culture.
 
 809
 00:29:09,440 --> 00:29:10,720
-
+(?)
 
 810
 00:29:17,600 --> 00:29:18,240
-
+Respected teacher. (?)
 
 811
 00:29:20,240 --> 00:29:23,600
-
+This Zhang Changli is my student.
 
 812
 00:29:23,840 --> 00:29:25,920
-
+Strongly committed to preserving national heritage. (?)
 
 813
 00:29:26,400 --> 00:29:28,560
-
+Right now, he is a member of the national parliament. (?)
 
 814
 00:29:28,880 --> 00:29:30,560
-
+Just prepared to submit report to the parliament (?)
 
 815
 00:29:31,040 --> 00:29:32,800
-
+a proposal to revive state religion. (?)
 
 816
 00:29:33,440 --> 00:29:34,160
-
+It's an honor to meet you at last.
 
 817
 00:29:35,920 --> 00:29:36,640
-
+It's an honor to meet you at last.
 
 818
 00:29:36,800 --> 00:29:40,720
-
+This youth Zhang Fengzai is representative Zhang's nephew (?)
 
 819
 00:29:41,200 --> 00:29:43,520
-
+and also when I was in Wucheng Middle School (?)
 
 820
 00:29:43,920 --> 00:29:45,200
-
+my student when I was teaching. (?)
 
 821
 00:29:45,520 --> 00:29:48,560
-
+Right now he is a student of Peking University's National Learning section. (?)
 
 822
 00:29:48,960 --> 00:29:51,520
-
+and also working part time at "Shenzhou Daily" as a journalist. (?)
 
 823
 00:29:56,640 --> 00:29:59,200
-
+Today, I requested everyone to come to
 
 824
 00:29:59,280 --> 00:30:00,480
-
+talk over a matter.
 
 825
 00:30:00,880 --> 00:30:04,240
-
+Anhui province's Chen Duxiu agitating for smashing Confucius doctrine (?)
 
 826
 00:30:04,480 --> 00:30:06,880
-
+engaging in what vernacular writing, vernacular free verse
 
 827
 00:30:06,960 --> 00:30:08,800
-
+and the so-called New Culture Movement? (?)
 
 828
 00:30:09,280 --> 00:30:10,960
-
+It hasn't been only one or two days now.
 
 829
 00:30:11,440 --> 00:30:12,160
-
+Since this year, (?)
 
 830
 00:30:12,400 --> 00:30:15,520
-
+these people think Peking University is a stronghold. (?)
 
 831
 00:30:16,000 --> 00:30:18,560
-
+Seriously harming national learning tradition.
 
 832
 00:30:19,040 --> 00:30:21,920
-
+I know everyone here are national learning masters. (?)
 
 833
 00:30:22,000 --> 00:30:25,440
-
+Towards these likely bitterly detest a long time ago. (?)
 
 834
 00:30:26,000 --> 00:30:27,120
-
+Rotten old me is untalented. (?)
 
 835
 00:30:28,160 --> 00:30:30,720
-
+In my early years, I once accompanied respected teacher Wu Rulun (?)
 
 836
 00:30:30,960 --> 00:30:33,200
-
+to establish Imperial University of Peking. (?)
 
 837
 00:30:33,600 --> 00:30:37,200
-
+Really cannot bear to see the downfall of Peking University and national heritage.(?)
 
 838
 00:30:37,600 --> 00:30:40,240
-
+A few days ago I sent a letter to Cai Yuanpei (?)
 
 839
 00:30:40,560 --> 00:30:41,360
-
+Raising questions
 
 840
 00:30:41,920 --> 00:30:44,080
-
+Cai replied to me (?)
 
 841
 00:30:44,480 --> 00:30:49,040
-
+saying welcoming me to wait (?)
 
 842
 00:30:49,600 --> 00:30:51,120
-
+to launch an academic contention.
 
 843
 00:30:51,840 --> 00:30:53,520
-
+Today I requested a group of virtuous people to come (?)
 
 844
 00:30:53,760 --> 00:30:56,400
-
+is to seek everyone's enlightening remarks (?)
 
 845
 00:30:56,640 --> 00:30:59,600
-
+whether to meet with them in debate. (?)
 
 846
 00:31:00,160 --> 00:31:01,200
-
+Daring to ask brother Qinnan
 
 847
 00:31:01,680 --> 00:31:04,640
-
+why are you doing your goal like this? (?)
 
 848
 00:31:06,400 --> 00:31:09,760
-
+Dissatisfied sirs, all my life rotten me engaged in studies. (?)
 
 849
 00:31:10,080 --> 00:31:13,520
-
+?
 
 850
 00:31:13,840 --> 00:31:16,880
-
+Being subjects we can only vow loyalty to Great Qing's emperor.
 
 851
 00:31:17,200 --> 00:31:19,920
-
+When I was ten, I visited Guangxu Emperor's tomb (?)
 
 852
 00:31:20,160 --> 00:31:23,760
-
+to recover my Great Qing orthodox. (?)
 
 853
 00:31:24,000 --> 00:31:26,720
-
+Rectify and recover my three principles of Confucianism. (?)
 
 854
 00:31:27,600 --> 00:31:31,120
-
+If it's for reinstating Great Qing's orthodox
 
 855
 00:31:31,520 --> 00:31:32,960
-
+to rectify and recover the three principles of Confucianism
 
 856
 00:31:33,280 --> 00:31:35,600
-
+I Gu Hongming am duty bounden. (?)
 
 857
 00:31:37,280 --> 00:31:41,440
-
+But if it's to overturn Mr. Cai Yuanpei
 
 858
 00:31:42,160 --> 00:31:43,440
-
+I beg to differ. (?)
 
 859
 00:31:43,680 --> 00:31:45,200
-
+Moreover, firmly oppose.
 
 860
 00:31:47,840 --> 00:31:49,120
-
+I hold the same view with Honorable Tang.
 
 861
 00:31:49,920 --> 00:31:51,840
-
+I approve of returning to old ways and reinstating imperial regime (?)
 
 862
 00:31:52,560 --> 00:31:54,880
-
+but I will never oppose Cai Yuanpei and Chen Duxiu.
 
 863
 00:31:54,960 --> 00:31:56,320
-
+My standpoint summary is different (?)
 
 864
 00:31:56,880 --> 00:31:57,920
-
+I approve of returning to old ways
 
 865
 00:31:58,080 --> 00:31:59,760
-
+but I oppose reinstating imperial monarchy
 
 866
 00:32:00,000 --> 00:32:02,160
-
+I even more oppose Chen Duxiu and that Hu Shi.
 
 867
 00:32:03,840 --> 00:32:05,040
-
+No matter what is said
 
 868
 00:32:05,280 --> 00:32:07,600
-
+returning to old ways is our common ground.
 
 869
 00:32:08,000 --> 00:32:11,520
-
+Then we will seek for Great Harmony. Existing a little differently. (?)
 
 870
 00:32:12,080 --> 00:32:12,880
-
+How is it?
 
 871
 00:32:13,760 --> 00:32:14,560
-
+I agree.
 
 872
 00:32:15,040 --> 00:32:17,520
-
+Good. Then let's discuss
 
 873
 00:32:17,760 --> 00:32:19,280
-
+what are we doing for magazines and lectures (?)
 
 874
 00:32:19,520 --> 00:32:20,800
-
+to confront them with. (?)
 
 875
 00:32:23,040 --> 00:32:25,760
-
+Also, member Zhang that returning to old ways proposal (?)
 
 876
 00:32:26,240 --> 00:32:27,520
-
+Concretely bring up the contents (?)
 
 877
 00:32:27,760 --> 00:32:29,680
-
+and also requesting everyone to give out some ideas. (?)
 
 878
 00:32:32,320 --> 00:32:36,080
-
+Respected teacher, little nephew Zhang Fengzai got a hold of some of (?)
 
 879
 00:32:36,320 --> 00:32:37,840
-
+Peking University's new developments.
 
 880
 00:32:38,240 --> 00:32:41,040
-
+Is it possible to allow him to give the great masters a little introduction.
 
 881
 00:32:41,440 --> 00:32:42,320
-
+Okay.
 
 882
 00:32:42,720 --> 00:32:46,480
-
+Know yourself, know your enemies. Can only then win every fight. (?)
 
 883
 00:33:03,920 --> 00:33:06,560
-
+Gentlemen. Peking University already posted announcements.
 
 884
 00:33:06,720 --> 00:33:07,680
-
+Starting from next week
 
 885
 00:33:07,920 --> 00:33:09,840
-
+Use vernacular writing as the subject (?)
 
 886
 00:33:10,080 --> 00:33:11,360
-
+New Culture series of lectures (?)
 
 887
 00:33:12,880 --> 00:33:15,280
-
+These are the lecture subjects and list of lecturers.
 
 888
 00:33:16,480 --> 00:33:17,680
-
+Bring it over, I'll take a look.
 
 889
 00:33:25,360 --> 00:33:28,080
-
+Good. Cai Yuanpei
 
 890
 00:33:28,160 --> 00:33:29,440
-
+is even going up on stage.
 
 891
 00:33:31,280 --> 00:33:32,560
-
+This Lu Xun is that
 
 892
 00:33:32,720 --> 00:33:34,880
-
+Zhou Shuren who wrote "Diary of Madam".
 
 893
 00:33:35,200 --> 00:33:35,920
-
+Precisely.
 
 894
 00:33:36,480 --> 00:33:37,680
-
+This novel's influence
 
 895
 00:33:37,840 --> 00:33:39,120
-
+(?)
 
 896
 00:33:41,760 --> 00:33:43,760
-
+?
 
 897
 00:33:44,080 --> 00:33:46,080
-
+?
 
 898
 00:33:46,880 --> 00:33:48,800
-
+I actually propose Honorable Qinnan
 
 899
 00:33:49,040 --> 00:33:50,080
-
+we need to go to Peking University to watch
 
 900
 00:33:50,240 --> 00:33:51,440
-
+and listen to their lectures.
 
 901
 00:33:51,760 --> 00:33:53,440
-
+To understand what they are selling in the end. (?)
 
 902
 00:33:53,760 --> 00:33:54,400
-
+After that,
 
 903
 00:33:54,640 --> 00:33:55,920
-
+take the appropriate steps. (?)
 
 904
 00:33:56,320 --> 00:33:59,920
-
+Good. Then would you please notify Cai Yuanpei
 
 905
 00:34:00,320 --> 00:34:02,480
-
+I want to go to Peking University to hear the lectures.
 
 906
 00:34:10,480 --> 00:34:12,720
-
+In this era of innovating literature, (?)
 
 907
 00:34:13,200 --> 00:34:16,160
-
+whatever category: aristocratic literature, classical literature (?)
 
 908
 00:34:16,640 --> 00:34:17,680
-
+Shanlin literature (?)
 
 909
 00:34:18,000 --> 00:34:19,280
-
+equally rejected (?)
 
 910
 00:34:20,000 --> 00:34:20,880
-
+Why?
 
 911
 00:34:21,520 --> 00:34:23,840
-
+(?)
 
 912
 00:34:24,160 --> 00:34:26,560
-
+is given our present exaggerated flattering (?)
 
 913
 00:34:27,040 --> 00:34:29,040
-
+artificial and high sounding (?)
 
 914
 00:34:29,520 --> 00:34:30,640
-
+is interdependent. (?)
 
 915
 00:34:31,200 --> 00:34:33,840
-
+that's why today we need to innovate politics. (?)
 
 916
 00:34:34,400 --> 00:34:36,960
-
+Have no choice but to first innovate. (?)
 
 917
 00:34:37,360 --> 00:34:41,440
-
+?
 
 918
 00:34:42,720 --> 00:34:46,160
-
+Everybody. Modern European civilization came from where (?)
 
 919
 00:34:46,720 --> 00:34:48,480
-
+it has its origins in the Renaissance.
 
 920
 00:34:49,040 --> 00:34:52,400
-
+In the future, my flourishing culture comes from where? (?)
 
 921
 00:34:53,120 --> 00:34:54,160
-
+I'll be as bold as to predict
 
 922
 00:34:54,640 --> 00:34:57,360
-
+it certainly has its origins in today's literature revolution. (?)
 
 923
 00:34:59,760 --> 00:35:00,240
-
+Good!
 
 924
 00:35:00,400 --> 00:35:01,600
-
+Very arrogant (?)
 
 925
 00:35:21,920 --> 00:35:22,720
-
+Gentlemen
 
 926
 00:35:22,880 --> 00:35:23,600
-
+Students
 
 927
 00:35:24,080 --> 00:35:26,480
-
+I very much approve of Mr. Zhongfu's speech.
 
 928
 00:35:27,200 --> 00:35:28,560
-
+Next I want to say a few sentences from my heart.
 
 929
 00:35:29,600 --> 00:35:30,880
-
+My viewpoint is very clear-cut. (?)
 
 930
 00:35:31,360 --> 00:35:34,480
-
+If China wants to develop, then we must abolish Chinese characters.
 
 931
 00:35:39,680 --> 00:35:40,160
-
+Arrogant.
 
 932
 00:35:41,920 --> 00:35:44,000
-
+Everybody, keep calm. (?)
 
 933
 00:35:45,040 --> 00:35:46,560
-
+Listen to me talk about the reason.
 
 934
 00:35:46,960 --> 00:35:49,600
-
+Every civilization, every nationality's written language on Earth (?)
 
 935
 00:35:50,080 --> 00:35:52,640
-
+most have experienced going through characters coming from shapes (?)
 
 936
 00:35:53,040 --> 00:35:54,160
-
+to ideographical characters
 
 937
 00:35:54,480 --> 00:35:56,560
-
+to phonetic characters this evolution process. (?)
 
 938
 00:35:57,440 --> 00:35:59,040
-
+Phonetic characters such as the Latin alphabet
 
 939
 00:35:59,600 --> 00:36:00,640
-
+represents a (?)
 
 940
 00:36:00,880 --> 00:36:02,560
-
+highest stage of written language evolution. (?)
 
 941
 00:36:03,520 --> 00:36:05,040
-
+Chinese characters are not phonetic
 
 942
 00:36:05,840 --> 00:36:08,000
-
+rather are characters that represent shape and meaning (?)
 
 943
 00:36:08,640 --> 00:36:10,640
-
+as a result, we have to abolish it.
 
 944
 00:36:11,280 --> 00:36:12,320
-
+You are talking rubbish. (?)
 
 945
 00:36:12,800 --> 00:36:13,680
-
+Mr. Qian
 
 946
 00:36:13,920 --> 00:36:15,360
-
+If Chinese characters are abolished, then what do we use. (?)
 
 947
 00:36:15,840 --> 00:36:17,280
-
+Yeah. What do we use?
 
 948
 00:36:18,480 --> 00:36:19,280
-
+Good question!
 
 949
 00:36:20,240 --> 00:36:21,200
-
+Writing (?)
 
 950
 00:36:21,680 --> 00:36:23,760
-
+is nothing more than a language of symbolizing objects. (?)
 
 951
 00:36:24,000 --> 00:36:26,720
-
+We should adopt a kind of fully simple grammar (?)
 
 952
 00:36:27,040 --> 00:36:29,760
-
+Neat pronunciation, written language of excellent quality. (?)
 
 953
 00:36:30,320 --> 00:36:31,440
-
+esperanto (?)
 
 954
 00:36:32,240 --> 00:36:34,400
-
+It is esperanto. (?)
 
 955
 00:36:38,720 --> 00:36:40,880
-
+How come there isn't our own culture? (?)
 
 956
 00:36:44,160 --> 00:36:45,120
-
+Professor Qian
 
 957
 00:36:45,600 --> 00:36:47,280
-
+I think your point of view is truly absurd.
 
 958
 00:36:49,920 --> 00:36:51,920
-
+If we follow Professor Qian's way (?)
 
 959
 00:36:52,160 --> 00:36:53,440
-
+my understanding must be
 
 960
 00:36:53,760 --> 00:36:55,760
-
+to have all of us Chinese people
 
 961
 00:36:56,000 --> 00:36:58,000
-
+learn anew a language from a foreign country
 
 962
 00:36:58,080 --> 00:36:59,440
-
+Why can't it be anyways? (?)
 
 963
 00:37:00,560 --> 00:37:02,240
-
+I think he is not doing New Culture (?)
 
 964
 00:37:02,880 --> 00:37:04,320
-
+he is destroying culture. (?)
 
 965
 00:37:04,800 --> 00:37:06,560
-
+Even more so wants to destroy my race!
 
 966
 00:37:06,640 --> 00:37:07,760
-
+Right!
 
 967
 00:37:08,320 --> 00:37:09,200
-
+Brother Hangyan (?)
 
 968
 00:37:09,360 --> 00:37:11,440
-
+if we don't add a fierce medicine, then how is China going to move forward? (?)
 
 969
 00:37:19,600 --> 00:37:20,800
-
+Forget one's roots! (?)
 
 970
 00:37:21,200 --> 00:37:21,760
-
+Beat him to death! (?)
 
 971
 00:37:22,400 --> 00:37:24,320
-
+I must insist on my own point of view.
 
 972
 00:37:24,560 --> 00:37:25,680
-
+This is how I'm thinking. (?)
 
 973
 00:37:25,920 --> 00:37:27,280
-
+Those of you sitting, which one of you isn't Chinese.
 
 974
 00:37:28,160 --> 00:37:28,880
-
+I am also Chinese.
 
 975
 00:37:28,960 --> 00:37:29,840
-
+I love my country.
 
 976
 00:37:30,240 --> 00:37:31,840
-
+I believe carrying out New Culture (?)
 
 977
 00:37:31,920 --> 00:37:33,440
-
+we need to start from abolishing Chinese characters.
 
 978
 00:37:33,600 --> 00:37:34,480
-
+Qian Xuantong (?)
 
 979
 00:37:35,040 --> 00:37:36,160
-
+My (?) China
 
 980
 00:37:36,320 --> 00:37:38,160
-
+5000 years of Chinese history. (?)
 
 981
 00:37:38,560 --> 00:37:41,200
-
+The characters ancestors left behind. How can it be abolished. (?)
 
 982
 00:37:41,840 --> 00:37:44,960
-
+You forget your roots. (?)
 
 983
-00:37:45,200 --> 00:37:46,160
-
+00:37:47,040 --> 00:37:48,000
+Right.
 
 984
-00:37:47,040 --> 00:37:48,000
-
+00:37:48,480 --> 00:37:50,720
+Chen Zhongfu
 
 985
-00:37:48,480 --> 00:37:50,720
-
+00:37:50,800 --> 00:37:51,520
+Qian Xuantong is your New Youth's
 
 986
-00:37:50,800 --> 00:37:51,520
-
+00:37:52,080 --> 00:37:52,960
+fellow editor. (?)
 
 987
-00:37:52,080 --> 00:37:52,960
-
+00:37:53,120 --> 00:37:55,280
+Abolishing Chinese characters
 
 988
-00:37:53,120 --> 00:37:55,280
-
+00:37:56,080 --> 00:37:57,280
+is the result you want from New Culture? (?)
 
 989
-00:37:56,080 --> 00:37:57,280
-
+00:37:57,520 --> 00:37:59,040
+You must give a statement. (?)
 
 990
-00:37:57,520 --> 00:37:59,040
-
+00:37:59,840 --> 00:38:00,800
+Right! Give a statement! (?)
 
 991
-00:37:59,840 --> 00:38:00,800
-
+00:38:09,600 --> 00:38:11,200
+I very much can understand
 
 992
-00:38:09,600 --> 00:38:11,200
-
+00:38:12,320 --> 00:38:16,560
+Professor Qian's abolishing Chinese characters argument (?)
 
 993
-00:38:12,320 --> 00:38:16,560
-
+00:38:17,200 --> 00:38:19,040
+a heart concerned for Chinese culture. (?)
 
 994
-00:38:17,200 --> 00:38:19,040
-
+00:38:19,840 --> 00:38:20,640
+But
 
 995
-00:38:19,840 --> 00:38:20,640
-
+00:38:21,760 --> 00:38:23,840
+Regarding abolishing Chinese characters, this decision
 
 996
-00:38:21,760 --> 00:38:23,840
-
+00:38:24,640 --> 00:38:25,760
+I don't agree at all.
 
 997
-00:38:24,640 --> 00:38:25,760
-
+00:38:26,480 --> 00:38:28,560
+So, I refrain from saying my opinions.
 
 998
-00:38:26,480 --> 00:38:28,560
-
+00:38:29,760 --> 00:38:31,120
+?
 
 999
-00:38:29,760 --> 00:38:31,120
-
+00:38:32,000 --> 00:38:33,120
+Talking rubbish.
 
 1000
-00:38:32,000 --> 00:38:33,120
-
+00:38:40,240 --> 00:38:42,000
+Strike back. (?)
 
 1001
-00:38:40,240 --> 00:38:42,000
-
+00:38:43,120 --> 00:38:46,080
+Must absolutely not allow them to recklessly act like this. (?)
 
 1002
-00:38:43,120 --> 00:38:46,080
-
+00:38:46,560 --> 00:38:48,400
+Let me see. I'll take the lead. (?)
 
 1003
-00:38:46,560 --> 00:38:48,400
-
+00:38:48,880 --> 00:38:51,840
+Give Hu Shi, that child, a show of strength. (?)
 
 1004
-00:38:48,880 --> 00:38:51,840
-
+00:38:58,400 --> 00:39:00,080
+Everyone says that Mr. Hu Shi has karma with women. (?)
 
 1005
-00:38:58,400 --> 00:39:00,080
-
+00:39:00,320 --> 00:39:01,440
+Look, so many people came.
 
 1006
-00:39:00,320 --> 00:39:01,440
-
+00:39:01,920 --> 00:39:03,680
+Seeing it today, sure enough a justified reputation. (?)
 
 1007
-00:39:01,920 --> 00:39:03,680
-
+00:39:04,560 --> 00:39:05,440
+Did you guys know?
 
 1008
-00:39:04,560 --> 00:39:05,440
-
+00:39:05,680 --> 00:39:07,360
+His young wife is a bounded feet peasant woman (?)
 
 1009
-00:39:05,680 --> 00:39:07,360
-
+00:39:07,680 --> 00:39:08,880
+can't understand classical Chinese writing. (?)
 
 1010
-00:39:07,680 --> 00:39:08,880
-
+00:39:09,680 --> 00:39:10,560
+That can't be? (?)
 
 1011
-00:39:09,680 --> 00:39:10,560
-
+00:39:10,880 --> 00:39:11,600
+I only just heard it before. (?)
 
 1012
-00:39:10,880 --> 00:39:11,600
-
+00:39:11,680 --> 00:39:13,760
+Isn't his young wife a girl from a wealthy family who could read. (?)
 
 1013
-00:39:11,680 --> 00:39:13,760
-
+00:39:14,880 --> 00:39:17,360
+I also heard this. Isn't it. (?)
 
 1014
-00:39:14,880 --> 00:39:17,360
-
+00:39:19,280 --> 00:39:19,840
+He arrived!
 
 1015
-00:39:19,280 --> 00:39:19,840
-
+00:39:20,080 --> 00:39:20,800
+Mr. Hu Shi came
 
 1016
-00:39:20,080 --> 00:39:20,800
-
+00:39:56,240 --> 00:39:57,280
+Ladies
 
 1017
-00:39:56,240 --> 00:39:57,280
-
+00:39:57,920 --> 00:39:58,720
+Gentlemen
 
 1018
-00:39:57,920 --> 00:39:58,720
-
+00:39:59,360 --> 00:40:00,560
+Happy spring. (?)
 
 1019
-00:39:59,360 --> 00:40:00,560
-
+00:40:01,040 --> 00:40:01,840
+?
 
 1020
-00:40:01,040 --> 00:40:01,840
-
+00:40:07,840 --> 00:40:09,600
+Today the topic I'm speaking about is
 
 1021
-00:40:07,840 --> 00:40:09,600
-
+00:40:10,640 --> 00:40:13,040
+"Vernacular Writing vs Vernacular Free Verse".
 
 1022
-00:40:10,640 --> 00:40:13,040
-
+00:40:13,760 --> 00:40:15,040
+Lots of friends ask me
 
 1023
-00:40:13,760 --> 00:40:15,040
-
+00:40:15,280 --> 00:40:17,680
+why do you Hu Shi insist on advocating for vernacular writing
 
 1024
-00:40:15,280 --> 00:40:17,680
-
+00:40:18,160 --> 00:40:19,600
+and abandon the tradition of classical Chinese writing. (?)
 
 1025
-00:40:18,160 --> 00:40:19,600
-
+00:40:20,480 --> 00:40:21,600
+My answer is
 
 1026
-00:40:20,480 --> 00:40:21,600
-
+00:40:21,840 --> 00:40:23,680
+First, that day's classical Chinese writing (?)
 
 1027
-00:40:21,840 --> 00:40:23,680
-
+00:40:24,640 --> 00:40:26,240
+Is a kind of half-dead kind of writing.
 
 1028
-00:40:24,640 --> 00:40:26,240
-
+00:40:26,800 --> 00:40:28,640
+Ordinary people are unable to understand what they see, even more what they hear. (?)
 
 1029
-00:40:26,800 --> 00:40:28,640
-
+00:40:29,360 --> 00:40:32,320
+Second, the vernacular writing we are advocating today
 
 1030
-00:40:29,360 --> 00:40:32,320
-
+00:40:32,720 --> 00:40:34,080
+is a kind of living writing. (?)
 
 1031
-00:40:32,720 --> 00:40:34,080
-
+00:40:34,480 --> 00:40:34,720
+Not at all vulgar.
 
 1032
-00:40:34,480 --> 00:40:34,720
-
-
-1033
 00:40:34,800 --> 00:40:35,040
 
 
-1034
+1033
 00:40:35,120 --> 00:40:35,200
 
 
+1034
+00:40:35,280 --> 00:40:35,290
+
+
 1035
-00:40:35,280 --> 00:40:35,280
+00:40:35,440 --> 00:40:35,450
 
 
 1036
-00:40:35,440 --> 00:40:35,440
-
+00:40:35,840 --> 00:40:36,080
+Third, vernacular is not only not vulgar
 
 1037
-00:40:35,840 --> 00:40:36,080
-
-
-1038
 00:40:36,160 --> 00:40:36,320
 
 
-1039
+1038
 00:40:36,400 --> 00:40:38,000
 
 
-1040
+1039
 00:40:38,480 --> 00:40:40,400
+it is also very elegant, practical.
 
+1040
+00:40:41,120 --> 00:40:42,080
+Because vernacular writing
 
 1041
-00:40:41,120 --> 00:40:42,080
-
+00:40:42,400 --> 00:40:44,800
+is a kind of very expressful language. (?)
 
 1042
-00:40:42,400 --> 00:40:44,800
-
+00:40:45,200 --> 00:40:46,000
+We know
 
 1043
-00:40:45,200 --> 00:40:46,000
-
+00:40:46,240 --> 00:40:48,720
+expressing meaning is a language's main function. (?)
 
 1044
-00:40:46,240 --> 00:40:48,720
-
+00:40:49,040 --> 00:40:51,920
+Language that doesn't express is not beautiful. (?)
 
 1045
-00:40:49,040 --> 00:40:51,920
-
+00:40:52,320 --> 00:40:53,440
+For example,
 
 1046
-00:40:52,320 --> 00:40:53,440
-
+00:40:53,680 --> 00:40:55,440
+Mr. Lu Xun's novel "Diary of a Madam"
 
 1047
-00:40:53,680 --> 00:40:55,440
-
+00:40:55,760 --> 00:40:57,200
+there is writing like this inside (?)
 
 1048
-00:40:55,760 --> 00:40:57,200
-
+00:40:58,000 --> 00:41:01,520
+Old man Zhao... (?)
 
 1049
-00:40:58,000 --> 00:41:01,520
-
+00:41:01,760 --> 00:41:03,520
+(?)
 
 1050
-00:41:01,760 --> 00:41:03,520
-
+00:41:03,920 --> 00:41:07,760
+This section is simple, lively, graceful and vivid. (?)
 
 1051
-00:41:03,920 --> 00:41:07,760
-
+00:41:08,160 --> 00:41:09,600
+Classical Chinese writing is hard to go for. (?)
 
 1052
-00:41:08,160 --> 00:41:09,600
-
+00:41:10,240 --> 00:41:11,040
+Saying it like this
 
 1053
-00:41:10,240 --> 00:41:11,040
-
+00:41:11,360 --> 00:41:13,840
+don't know if those present agree? (?)
 
 1054
-00:41:11,360 --> 00:41:13,840
-
+00:41:14,240 --> 00:41:16,960
+Agree!
 
 1055
-00:41:14,240 --> 00:41:16,960
-
+00:41:17,600 --> 00:41:19,280
+Agree! Good!
 
 1056
-00:41:17,600 --> 00:41:19,280
-
+00:41:19,680 --> 00:41:20,080
+Good!
 
 1057
-00:41:19,680 --> 00:41:20,080
-
+00:41:20,800 --> 00:41:21,920
+Professor Hu's point of view
 
 1058
-00:41:20,800 --> 00:41:21,920
-
+00:41:22,160 --> 00:41:23,680
+Forgive me for begging to differ (?)
 
 1059
-00:41:22,160 --> 00:41:23,680
-
+00:41:24,880 --> 00:41:27,280
+I remember professor Hu Shi just now talked about path (?)
 
 1060
-00:41:24,880 --> 00:41:27,280
-
+00:41:27,680 --> 00:41:30,160
+vernacular writing compared to classical Chinese writing is simplified complicated material. (?)
 
 1061
-00:41:27,680 --> 00:41:30,160
-
+00:41:30,320 --> 00:41:31,520
+More convenient and fast, effective
 
 1062
-00:41:30,320 --> 00:41:31,520
-
-
-1063
 00:41:32,000 --> 00:41:34,240
+These are not facts (?)
 
