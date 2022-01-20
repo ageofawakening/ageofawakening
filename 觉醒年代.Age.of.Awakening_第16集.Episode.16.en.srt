@@ -3364,7 +3364,7 @@ How many Tang poems can you recite?
 
 842
 00:28:50,560 --> 00:28:50,880
-Shizi,
+Shizhi,
 
 843
 00:28:52,560 --> 00:28:53,520
@@ -3381,859 +3381,868 @@ You've come.
 846
 00:29:02,400 --> 00:29:04,400
 Older sister dragged me to the theatre.
-[Wife of Hu Shi, Jiang Dongxiu]
 
 847
+00:29:03,927 --> 00:29:06,852
+[Jiang Dongxiu, Wife of Hu Shi]
+
+848
 00:29:04,720 --> 00:29:06,640
 I couldn't decline.
 
-848
+849
 00:29:07,120 --> 00:29:08,080
 You should have come long ago.
 
-849
+850
 00:29:10,240 --> 00:29:11,120
 Mother, mother.
 
-850
+851
 00:29:11,280 --> 00:29:12,400
 Hello Mr. Cai, Mr. Wu.
 
-851
+852
 00:29:12,480 --> 00:29:12,880
 Hello.
 
-852
+853
 00:29:13,200 --> 00:29:15,040
 I'm not embarrassing you?
 
-853
+854
 00:29:15,520 --> 00:29:17,120
 You are my wife.
 
-854
+855
 00:29:17,840 --> 00:29:19,360
 How could you embarrass me?
 
-855
+856
 00:29:21,360 --> 00:29:23,040
 Come, let's make some introductions.
 
-856
+857
 00:29:24,320 --> 00:29:25,360
 Cai Yuanpei, Mr. Cai.
 
-857
+858
 00:29:25,840 --> 00:29:26,640
 Mr. Wu Zhihui.
 
-858
+859
 00:29:27,680 --> 00:29:28,560
 Hello, Mr. Cai.
 
-859
+860
 00:29:29,280 --> 00:29:30,240
 Hello, Mr. Wu.
 
-860
+861
 00:29:30,480 --> 00:29:30,640
 Hello.
 
-861
+862
 00:29:30,720 --> 00:29:31,280
 Hello.
 
-862
+863
 00:29:31,760 --> 00:29:34,080
 Gentlemen, this is my wife, Jiang Dongxiu.
 
-863
+864
 00:29:35,040 --> 00:29:37,440
 Mistress Hu, you are quite renowned.
 
-864
-00:29:38,000 --> 00:29:39,680
-I heard you trapped Hu Zhi on an ox-cart
-
 865
+00:29:38,000 --> 00:29:39,680
+I heard you trapped Shizhi on an ox-cart
+
+866
 00:29:40,000 --> 00:29:41,440
 and wouldn't leave until he was forced
 
-866
+867
 00:29:41,760 --> 00:29:42,880
 to propose in public.
 
-867
+868
 00:29:43,280 --> 00:29:45,600
 What a heroine! You have my respect.
 
-868
+869
 00:29:46,000 --> 00:29:47,200
 Wu, you madman,
 
-869
+870
 00:29:47,760 --> 00:29:48,880
 always with the crazy talk.
 
-870
+871
 00:29:49,520 --> 00:29:50,480
 Dongxiu, don't mind him.
 
-871
+872
 00:29:51,120 --> 00:29:52,000
 Enjoy the play.
 
-872
+873
 00:29:53,920 --> 00:29:54,800
 Raise this curtain a bit.
 
-873
+874
 00:29:54,880 --> 00:29:55,440
 Mr. Dazhao.
 
-874
+875
 00:29:55,680 --> 00:29:56,800
 Is this position ok?
 
-875
+876
 00:29:57,600 --> 00:29:58,800
 Straighten it. It's fine if it's tidy.
 
-876
+877
 00:29:59,200 --> 00:29:59,360
 Sure.
 
-877
+878
 00:29:59,440 --> 00:29:59,920
 Match it.
 
-878
+879
 00:30:03,280 --> 00:30:04,480
 Are the students behind the curtain ready?
 
-879
+880
 00:30:04,720 --> 00:30:05,600
 Yes.
 
-880
+881
 00:30:08,000 --> 00:30:08,560
 Mr. Cai,
 
-881
+882
 00:30:09,200 --> 00:30:09,840
 Brother Zhongfu,
 
-882
+883
 00:30:10,400 --> 00:30:12,160
 this side is in order. Please take your seats.
 
-883
+884
 00:30:12,800 --> 00:30:13,200
 Great.
 
-884
-00:30:13,840 --> 00:30:15,040
-Everyone, please.
-
 885
+00:30:13,840 --> 00:30:15,040
+Brother Jiemin, please.
+
+886
 00:30:43,680 --> 00:30:46,400
 Perhaps it's better if I went back home.
 
-886
+887
 00:30:46,720 --> 00:30:48,560
 Dongxiu, you've already taken
 
-887
+888
 00:30:48,640 --> 00:30:49,920
 the first step today.
 
-888
+889
 00:30:50,160 --> 00:30:51,440
 There will be many occasions like this in the future.
 
-889
+890
 00:30:51,920 --> 00:30:53,040
 Will you never publicly accompany me?
 
-890
-00:30:55,120 --> 00:30:55,760
-Madam Hu,
-
 891
+00:30:55,120 --> 00:30:55,760
+Madam Hu.
+
+892
 00:30:58,800 --> 00:31:00,720
 Shizhi, Dongxiu,
 
-892
+893
 00:31:01,040 --> 00:31:02,880
 go ahead, hand in hand.
 
-893
+894
 00:31:16,400 --> 00:31:17,280
 Let's go.
 
-894
+895
 00:31:26,000 --> 00:31:26,560
 Dongxiu,
 
-895
+896
 00:31:26,880 --> 00:31:27,440
 look,
 
-896
+897
 00:31:27,920 --> 00:31:28,480
 it's it lively?
 
-897
+898
 00:31:29,120 --> 00:31:31,360
 This is political street theater the students put together themselves.
 
-898
+899
 00:31:32,640 --> 00:31:33,280
 Take a look.
 
-899
+900
 00:31:33,520 --> 00:31:34,400
 Isn't it exciting?
 
-900
+901
 00:31:37,600 --> 00:31:39,200
 Wow, what's going on?
 
-901
+902
 00:31:39,280 --> 00:31:40,080
 Bound feet!
 
-902
+903
 00:31:53,280 --> 00:31:54,320
 Hello, Madam Hu.
 
-903
+904
 00:31:54,640 --> 00:31:55,440
 Mr. Dazhao.
 
-904
+905
 00:31:55,680 --> 00:31:56,640
 Hello Mr. Dazhao.
 
-905
+906
 00:32:04,800 --> 00:32:06,240
 Come, sit here.
 
-906
+907
 00:32:24,080 --> 00:32:25,840
 Let me give a quick explanation.
 
-907
+908
 00:32:26,240 --> 00:32:27,440
 The Red Building Book Club
 
-908
+909
 00:32:27,600 --> 00:32:29,360
 with the support of Peking University's student council
 
-909
+910
 00:32:29,680 --> 00:32:30,960
 used extracurricular time
 
-910
+911
 00:32:31,200 --> 00:32:32,640
 to produce a political street play.
 
-911
+912
 00:32:32,960 --> 00:32:35,440
 It is adapted from "A Reply to Wang Jingxu"
 
-912
+913
 00:32:35,760 --> 00:32:38,400
 from the third issue of the fourth volume of "New Youth."
 
-913
+914
 00:32:38,800 --> 00:32:39,920
 Today's performance
 
-914
+915
 00:32:40,240 --> 00:32:41,440
 is a debrief of sorts
 
-915
+916
 00:32:41,520 --> 00:32:42,480
 for the editorial board
 
-916
+917
 00:32:42,960 --> 00:32:44,160
 of "New Youth."
 
-917
+918
 00:32:44,720 --> 00:32:46,160
 Mr. Cai and Mr. Wu
 
-918
+919
 00:32:46,480 --> 00:32:48,000
 have long written for "New Youth."
 
-919
+920
 00:32:48,240 --> 00:32:50,640
 They are also the non-staff editors of "New Youth."
 
-920
+921
 00:32:51,440 --> 00:32:55,760
 Madam Chen and Madam Hu are specially invited guests.
 
-921
+922
 00:32:58,240 --> 00:33:00,800
 If I'd know Madam Hu were also coming,
 
-922
+923
 00:33:01,040 --> 00:33:03,600
 I would have asked my own wife to come and take a look too.
 
-923
+924
 00:33:09,440 --> 00:33:10,880
 Welcome, Madam Hu.
 
-924
+925
 00:33:13,600 --> 00:33:15,760
 Without further ado,
 
-925
+926
 00:33:16,240 --> 00:33:17,920
 students, let's begin!
 
-926
+927
 00:33:30,480 --> 00:33:32,880
 Like a match that ignites with friction,
 
-927
+928
 00:33:33,280 --> 00:33:36,080
 and lights the dark night sky.
 
-928
+929
 00:33:36,640 --> 00:33:38,240
 Like the resonant call of a bugle
 
-929
+930
 00:33:38,480 --> 00:33:41,680
 that clears a space where people's thoughts can freely soar.
 
-930
+931
 00:33:41,920 --> 00:33:43,040
 The rallying cry of "New Youth"
 
-931
+932
 00:33:43,360 --> 00:33:45,120
 is the agitation inside a mother's belly
 
-932
+933
 00:33:45,360 --> 00:33:48,000
 of an infant singing to be free.
 
-933
+934
 00:33:48,560 --> 00:33:49,520
 The Red Building's dawn
 
-934
+935
 00:33:49,760 --> 00:33:51,040
 is that match that lights
 
-935
+936
 00:33:51,200 --> 00:33:53,120
 ten thousand red clouds at sunrise.
 
-936
+937
 00:33:53,600 --> 00:33:54,560
 This rallying cry
 
-937
+938
 00:33:54,640 --> 00:33:56,320
 has provoked so many scowls
 
-938
+939
 00:33:56,480 --> 00:33:58,400
 from traditionalists.
 
-939
+940
 00:33:58,800 --> 00:33:59,600
 This dawn
 
-940
+941
 00:33:59,680 --> 00:34:01,200
 has guided so many warriors
 
-941
+942
 00:34:01,600 --> 00:34:03,520
 to bravely walk towards battle.
 
-942
+943
 00:34:04,400 --> 00:34:07,440
 We present "Chime of the Red Building Bell."
 
-943
+944
 00:34:35,360 --> 00:34:38,320
 T'is I, Wang Jingxuan,
 
-944
+945
 00:34:39,360 --> 00:34:43,360
 who once crossed easterly, to mythical Japan, studying law and government.
 
-945
+946
 00:34:44,080 --> 00:34:47,600
 Upon repatriation, to see such moral turpitude and decline!
 
-946
+947
 00:34:48,160 --> 00:34:49,040
 A fall
 
-947
+948
 00:34:53,200 --> 00:34:54,320
 of one thousand leagues.
 
-948
+949
 00:34:55,680 --> 00:34:58,800
 Young scholars slandering the canon at the slightest pretext.
 
-949
+950
 00:34:59,040 --> 00:35:00,880
 belittling and throwing away Confucian texts.
 
-950
+951
 00:35:01,120 --> 00:35:02,960
 Instigating evil doctrine to abolish the family.
 
-951
+952
 00:35:03,280 --> 00:35:05,600
 Driving apart father and son,
 
-952
+953
 00:35:06,400 --> 00:35:08,080
 poisoning relations between husband and wife.
 
-953
+954
 00:35:13,360 --> 00:35:17,520
 All of this, caused by the new teachings.
 
-954
+955
 00:35:18,000 --> 00:35:18,480
 Today,
 
-955
+956
 00:35:18,560 --> 00:35:20,320
 this old man will go to "New Youth"
 
-956
+957
 00:35:20,480 --> 00:35:21,920
 and give them a tongue-lashing.
 
-957
+958
 00:35:22,400 --> 00:35:23,120
 Let's go!
 
-958
+959
 00:35:35,600 --> 00:35:36,080
 Hurrah!
 
-959
+960
 00:35:36,240 --> 00:35:37,200
 Hurrah!
 
-960
+961
 00:35:41,760 --> 00:35:42,960
 Get on the horse.
 
-961
+962
 00:35:45,520 --> 00:35:46,400
 Giddy-up!
 
-962
+963
+00:35:56,200 --> 00:35:57,629
+Whoa!
+
+964
 00:36:03,680 --> 00:36:04,600
 Let's go!
 
-963
-00:36:14,080 --> 00:36:15,440
-Knock Knock Knock
-
-964
-00:36:19,520 --> 00:36:20,960
-Bang Bang Bang
-
 965
-00:36:26,320 --> 00:36:26,480
-Bang
+00:36:14,080 --> 00:36:15,440
+Knock! Knock! Knock!
 
 966
+00:36:19,520 --> 00:36:20,960
+Bang! Bang! Bang!
+
+967
+00:36:24,815 --> 00:36:26,306
+Boom! Bang!
+
+968
+00:36:26,320 --> 00:36:26,480
+Bang!
+
+969
 00:36:29,200 --> 00:36:31,440
 Hurrah!
 
-967
+970
 00:36:35,760 --> 00:36:37,760
 How come there's nobody here?
 
-968
+971
 00:36:58,640 --> 00:37:02,400
 Let me smoke a pipe while I wait.
 
-969
+972
 00:37:19,040 --> 00:37:22,160
 Well done!
 
-970
+973
 00:37:24,080 --> 00:37:25,840
 Is there a living soul here or not?
 
-971
+974
 00:37:26,320 --> 00:37:27,040
 There is.
 
-972
+975
 00:37:28,240 --> 00:37:28,720
 Who?
 
-973
+976
 00:37:30,080 --> 00:37:30,960
 Look, it's older brother.
 
-974
+977
 00:37:32,880 --> 00:37:34,320
 I'm a journalist at "New Youth."
 
-975
+978
 00:37:34,640 --> 00:37:36,800
 If I may ask, sir, why are you here?
 
-976
+979
 00:37:38,240 --> 00:37:41,200
 The supposedly noble publication "New Youth"
 
-977
+980
 00:37:41,600 --> 00:37:44,880
 should support the great teachings and develop the old texts.
 
-978
+981
 00:37:45,360 --> 00:37:47,760
 But it is in fact promoting modern schools of thought,
 
-979
+982
 00:37:47,920 --> 00:37:50,720
-barking nonsense as if it is worthy of discussion, 
-and salting the earth with corruption,
+barking nonsense as if it is worthy of discussion, and salting the earth with corruption,
 
-980
+983
 00:37:52,420 --> 00:37:53,920
 bringing ruin to the Confucian ethical code.
 
-981
+984
 00:37:53,920 --> 00:37:55,040
 How can you "sages" of this magazine
 
-982
+985
 00:37:55,280 --> 00:37:58,240
 not think it excessive for young people to sink to the level of barbarians.
 
-983
+986
 00:37:58,640 --> 00:38:02,880
-You must want them to lower themselves until 
-they are no different from brute beasts!
+You must want them to lower themselves until they are no different from brute beasts!
 
-984
+987
 00:38:04,640 --> 00:38:05,440
 Ridiculous!
 
-985
+988
 00:38:05,920 --> 00:38:07,920
 The gentleman means to attribute all the sins of
 
-986
+989
 00:38:08,080 --> 00:38:10,240
 Ninety thousand square kilometres and five thousand years of history
 
-987
+990
 00:38:10,480 --> 00:38:13,280
 to those who promote the New Culture Movement.
 
-988
+991
 00:38:13,520 --> 00:38:15,280
 It is truly absurd.
 
-989
+992
 00:38:16,320 --> 00:38:19,120
-Here's what I want to know. Before the Xinhai revolution,
+Here's what I want to know. Before the Xinhai Revolution,
 
-990
+993
 00:38:19,440 --> 00:38:22,080
 your old tune of respecting the old teachings, promoting the old texts,
 
-991
+994
 00:38:22,400 --> 00:38:25,040
 has been sung for over two thousand years.
 
-992
+995
 00:38:25,360 --> 00:38:27,520
 Why has it come to this? A state without order,
 
-993
+996
 00:38:27,760 --> 00:38:30,880
 territories being annexed, and militarizing neighbours circling like tigers.
 
-994
+997
 00:38:33,120 --> 00:38:34,560
 Uh...
 
-995
+998
 00:38:38,240 --> 00:38:42,080
 The country is not prosperous because of the doings of evil Western cults.
 
-996
+999
 00:38:43,040 --> 00:38:46,800
 Yet your august publication never resists those Western theories,
 
-997
+1000
 00:38:47,440 --> 00:38:52,160
 and many of your editors are in fact disciples of those doctrines.
 
-998
+1001
 00:38:53,360 --> 00:38:57,440
 It is in your nature to blindly worship everything foreign.
 
-999
+1002
 00:39:00,400 --> 00:39:02,640
 As a matter of fact, I am not a believer of Western religions.
 
-1000
+1003
 00:39:03,040 --> 00:39:04,720
 What I believe and advocate for
 
-1001
+1004
 00:39:04,960 --> 00:39:06,800
 are the two banners of science and democracy
 
-1002
+1005
 00:39:06,960 --> 00:39:08,880
 as raised by Mr. Chen Duxiu.
 
-1003
+1006
 00:39:09,200 --> 00:39:10,800
 To use the spirit of science and democracy
 
-1004
+1007
 00:39:10,880 --> 00:39:12,400
 to improve the character of our citizenry.
 
-1005
+1008
 00:39:12,640 --> 00:39:14,560
 Is this not fundamentally a method to
 
-1006
+1009
 00:39:14,800 --> 00:39:17,120
 resist foreign humiliation and rejuvenate China?
 
-1007
+1010
 00:39:17,280 --> 00:39:17,760
 That's right!
 
-1008
+1011
 00:39:18,160 --> 00:39:21,200
 Yet there are many harms in your advocacy of new learning,
 
-1009
+1012
 00:39:22,000 --> 00:39:24,000
 especially when it comes to women.
 
-1010
+1013
 00:39:24,480 --> 00:39:25,840
 Once they enter the classroom
 
-1011
+1014
 00:39:26,000 --> 00:39:28,560
 and pick up the cant of western learning.
 
-1012
+1015
 00:39:28,960 --> 00:39:31,600
 They will no longer be satisfied with being mothers and wives.
 
-1013
+1016
 00:39:32,160 --> 00:39:34,240
 They will think free love to be virtuous,
 
-1014
+1017
 00:39:34,480 --> 00:39:37,600
 remarrying and losing their chasity willy-nilly.
 
-1015
+1018
 00:39:38,000 --> 00:39:40,240
 They might even cut their hair,
 
-1016
+1019
 00:39:40,480 --> 00:39:41,360
 wear leather shoes,
 
-1017
+1020
 00:39:41,600 --> 00:39:42,880
 and strut about
 
-1018
+1021
 00:39:43,840 --> 00:39:45,760
 without any sense of shame!
 
-1019
+1022
 00:39:47,680 --> 00:39:50,720
-Confucianism has ruled China for more than thousand years
+Confucianism has ruled China for more than two thousand years
 
-1020
+1023
 00:39:50,880 --> 00:39:53,200
 and no one has been more victimized by it than women.
 
-1021
+1024
 00:39:53,680 --> 00:39:55,920
 The Three Obediences and Four Virtues, men being regarded as superior to women;
 
-1022
+1025
 00:39:56,080 --> 00:39:57,120
 The Rule of the Husband over the Wife;
 
-1023
+1026
 00:39:57,360 --> 00:39:59,040
 it is worse for a women to lose her chasity than to starve to death;
 
-1024
+1027
 00:39:59,680 --> 00:40:00,880
 a women's lack of ability is her virtue;
 
-1025
+1028
 00:40:01,040 --> 00:40:03,120
 all these feudal dogmas
 
-1026
+1029
 00:40:03,360 --> 00:40:05,040
 are ravenous beasts 
 
-1027
+1030
 00:40:05,200 --> 00:40:07,040
 that mercilessly devour women's dignity,
 
-1028
+1031
 00:40:07,280 --> 00:40:08,000
 interests, freedom,
 
-1029
+1032
 00:40:08,240 --> 00:40:09,600
 even life itself.
 
-1030
+1033
 00:40:09,840 --> 00:40:12,400
 How much human tragedies of toil and suffering has this caused?
 
-1031
+1034
 00:40:12,640 --> 00:40:14,960
 If I may ask, why should this evil system
 
-1032
+1035
 00:40:15,120 --> 00:40:17,280
 of Confucian ethics not be abolished?
 
-1033
+1036
 00:40:17,520 --> 00:40:19,520
 Abolish it! Abolish it! Abolish it!
 
-1034
+1037
 00:40:20,160 --> 00:40:22,640
 The gentleman claims to be virtuous
 
-1035
+1038
 00:40:22,880 --> 00:40:25,280
 yet he reveres this murderous Confucian code of ethics.
 
-1036
+1039
 00:40:25,440 --> 00:40:27,840
 If I may ask, could you answer to your mother, your wife, your daughter?
 
-1037
+1040
 00:40:28,000 --> 00:40:29,520
 The female students sitting in the audience,
 
-1038
+1041
 00:40:29,760 --> 00:40:30,880
 could any answer satisfy them?
 
-1039
+1042
 00:40:31,120 --> 00:40:33,840
 No! No! No!
 
-1040
+1043
 00:40:35,600 --> 00:40:38,800
 Well said!
 
-1041
+1044
 00:40:40,640 --> 00:40:43,440
 Can the gentleman hear the exhortations in the audience?
 
-1042
+1045
 00:40:43,680 --> 00:40:45,760
 Can you hear the shouts that have finally erupted?
 
-1043
+1046
 00:40:46,320 --> 00:40:47,600
 The gentleman need not give up his old teachings.
 
-1044
+1047
 00:40:47,760 --> 00:40:48,800
 That is his free choice.
 
-1045
+1048
 00:40:48,960 --> 00:40:50,240
 I have no right to interfere.
 
-1046
+1049
 00:40:50,480 --> 00:40:52,240
 But I will give a word of advice.
 
-1047
+1050
 00:40:52,560 --> 00:40:54,000
 The gentleman does not like the new teachings,
 
-1048
+1051
 00:40:54,240 --> 00:40:55,520
 and the gentlemen is not discerning of the old teachings.
 
-1049
+1052
 00:40:55,840 --> 00:40:57,920
 The gentleman should put in some effort during the next ten years
 
-1050
+1053
 00:40:58,240 --> 00:40:59,440
 and when "New Youth" has published 
 
-1051
+1054
 00:40:59,520 --> 00:41:00,560
 volume twenty four,
 
-1052
+1055
 00:41:00,800 --> 00:41:01,920
 come have a chat with me again.
 
-1053
+1056
 00:41:02,320 --> 00:41:04,880
 I hope I will be able to detect some improvement then.
 
-1054
+1057
 00:41:05,280 --> 00:41:08,400
 If not, I shall have to gift you the following eight words:
 
-1055
+1058
 00:41:08,640 --> 00:41:11,120
 "Without learning or skill, an ultra-conservative fool."
 
-1056
+1059
 00:41:12,320 --> 00:41:13,840
 If you are alive, it shall be a comment.
 
-1057
+1060
 00:41:14,800 --> 00:41:16,160
 If you are dead,
 
-1058
+1061
 00:41:17,120 --> 00:41:18,480
 it shall be an epitath!
 
-1059
+1062
 00:41:18,800 --> 00:41:34,960
 If you are alive, it shall be a comment
 If you are dead, it shall be an epitaph!
