@@ -28,7 +28,7 @@ to remove the complicated and simplify the vernacular
 
 8
 00:00:17,040 --> 00:00:18,240
-compared with classical Chinese. 
+compared with classical Chinese.
 
 9
 00:00:18,640 --> 00:00:20,640
@@ -48,7 +48,7 @@ When her family telegrams you in vernacular,
 
 13
 00:00:30,160 --> 00:00:32,800
-Your wife is dead. Come back quickly. 
+Your wife is dead. Come back quickly.
 
 14
 00:00:33,280 --> 00:00:35,120
@@ -108,7 +108,7 @@ Ladies and gentlemen, Mr. Huang said just now
 
 28
 00:01:11,840 --> 00:01:15,440
-that it costs more to send messages in vernacular. 
+that it costs more to send messages in vernacular.
 
 29
 00:01:16,480 --> 00:01:17,600
@@ -120,7 +120,7 @@ That's because Mr. Huang doesn't know
 
 31
 00:01:19,760 --> 00:01:21,440
-how to use vernacular correctly. 
+how to use vernacular correctly.
 
 32
 00:01:22,160 --> 00:01:22,960
@@ -128,7 +128,7 @@ Yes, that's right.
 
 33
 00:01:23,280 --> 00:01:24,480
-We can do a quick experiment. 
+We can do a quick experiment.
 
 34
 00:01:25,200 --> 00:01:26,160
@@ -140,15 +140,15 @@ a friend of mine from the Ministry of Education
 
 36
 00:01:28,480 --> 00:01:29,520
-sent me a message two days ago. 
+sent me a message two days ago.
 
 37
 00:01:29,920 --> 00:01:31,280
-He invited me to be an administrative secretary. 
+He invited me to be an administrative secretary.
 
 38
 00:01:31,840 --> 00:01:33,840
-I didn't wanted to go into politics and decided not to go. 
+I didn't wanted to go into politics and decided not to go.
 
 39
 00:01:34,400 --> 00:01:36,640
@@ -160,7 +160,7 @@ to help me write a message of rejection in classical Chinese,
 
 41
 00:01:40,480 --> 00:01:42,880
-while I will write a message in vernacular Chinese. 
+while I will write a message in vernacular Chinese.
 
 42
 00:01:43,280 --> 00:01:44,480
@@ -168,7 +168,7 @@ Compare the two
 
 43
 00:01:44,640 --> 00:01:46,400
-to see which is more refined and economical. 
+to see which is more refined and economical.
 
 44
 00:01:45,310 --> 00:01:46,304
@@ -176,7 +176,7 @@ to see which is more refined and economical.
 
 45
 00:01:46,880 --> 00:01:48,000
-What do you say, everyone? 
+What do you say, everyone?
 
 46
 00:01:48,160 --> 00:01:49,120
@@ -188,7 +188,7 @@ Good.
 
 48
 00:01:53,040 --> 00:01:55,520
-My message consists of twelve words. 
+My message consists of twelve words.
 
 49
 00:01:56,160 --> 00:01:57,280
@@ -216,7 +216,7 @@ Professor Huang just used twelve words,
 
 55
 00:02:18,320 --> 00:02:19,760
-which is really concise. 
+which is really concise.
 
 56
 00:02:20,160 --> 00:02:21,040
@@ -232,7 +232,7 @@ If not,
 
 59
 00:02:30,000 --> 00:02:32,560
-then I will announce the message in vernacular. 
+then I will announce the message in vernacular.
 
 60
 00:02:34,880 --> 00:02:36,720
@@ -272,11 +272,11 @@ Your message is neither literary
 
 69
 00:02:48,000 --> 00:02:48,880
-nor polite. 
+nor polite.
 
 70
 00:02:49,280 --> 00:02:51,680
-It doesn't express the meaning of my message at all. 
+It doesn't express the meaning of my message at all.
 
 71
 00:02:52,160 --> 00:02:53,680
@@ -284,7 +284,7 @@ It's a disgrace to scholars!
 
 72
 00:02:54,000 --> 00:02:55,120
-I don't think so. 
+I don't think so.
 
 73
 00:02:55,360 --> 00:02:58,240
@@ -304,7 +304,7 @@ expressed my gratitude to my friends for taking the trouble to recommend me,
 
 77
 00:03:05,760 --> 00:03:08,480
-which also implies rejection. 
+which also implies rejection.
 
 78
 00:03:09,040 --> 00:03:10,800
@@ -336,7 +336,7 @@ but whether words
 
 85
 00:03:23,280 --> 00:03:26,880
-can be properly selected. 
+can be properly selected.
 
 86
 00:03:27,520 --> 00:03:28,320
@@ -348,7 +348,7 @@ gentlemen,
 
 88
 00:03:29,840 --> 00:03:31,360
-do you agree with me? 
+do you agree with me?
 
 89
 00:03:31,600 --> 00:03:35,200
@@ -400,11 +400,11 @@ Changli.
 
 101
 00:04:11,760 --> 00:04:13,040
-You write the proposal quickly. 
+You write the proposal quickly.
 
 102
 00:04:13,600 --> 00:04:15,920
-Call the Qing government to purge Peking University. 
+Call the Qing government to purge Peking University.
 
 103
 00:04:16,800 --> 00:04:18,560
@@ -412,7 +412,7 @@ Replace Cai Yuanpei and Chen Duxiu.
 
 104
 00:04:18,960 --> 00:04:20,800
-Expel Qian Xuantong and Hu Shi. 
+Expel Qian Xuantong and Hu Shi.
 
 105
 00:04:22,000 --> 00:04:23,200
@@ -444,15 +444,15 @@ Master, don't worry.
 
 112
 00:04:34,960 --> 00:04:36,400
-Students are preparing 
+Students are preparing
 
 113
 00:04:36,640 --> 00:04:39,040
-to stamp out Cai Yuanpei's and Chen Duxiu's proposal. 
+to stamp out Cai Yuanpei's and Chen Duxiu's proposal.
 
 114
 00:04:39,440 --> 00:04:42,560
-but the amount of materials is not enough at present. 
+but the amount of materials is not enough at present.
 
 115
 00:04:43,040 --> 00:04:45,040
@@ -472,7 +472,7 @@ I'm afraid it will be difficult
 
 119
 00:04:50,960 --> 00:04:52,320
-to pass the proposal rashly. 
+to pass the proposal rashly.
 
 120
 00:04:52,800 --> 00:04:54,080
@@ -488,7 +488,7 @@ young people to evil ways,
 
 123
 00:04:58,880 --> 00:05:01,520
-and let them destroy this country? 
+and let them destroy this country?
 
 124
 00:05:01,600 --> 00:05:03,040
@@ -496,7 +496,7 @@ Master, don't worry.
 
 125
 00:05:04,240 --> 00:05:06,480
-How can you say this sentence? 
+How can you say this sentence?
 
 126
 00:05:06,960 --> 00:05:07,760
@@ -532,7 +532,7 @@ these people at Peking University
 
 134
 00:05:33,360 --> 00:05:34,880
-are all ideological extremists. 
+are all ideological extremists.
 
 135
 00:05:35,280 --> 00:05:38,560
@@ -540,7 +540,7 @@ If you always go out in person and light a torch,
 
 136
 00:05:39,120 --> 00:05:40,240
-they will be annoyed. 
+they will be annoyed.
 
 137
 00:05:40,560 --> 00:05:42,000
@@ -548,7 +548,7 @@ Then surely they will do
 
 138
 00:05:42,240 --> 00:05:43,200
-more outrageous things. 
+more outrageous things.
 
 139
 00:05:43,360 --> 00:05:46,160
@@ -556,7 +556,7 @@ In this way, we can catch the fox's tail
 
 140
 00:05:46,320 --> 00:05:47,680
-and be sure to win. 
+and be sure to win.
 
 141
 00:05:48,000 --> 00:05:48,880
@@ -564,15 +564,15 @@ Uncle.
 
 142
 00:05:49,360 --> 00:05:50,720
-I think our strategy is wrong. 
+I think our strategy is wrong.
 
 143
 00:05:50,960 --> 00:05:53,920
-You always say that Chen Duxiu and Cai Yuanpei are not to be taunted. 
+You always say that Chen Duxiu and Cai Yuanpei are not to be taunted.
 
 144
 00:05:54,720 --> 00:05:56,400
-If you don't mess with him, he will bully you. 
+If you don't mess with him, he will bully you.
 
 145
 00:05:56,960 --> 00:05:58,880
@@ -628,7 +628,7 @@ Well, nicely spoken.
 
 158
 00:06:20,640 --> 00:06:22,320
-Chen Duxiu is a fanatic. 
+Chen Duxiu is a fanatic.
 
 159
 00:06:22,720 --> 00:06:24,880
@@ -636,7 +636,7 @@ Grab this guy, chase after him,
 
 160
 00:06:25,200 --> 00:06:27,520
-and beat down the arrogance of these people. 
+and beat down the arrogance of these people.
 
 161
 00:06:27,760 --> 00:06:28,560
@@ -644,7 +644,7 @@ Go do it.
 
 162
 00:06:28,720 --> 00:06:30,080
-I will give you financial support. 
+I will give you financial support.
 
 163
 00:06:31,360 --> 00:06:32,480
@@ -660,15 +660,15 @@ Calm down!
 
 166
 00:06:34,960 --> 00:06:35,840
-Master, you are right. 
+Master, you are right.
 
 167
 00:06:36,000 --> 00:06:36,960
-We should be open and upright. 
+We should be open and upright.
 
 168
 00:06:37,120 --> 00:06:37,840
-We won't do it. 
+We won't do it.
 
 169
 00:06:38,080 --> 00:06:38,720
@@ -676,11 +676,11 @@ We quit!
 
 170
 00:06:38,960 --> 00:06:39,840
-Master, listen to me. 
+Master, listen to me.
 
 171
 00:06:40,000 --> 00:06:40,240
-Let's not do it. 
+Let's not do it.
 
 172
 00:06:40,400 --> 00:06:41,680
@@ -712,15 +712,15 @@ advocating that patriotism is criminal and treason is glorious.
 
 179
 00:07:15,120 --> 00:07:16,000
-Who wrote this? 
+Who wrote this?
 
 180
 00:07:16,240 --> 00:07:17,040
-Who posted this? 
+Who posted this?
 
 181
 00:07:17,200 --> 00:07:18,640
-Whoever wrote it, I think it's true. 
+Whoever wrote it, I think it's true.
 
 182
 00:07:19,520 --> 00:07:20,320
@@ -736,7 +736,7 @@ That's who he is,
 
 185
 00:07:24,560 --> 00:07:26,080
-if that's true. 
+if that's true.
 
 186
 00:07:26,320 --> 00:07:27,280
@@ -744,7 +744,7 @@ Mr. Chen Duxiu,
 
 187
 00:07:27,760 --> 00:07:29,040
-he is too unbearable. 
+he is too unbearable.
 
 188
 00:07:29,120 --> 00:07:29,760
@@ -752,7 +752,7 @@ Exactly!
 
 189
 00:07:30,560 --> 00:07:31,600
-I don't believe it. 
+I don't believe it.
 
 190
 00:07:32,800 --> 00:07:33,680
@@ -784,11 +784,11 @@ Take a look.
 
 197
 00:07:51,040 --> 00:07:53,040
-This is the New Culture standard-bearer you admire. 
+This is the New Culture standard-bearer you admire.
 
 198
 00:07:53,760 --> 00:07:55,840
-They're just political hooligans, big hooligans. 
+They're just political hooligans, big hooligans.
 
 199
 00:07:56,080 --> 00:07:57,040
@@ -796,7 +796,7 @@ Mr. Huang!
 
 200
 00:07:58,000 --> 00:07:59,600
-These statements have not been confirmed. 
+These statements have not been confirmed.
 
 201
 00:07:59,920 --> 00:08:01,120
@@ -812,7 +812,7 @@ and use them to confuse students?
 
 204
 00:08:05,440 --> 00:08:06,720
-One cannot teach a child. 
+One cannot teach a child.
 
 205
 00:08:08,400 --> 00:08:10,000
@@ -828,7 +828,7 @@ Mr. Huang!
 
 208
 00:08:18,720 --> 00:08:19,600
-Guo Xingang, what are you doing? 
+Guo Xingang, what are you doing?
 
 209
 00:08:19,680 --> 00:08:20,240
@@ -844,11 +844,11 @@ Your family owns Peking University!
 
 212
 00:08:23,040 --> 00:08:24,080
-What makes you think you can stop people from speaking? 
+What makes you think you can stop people from speaking?
 
 213
 00:08:24,400 --> 00:08:25,280
-Shouldn't this be stopped? 
+Shouldn't this be stopped?
 
 214
 00:08:25,520 --> 00:08:26,240
@@ -880,7 +880,7 @@ Guo Xingang!
 
 221
 00:08:34,400 --> 00:08:35,360
-Are you Chen Duxiu's running dog? 
+Are you Chen Duxiu's running dog?
 
 222
 00:08:35,680 --> 00:08:36,560
@@ -888,7 +888,7 @@ How much does Chen Duxiu pay you
 
 223
 00:08:36,800 --> 00:08:37,280
-to protect him like this? 
+to protect him like this?
 
 224
 00:08:37,440 --> 00:08:38,080
@@ -896,7 +896,7 @@ Ridiculous!
 
 225
 00:08:38,240 --> 00:08:39,120
-What are you talking about? 
+What are you talking about?
 
 226
 00:08:39,440 --> 00:08:40,480
@@ -904,11 +904,11 @@ You're the running dog for the traditionalists!
 
 227
 00:08:40,560 --> 00:08:42,320
-Who are you talking about? You want to fight? 
+Who are you talking about? You want to fight?
 
 228
 00:08:44,640 --> 00:08:46,640
-Zhang Fengzai, do it! You wait for me. 
+Zhang Fengzai, do it! You wait for me.
 
 229
 00:08:47,040 --> 00:08:48,000
@@ -932,7 +932,7 @@ Let's have a meeting while having something to eat.
 
 234
 00:08:54,640 --> 00:08:56,640
-There are two main agendas for today's meeting. 
+There are two main agendas for today's meeting.
 
 235
 00:08:55,506 --> 00:08:56,722
@@ -948,7 +948,7 @@ the distribution of "New Youth".
 
 238
 00:09:00,080 --> 00:09:01,600
-The second is to study the next issue. 
+The second is to study the next issue.
 
 239
 00:09:02,480 --> 00:09:05,600
@@ -956,7 +956,7 @@ But first, Chen Yannian from Beijing.
 
 240
 00:09:06,240 --> 00:09:07,360
-Tell us about the distribution. 
+Tell us about the distribution.
 
 241
 00:09:06,246 --> 00:09:08,122
@@ -996,7 +996,7 @@ to report to you on the distribution
 
 250
 00:09:23,200 --> 00:09:23,920
-of "New Youth". 
+of "New Youth".
 
 251
 00:09:24,560 --> 00:09:25,760
@@ -1012,7 +1012,7 @@ and then printed 3,000 copies,
 
 254
 00:09:28,640 --> 00:09:29,680
-all of which have been sold out. 
+all of which have been sold out.
 
 255
 00:09:30,240 --> 00:09:32,320
@@ -1032,7 +1032,7 @@ in dozens of cities across the country.
 
 259
 00:09:37,440 --> 00:09:40,640
-Singapore and Japan also have representative offices. 
+Singapore and Japan also have representative offices.
 
 260
 00:09:37,682 --> 00:09:38,954
@@ -1068,11 +1068,11 @@ From the next issue, the domestic postage will be reduced
 
 268
 00:09:54,400 --> 00:09:56,320
-from three cents to one and a half cents. 
+from three cents to one and a half cents.
 
 269
 00:09:56,960 --> 00:09:58,880
-Japan is reduced from three cents to one cent. 
+Japan is reduced from three cents to one cent.
 
 270
 00:09:59,840 --> 00:10:01,840
@@ -1088,11 +1088,11 @@ one-volume edition
 
 273
 00:10:02,720 --> 00:10:03,840
-is priced at 4 yuan per copy. 
+is priced at 4 yuan per copy.
 
 274
 00:10:04,160 --> 00:10:05,600
-The market has now risen to 6 yuan per book. 
+The market has now risen to 6 yuan per book.
 
 275
 00:10:06,400 --> 00:10:07,520
@@ -1100,7 +1100,7 @@ This shows that "New Youth" has become
 
 276
 00:10:07,680 --> 00:10:09,120
-a famous magazine with collection status. 
+a famous magazine with collection status.
 
 277
 00:10:09,520 --> 00:10:10,400
@@ -1112,7 +1112,7 @@ Do members of the editorial board
 
 279
 00:10:11,840 --> 00:10:13,200
-have any questions or suggestions? 
+have any questions or suggestions?
 
 280
 00:10:13,600 --> 00:10:15,040
@@ -1132,7 +1132,7 @@ will expand the scope of your distribution,
 
 284
 00:10:21,280 --> 00:10:23,200
-and isn't always confined to schools. 
+and isn't always confined to schools.
 
 285
 00:10:21,720 --> 00:10:23,480
@@ -1156,11 +1156,11 @@ are literate
 
 290
 00:10:28,560 --> 00:10:29,760
-and concerned about current affairs. 
+and concerned about current affairs.
 
 291
 00:10:30,000 --> 00:10:31,040
-Don't ignore them. 
+Don't ignore them.
 
 292
 00:10:31,200 --> 00:10:31,680
@@ -1188,7 +1188,7 @@ readers' opinions and suggestions,
 
 298
 00:10:39,600 --> 00:10:41,040
-and then feed them back to our editorial department in time. 
+and then feed them back to our editorial department in time.
 
 299
 00:10:41,280 --> 00:10:43,280
@@ -1196,11 +1196,11 @@ Shouchang, these two suggestions are very good.
 
 300
 00:10:43,440 --> 00:10:44,080
-Very important. 
+Very important.
 
 301
 00:10:44,320 --> 00:10:45,200
-You implement it well. 
+You implement it well.
 
 302
 00:10:45,360 --> 00:10:45,760
@@ -1208,15 +1208,15 @@ Got it.
 
 303
 00:10:45,920 --> 00:10:46,880
-Do you have any other comments? 
+Do you have any other comments?
 
 304
 00:10:47,120 --> 00:10:49,520
-Yannian, I think they did a good job. 
+Yannian, I think they did a good job.
 
 305
 00:10:49,600 --> 00:10:51,360
-They should be given a raise and a red envelope. 
+They should be given a raise and a red envelope.
 
 306
 00:10:51,680 --> 00:10:52,400
@@ -1224,11 +1224,11 @@ Right?
 
 307
 00:10:54,320 --> 00:10:55,680
-This question is considered by Wang Mengzou. 
+This question is considered by Wang Mengzou.
 
 308
 00:10:56,080 --> 00:10:56,800
-Not to be discussed here. 
+Not to be discussed here.
 
 309
 00:10:57,120 --> 00:10:57,600
@@ -1236,11 +1236,11 @@ Alright, alright.
 
 310
 00:10:57,680 --> 00:10:58,400
-Are there any other questions? 
+Are there any other questions?
 
 311
 00:10:58,800 --> 00:10:59,120
-If not, 
+If not,
 
 312
 00:10:59,200 --> 00:11:01,600
@@ -1248,11 +1248,11 @@ Chen Yannian, please take out a bowl of noodles.
 
 313
 00:11:01,760 --> 00:11:02,960
-Let's study the next topic. 
+Let's study the next topic.
 
 314
 00:11:04,240 --> 00:11:04,640
-I have it here. 
+I have it here.
 
 315
 00:11:04,720 --> 00:11:05,600
@@ -1264,7 +1264,7 @@ Thank you, sir.
 
 317
 00:11:06,720 --> 00:11:07,200
-Here we go. 
+Here we go.
 
 318
 00:11:07,440 --> 00:11:07,840
@@ -1272,11 +1272,11 @@ Take the garlic.
 
 319
 00:11:08,240 --> 00:11:08,960
-I don't want garlic. 
+I don't want garlic.
 
 320
 00:11:09,280 --> 00:11:10,080
-Take it, take it. 
+Take it, take it.
 
 321
 00:11:10,320 --> 00:11:12,640
@@ -1308,7 +1308,7 @@ on this New Culture Movement.
 
 328
 00:11:30,480 --> 00:11:31,520
-Please talk about it first. 
+Please talk about it first.
 
 329
 00:11:32,240 --> 00:11:33,840
@@ -1316,7 +1316,7 @@ On the whole, the response of our New Culture lecture series
 
 330
 00:11:34,160 --> 00:11:36,160
-is quite enthusiastic. 
+is quite enthusiastic.
 
 331
 00:11:36,560 --> 00:11:37,920
@@ -1336,7 +1336,7 @@ This shows that our New Culture
 
 335
 00:11:44,800 --> 00:11:46,080
-has begun to popularize. 
+has begun to popularize.
 
 336
 00:11:46,880 --> 00:11:48,640
@@ -1348,7 +1348,7 @@ It mainly focuses
 
 338
 00:11:50,240 --> 00:11:52,560
-on whether words should be removed or not. 
+on whether words should be removed or not.
 
 339
 00:11:54,640 --> 00:11:55,280
@@ -1368,11 +1368,11 @@ has reached 80%.
 
 343
 00:12:00,800 --> 00:12:02,240
-Do you think this view is common? 
+Do you think this view is common?
 
 344
 00:12:02,720 --> 00:12:04,160
-Extremely undesirable. 
+Extremely undesirable.
 
 345
 00:12:05,280 --> 00:12:06,240
@@ -1380,7 +1380,7 @@ It seems that
 
 346
 00:12:06,480 --> 00:12:08,240
-we really need to reflect on this problem. 
+we really need to reflect on this problem.
 
 347
 00:12:09,120 --> 00:12:11,040
@@ -1400,7 +1400,7 @@ this street mouse that everyone shouts and fights.
 
 351
 00:12:17,040 --> 00:12:18,080
-It stinks. 
+It stinks.
 
 352
 00:12:18,240 --> 00:12:19,280
@@ -1412,7 +1412,7 @@ should not be mentioned in public in the future.
 
 354
 00:12:21,360 --> 00:12:22,000
-Think about it carefully. 
+Think about it carefully.
 
 355
 00:12:22,640 --> 00:12:23,520
@@ -1420,7 +1420,7 @@ It's really too extreme
 
 356
 00:12:23,600 --> 00:12:24,640
-to abolish words. 
+to abolish words.
 
 357
 00:12:25,760 --> 00:12:26,560
@@ -1432,11 +1432,11 @@ Now let's talk about
 
 359
 00:12:28,880 --> 00:12:30,320
-the next issue of "New Youth". 
+the next issue of "New Youth".
 
 360
 00:12:30,800 --> 00:12:32,400
-The editor in charge of the next issue is Deqian. 
+The editor in charge of the next issue is Deqian.
 
 361
 00:12:33,200 --> 00:12:34,160
@@ -1448,7 +1448,7 @@ I... I'm not ready yet.
 
 363
 00:12:37,920 --> 00:12:38,960
-Why are you not ready? 
+Why are you not ready?
 
 364
 00:12:39,280 --> 00:12:40,160
@@ -1460,7 +1460,7 @@ No, how can you become
 
 366
 00:12:43,840 --> 00:12:45,680
-dejected and despondent after a little setback? 
+dejected and despondent after a little setback?
 
 367
 00:12:46,480 --> 00:12:48,080
@@ -1480,11 +1480,11 @@ we do have some immature points,
 
 371
 00:12:53,760 --> 00:12:55,520
-but we will correct them step by step. 
+but we will correct them step by step.
 
 372
 00:12:56,080 --> 00:12:57,840
-In this way, we can stride forward. 
+In this way, we can stride forward.
 
 373
 00:12:58,240 --> 00:12:59,440
@@ -1512,11 +1512,11 @@ scolding "New Youth" every day,
 
 379
 00:13:09,760 --> 00:13:12,560
-and criticizing you Zhongfu by name. 
+and criticizing you Zhongfu by name.
 
 380
 00:13:13,760 --> 00:13:15,200
-I studied these letters with Bannong. 
+I studied these letters with Bannong.
 
 381
 00:13:16,000 --> 00:13:18,720
@@ -1532,23 +1532,23 @@ They don't only say that the Emperor is good
 
 384
 00:13:23,680 --> 00:13:24,960
-or that Chen Duxiu is a rogue who harms the country 
+or that Chen Duxiu is a rogue who harms the country
 
 385
 00:13:25,280 --> 00:13:26,800
-and reflects the people. 
+and reflects the people.
 
 386
 00:13:27,680 --> 00:13:29,360
-I ask everyone to analyze it. 
+I ask everyone to analyze it.
 
 387
 00:13:29,680 --> 00:13:30,880
-What's going on? 
+What's going on?
 
 388
 00:13:31,280 --> 00:13:33,200
-Not only letters but also leaflets. 
+Not only letters but also leaflets.
 
 389
 00:13:33,840 --> 00:13:35,120
@@ -1564,7 +1564,7 @@ who paid someone to post leaflets.
 
 392
 00:13:39,760 --> 00:13:41,520
-The content of leaflets is attacking you. 
+The content of leaflets is attacking you.
 
 393
 00:13:42,160 --> 00:13:43,200
@@ -1572,7 +1572,7 @@ People in the newspaper
 
 394
 00:13:43,440 --> 00:13:45,280
-told me that there was a legislator named Zhang Changli. 
+told me that there was a legislator named Zhang Changli.
 
 395
 00:13:45,760 --> 00:13:47,440
@@ -1580,7 +1580,7 @@ who hired people to write articles
 
 396
 00:13:47,600 --> 00:13:48,880
-to scold Chen Duxiu and Cai Yuanpei. 
+to scold Chen Duxiu and Cai Yuanpei.
 
 397
 00:13:49,120 --> 00:13:49,920
@@ -1600,7 +1600,7 @@ I think
 
 401
 00:13:56,320 --> 00:13:58,000
-the traditionalist movement has changed. 
+the traditionalist movement has changed.
 
 402
 00:13:58,880 --> 00:14:00,960
@@ -1612,15 +1612,15 @@ Now it has turned around
 
 404
 00:14:03,040 --> 00:14:04,720
-and is aimed at Zhongfu and Mr. Cai. 
+and is aimed at Zhongfu and Mr. Cai.
 
 405
 00:14:05,360 --> 00:14:07,680
-It is very likely that there is a big plan behind this. 
+It is very likely that there is a big plan behind this.
 
 406
 00:14:11,280 --> 00:14:12,320
-What are you going to say? 
+What are you going to say?
 
 407
 00:14:13,040 --> 00:14:13,840
@@ -1636,31 +1636,31 @@ is to fight back!
 
 410
 00:14:17,120 --> 00:14:18,160
-I now call for contributions from all of you. 
+I now call for contributions from all of you.
 
 411
 00:14:18,560 --> 00:14:20,320
-Yucai, write another novel. 
+Yucai, write another novel.
 
 412
 00:14:20,880 --> 00:14:21,840
-It's being written. 
+It's being written.
 
 413
 00:14:22,080 --> 00:14:24,240
-But I can't catch up with the next issue. 
+But I can't catch up with the next issue.
 
 414
 00:14:25,120 --> 00:14:26,480
-Brother Shouchang, you are a fighter. 
+Brother Shouchang, you are a fighter.
 
 415
 00:14:26,880 --> 00:14:27,760
-What do you have? 
+What do you have?
 
 416
 00:14:28,000 --> 00:14:28,880
-I'll write an article. 
+I'll write an article.
 
 417
 00:14:29,120 --> 00:14:30,160
@@ -1668,27 +1668,27 @@ Shizhi, what about you?
 
 418
 00:14:30,320 --> 00:14:31,600
-How about I dedicate two vernacular poems? 
+How about I dedicate two vernacular poems?
 
 419
 00:14:32,800 --> 00:14:33,840
-That vernacular poem of yours is boring. 
+That vernacular poem of yours is boring.
 
 420
 00:14:34,000 --> 00:14:34,880
-What's not boring? 
+What's not boring?
 
 421
 00:14:35,520 --> 00:14:37,360
-Mandarin Ducks and Butterflies articles should work. You can write a couple. 
+Mandarin Ducks and Butterflies articles should work. You can write a couple.
 
 422
 00:14:38,640 --> 00:14:39,520
-What do you mean? 
+What do you mean?
 
 423
 00:14:39,680 --> 00:14:40,560
-I meant what I said. 
+I meant what I said.
 
 424
 00:14:41,120 --> 00:14:42,160
@@ -1716,7 +1716,7 @@ Shizhi, I think you're just
 
 430
 00:14:50,480 --> 00:14:51,840
-sitting around watching the sky. 
+sitting around watching the sky.
 
 431
 00:14:51,920 --> 00:14:52,560
@@ -1724,7 +1724,7 @@ All right, all right, all right.
 
 432
 00:14:52,640 --> 00:14:54,640
-You two rabbits, don't point at each other the moment you meet. 
+You two rabbits, don't point at each other the moment you meet.
 
 433
 00:14:56,000 --> 00:14:59,120
@@ -1732,7 +1732,7 @@ Deqian has been busy with the Ministry of Education recently
 
 434
 00:14:59,840 --> 00:15:02,160
-with the standardization of punctuation marks. 
+with the standardization of punctuation marks.
 
 435
 00:15:03,200 --> 00:15:05,120
@@ -1740,7 +1740,7 @@ Bannong, you're the editor of the next issue.
 
 436
 00:15:05,360 --> 00:15:07,040
-You come to assist Deqian. 
+You come to assist Deqian.
 
 437
 00:15:08,480 --> 00:15:09,680
@@ -1748,7 +1748,7 @@ Bannong, let's have a good chat after the meeting.
 
 438
 00:15:14,000 --> 00:15:15,520
-Hand me a head of garlic. 
+Hand me a head of garlic.
 
 439
 00:15:21,280 --> 00:15:22,160
@@ -1756,7 +1756,7 @@ Bannong.
 
 440
 00:15:22,320 --> 00:15:24,800
-Think. How are we going to fight this battle? 
+Think. How are we going to fight this battle?
 
 441
 00:15:25,600 --> 00:15:27,680
@@ -1772,7 +1772,7 @@ who only attended middle school.
 
 444
 00:15:31,360 --> 00:15:32,400
-Where is there any good idea? 
+Where is there any good idea?
 
 445
 00:15:32,640 --> 00:15:34,640
@@ -1780,11 +1780,11 @@ You can come up with a good idea
 
 446
 00:15:34,960 --> 00:15:36,640
-because you are a Mandarin Duck and Butterflies reporter. 
+because you are a Mandarin Duck and Butterflies reporter.
 
 447
 00:15:39,200 --> 00:15:41,840
-How about we make a duet play this time? 
+How about we make a duet play this time?
 
 448
 00:15:42,160 --> 00:15:43,600
@@ -1800,7 +1800,7 @@ Who is the standard-bearer of Beijing against New Culture
 
 451
 00:15:47,040 --> 00:15:48,880
-and against "New Youth" now? 
+and against "New Youth" now?
 
 452
 00:15:49,360 --> 00:15:50,080
@@ -1812,7 +1812,7 @@ Slow down! Be careful!
 
 454
 00:15:50,880 --> 00:15:51,760
-Of course. 
+Of course.
 
 455
 00:15:52,000 --> 00:15:53,440
@@ -1824,7 +1824,7 @@ gang of traditionalists.
 
 457
 00:15:56,160 --> 00:15:57,760
-Let's take Lin Shu as the prototype. 
+Let's take Lin Shu as the prototype.
 
 458
 00:15:58,240 --> 00:15:59,760
@@ -1848,7 +1848,7 @@ Then,
 
 463
 00:16:05,440 --> 00:16:07,120
-let's send him a long article 
+let's send him a long article
 
 464
 00:16:07,520 --> 00:16:08,400
@@ -1856,11 +1856,11 @@ in the name of a "New Youth" reporter.
 
 465
 00:16:08,720 --> 00:16:11,040
-Refute this letter from readers one by one. 
+Refute this letter from readers one by one.
 
 466
 00:16:11,440 --> 00:16:13,600
-This question-and-answer form is novel and lively. 
+This question-and-answer form is novel and lively.
 
 467
 00:16:14,000 --> 00:16:15,120
@@ -1868,7 +1868,7 @@ This will certainly arouse
 
 468
 00:16:15,360 --> 00:16:16,400
-readers' curiosity and interest. 
+readers' curiosity and interest.
 
 469
 00:16:16,880 --> 00:16:17,760
@@ -1876,35 +1876,35 @@ If there is no accident,
 
 470
 00:16:18,160 --> 00:16:20,480
-it may even lead to a big argument. 
+it may even lead to a big argument.
 
 471
 00:16:20,880 --> 00:16:22,880
-Liu Bannong, I think you should change your name. 
+Liu Bannong, I think you should change your name.
 
 472
 00:16:23,120 --> 00:16:24,640
-To "Liu Banxian" (literally, demi-god) 
+To "Liu Banxian" (literally, demi-god)
 
 473
 00:16:25,440 --> 00:16:27,120
-Do you really think this duet can be performed? 
+Do you really think this duet can be performed?
 
 474
 00:16:27,360 --> 00:16:28,320
-I can do it. I can do it. 
+I can do it. I can do it.
 
 475
 00:16:28,560 --> 00:16:29,280
-Let's just do it. 
+Let's just do it.
 
 476
 00:16:29,600 --> 00:16:30,560
-I'll write the reader's letter. 
+I'll write the reader's letter.
 
 477
 00:16:30,800 --> 00:16:31,840
-How about you write rebuttal article? 
+How about you write rebuttal article?
 
 478
 00:16:32,080 --> 00:16:32,800
@@ -1932,7 +1932,7 @@ but the reader's letter
 
 484
 00:16:44,000 --> 00:16:44,880
-has to have a signature. 
+has to have a signature.
 
 485
 00:16:45,120 --> 00:16:45,760
@@ -1940,11 +1940,11 @@ Signature?
 
 486
 00:16:46,320 --> 00:16:49,360
-How about Wang Jingxuan? 
+How about Wang Jingxuan?
 
 487
 00:16:49,680 --> 00:16:50,560
-Call it anything. 
+Call it anything.
 
 488
 00:16:50,800 --> 00:16:51,680
@@ -1952,7 +1952,7 @@ Then my article is called
 
 489
 00:16:51,760 --> 00:16:52,800
-"Reply to Wang Jingxuan's Letter".
+"A Reply to Wang Jingxuan".
 
 490
 00:16:53,120 --> 00:16:55,120
@@ -1960,7 +1960,7 @@ Since this Wang Jingxuan is a traditionalist,
 
 491
 00:16:55,280 --> 00:16:56,800
-I don't need punctuation marks in my letter. 
+I don't need punctuation marks in my letter.
 
 492
 00:16:57,120 --> 00:16:58,080
@@ -1968,7 +1968,7 @@ In this paper, I will put forward
 
 493
 00:16:58,320 --> 00:16:59,760
-a total of eight infiltration theories against New Culture. 
+a total of eight infiltration theories against New Culture.
 
 494
 00:17:00,240 --> 00:17:00,800
@@ -1992,11 +1992,11 @@ Then I'll make sure that you, Wang Jingxuan,
 
 499
 00:17:07,680 --> 00:17:09,680
-are torn to pieces. 
+are torn to pieces.
 
 500
 00:17:20,720 --> 00:17:22,960
-Deqian, you compiled this issue very well. 
+Deqian, you compiled this issue very well.
 
 501
 00:17:23,360 --> 00:17:24,800
@@ -2024,15 +2024,15 @@ all clear.
 
 507
 00:17:37,280 --> 00:17:38,000
-This form is very good. 
+This form is very good.
 
 508
 00:17:38,320 --> 00:17:39,840
-You have created a new genre. 
+You have created a new genre.
 
 509
 00:17:40,160 --> 00:17:42,160
-Besides, Deqian, you are very talented. 
+Besides, Deqian, you are very talented.
 
 510
 00:17:42,560 --> 00:17:44,080
@@ -2040,11 +2040,11 @@ You were depressed in the last issue,
 
 511
 00:17:44,320 --> 00:17:45,600
-but this issue turned over. Look. 
+but this issue turned over. Look.
 
 512
 00:17:45,920 --> 00:17:47,680
-Brother Zhongfu, are you making fun of me? 
+Brother Zhongfu, are you making fun of me?
 
 513
 00:17:48,160 --> 00:17:49,440
@@ -2060,7 +2060,7 @@ I made up this letter by Wang Jingxuan,
 
 516
 00:17:55,040 --> 00:17:58,320
-but the reporter's reply was written by Bannong. 
+but the reporter's reply was written by Bannong.
 
 517
 00:17:58,480 --> 00:17:59,680
@@ -2072,7 +2072,7 @@ then it's Bannong.
 
 519
 00:18:01,840 --> 00:18:03,040
-I didn't say it was all yours. 
+I didn't say it was all yours.
 
 520
 00:18:03,360 --> 00:18:04,400
@@ -2080,7 +2080,7 @@ You...
 
 521
 00:18:04,720 --> 00:18:05,760
-I have a different view. 
+I have a different view.
 
 522
 00:18:06,080 --> 00:18:07,600
@@ -2088,7 +2088,7 @@ Our "New Youth" is an academic journal,
 
 523
 00:18:07,920 --> 00:18:09,120
-a magazine of ideological enlightenment. 
+a magazine of ideological enlightenment.
 
 524
 00:18:09,680 --> 00:18:10,960
@@ -2104,15 +2104,15 @@ like "New Youth".
 
 527
 00:18:13,760 --> 00:18:16,240
-Talking about New Culture in this low tone. 
+Talking about New Culture in this low tone.
 
 528
 00:18:16,480 --> 00:18:17,600
-I think it's simply self-destruction. 
+I think it's simply self-destruction.
 
 529
 00:18:18,080 --> 00:18:20,000
-Hu Shizhi, make yourself clear. 
+Hu Shizhi, make yourself clear.
 
 530
 00:18:20,240 --> 00:18:21,360
@@ -2124,7 +2124,7 @@ Well first, you didn't ask my permission
 
 532
 00:18:23,520 --> 00:18:25,600
-to write the attack on me. 
+to write the attack on me.
 
 533
 00:18:26,240 --> 00:18:27,600
@@ -2136,7 +2136,7 @@ Shizhi, I used
 
 535
 00:18:29,760 --> 00:18:32,080
-all the statements that openly attacked you in the newspaper. 
+all the statements that openly attacked you in the newspaper.
 
 536
 00:18:32,720 --> 00:18:34,800
@@ -2144,19 +2144,19 @@ Bannong quoted your rebuttal,
 
 537
 00:18:35,040 --> 00:18:36,720
-which was also published publicly. 
+which was also published publicly.
 
 538
 00:18:36,880 --> 00:18:38,560
-How can this be called a personal attack? 
+How can this be called a personal attack?
 
 539
 00:18:38,800 --> 00:18:39,360
-Isn't that too harsh? 
+Isn't that too harsh?
 
 540
 00:18:39,600 --> 00:18:40,800
-What do you think it should be like? 
+What do you think it should be like?
 
 541
 00:18:40,880 --> 00:18:42,240
@@ -2164,7 +2164,7 @@ Shizhi, you're exaggerating.
 
 542
 00:18:42,480 --> 00:18:44,720
-I think this way of asking and answering questions is very good. 
+I think this way of asking and answering questions is very good.
 
 543
 00:18:45,040 --> 00:18:45,360
@@ -2180,7 +2180,7 @@ New Culture and new inventions
 
 546
 00:18:48,960 --> 00:18:50,240
-needs new means to express it. 
+needs new means to express it.
 
 547
 00:18:50,480 --> 00:18:51,200
@@ -2188,7 +2188,7 @@ I mean,
 
 548
 00:18:51,280 --> 00:18:53,200
-we are a serious academic journal. 
+we are a serious academic journal.
 
 549
 00:18:53,440 --> 00:18:54,560
@@ -2224,7 +2224,7 @@ Mr. Cai.
 
 557
 00:19:01,760 --> 00:19:02,800
-Thank you for waiting. 
+Thank you for waiting.
 
 558
 00:19:03,840 --> 00:19:04,640
@@ -2236,15 +2236,15 @@ This issue of "New Youth" magazine
 
 560
 00:19:08,400 --> 00:19:09,520
-is well run. 
+is well run.
 
 561
 00:19:09,760 --> 00:19:12,960
-In particular, this "Reply to Wang Jingxuan's Letter"
+In particular, this "A Reply to Wang Jingxuan"
 
 562
 00:19:13,840 --> 00:19:15,120
-is very well written. 
+is very well written.
 
 563
 00:19:15,520 --> 00:19:17,600
@@ -2260,7 +2260,7 @@ as the spokesman of the traditionalists.
 
 566
 00:19:20,880 --> 00:19:22,560
-Look at this. Excellent! 
+Look at this. Excellent!
 
 567
 00:19:23,040 --> 00:19:24,160
@@ -2268,7 +2268,7 @@ Very good.
 
 568
 00:19:24,880 --> 00:19:26,160
-I think it's good, too. 
+I think it's good, too.
 
 569
 00:19:30,240 --> 00:19:30,880
@@ -2288,7 +2288,7 @@ Nothing.
 
 573
 00:19:33,920 --> 00:19:35,200
-Shizhi has a toothache these two days. 
+Shizhi has a toothache these two days.
 
 574
 00:19:36,080 --> 00:19:36,880
@@ -2296,11 +2296,11 @@ Toothache?
 
 575
 00:19:37,360 --> 00:19:38,800
-It is easy to get angry when the weather is hot. 
+It is easy to get angry when the weather is hot.
 
 576
 00:19:39,440 --> 00:19:40,800
-You need to see a doctor. 
+You need to see a doctor.
 
 577
 00:19:41,280 --> 00:19:43,680
@@ -2308,7 +2308,7 @@ A toothache is not a disease but a pain that kills.
 
 578
 00:19:44,080 --> 00:19:45,040
-You have to cure it. 
+You have to cure it.
 
 579
 00:19:45,280 --> 00:19:46,640
@@ -2324,11 +2324,11 @@ The novels translated by Mr. Lin
 
 582
 00:19:56,320 --> 00:19:58,240
-still have no literary meaning at all. 
+still have no literary meaning at all.
 
 583
 00:19:58,560 --> 00:19:59,360
-Why? 
+Why?
 
 584
 00:20:00,320 --> 00:20:01,600
@@ -2348,7 +2348,7 @@ of little value,
 
 588
 00:20:08,000 --> 00:20:10,160
-while the works of great value were untouched. 
+while the works of great value were untouched.
 
 589
 00:20:11,280 --> 00:20:13,200
@@ -2360,11 +2360,11 @@ which completely loses the spirit
 
 591
 00:20:15,440 --> 00:20:16,560
-of the original 
+of the original
 
 592
 00:20:17,120 --> 00:20:19,040
-in the translated version. 
+in the translated version.
 
 593
 00:20:19,280 --> 00:20:19,680
@@ -2372,11 +2372,11 @@ Got it.
 
 594
 00:20:21,360 --> 00:20:22,160
-Stop reading. 
+Stop reading.
 
 595
 00:20:22,880 --> 00:20:23,920
-What Wang Jingxuan? 
+What Wang Jingxuan?
 
 596
 00:20:24,160 --> 00:20:25,760
@@ -2384,7 +2384,7 @@ It's obvious that they're talking about me, Lin Shu.
 
 597
 00:20:27,760 --> 00:20:28,720
-I want to fight back. 
+I want to fight back.
 
 598
 00:20:29,440 --> 00:20:31,120
@@ -2404,7 +2404,7 @@ You're not reading it clearly.
 
 602
 00:20:41,040 --> 00:20:42,960
-It's advocating old literature. 
+It's advocating old literature.
 
 603
 00:20:44,240 --> 00:20:45,200
@@ -2412,7 +2412,7 @@ Is it? Right.
 
 604
 00:20:49,120 --> 00:20:50,640
-Good evening, students. 
+Good evening, students.
 
 605
 00:20:51,920 --> 00:20:52,560
@@ -2444,11 +2444,11 @@ the topic of our reading club is
 
 612
 00:21:03,840 --> 00:21:05,360
-"Reply to Wang Jingxuan's Letter".
+"A Reply to Wang Jingxuan".
 
 613
 00:21:05,600 --> 00:21:06,880
-What about this issue? 
+What about this issue?
 
 614
 00:21:07,120 --> 00:21:08,720
@@ -2456,7 +2456,7 @@ Fu Sinian was particularly interested,
 
 615
 00:21:08,960 --> 00:21:10,240
-so he volunteered to attend. 
+so he volunteered to attend.
 
 616
 00:21:10,560 --> 00:21:11,760
@@ -2464,11 +2464,11 @@ Everyone welcome him.
 
 617
 00:21:14,400 --> 00:21:17,600
-Aren't you Mr. Huang Kan's student, Fu Sinian? 
+Aren't you Mr. Huang Kan's student, Fu Sinian?
 
 618
 00:21:18,000 --> 00:21:19,200
-How did you swtich sides? 
+How did you swtich sides?
 
 619
 00:21:19,440 --> 00:21:20,880
@@ -2476,11 +2476,11 @@ What do you mean, switch sides?
 
 620
 00:21:21,360 --> 00:21:22,720
-I just came to listen. 
+I just came to listen.
 
 621
 00:21:22,800 --> 00:21:24,240
-Introduce this paragraph to everyone. 
+Introduce this paragraph to everyone.
 
 622
 00:21:24,800 --> 00:21:26,000
@@ -2488,11 +2488,11 @@ Move over.
 
 623
 00:21:32,320 --> 00:21:35,440
-Okay, next, please welcome Zhao Shiyan. 
+Okay, next, please welcome Zhao Shiyan.
 
 624
 00:21:35,920 --> 00:21:38,400
-Let's analyze this work. 
+Let's analyze this work.
 
 625
 00:21:38,720 --> 00:21:40,320
@@ -2504,11 +2504,11 @@ two articles, one with questions and one with answers.
 
 627
 00:21:42,320 --> 00:21:43,200
-As far as I know, 
+As far as I know,
 
 628
 00:21:43,600 --> 00:21:46,000
-the letter asking questions was written by Professor Qian Xuantong. 
+the letter asking questions was written by Professor Qian Xuantong.
 
 629
 00:21:46,720 --> 00:21:48,320
@@ -2548,11 +2548,11 @@ as an editor of "New Youth" magazine
 
 638
 00:22:00,640 --> 00:22:02,240
-wrote "Reply to Wang Jingxuan's Letter"
+wrote "A Reply to Wang Jingxuan"
 
 639
 00:22:02,480 --> 00:22:04,080
-which refuted Wang Jingxuan's views 
+which refuted Wang Jingxuan's views
 
 640
 00:22:04,400 --> 00:22:06,240
@@ -2564,7 +2564,7 @@ and systematically stated
 
 642
 00:22:08,720 --> 00:22:09,840
-the position of New Culture. 
+the position of New Culture.
 
 643
 00:22:09,920 --> 00:22:10,880
@@ -2576,7 +2576,7 @@ can be said to be a big debate between the old and new forces
 
 645
 00:22:13,120 --> 00:22:15,040
-in the field of ideology and culture. 
+in the field of ideology and culture.
 
 646
 00:22:15,360 --> 00:22:16,720
@@ -2584,7 +2584,7 @@ The essence of the debate
 
 647
 00:22:17,120 --> 00:22:19,280
-is whether Chinese culture should remain traditional or innovate. 
+is whether Chinese culture should remain traditional or innovate.
 
 648
 00:22:19,840 --> 00:22:20,720
@@ -2592,7 +2592,7 @@ That's all I want to introduce.
 
 649
 00:22:20,960 --> 00:22:21,840
-Let's discuss it. 
+Let's discuss it.
 
 650
 00:22:23,040 --> 00:22:24,960
@@ -2604,15 +2604,15 @@ I think all the students in our reading class
 
 652
 00:22:25,520 --> 00:22:27,040
-have the same basic views 
+have the same basic views
 
 653
 00:22:27,200 --> 00:22:28,480
-on the New Culture Movement. 
+on the New Culture Movement.
 
 654
 00:22:28,800 --> 00:22:30,240
-What about the contents of these two letters? 
+What about the contents of these two letters?
 
 655
 00:22:30,480 --> 00:22:32,480
@@ -2620,7 +2620,7 @@ We usually pay attention to it, discuss it,
 
 656
 00:22:32,880 --> 00:22:34,000
-and distinguish right from wrong. 
+and distinguish right from wrong.
 
 657
 00:22:34,240 --> 00:22:35,840
@@ -2636,7 +2636,7 @@ but to go out and publicize
 
 660
 00:22:40,640 --> 00:22:42,240
-to inspire more people's thoughts. 
+to inspire more people's thoughts.
 
 661
 00:22:42,800 --> 00:22:43,440
@@ -2644,11 +2644,11 @@ Zhongxie.
 
 662
 00:22:43,840 --> 00:22:45,600
-You said your classmates all agree on the point of view. 
+You said your classmates all agree on the point of view.
 
 663
 00:22:45,760 --> 00:22:47,040
-I don't think so. 
+I don't think so.
 
 664
 00:22:47,440 --> 00:22:49,040
@@ -2668,7 +2668,7 @@ student Fu Sinian.
 
 668
 00:22:54,480 --> 00:22:56,320
-Guo Xingang, don't provoke me. 
+Guo Xingang, don't provoke me.
 
 669
 00:22:57,280 --> 00:22:59,920
@@ -2676,7 +2676,7 @@ I respect Mr. Huang Kan's knowledge,
 
 670
 00:23:00,160 --> 00:23:02,720
-but I love my teacher and I love the truth more. 
+but I love my teacher and I love the truth more.
 
 671
 00:23:03,200 --> 00:23:04,160
@@ -2688,7 +2688,7 @@ to see what our student union
 
 673
 00:23:06,320 --> 00:23:08,080
-can do for New Culture. 
+can do for New Culture.
 
 674
 00:23:08,880 --> 00:23:09,840
@@ -2696,19 +2696,19 @@ If you say so,
 
 675
 00:23:10,080 --> 00:23:11,520
-you can help the New Culture Movement do something. 
+you can help the New Culture Movement do something.
 
 676
 00:23:11,840 --> 00:23:12,960
-I still support you very much. 
+I still support you very much.
 
 677
 00:23:13,280 --> 00:23:14,480
-That's of course. 
+That's of course.
 
 678
 00:23:14,720 --> 00:23:16,880
-I think brother Zhongxie is quite right. 
+I think brother Zhongxie is quite right.
 
 679
 00:23:17,360 --> 00:23:18,480
@@ -2720,7 +2720,7 @@ of New Culture knowledge and enlightenment thought
 
 681
 00:23:20,080 --> 00:23:21,520
-to the masses is a top priority. 
+to the masses is a top priority.
 
 682
 00:23:22,080 --> 00:23:24,000
@@ -2728,39 +2728,39 @@ Our reading class should do more
 
 683
 00:23:24,240 --> 00:23:25,280
-in this respect. 
+in this respect.
 
 684
 00:23:25,520 --> 00:23:26,480
-Isn't this "Reply to Wang Jingxuan's Letter"
+Isn't this "A Reply to Wang Jingxuan"
 
 685
 00:23:26,560 --> 00:23:27,520
-a duet play? 
+a duet play?
 
 686
 00:23:27,920 --> 00:23:29,680
-How about we show it? 
+How about we show it?
 
 687
 00:23:30,160 --> 00:23:30,960
-That's a good idea. 
+That's a good idea.
 
 688
 00:23:31,120 --> 00:23:31,840
-That's a good idea. 
+That's a good idea.
 
 689
 00:23:32,320 --> 00:23:35,120
-A duet is a two-person play. 
+A duet is a two-person play.
 
 690
 00:23:35,520 --> 00:23:37,280
-"Reply to Wang Jingxuan's Letter" is a question-and-answer form. 
+"A Reply to Wang Jingxuan" is a question-and-answer form.
 
 691
 00:23:37,760 --> 00:23:39,280
-It should be a live newspaper play. 
+It should be a live newspaper play.
 
 692
 00:23:39,760 --> 00:23:41,280
@@ -2768,7 +2768,7 @@ No matter whether it's a duet or a live newspaper drama,
 
 693
 00:23:41,600 --> 00:23:43,440
-it's very lively. 
+it's very lively.
 
 694
 00:23:43,760 --> 00:23:44,640
@@ -2776,11 +2776,11 @@ All forms are
 
 695
 00:23:44,880 --> 00:23:45,760
-supported by our student union. 
+supported by our student union.
 
 696
 00:23:46,080 --> 00:23:47,760
-We will provide clothing and venues. 
+We will provide clothing and venues.
 
 697
 00:23:48,480 --> 00:23:49,440
@@ -2804,7 +2804,7 @@ but don't say anything about it
 
 702
 00:23:59,360 --> 00:24:00,960
-until it is rehearsed. 
+until it is rehearsed.
 
 703
 00:24:02,080 --> 00:24:03,120
@@ -2824,7 +2824,7 @@ and actors should be decided by the director.
 
 707
 00:24:09,440 --> 00:24:10,960
-How about everyone participate? 
+How about everyone participate?
 
 708
 00:24:11,120 --> 00:24:11,600
@@ -2840,15 +2840,15 @@ Where are we going to play this newspaper play
 
 711
 00:24:14,320 --> 00:24:14,960
-after rehearsal? 
+after rehearsal?
 
 712
 00:24:15,040 --> 00:24:16,960
-Go to the overpass. There are so many people there. 
+Go to the overpass. There are so many people there.
 
 713
 00:24:19,280 --> 00:24:21,680
-So you rehearse it first. 
+So you rehearse it first.
 
 714
 00:24:22,000 --> 00:24:22,880
@@ -2864,7 +2864,7 @@ to watch the first show.
 
 717
 00:24:25,280 --> 00:24:26,960
-We'll discuss where to play. 
+We'll discuss where to play.
 
 718
 00:24:27,200 --> 00:24:27,600
@@ -2892,7 +2892,7 @@ Brother Haiwei, give it to me.
 
 724
 00:24:38,160 --> 00:24:39,040
-Give it to me. Let me try it. 
+Give it to me. Let me try it.
 
 725
 00:24:43,520 --> 00:24:44,400
@@ -2904,15 +2904,15 @@ Quick! Quick!
 
 727
 00:24:49,760 --> 00:24:51,680
-Come on, everybody, put your work aside. 
+Come on, everybody, put your work aside.
 
 728
 00:24:51,920 --> 00:24:54,000
-We have good news to announce to you. 
+We have good news to announce to you.
 
 729
 00:24:54,800 --> 00:24:56,240
-Come on, gather around. 
+Come on, gather around.
 
 730
 00:24:57,360 --> 00:24:58,560
@@ -2924,7 +2924,7 @@ my classmates Zhao Shiyan and I are responsible
 
 732
 00:25:01,520 --> 00:25:03,280
-for the rehearsal and performance of this newspaper play. 
+for the rehearsal and performance of this newspaper play.
 
 733
 00:25:03,520 --> 00:25:04,560
@@ -2936,11 +2936,11 @@ I am in charge of adapting the script
 
 735
 00:25:06,480 --> 00:25:08,400
-and Shiyan is in charge of directing. 
+and Shiyan is in charge of directing.
 
 736
 00:25:09,200 --> 00:25:10,320
-Is everyone not welcoming it? 
+Is everyone not welcoming it?
 
 737
 00:25:10,560 --> 00:25:11,200
@@ -2952,7 +2952,7 @@ Thank you everyone. Thank you everyone.
 
 739
 00:25:14,240 --> 00:25:16,160
-Let me make two explanations on the script first. 
+Let me make two explanations on the script first.
 
 740
 00:25:16,400 --> 00:25:16,800
@@ -2960,11 +2960,11 @@ First,
 
 741
 00:25:16,960 --> 00:25:19,680
-The script was adapted from "Reply to Wang Jingxuan's Letter"
+The script was adapted from "A Reply to Wang Jingxuan"
 
 742
 00:25:20,240 --> 00:25:22,800
-and now the title of the play is tentatively named "Bells in the Red Chamber".
+and now the title of the play is tentatively named "Chime of the Red Building Bell".
 
 743
 00:25:23,440 --> 00:25:25,280
@@ -2980,7 +2980,7 @@ is inspired from the
 
 746
 00:25:30,400 --> 00:25:31,440
-great translator Lin Shu. 
+great translator Lin Shu.
 
 747
 00:25:31,760 --> 00:25:32,960
@@ -2988,11 +2988,11 @@ I discussed it with the director
 
 748
 00:25:33,280 --> 00:25:34,880
-and decided to use Professor Gu Hongming. 
+and decided to use Professor Gu Hongming.
 
 749
 00:25:36,400 --> 00:25:37,120
-Another role 
+Another role
 
 750
 00:25:37,200 --> 00:25:38,080
@@ -3016,7 +3016,7 @@ Now, please ask Director Shiyan
 
 755
 00:25:46,160 --> 00:25:47,360
-to give a brief account of the director. 
+to give a brief account of the director.
 
 756
 00:25:47,600 --> 00:25:48,480
@@ -3032,7 +3032,7 @@ Thank you everyone.
 
 759
 00:25:51,680 --> 00:25:53,040
-Let me focus on how to split the work. 
+Let me focus on how to split the work.
 
 760
 00:25:53,360 --> 00:25:55,280
@@ -3040,7 +3040,7 @@ There are AB casts, altogether four actors.
 
 761
 00:25:55,760 --> 00:25:57,680
-Reporter in Cast A: Chen Yannian 
+Reporter in Cast A: Chen Yannian
 
 762
 00:25:58,160 --> 00:25:59,520
@@ -3048,31 +3048,31 @@ Reporter in Cast B: Deng Zhongxia
 
 763
 00:26:00,480 --> 00:26:02,160
-The actor of Wang Jingxuan 
+The actor of Wang Jingxuan
 
 764
 00:26:03,200 --> 00:26:04,080
-Cast A: Liu Mei 
+Cast A: Liu Mei
 
 765
 00:26:04,240 --> 00:26:05,440
-Cast B: Guo Xingang 
+Cast B: Guo Xingang
 
 766
 00:26:08,800 --> 00:26:09,600
-Don't laugh. 
+Don't laugh.
 
 767
 00:26:10,000 --> 00:26:10,880
-Who do you want me to play? 
+Who do you want me to play?
 
 768
 00:26:11,040 --> 00:26:12,240
-Liu Mei playing Wang Jingxuan 
+Liu Mei playing Wang Jingxuan
 
 769
 00:26:12,560 --> 00:26:13,360
-Woman disguised as a man. 
+Woman disguised as a man.
 
 770
 00:26:13,760 --> 00:26:14,080
@@ -3084,15 +3084,15 @@ These two Cast A actors
 
 772
 00:26:15,040 --> 00:26:16,640
-have been carefully studied by us. 
+have been carefully studied by us.
 
 773
 00:26:17,440 --> 00:26:18,160
-It was just decided. 
+It was just decided.
 
 774
 00:26:18,640 --> 00:26:19,520
-How did you work it out? 
+How did you work it out?
 
 775
 00:26:20,000 --> 00:26:22,800
@@ -3100,19 +3100,19 @@ I think there is a deep meaning
 
 776
 00:26:23,040 --> 00:26:24,240
-in letting you play this role. 
+in letting you play this role.
 
 777
 00:26:24,800 --> 00:26:25,600
-What does that mean? 
+What does that mean?
 
 778
 00:26:26,000 --> 00:26:28,240
-Making me play an old man. I won't do it. 
+Making me play an old man. I won't do it.
 
 779
 00:26:29,840 --> 00:26:30,560
-Think about it. 
+Think about it.
 
 780
 00:26:31,360 --> 00:26:32,480
@@ -3132,7 +3132,7 @@ while women were always excluded
 
 784
 00:26:37,600 --> 00:26:39,040
-from the main trend. 
+from the main trend.
 
 785
 00:26:39,520 --> 00:26:41,440
@@ -3140,15 +3140,15 @@ What our new culture movement advocates
 
 786
 00:26:41,840 --> 00:26:43,360
-is democracy and freedom, 
+is democracy and freedom,
 
 787
 00:26:43,680 --> 00:26:45,120
-which is the awakening of all people. 
+which is the awakening of all people.
 
 788
 00:26:45,440 --> 00:26:47,040
-This is not just about men. 
+This is not just about men.
 
 789
 00:26:47,440 --> 00:26:49,520
@@ -3164,7 +3164,7 @@ is a great irony to people
 
 792
 00:26:52,960 --> 00:26:54,320
-like Wang Jingxuan. 
+like Wang Jingxuan.
 
 793
 00:26:54,960 --> 00:26:55,600
@@ -3184,7 +3184,7 @@ I understand.
 
 797
 00:27:00,800 --> 00:27:02,640
-I will definitely try my best to play this Wang Jingxuan. 
+I will definitely try my best to play this Wang Jingxuan.
 
 798
 00:27:02,880 --> 00:27:03,280
@@ -3196,15 +3196,15 @@ There is no objection to the arrangement of the actors.
 
 800
 00:27:04,880 --> 00:27:05,600
-Let's talk about the next item. 
+Let's talk about the next item.
 
 801
 00:27:06,240 --> 00:27:07,360
-Clothing is very important 
+Clothing is very important
 
 802
 00:27:07,600 --> 00:27:08,720
-Fu Sinian is in charge. 
+Fu Sinian is in charge.
 
 803
 00:27:09,040 --> 00:27:09,760
@@ -3216,7 +3216,7 @@ Refer to Gu Hongming to get Wang Jingxuan's clothes.
 
 805
 00:27:12,480 --> 00:27:13,920
-For the reporter's clothes, refer to Hu Shi. 
+For the reporter's clothes, refer to Hu Shi.
 
 806
 00:27:14,560 --> 00:27:15,360
@@ -3228,11 +3228,11 @@ we can borrow them directly from Professor Hu Shi.
 
 808
 00:27:18,160 --> 00:27:19,600
-What about this Wang Jingxuan's costume? 
+What about this Wang Jingxuan's costume?
 
 809
 00:27:20,320 --> 00:27:22,880
-You can't borrow it from Mr. Gu Hongming. 
+You can't borrow it from Mr. Gu Hongming.
 
 810
 00:27:23,360 --> 00:27:24,080
@@ -3240,15 +3240,15 @@ You can't just wear Old Man Gu's clothes
 
 811
 00:27:24,400 --> 00:27:25,520
-if you borrow them, can you? 
+if you borrow them, can you?
 
 812
 00:27:27,440 --> 00:27:28,320
-I'll take care of it. 
+I'll take care of it.
 
 813
 00:27:28,640 --> 00:27:29,680
-I'll rent it at the costume shop. 
+I'll rent it at the costume shop.
 
 814
 00:27:29,840 --> 00:27:30,160
@@ -3288,7 +3288,7 @@ Be a good audience.
 
 823
 00:27:44,480 --> 00:27:45,920
-So Director Shiyan's announcement is finished. 
+So Director Shiyan's announcement is finished.
 
 824
 00:27:46,160 --> 00:27:46,800
@@ -3308,7 +3308,7 @@ I also have nothing to say.
 
 828
 00:27:50,160 --> 00:27:51,680
-All right, do your job and get to work. 
+All right, do your job and get to work.
 
 829
 00:27:51,920 --> 00:27:52,800
@@ -3322,919 +3322,922 @@ Alright!
 00:28:32,320 --> 00:28:33,120
 This is...
 
-834
+832
 00:28:33,680 --> 00:28:34,240
 a rattle-drum.
 
-835
+833
 00:28:34,560 --> 00:28:35,600
 Who made the rattle-drum?
 
-836
+834
 00:28:35,920 --> 00:28:36,640
 My older brother.
 
-837
+835
 00:28:38,000 --> 00:28:39,280
 And your windmill?
 
-838
+836
 00:28:39,520 --> 00:28:40,400
 Also my older brother.
 
-839
+837
 00:28:40,720 --> 00:28:42,560
 Also your older brother. Wow.
 
-840
+838
 00:28:46,960 --> 00:28:49,120
 These two kids are very sensible.
 
-841
+839
 00:28:49,360 --> 00:28:50,480
 How many Tang poems can you recite?
 
-842
+840
 00:28:50,560 --> 00:28:50,880
 Shizhi,
 
-843
+841
 00:28:52,560 --> 00:28:53,520
 look who's here.
 
-844
+842
 00:28:55,760 --> 00:28:56,320
 Auntie.
 
-845
+843
 00:29:00,800 --> 00:29:01,520
 You've come.
 
-846
+844
 00:29:02,400 --> 00:29:04,400
 Older sister dragged me to the theatre.
 
-847
+845
 00:29:03,927 --> 00:29:06,852
 [Jiang Dongxiu, Wife of Hu Shi]
 
-848
+846
 00:29:04,720 --> 00:29:06,640
 I couldn't decline.
 
-849
+847
 00:29:07,120 --> 00:29:08,080
 You should have come long ago.
 
-850
+848
 00:29:10,240 --> 00:29:11,120
 Mother, mother.
 
-851
+849
 00:29:11,280 --> 00:29:12,400
 Hello Mr. Cai, Mr. Wu.
 
-852
+850
 00:29:12,480 --> 00:29:12,880
 Hello.
 
-853
+851
 00:29:13,200 --> 00:29:15,040
 I'm not embarrassing you?
 
-854
+852
 00:29:15,520 --> 00:29:17,120
 You are my wife.
 
-855
+853
 00:29:17,840 --> 00:29:19,360
 How could you embarrass me?
 
-856
+854
 00:29:21,360 --> 00:29:23,040
 Come, let's make some introductions.
 
-857
+855
 00:29:24,320 --> 00:29:25,360
 Cai Yuanpei, Mr. Cai.
 
-858
+856
 00:29:25,840 --> 00:29:26,640
 Mr. Wu Zhihui.
 
-859
+857
 00:29:27,680 --> 00:29:28,560
 Hello, Mr. Cai.
 
-860
+858
 00:29:29,280 --> 00:29:30,240
 Hello, Mr. Wu.
 
-861
+859
 00:29:30,480 --> 00:29:30,640
 Hello.
 
-862
+860
 00:29:30,720 --> 00:29:31,280
 Hello.
 
-863
+861
 00:29:31,760 --> 00:29:34,080
 Gentlemen, this is my wife, Jiang Dongxiu.
 
-864
+862
 00:29:35,040 --> 00:29:37,440
 Mistress Hu, you are quite renowned.
 
-865
+863
 00:29:38,000 --> 00:29:39,680
 I heard you trapped Shizhi on an ox-cart
 
-866
+864
 00:29:40,000 --> 00:29:41,440
 and wouldn't leave until he was forced
 
-867
+865
 00:29:41,760 --> 00:29:42,880
 to propose in public.
 
-868
+866
 00:29:43,280 --> 00:29:45,600
 What a heroine! You have my respect.
 
-869
+867
 00:29:46,000 --> 00:29:47,200
 Wu, you madman,
 
-870
+868
 00:29:47,760 --> 00:29:48,880
 always with the crazy talk.
 
-871
+869
 00:29:49,520 --> 00:29:50,480
 Dongxiu, don't mind him.
 
-872
+870
 00:29:51,120 --> 00:29:52,000
 Enjoy the play.
 
-873
+871
 00:29:53,920 --> 00:29:54,800
 Raise this curtain a bit.
 
-874
+872
 00:29:54,880 --> 00:29:55,440
 Mr. Dazhao.
 
-875
+873
 00:29:55,680 --> 00:29:56,800
 Is this position ok?
 
-876
+874
 00:29:57,600 --> 00:29:58,800
 Straighten it. It's fine if it's tidy.
 
-877
+875
 00:29:59,200 --> 00:29:59,360
 Sure.
 
-878
+876
 00:29:59,440 --> 00:29:59,920
 Match it.
 
-879
+877
 00:30:03,280 --> 00:30:04,480
 Are the students behind the curtain ready?
 
-880
+878
 00:30:04,720 --> 00:30:05,600
 Yes.
 
-881
+879
 00:30:08,000 --> 00:30:08,560
 Mr. Cai,
 
-882
+880
 00:30:09,200 --> 00:30:09,840
 Brother Zhongfu,
 
-883
+881
 00:30:10,400 --> 00:30:12,160
 this side is in order. Please take your seats.
 
-884
+882
 00:30:12,800 --> 00:30:13,200
 Great.
 
-885
+883
 00:30:13,840 --> 00:30:15,040
 Brother Jiemin, please.
 
-886
+884
 00:30:43,680 --> 00:30:46,400
 Perhaps it's better if I went back home.
 
-887
+885
 00:30:46,720 --> 00:30:48,560
 Dongxiu, you've already taken
 
-888
+886
 00:30:48,640 --> 00:30:49,920
 the first step today.
 
-889
+887
 00:30:50,160 --> 00:30:51,440
 There will be many occasions like this in the future.
 
-890
+888
 00:30:51,920 --> 00:30:53,040
 Will you never publicly accompany me?
 
-891
+889
 00:30:55,120 --> 00:30:55,760
 Madam Hu.
 
-892
+890
 00:30:58,800 --> 00:31:00,720
 Shizhi, Dongxiu,
 
-893
+891
 00:31:01,040 --> 00:31:02,880
 go ahead, hand in hand.
 
-894
+892
 00:31:16,400 --> 00:31:17,280
 Let's go.
 
-895
+893
 00:31:26,000 --> 00:31:26,560
 Dongxiu,
 
-896
+894
 00:31:26,880 --> 00:31:27,440
 look,
 
-897
+895
 00:31:27,920 --> 00:31:28,480
 it's it lively?
 
-898
+896
 00:31:29,120 --> 00:31:31,360
 This is political street theater the students put together themselves.
 
-899
+897
 00:31:32,640 --> 00:31:33,280
 Take a look.
 
-900
+898
 00:31:33,520 --> 00:31:34,400
 Isn't it exciting?
 
-901
+899
 00:31:37,600 --> 00:31:39,200
 Wow, what's going on?
 
-902
+900
 00:31:39,280 --> 00:31:40,080
 Bound feet!
 
-903
+901
 00:31:53,280 --> 00:31:54,320
 Hello, Madam Hu.
 
-904
+902
 00:31:54,640 --> 00:31:55,440
 Mr. Dazhao.
 
-905
+903
 00:31:55,680 --> 00:31:56,640
 Hello Mr. Dazhao.
 
-906
+904
 00:32:04,800 --> 00:32:06,240
 Come, sit here.
 
-907
+905
 00:32:24,080 --> 00:32:25,840
 Let me give a quick explanation.
 
-908
+906
 00:32:26,240 --> 00:32:27,440
 The Red Building Book Club
 
-909
+907
 00:32:27,600 --> 00:32:29,360
 with the support of Peking University's student council
 
-910
+908
 00:32:29,680 --> 00:32:30,960
 used extracurricular time
 
-911
+909
 00:32:31,200 --> 00:32:32,640
 to produce a political street play.
 
-912
+910
 00:32:32,960 --> 00:32:35,440
-It is adapted from "A Reply to Wang Jingxu"
+It is adapted from "A Reply to Wang Jingxuan"
 
-913
+911
 00:32:35,760 --> 00:32:38,400
 from the third issue of the fourth volume of "New Youth."
 
-914
+912
 00:32:38,800 --> 00:32:39,920
 Today's performance
 
-915
+913
 00:32:40,240 --> 00:32:41,440
 is a debrief of sorts
 
-916
+914
 00:32:41,520 --> 00:32:42,480
 for the editorial board
 
-917
+915
 00:32:42,960 --> 00:32:44,160
 of "New Youth."
 
-918
+916
 00:32:44,720 --> 00:32:46,160
 Mr. Cai and Mr. Wu
 
-919
+917
 00:32:46,480 --> 00:32:48,000
 have long written for "New Youth."
 
-920
+918
 00:32:48,240 --> 00:32:50,640
 They are also the non-staff editors of "New Youth."
 
-921
+919
 00:32:51,440 --> 00:32:55,760
 Madam Chen and Madam Hu are specially invited guests.
 
-922
+920
 00:32:58,240 --> 00:33:00,800
 If I'd know Madam Hu were also coming,
 
-923
+921
 00:33:01,040 --> 00:33:03,600
 I would have asked my own wife to come and take a look too.
 
-924
+922
 00:33:09,440 --> 00:33:10,880
 Welcome, Madam Hu.
 
-925
+923
 00:33:13,600 --> 00:33:15,760
 Without further ado,
 
-926
+924
 00:33:16,240 --> 00:33:17,920
 students, let's begin!
 
-927
+925
 00:33:30,480 --> 00:33:32,880
 Like a match that ignites with friction,
 
-928
+926
 00:33:33,280 --> 00:33:36,080
 and lights the dark night sky.
 
-929
+927
 00:33:36,640 --> 00:33:38,240
 Like the resonant call of a bugle
 
-930
+928
 00:33:38,480 --> 00:33:41,680
 that clears a space where people's thoughts can freely soar.
 
-931
+929
 00:33:41,920 --> 00:33:43,040
 The rallying cry of "New Youth"
 
-932
+930
 00:33:43,360 --> 00:33:45,120
 is the agitation inside a mother's belly
 
-933
+931
 00:33:45,360 --> 00:33:48,000
 of an infant singing to be free.
 
-934
+932
 00:33:48,560 --> 00:33:49,520
 The Red Building's dawn
 
-935
+933
 00:33:49,760 --> 00:33:51,040
 is that match that lights
 
-936
+934
 00:33:51,200 --> 00:33:53,120
 ten thousand red clouds at sunrise.
 
-937
+935
 00:33:53,600 --> 00:33:54,560
 This rallying cry
 
-938
+936
 00:33:54,640 --> 00:33:56,320
 has provoked so many scowls
 
-939
+937
 00:33:56,480 --> 00:33:58,400
 from traditionalists.
 
-940
+938
 00:33:58,800 --> 00:33:59,600
 This dawn
 
-941
+939
 00:33:59,680 --> 00:34:01,200
 has guided so many warriors
 
-942
+940
 00:34:01,600 --> 00:34:03,520
 to bravely walk towards battle.
 
-943
+941
 00:34:04,400 --> 00:34:07,440
 We present "Chime of the Red Building Bell."
 
-944
+942
 00:34:35,360 --> 00:34:38,320
 T'is I, Wang Jingxuan,
 
-945
+943
 00:34:39,360 --> 00:34:43,360
 who once crossed easterly, to mythical Japan, studying law and government.
 
-946
+944
 00:34:44,080 --> 00:34:47,600
 Upon repatriation, to see such moral turpitude and decline!
 
-947
+945
 00:34:48,160 --> 00:34:49,040
 A fall
 
-948
+946
 00:34:53,200 --> 00:34:54,320
 of one thousand leagues.
 
-949
+947
 00:34:55,680 --> 00:34:58,800
 Young scholars slandering the canon at the slightest pretext.
 
-950
+948
 00:34:59,040 --> 00:35:00,880
 belittling and throwing away Confucian texts.
 
-951
+949
 00:35:01,120 --> 00:35:02,960
 Instigating evil doctrine to abolish the family.
 
-952
+950
 00:35:03,280 --> 00:35:05,600
 Driving apart father and son,
 
-953
+951
 00:35:06,400 --> 00:35:08,080
 poisoning relations between husband and wife.
 
-954
+952
 00:35:13,360 --> 00:35:17,520
 All of this, caused by the new teachings.
 
-955
+953
 00:35:18,000 --> 00:35:18,480
 Today,
 
-956
+954
 00:35:18,560 --> 00:35:20,320
 this old man will go to "New Youth"
 
-957
+955
 00:35:20,480 --> 00:35:21,920
 and give them a tongue-lashing.
 
-958
+956
 00:35:22,400 --> 00:35:23,120
 Let's go!
 
-959
+957
 00:35:35,600 --> 00:35:36,080
 Hurrah!
 
-960
+958
 00:35:36,240 --> 00:35:37,200
 Hurrah!
 
-961
+959
 00:35:41,760 --> 00:35:42,960
 Get on the horse.
 
-962
+960
 00:35:45,520 --> 00:35:46,400
 Giddy-up!
 
-963
+961
 00:35:56,200 --> 00:35:57,629
 Whoa!
 
-964
+962
 00:36:03,680 --> 00:36:04,600
 Let's go!
 
-965
+963
+00:36:11,948 --> 00:36:13,850
+[New Youth]
+
+964
 00:36:14,080 --> 00:36:15,440
 Knock! Knock! Knock!
 
-966
+965
 00:36:19,520 --> 00:36:20,960
 Bang! Bang! Bang!
 
-967
+966
 00:36:24,815 --> 00:36:26,306
 Boom! Bang!
 
-968
+967
 00:36:26,320 --> 00:36:26,480
 Bang!
 
-969
+968
 00:36:29,200 --> 00:36:31,440
 Hurrah!
 
-970
+969
 00:36:35,760 --> 00:36:37,760
 How come there's nobody here?
 
-971
+970
 00:36:58,640 --> 00:37:02,400
 Let me smoke a pipe while I wait.
 
-972
+971
 00:37:19,040 --> 00:37:22,160
 Well done!
 
-973
+972
 00:37:24,080 --> 00:37:25,840
 Is there a living soul here or not?
 
-974
+973
 00:37:26,320 --> 00:37:27,040
 There is.
 
-975
+974
 00:37:28,240 --> 00:37:28,720
 Who?
 
-976
+975
 00:37:30,080 --> 00:37:30,960
 Look, it's older brother.
 
-977
+976
 00:37:32,880 --> 00:37:34,320
 I'm a journalist at "New Youth."
 
-978
+977
 00:37:34,640 --> 00:37:36,800
 If I may ask, sir, why are you here?
 
-979
+978
 00:37:38,240 --> 00:37:41,200
 The supposedly noble publication "New Youth"
 
-980
+979
 00:37:41,600 --> 00:37:44,880
 should support the great teachings and develop the old texts.
 
-981
+980
 00:37:45,360 --> 00:37:47,760
 But it is in fact promoting modern schools of thought,
 
-982
+981
 00:37:47,920 --> 00:37:50,720
 barking nonsense as if it is worthy of discussion, and salting the earth with corruption,
 
-983
+982
 00:37:52,420 --> 00:37:53,920
 bringing ruin to the Confucian ethical code.
 
-984
+983
 00:37:53,920 --> 00:37:55,040
 How can you "sages" of this magazine
 
-985
+984
 00:37:55,280 --> 00:37:58,240
 not think it excessive for young people to sink to the level of barbarians.
 
-986
+985
 00:37:58,640 --> 00:38:02,880
 You must want them to lower themselves until they are no different from brute beasts!
 
-987
+986
 00:38:04,640 --> 00:38:05,440
 Ridiculous!
 
-988
+987
 00:38:05,920 --> 00:38:07,920
 The gentleman means to attribute all the sins of
 
-989
+988
 00:38:08,080 --> 00:38:10,240
 Ninety thousand square kilometres and five thousand years of history
 
-990
+989
 00:38:10,480 --> 00:38:13,280
 to those who promote the New Culture Movement.
 
-991
+990
 00:38:13,520 --> 00:38:15,280
 It is truly absurd.
 
-992
+991
 00:38:16,320 --> 00:38:19,120
 Here's what I want to know. Before the Xinhai Revolution,
 
-993
+992
 00:38:19,440 --> 00:38:22,080
 your old tune of respecting the old teachings, promoting the old texts,
 
-994
+993
 00:38:22,400 --> 00:38:25,040
 has been sung for over two thousand years.
 
-995
+994
 00:38:25,360 --> 00:38:27,520
 Why has it come to this? A state without order,
 
-996
+995
 00:38:27,760 --> 00:38:30,880
 territories being annexed, and militarizing neighbours circling like tigers.
 
-997
+996
 00:38:33,120 --> 00:38:34,560
 Uh...
 
-998
+997
 00:38:38,240 --> 00:38:42,080
 The country is not prosperous because of the doings of evil Western cults.
 
-999
+998
 00:38:43,040 --> 00:38:46,800
 Yet your august publication never resists those Western theories,
 
-1000
+999
 00:38:47,440 --> 00:38:52,160
 and many of your editors are in fact disciples of those doctrines.
 
-1001
+1000
 00:38:53,360 --> 00:38:57,440
 It is in your nature to blindly worship everything foreign.
 
-1002
+1001
 00:39:00,400 --> 00:39:02,640
 As a matter of fact, I am not a believer of Western religions.
 
-1003
+1002
 00:39:03,040 --> 00:39:04,720
 What I believe and advocate for
 
-1004
+1003
 00:39:04,960 --> 00:39:06,800
 are the two banners of science and democracy
 
-1005
+1004
 00:39:06,960 --> 00:39:08,880
 as raised by Mr. Chen Duxiu.
 
-1006
+1005
 00:39:09,200 --> 00:39:10,800
 To use the spirit of science and democracy
 
-1007
+1006
 00:39:10,880 --> 00:39:12,400
 to improve the character of our citizenry.
 
-1008
+1007
 00:39:12,640 --> 00:39:14,560
 Is this not fundamentally a method to
 
-1009
+1008
 00:39:14,800 --> 00:39:17,120
 resist foreign humiliation and rejuvenate China?
 
-1010
+1009
 00:39:17,280 --> 00:39:17,760
 That's right!
 
-1011
+1010
 00:39:18,160 --> 00:39:21,200
 Yet there are many harms in your advocacy of new learning,
 
-1012
+1011
 00:39:22,000 --> 00:39:24,000
 especially when it comes to women.
 
-1013
+1012
 00:39:24,480 --> 00:39:25,840
 Once they enter the classroom
 
-1014
+1013
 00:39:26,000 --> 00:39:28,560
 and pick up the cant of western learning.
 
-1015
+1014
 00:39:28,960 --> 00:39:31,600
 They will no longer be satisfied with being mothers and wives.
 
-1016
+1015
 00:39:32,160 --> 00:39:34,240
 They will think free love to be virtuous,
 
-1017
+1016
 00:39:34,480 --> 00:39:37,600
 remarrying and losing their chasity willy-nilly.
 
-1018
+1017
 00:39:38,000 --> 00:39:40,240
 They might even cut their hair,
 
-1019
+1018
 00:39:40,480 --> 00:39:41,360
 wear leather shoes,
 
-1020
+1019
 00:39:41,600 --> 00:39:42,880
 and strut about
 
-1021
+1020
 00:39:43,840 --> 00:39:45,760
 without any sense of shame!
 
-1022
+1021
 00:39:47,680 --> 00:39:50,720
 Confucianism has ruled China for more than two thousand years
 
-1023
+1022
 00:39:50,880 --> 00:39:53,200
 and no one has been more victimized by it than women.
 
-1024
+1023
 00:39:53,680 --> 00:39:55,920
 The Three Obediences and Four Virtues, men being regarded as superior to women;
 
-1025
+1024
 00:39:56,080 --> 00:39:57,120
 The Rule of the Husband over the Wife;
 
-1026
+1025
 00:39:57,360 --> 00:39:59,040
 it is worse for a women to lose her chasity than to starve to death;
 
-1027
+1026
 00:39:59,680 --> 00:40:00,880
 a women's lack of ability is her virtue;
 
-1028
+1027
 00:40:01,040 --> 00:40:03,120
 all these feudal dogmas
 
-1029
+1028
 00:40:03,360 --> 00:40:05,040
-are ravenous beasts 
+are ravenous beasts
 
-1030
+1029
 00:40:05,200 --> 00:40:07,040
 that mercilessly devour women's dignity,
 
-1031
+1030
 00:40:07,280 --> 00:40:08,000
 interests, freedom,
 
-1032
+1031
 00:40:08,240 --> 00:40:09,600
 even life itself.
 
-1033
+1032
 00:40:09,840 --> 00:40:12,400
 How much human tragedies of toil and suffering has this caused?
 
-1034
+1033
 00:40:12,640 --> 00:40:14,960
 If I may ask, why should this evil system
 
-1035
+1034
 00:40:15,120 --> 00:40:17,280
 of Confucian ethics not be abolished?
 
-1036
+1035
 00:40:17,520 --> 00:40:19,520
 Abolish it! Abolish it! Abolish it!
 
-1037
+1036
 00:40:20,160 --> 00:40:22,640
 The gentleman claims to be virtuous
 
-1038
+1037
 00:40:22,880 --> 00:40:25,280
 yet he reveres this murderous Confucian code of ethics.
 
-1039
+1038
 00:40:25,440 --> 00:40:27,840
 If I may ask, could you answer to your mother, your wife, your daughter?
 
-1040
+1039
 00:40:28,000 --> 00:40:29,520
 The female students sitting in the audience,
 
-1041
+1040
 00:40:29,760 --> 00:40:30,880
 could any answer satisfy them?
 
-1042
+1041
 00:40:31,120 --> 00:40:33,840
 No! No! No!
 
-1043
+1042
 00:40:35,600 --> 00:40:38,800
 Well said!
 
-1044
+1043
 00:40:40,640 --> 00:40:43,440
 Can the gentleman hear the exhortations in the audience?
 
-1045
+1044
 00:40:43,680 --> 00:40:45,760
 Can you hear the shouts that have finally erupted?
 
-1046
+1045
 00:40:46,320 --> 00:40:47,600
 The gentleman need not give up his old teachings.
 
-1047
+1046
 00:40:47,760 --> 00:40:48,800
 That is his free choice.
 
-1048
+1047
 00:40:48,960 --> 00:40:50,240
 I have no right to interfere.
 
-1049
+1048
 00:40:50,480 --> 00:40:52,240
 But I will give a word of advice.
 
-1050
+1049
 00:40:52,560 --> 00:40:54,000
 The gentleman does not like the new teachings,
 
-1051
+1050
 00:40:54,240 --> 00:40:55,520
 and the gentlemen is not discerning of the old teachings.
 
-1052
+1051
 00:40:55,840 --> 00:40:57,920
 The gentleman should put in some effort during the next ten years
 
-1053
+1052
 00:40:58,240 --> 00:40:59,440
-and when "New Youth" has published 
+and when "New Youth" has published
 
-1054
+1053
 00:40:59,520 --> 00:41:00,560
 volume twenty four,
 
-1055
+1054
 00:41:00,800 --> 00:41:01,920
 come have a chat with me again.
 
-1056
+1055
 00:41:02,320 --> 00:41:04,880
 I hope I will be able to detect some improvement then.
 
-1057
+1056
 00:41:05,280 --> 00:41:08,400
 If not, I shall have to gift you the following eight words:
 
-1058
+1057
 00:41:08,640 --> 00:41:11,120
-"Without learning or skill, an ultra-conservative fool."
+"Neither learned nor skilled, a incorrigibly obstinate trouble-maker."
+
+1058
+00:41:12,320 --> 00:41:13,840
+as the caption of your life
 
 1059
-00:41:12,320 --> 00:41:13,840
-If you are alive, it shall be a comment.
+00:41:14,800 --> 00:41:16,160
+and the epitaph
 
 1060
-00:41:14,800 --> 00:41:16,160
-If you are dead,
+00:41:17,120 --> 00:41:18,480
+of your death.
 
 1061
-00:41:17,120 --> 00:41:18,480
-it shall be an epitath!
-
-1062
 00:41:18,800 --> 00:41:34,960
-If you are alive, it shall be a comment
-If you are dead, it shall be an epitaph!
+Caption of life, epitaph of death!
