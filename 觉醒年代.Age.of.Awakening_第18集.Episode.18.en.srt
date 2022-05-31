@@ -1384,7 +1384,7 @@ should be the editor-in-chief
 
 347
 00:15:04,640 --> 00:15:06,240
-of the magazine "National Heritage" in Peking University.
+of the magazine "National Heritage" at Peking University.
 
 348
 00:15:07,040 --> 00:15:09,760
@@ -1440,27 +1440,27 @@ Mr. Cai has been under a lot of pressure recently.
 
 361
 00:15:36,960 --> 00:15:37,920
-There are many rumors outside
+There are a lot of rumors out there
 
 362
 00:15:38,480 --> 00:15:40,560
-that he is all-in-one in Peking University. (?)
+that he's got it all figured out inside Peking University.
 
 363
 00:15:41,040 --> 00:15:41,920
-(?)
+Run more magazines.
 
 364
 00:15:42,160 --> 00:15:42,880
-(?)
+Raise more voices.
 
 365
 00:15:43,040 --> 00:15:44,720
-First, it can gag some people. (?)
+First, it can silence some people.
 
 366
 00:15:45,520 --> 00:15:47,200
-Secondly, it can also play
+Second, it can also play
 
 367
 00:15:47,680 --> 00:15:49,200
@@ -1524,7 +1524,7 @@ with practice, struggle, perseverance and simplicity as the creed,
 
 382
 00:16:22,800 --> 00:16:24,080
-uniting youth of the whole country,
+can we unite the youth of the whole country,
 
 383
 00:16:24,720 --> 00:16:26,160
@@ -1580,11 +1580,11 @@ Marxism is the theory of violence.
 
 396
 00:16:50,880 --> 00:16:52,400
-
+The Beiyang government isn't against this,
 
 397
 00:16:52,800 --> 00:16:53,840
-
+and it is easy to get into trouble.
 
 398
 00:16:55,600 --> 00:16:57,120
@@ -1600,15 +1600,15 @@ is ridiculous.
 
 401
 00:17:03,200 --> 00:17:04,720
-I went to a seminar the day before yesterday,
+I went to a seminar the day before yesterday.
 
 402
 00:17:05,040 --> 00:17:05,920
-and a speaker
+There was a speaker
 
 403
 00:17:06,160 --> 00:17:07,440
-said that Marxism
+who said that Marxism
 
 404
 00:17:07,680 --> 00:17:08,880
@@ -1656,7 +1656,7 @@ to make a fuss about names.
 
 415
 00:17:29,440 --> 00:17:30,560
-(?)
+Then let's say it one more time.
 
 416
 00:17:32,800 --> 00:17:34,320
@@ -1760,7 +1760,7 @@ No, you don't understand this.
 
 441
 00:18:24,960 --> 00:18:26,720
-(?)
+The tough professor pulled around by a hot-tempered woman.
 
 442
 00:18:27,440 --> 00:18:28,800
@@ -1832,7 +1832,7 @@ brother Zhongfu, Shouchang,
 
 459
 00:18:58,960 --> 00:19:00,320
-or I'll miss the threshold at home. (?)
+or I will arrive home past curfew.
 
 460
 00:19:02,800 --> 00:19:03,440
@@ -1872,11 +1872,11 @@ Think about your sister-in-law.
 
 469
 00:19:20,400 --> 00:19:21,680
-Your sister-in-law is different from Dong Xiu.
+Your sister-in-law is different from Dongxiu.
 
 470
 00:19:21,840 --> 00:19:23,040
-There is no threshold in our house. (?)
+There is no curfew in our home.
 
 471
 00:20:12,080 --> 00:20:13,040
@@ -2024,11 +2024,11 @@ Finished.
 
 507
 00:21:34,560 --> 00:21:35,600
-Ah, what's the
+Ah, are there any
 
 508
 00:21:36,160 --> 00:21:37,520
-new understanding
+new insights
 
 509
 00:21:37,600 --> 00:21:39,040
@@ -2036,7 +2036,7 @@ of that anarchism recently?
 
 510
 00:21:39,360 --> 00:21:41,200
-A new understanding is far from it. (?)
+There aren't many new insights.
 
 511
 00:21:41,680 --> 00:21:42,240
@@ -2172,7 +2172,7 @@ they are hotly discussing recently
 
 544
 00:22:41,760 --> 00:22:42,400
-is the Jin De Club.
+is the Jinde Club.
 
 545
 00:22:43,360 --> 00:22:44,640
@@ -2180,7 +2180,7 @@ What's your opinion
 
 546
 00:22:45,840 --> 00:22:46,960
-about this Jin De Club?
+about this Jinde Club?
 
 547
 00:22:47,680 --> 00:22:48,240
@@ -2260,7 +2260,7 @@ It's inevitable to lose morality.
 
 566
 00:23:25,120 --> 00:23:27,280
-Without the support of legal rules,
+Without the support of moral standards,
 
 567
 00:23:27,680 --> 00:23:29,760
@@ -2348,7 +2348,7 @@ can I ask you a question?
 
 588
 00:24:14,480 --> 00:24:14,960
-Please ask,
+Please ask.
 
 589
 00:24:16,800 --> 00:24:17,680
@@ -2500,11 +2500,11 @@ Pursuit is like purgatory.
 
 626
 00:25:53,920 --> 00:25:56,080
-Just like the Xuanzang Master
+Just like Master Xuanzang
 
 627
 00:25:56,160 --> 00:25:58,400
-has to go through eighty-one difficult to learn from the scriptures. (?)
+who had to go through eighty-one sufferings to learn from the scriptures.
 
 628
 00:25:59,440 --> 00:26:01,440
@@ -2516,7 +2516,7 @@ is to train a large number of Buddhist disciples
 
 630
 00:26:04,320 --> 00:26:06,800
-like Master Xuan Xuan
+like Master Xuanzang
 
 631
 00:26:07,120 --> 00:26:09,520
@@ -2528,11 +2528,11 @@ which is suffering from illness and blindness.
 
 633
 00:26:12,400 --> 00:26:14,640
-I think this is called moral
+I think this is called morality,
 
 634
 00:26:15,200 --> 00:26:16,720
-Big morality (?)
+telling great virtues.
 
 635
 00:26:18,960 --> 00:26:19,600
@@ -2652,11 +2652,12 @@ Mr. Cai.
 
 664
 00:28:46,880 --> 00:28:58,320
-Get up and get out of bed. (?)
+Oh say, dear brother, get up you and get out of bed!
+(江浙小调, Jiangsu-Zhejiang folk tune)
 
 665
 00:28:59,680 --> 00:29:04,560
-(?)
+The sun is coming out and is shining on your buttocks!
 
 666
 00:29:04,800 --> 00:29:06,400
