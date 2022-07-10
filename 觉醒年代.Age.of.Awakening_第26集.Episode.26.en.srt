@@ -8,23 +8,23 @@
 
 3
 00:00:07,520 --> 00:00:09,440
-Mom, my brother is eating without permission
+Mom, my brother is eating without permission.
 
 4
 00:00:09,600 --> 00:00:10,720
-Tell him to stop
+Tell him to stop.
 
 5
 00:00:10,800 --> 00:00:12,080
-Wait till dad comes back
+Wait till dad comes back.
 
 6
 00:00:16,480 --> 00:00:17,200
-Dad's back
+Dad's back.
 
 7
 00:00:17,360 --> 00:00:18,160
-Time to eat, Dad
+Time to eat, Dad.
 
 8
 00:00:18,400 --> 00:00:19,360
@@ -36,31 +36,31 @@ You are back
 
 10
 00:00:21,440 --> 00:00:22,800
-Just in time, wash your hands and eat
+Just in time, wash your hands and eat.
 
 11
-00:00:26,080 --> 00:00:26,320
-No
+00:00:26,080 --> 00:00:26,720
+No.
 
 12
-00:00:26,480 --> 00:00:26,720
-
+00:00:29,887 --> 00:00:31,211
+[Chen Duxiu, styled Zhongfu, Dean of Liberal Arts at Peking University]
 
 13
 00:00:33,120 --> 00:00:33,920
-Someone pissed you off again?
+Someone made you angry again?
 
 14
 00:00:34,560 --> 00:00:34,880
-No
+No.
 
 15
 00:00:35,600 --> 00:00:36,400
-Something happened at uni?
+Something happened at school?
 
 16
 00:00:37,200 --> 00:00:37,680
-No
+No.
 
 17
 00:00:38,080 --> 00:00:38,960
@@ -72,375 +72,375 @@ No
 
 19
 00:00:40,400 --> 00:00:41,760
-
+You don't have to eat, but the kids have to.
 
 20
 00:00:42,320 --> 00:00:43,520
-But the kids won't eat without you start first
+But the kids won't eat without you starting first
 
 21
 00:00:45,360 --> 00:00:47,040
-Why not
+If they're hungry, they should just eat.
 
 22
 00:00:48,560 --> 00:00:49,600
-Zimei, Henian
+Zimei, Henian.
 
 23
 00:00:50,000 --> 00:00:51,040
-If you are hungry, eat first.
+If you're hungry, eat first.
 
 24
-00:00:51,360 --> 00:00:52,080
+00:00:51,360 --> 00:00:52,240
 Don't wait for me.
 
 25
-00:00:52,160 --> 00:00:52,240
-
-
-26
 00:00:53,280 --> 00:00:54,720
 Make me look like a feudal parent.
 
-27
+26
 00:00:55,600 --> 00:00:56,320
 Where are you going?
 
-28
+27
 00:00:56,560 --> 00:00:57,760
 Don't interfere, I am gonna start writing.
 
-29
+28
 00:01:03,600 --> 00:01:04,480
-And you say you are not the feudal parent
+And you say you're not the feudal parent.
+
+29
+00:01:04,640 --> 00:01:05,840
+I see that you totally are.
 
 30
-00:01:04,640 --> 00:01:05,840
-I see you totally are
+00:01:10,720 --> 00:01:11,520
+I'll eat.
 
 31
-00:01:10,720 --> 00:01:11,520
-eat
+00:01:11,840 --> 00:01:13,520
+Dad, come and eat.
 
 32
-00:01:11,840 --> 00:01:13,520
-Dad, come and eat
+00:01:13,680 --> 00:01:16,400
+Dad, come and eat.
 
 33
-00:01:13,680 --> 00:01:16,400
-Dad, come and eat
+00:01:19,760 --> 00:01:20,400
+Sit down.
 
 34
-00:01:19,760 --> 00:01:20,400
-sit down
+00:01:26,000 --> 00:01:28,480
+Specially made for you, dumplings with chives and eggs filling.
 
 35
-00:01:26,000 --> 00:01:28,480
-Specially made for you, dumplings with chives and eggs filling
-
-36
 00:01:30,240 --> 00:01:31,760
 Wilson's intervention
 
-37
+36
 00:01:31,920 --> 00:01:32,880
-Temporarily hindered
+temporarily hindered
+
+37
+00:01:33,040 --> 00:01:35,920
+Japan pushing its scheme on rights in Shandong Province.
 
 38
-00:01:33,040 --> 00:01:35,920
-Japan pushing it's scheme on rights in Shandong Province
+00:01:36,720 --> 00:01:38,480
+But on the second day after
 
 39
-00:01:36,720 --> 00:01:38,480
-But on the second day after 
+00:01:38,800 --> 00:01:40,400
+Italian Prime Minister Orlando left the Conference,
 
 40
-00:01:38,800 --> 00:01:40,400
-Italian Prime Minister Orlando left the Conference
-
-41
 00:01:41,280 --> 00:01:43,200
 Japan representative Makino Nobuaki
 
-42
+41
 00:01:43,600 --> 00:01:45,280
-seized the chance to talk
+seized the chance to talk,
+
+42
+00:01:46,080 --> 00:01:48,240
+insisting the only way to solve the issue on Shandong Province
 
 43
-00:01:46,080 --> 00:01:48,240
-Insisting the only way to solve the issue on Shandong Province
+00:01:48,400 --> 00:01:50,000
+is to meet his terms.
 
 44
-00:01:48,400 --> 00:01:50,000
-is to meet his terms
-
-45
 00:01:50,240 --> 00:01:53,600
 Otherwise, Japan will refuse to sign the peace treaty
 
-46
+45
 00:01:53,920 --> 00:01:55,520
-And quit the Paris Peace Conference
+and quit the Paris Peace Conference.
+
+46
+00:01:56,640 --> 00:01:58,880
+The situation worsens.
 
 47
-00:01:56,640 --> 00:01:58,880
-The situation plummet
-
-48
 00:02:00,320 --> 00:02:05,680
 Beijing Foreign Affairs Committee of the Republic of China
 
-49
+48
 00:02:06,160 --> 00:02:07,680
-Chairman Wang
+Chairman Wang Daxie.
+
+49
+00:02:07,873 --> 00:02:11,108
+[Gu Weiju, styled Shaochuan, Ambassador to the United States]
 
 50
 00:02:09,040 --> 00:02:10,800
-America, Britain, France, Italy and Japan
+America, Britain, France, Italy, and Japan
 
 51
 00:02:10,960 --> 00:02:12,400
-They are holding a second meeting
+are holding a second meeting
 
 52
-00:02:13,120 --> 00:02:14,880
-Discussing the Shandong issue
+00:02:12,726 --> 00:02:16,515
+[Lu Zhengxiang, styled Zixin, Head of the Chinese delegation at the Paris Peace Conference]
 
 53
+00:02:13,120 --> 00:02:14,880
+discussing the Shandong issue.
+
+54
 00:02:15,840 --> 00:02:18,480
 The request of Chinese representatives to attend the meeting has been rejected.
 
-54
-00:02:19,360 --> 00:02:20,560
-From last night until now.
-
 55
-00:02:21,440 --> 00:02:24,240
-We requested three times for a meeting with Wilson
+00:02:19,360 --> 00:02:20,560
+From last night until now,
 
 56
-00:02:24,800 --> 00:02:25,760
-Lloyd George, Clemenceau
+00:02:21,440 --> 00:02:24,240
+we requested three times for a meeting with Wilson,
 
 57
-00:02:26,320 --> 00:02:28,160
-Yet all been declined
+00:02:24,800 --> 00:02:25,760
+Lloyd George, Clemenceau,
 
 58
+00:02:26,320 --> 00:02:28,160
+yet all have been declined.
+
+59
 00:02:28,640 --> 00:02:30,320
 Please inform us of the countermeasure as soon as possible
 
-59
-00:02:33,040 --> 00:02:33,840
-Cabinet Minister
-
 60
-00:02:34,080 --> 00:02:37,040
-Shall we rediscuss the content in this message?
+00:02:28,910 --> 00:02:33,297
+[Wang Zhengting, styled Rutang, Plenipotentiary of the Southern Government]
 
 61
-00:02:37,200 --> 00:02:37,200
-
+00:02:33,040 --> 00:02:33,840
+Minister,
 
 62
-00:02:37,280 --> 00:02:37,360
-
+00:02:34,080 --> 00:02:37,040
+shall we rediscuss the content in this message?
 
 63
-00:02:37,440 --> 00:02:37,920
-Nothing to discuss here
+00:02:37,200 --> 00:02:38,320
+There's nothing to discuss!
 
 64
-00:02:38,000 --> 00:02:38,240
-
+00:02:39,520 --> 00:02:40,960
+Send it now. Go!
 
 65
-00:02:38,320 --> 00:02:38,320
-
+00:02:41,207 --> 00:02:41,591
+Yes.
 
 66
-00:02:39,520 --> 00:02:40,960
-Send it now. Go
+00:02:48,480 --> 00:02:49,360
+Gentlemen,
 
 67
-00:02:48,480 --> 00:02:49,360
-ladies and gentlemen
+00:02:50,480 --> 00:02:53,840
+we are at the end of our tether now.
 
 68
-00:02:50,480 --> 00:02:53,840
-We are at the end of our tether now.
+00:02:56,000 --> 00:02:57,440
+There is only one thing we can do now:
 
 69
-00:02:56,000 --> 00:02:57,440
-There is only one thing we can do now
+00:03:00,720 --> 00:03:01,600
+wait.
 
 70
-00:03:00,720 --> 00:03:01,600
-To wait
+00:03:08,560 --> 00:03:10,720
+Mr. Zixin, calm down first.
 
 71
-00:03:08,560 --> 00:03:10,720
-Mr. Zixin, calm down first
+00:03:11,440 --> 00:03:12,400
+Take a break.
 
 72
-00:03:11,440 --> 00:03:12,400
-take a break
-
-73
 00:03:13,040 --> 00:03:15,840
 I'm like an ant in a heating wok right now
 
-74
+73
 00:03:17,040 --> 00:03:19,360
-I dont know which way I should march to for my survival
+I don't know which way I should march to for my survival.
+
+74
+00:03:21,280 --> 00:03:22,480
+How on earth can I calm down?
 
 75
-00:03:21,280 --> 00:03:22,480
-How on earth can I calm down
+00:03:23,920 --> 00:03:24,800
+I understand.
 
 76
-00:03:23,920 --> 00:03:24,800
-I understand
+00:03:29,200 --> 00:03:30,720
+But you need to be in a good condition now.
 
 77
-00:03:29,200 --> 00:03:30,720
-But you need to be in a good condition now
+00:03:31,200 --> 00:03:32,160
+If you break down,
 
 78
-00:03:31,200 --> 00:03:32,160
-If you break down
+00:03:33,600 --> 00:03:34,320
+we will only be stuck even deeper.
 
 79
-00:03:33,600 --> 00:03:34,320
-we will only be stuck even deeper
+00:04:31,440 --> 00:04:32,800
+Response from Beijing.
 
 80
-00:04:31,440 --> 00:04:32,800
-Respond from BeiJing
+00:04:33,280 --> 00:04:33,840
+Read.
 
 81
-00:04:33,280 --> 00:04:33,840
-read
+00:04:35,040 --> 00:04:37,760
+Seek for President Wilson's help at all costs.
 
 82
-00:04:35,040 --> 00:04:37,760
-Seek for President Wilson's help at all costs
+00:04:54,800 --> 00:04:55,680
+Fine, no time for dignity now.
 
 83
-00:04:54,800 --> 00:04:55,680
-Fine, no time for dignity now
+00:04:56,160 --> 00:04:58,320
+Let's seperate into five groups.
 
 84
-00:04:56,160 --> 00:04:58,320
-Let's seperate into five groups
+00:04:58,720 --> 00:05:00,400
+Go to the four exits of the conference room respectively
 
 85
-00:04:58,720 --> 00:05:00,400
-Go to the four exits of the conference room respectively.
+00:05:00,720 --> 00:05:02,400
+and the elevator entrance in the basement, squatting.
 
 86
-00:05:00,720 --> 00:05:02,400
-And the elevator entrance in the basement, Tan Shou
+00:05:02,640 --> 00:05:04,240
+Whoever sees Wilson,
 
 87
-00:05:02,640 --> 00:05:04,240
-Whoever sees Wilson
+00:05:04,560 --> 00:05:05,920
+whatever you do, stop him
 
 88
-00:05:04,560 --> 00:05:05,920
-whatever you do, stop him 
+00:05:06,000 --> 00:05:07,200
+and inform me quickly.
 
 89
-00:05:06,000 --> 00:05:07,200
-And inform me fast
+00:05:08,320 --> 00:05:09,360
+Let's do it.
 
 90
-00:05:08,320 --> 00:05:09,360
-Let's do it
-
-91
 00:05:13,120 --> 00:05:14,080
 Go now!
 
-92
+91
 00:05:21,200 --> 00:05:22,160
-My fellow friends
+My fellow friends.
+
+92
+00:05:24,640 --> 00:05:25,520
+We have to do this.
 
 93
-00:05:24,640 --> 00:05:25,520
-We have to do this
+00:05:37,440 --> 00:05:39,120
+What kind of diplomacy do we have here?
 
 94
-00:05:37,440 --> 00:05:39,120
-What kind of diplomacy do we have here
-
-95
 00:05:39,440 --> 00:05:40,800
 Is this even diplomacy when we are blocking the door?
 
-96
+95
 00:06:11,760 --> 00:06:12,880
-Dear President Wilson
+President Wilson.
+
+96
+00:06:15,120 --> 00:06:16,400
+Please help us,
 
 97
-00:06:15,120 --> 00:06:16,400
-Please help us.
+00:06:16,720 --> 00:06:18,000
+no matter what.
 
 98
-00:06:16,720 --> 00:06:18,000
-No matter what.
+00:06:20,640 --> 00:06:21,200
+Mr. Gu,
 
 99
-00:06:20,640 --> 00:06:21,200
-Mr Gu
+00:06:21,360 --> 00:06:23,040
+let me be honest with you.
 
 100
-00:06:21,360 --> 00:06:23,040
-Let me be honest with you
+00:06:23,600 --> 00:06:24,640
+My second proposal
 
 101
-00:06:23,600 --> 00:06:24,640
-My second proposal.
+00:06:24,720 --> 00:06:25,920
+was just rejected.
 
 102
-00:06:24,720 --> 00:06:25,920
-was just rejected 
+00:06:26,240 --> 00:06:26,960
+President Wilson,
 
 103
-00:06:26,240 --> 00:06:26,960
-President Wilson
+00:06:27,440 --> 00:06:28,720
+your Fourteen Points
 
 104
-00:06:27,440 --> 00:06:28,720
-Your Fourteen Points put forward
+00:06:28,880 --> 00:06:30,560
+have become a household name in China.
 
 105
-00:06:28,880 --> 00:06:30,560
-Has become a household name in China.
+00:06:31,040 --> 00:06:33,120
+Hundreds of millions of Chinese people
 
 106
-00:06:31,040 --> 00:06:33,120
-Hundreds of millions of Chinese
+00:06:33,200 --> 00:06:35,920
+are looking forward more and more
 
 107
-00:06:33,200 --> 00:06:35,920
-Are eagerly looking forward to it
+00:06:36,240 --> 00:06:38,320
+that right favors over might.
 
 108
-00:06:36,240 --> 00:06:38,320
-That right over might
+00:06:38,720 --> 00:06:40,400
+I remain committed to the plan,
 
 109
-00:06:38,720 --> 00:06:40,400
-I remain committed to the plan
+00:06:39,686 --> 00:06:42,687
+[Woodrow Wilson, President of the United States]
 
 110
 00:06:40,800 --> 00:06:41,840
-But whatelse can I do now but leave
+but what else can I do now
 
 111
 00:06:41,920 --> 00:06:42,880
-
+but leave?
 
 112
 00:06:42,960 --> 00:06:45,200
@@ -448,7 +448,7 @@ President Wilson, you are capable.
 
 113
 00:06:45,520 --> 00:06:46,720
-We fully believe 
+We fully believe
 
 114
 00:06:47,120 --> 00:06:48,720
@@ -456,67 +456,67 @@ and rely on American influence.
 
 115
 00:06:49,920 --> 00:06:50,800
-General Lu
+General Lu,
 
 116
 00:06:51,200 --> 00:06:53,680
-Let me borrow a phrase from Chinese.
+let me borrow a phrase from Chinese.
 
 117
 00:06:53,760 --> 00:06:57,440
-If I had known this day was goinng to happen, I wouldn't have lived it
+If I had known this day was going to happen, I wouldn't have lived it.
 
 118
 00:06:57,520 --> 00:06:59,360
-Had it not been for the Twenty-one Aticles you signed
+Had it not been for
 
 119
 00:06:59,600 --> 00:07:01,040
-
+the Twenty-one Articles that you signed
 
 120
 00:07:01,280 --> 00:07:02,800
-In the willing agreement of Zhang Zongxiang
+in the willing agreement of Zhang Zongxiang
 
 121
 00:07:02,880 --> 00:07:03,440
-
+Gentleman,
 
 122
 00:07:04,000 --> 00:07:04,400
-
+I think we would be
 
 123
 00:07:04,480 --> 00:07:07,360
-Gentleman, I think we would be in a very different situtaion right now
+in a very different situation right now.
 
 124
 00:07:07,680 --> 00:07:08,720
-Mr.President
+Mr. President,
 
 125
 00:07:09,680 --> 00:07:12,480
-Is there really no chance to fix it?
+is there really no chance that you will fix it?
 
 126
 00:07:12,800 --> 00:07:14,800
-It all depends on your own effort tomorrow at the conference
+It all depends on your own effort
 
 127
 00:07:15,040 --> 00:07:16,480
-
+tomorrow at the convention.
 
 128
 00:07:17,040 --> 00:07:18,880
-You are the last hopw
+You are the last hope.
 
 129
 00:07:19,600 --> 00:07:20,800
-Gentlemen, good day
+Gentlemen, good day.
 
 130
 00:07:58,400 --> 00:08:00,080
-Don't work too hard, Shaochuan
+Don't work too hard, Shaochuan.
 
 131
 00:08:02,320 --> 00:08:03,760
@@ -524,27 +524,27 @@ How's the preparation going?
 
 132
 00:08:07,520 --> 00:08:08,720
-Total mess
+A total mess.
 
 133
 00:08:10,560 --> 00:08:11,440
-Mr. Zixin
+Brother Zixin,
 
 134
 00:08:11,920 --> 00:08:14,720
-Do you think there is any hope for us?
+do you think there is any hope for us?
 
 135
 00:08:17,680 --> 00:08:18,640
-hope
+Hope?
 
 136
 00:08:21,120 --> 00:08:23,120
-Treat a dead horse as if it's alive
+Like treating a dead horse as if it's alive.
 
 137
 00:08:23,920 --> 00:08:25,920
-We will give them our dying kicks
+We will give them our dying kicks.
 
 138
 00:08:26,560 --> 00:08:28,320
@@ -552,7 +552,7 @@ We must try, right?
 
 139
 00:08:29,920 --> 00:08:31,200
-Shaochuan, you have to understand
+Shaochuan, you have to understand.
 
 140
 00:08:32,480 --> 00:08:33,680
@@ -560,27 +560,27 @@ This speech of yours
 
 141
 00:08:34,160 --> 00:08:37,280
-Is our last hope to save ourselves
+is our last hope to save ourselves.
 
 142
 00:08:41,040 --> 00:08:42,160
-Please
+Please.
 
 143
 00:08:53,840 --> 00:08:55,120
-Mr. Zixin
+Brother Zixin,
 
 144
 00:08:56,960 --> 00:08:58,080
-I've never understood why since the Republic of China
+I've never understood why
 
 145
 00:08:59,200 --> 00:09:00,480
-so many once ambitious people committed suicides
+since the Republic of China,
 
 146
 00:09:00,800 --> 00:09:02,640
-Today, I can see why
+so many once ambitious people committed suicide.
 
 147
 00:09:02,800 --> 00:09:04,640
@@ -596,23 +596,23 @@ If it was not for the guilt I have on my back
 
 150
 00:09:10,640 --> 00:09:12,160
-for signing the Twenty-one Demands
+for signing the Twenty-one Demands,
 
 151
 00:09:12,640 --> 00:09:13,760
-Tomorrow's conference
+I will never let you rush to the front
 
 152
 00:09:14,080 --> 00:09:16,160
-I would never let you rush to the front.
+of tomorrow's conference.
 
 153
 00:09:18,640 --> 00:09:19,360
-Come
+Here.
 
 154
 00:09:19,440 --> 00:09:20,080
-you see
+You see,
 
 155
 00:09:20,720 --> 00:09:23,520
@@ -620,15 +620,15 @@ I found your favorite stinky tofu.
 
 156
 00:09:28,480 --> 00:09:31,520
-Stinky tofu with bread, combination of Chinese and Western
+Stinky tofu with bread, a combination of Chinese and Western food.
 
 157
 00:09:36,160 --> 00:09:37,280
-Mr. Zixin
+Brother Zixin,
 
 158
 00:09:38,720 --> 00:09:39,840
-Thanks for your consideration
+thanks for your consideration
 
 159
 00:09:41,760 --> 00:09:44,480
@@ -640,35 +640,35 @@ There's still some time for me to get ready.
 
 161
 00:10:02,320 --> 00:10:03,200
-Shaochuan
+Shaochuan,
 
 162
 00:10:07,760 --> 00:10:11,440
-On behave of thousands of millions Chinese.
+on behalf of hundreds of millions of Chinese,
 
 163
 00:10:14,400 --> 00:10:15,280
-Thank you
+thank you.
 
 164
 00:10:42,880 --> 00:10:44,160
-This flavor is the best
+This taste is the best.
 
 165
 00:10:57,360 --> 00:10:57,920
-Messenger
+Messenger.
 
 166
 00:10:59,920 --> 00:11:00,480
-Minister
+Chief.
 
 167
 00:11:03,600 --> 00:11:04,640
-Send the message to Beijing
+Send the message to Beijing:
 
 168
 00:11:05,360 --> 00:11:07,760
-The proposal of five countries jointly administering ShanDong
+The proposal of five countries jointly administering Shandong,
 
 169
 00:11:07,840 --> 00:11:09,280
@@ -676,11 +676,11 @@ put forward by President Wilson
 
 170
 00:11:09,600 --> 00:11:11,920
-on the conference
+on the conference,
 
 171
 00:11:12,240 --> 00:11:14,320
-was rejected again by Makino Nobuaki
+was rejected again by Makino Nobuaki.
 
 172
 00:11:14,880 --> 00:11:19,520
@@ -688,35 +688,35 @@ Britain and France have acquiesced in Japan's proposal.
 
 173
 00:11:20,400 --> 00:11:21,680
-America's intervention failed
+America's intervention failed.
 
 174
 00:11:23,120 --> 00:11:24,320
-Tomorrow
+Tomorrow,
 
 175
 00:11:27,280 --> 00:11:32,160
-We will make a last-ditch effort at the conference.
+we will make a last-ditch effort at the conference.
 
 176
 00:12:15,920 --> 00:12:18,320
-Despite all the efforts and works from the Chinese representative 
+Despite all the efforts and work from the Chinese delegation
 
 177
 00:12:18,720 --> 00:12:20,240
-that ShanDong shall be returned to China
+that Shandong shall be returned to China,
 
 178
 00:12:20,800 --> 00:12:23,280
-However, in 1917, the British and French government
+the British and French government in 1917
 
 179
 00:12:23,600 --> 00:12:26,080
-supported Japan
+supported Japan,
 
 180
 00:12:26,320 --> 00:12:27,520
-On the grounds of the obligation of signed articles with Japan
+on the grounds of the obligation of signed articles with Japan.
 
 181
 00:12:28,560 --> 00:12:30,320
@@ -724,1988 +724,1976 @@ The British Prime Minister even said
 
 182
 00:12:30,720 --> 00:12:32,560
-If Japan does not join the League of Nations
+if Japan does not join the League of Nations,
 
 183
 00:12:32,880 --> 00:12:34,800
-Britain will follow
+Britain will follow.
 
 184
 00:12:35,360 --> 00:12:37,600
-With Italy has withdrawn from the peace conference
+With Italy has withdrawn from the peace conference,
 
 185
 00:12:38,160 --> 00:12:39,600
-Pushed by his eagerness to establish the League of Nations 
+pushed by his eagerness to establish the League of Nations,
 
 186
 00:12:39,840 --> 00:12:42,320
-Wilson, American President
+U.S. President Wilson,
 
 187
 00:12:43,040 --> 00:12:46,080
-who's worried that without three countries among the Big Five,
+worried that without three countries among the Big Five
 
 188
 00:12:46,240 --> 00:12:48,400
-his scheme wouldn't be accompolished
+and that his scheme wouldn't be accompolished,
 
 189
 00:12:48,880 --> 00:12:50,720
-Changed his mind and secretly reached an agreement with Japan
+changed his mind and secretly reached an agreement with Japan,
 
 190
 00:12:50,880 --> 00:12:52,800
-supporting Japan to acquire ShanDong Province
+supporting Japan to acquire Shandong.
 
 191
 00:12:52,960 --> 00:12:53,520
-Situation
+The situation
 
 192
 00:12:54,000 --> 00:12:54,960
-Hang by a thread
+hung by a thread.
 
 193
 00:12:55,040 --> 00:12:55,920
-Smell this, XinGang
+Smell this, Xingang.
 
 194
 00:12:56,320 --> 00:12:57,360
-The grass is stretching.
+The grass grows.
 
 195
+00:12:56,762 --> 00:12:59,356
+[Peking University]
+
+196
 00:12:57,840 --> 00:12:59,680
 The air smells of spring.
 
-196
+197
 00:13:00,080 --> 00:13:01,280
 Stop it, stop it.
 
-197
+198
 00:13:02,240 --> 00:13:05,920
 I feel a little numb when I smell this.
 
-198
-00:13:06,640 --> 00:13:07,520
-We are in the campus now
-
 199
-00:13:07,600 --> 00:13:08,480
-We can't be too intimate
+00:13:06,640 --> 00:13:07,520
+We are in the campus now.
 
 200
+00:13:07,600 --> 00:13:08,480
+We can't be too intimate.
+
+201
 00:13:09,120 --> 00:13:10,160
 So what?
 
-201
-00:13:10,320 --> 00:13:11,040
-Spring is coming
-
 202
+00:13:10,320 --> 00:13:11,040
+Spring is coming.
+
+203
 00:13:11,200 --> 00:13:12,080
 Spring should be like this.
 
-203
-00:13:12,480 --> 00:13:13,440
-It's not like we are dating behind everyone's back
-
 204
-00:13:14,320 --> 00:13:16,320
-Now that Yannian left, I do miss him
+00:13:12,480 --> 00:13:13,440
+It's not like we are dating behind everyone's back.
 
 205
+00:13:14,320 --> 00:13:16,320
+Now that Yannian left, I do miss him.
+
+206
 00:13:16,720 --> 00:13:17,920
 Mr. Zhongfu now leaves me in charge of
 
-206
-00:13:18,080 --> 00:13:19,760
-The delivery and publish of New Youth
-
 207
-00:13:20,000 --> 00:13:21,040
-It's all on me
+00:13:18,080 --> 00:13:19,760
+the delivery and publication of "New Youth".
 
 208
-00:13:21,360 --> 00:13:22,320
-I'm making real money now
+00:13:20,000 --> 00:13:21,040
+It's all on me.
 
 209
-00:13:22,480 --> 00:13:23,440
-With deep pockets
+00:13:21,360 --> 00:13:22,320
+I'm making real money now.
 
 210
-00:13:23,680 --> 00:13:24,640
-I can send money to my family
+00:13:22,480 --> 00:13:23,440
+With deep pockets,
 
 211
+00:13:23,680 --> 00:13:24,640
+I can send money to my family.
+
+212
 00:13:25,760 --> 00:13:27,440
 The bitter days have finally come to an end.
 
-212
-00:13:28,160 --> 00:13:30,720
-Bailan, I will graduate in three months.
-
 213
-00:13:31,200 --> 00:13:32,640
-Mr Zhongfu wants me to work at the New Youth
+00:13:28,160 --> 00:13:30,720
+Bai Lan, I will graduate in three months.
 
 214
+00:13:31,200 --> 00:13:32,640
+Mr. Zhongfu wants me to work at "New Youth"
+
+215
 00:13:32,960 --> 00:13:33,920
 after graduation
 
-215
-00:13:34,000 --> 00:13:35,040
-Be a peer editor
-
 216
+00:13:34,000 --> 00:13:35,040
+and become a peer editor,
+
+217
 00:13:35,440 --> 00:13:35,920
 and then
 
-217
-00:13:36,160 --> 00:13:37,760
-He wants to recommend me to stay as a teaching assistant.
-
 218
+00:13:36,160 --> 00:13:37,760
+he wants to recommend me to stay as a teaching assistant.
+
+219
 00:13:38,160 --> 00:13:39,680
 We can settle in Beijing in the future.
 
-219
-00:13:41,440 --> 00:13:43,040
-What about the two of us
-
 220
+00:13:41,440 --> 00:13:43,040
+What about the two of us?
+
+221
 00:13:43,760 --> 00:13:45,360
 Didn't you promise to take me back to Qingdao?
 
-221
-00:13:45,440 --> 00:13:46,080
-Sure
-
 222
-00:13:46,160 --> 00:13:47,040
-Not only going back to Qingdao
+00:13:45,440 --> 00:13:46,080
+Sure.
 
 223
-00:13:47,120 --> 00:13:48,960
-I'll also take you to the trestle.
+00:13:46,160 --> 00:13:47,040
+Not only go back to Qingdao,
 
 224
-00:13:49,600 --> 00:13:52,000
-What is the trestle like?
+00:13:47,120 --> 00:13:48,960
+I'll also take you to the Zhanqiao Pier.
 
 225
-00:13:52,800 --> 00:13:54,880
-The trestle is a long bridge.
+00:13:49,600 --> 00:13:52,000
+What is the Zhanqiao Pier like?
 
 226
-00:13:55,200 --> 00:13:56,080
-It was built in the sea.
+00:13:52,800 --> 00:13:54,880
+The Zhanqiao Pier is a long bridge.
 
 227
+00:13:55,200 --> 00:13:56,080
+It's built on the sea.
+
+228
 00:13:56,160 --> 00:13:57,680
 It goes more than one hundred meters from the seaside.
 
-228
-00:13:58,160 --> 00:13:59,920
-When there is heavy rain and high tides
-
 229
-00:14:00,000 --> 00:14:01,440
-You mustn't go up there alone.
+00:13:58,160 --> 00:13:59,920
+When there is heavy rain and high tides,
 
 230
-00:14:01,840 --> 00:14:02,720
-Otherwise, if you being not careful
+00:14:00,000 --> 00:14:01,440
+you mustn't go up there alone.
 
 231
+00:14:01,840 --> 00:14:02,720
+Otherwise, if you being not careful,
+
+232
 00:14:02,960 --> 00:14:03,920
 you will be caught in the waves.
 
-232
+233
 00:14:04,240 --> 00:14:04,880
 For real?
 
-233
-00:14:05,040 --> 00:14:05,520
-Yes
-
 234
+00:14:05,040 --> 00:14:05,520
+Yes.
+
+235
 00:14:05,840 --> 00:14:07,280
 What if I fall in?
 
-235
-00:14:08,160 --> 00:14:08,960
-I cannot swim
-
 236
-00:14:09,600 --> 00:14:11,200
-Well, in that case
+00:14:08,160 --> 00:14:08,960
+I cannot swim.
 
 237
-00:14:11,360 --> 00:14:13,280
-I'll stand on the trestle and laugh
+00:14:09,600 --> 00:14:11,200
+Well, in that case,
 
 238
-00:14:13,360 --> 00:14:14,400
-Watching you fluttering in the sea.
+00:14:11,360 --> 00:14:13,280
+I'll stand on the pier and laugh,
 
 239
-00:14:15,280 --> 00:14:16,080
-You are not gonna save me?
+00:14:13,360 --> 00:14:14,400
+watching you fluttering in the sea.
 
 240
-00:14:16,480 --> 00:14:17,120
-No
+00:14:15,280 --> 00:14:16,080
+You're not gonna save me?
 
 241
+00:14:16,480 --> 00:14:17,120
+Nope.
+
+242
 00:14:17,280 --> 00:14:18,160
 Really?
 
-242
-00:14:18,320 --> 00:14:19,120
-Really
-
 243
-00:14:19,360 --> 00:14:20,320
-You have to flutter in the sea.
+00:14:18,320 --> 00:14:19,120
+Really.
 
 244
+00:14:19,360 --> 00:14:20,320
+You have to flutter in the sea
+
+245
 00:14:20,560 --> 00:14:21,600
 to learn how to swim.
 
-245
-00:14:22,320 --> 00:14:23,600
-You are so mean
-
 246
-00:14:24,320 --> 00:14:25,600
-I dare you to not save me
+00:14:22,320 --> 00:14:23,600
+You're so mean!
 
 247
+00:14:24,320 --> 00:14:25,600
+I dare you to not save me.
+
+248
 00:14:25,840 --> 00:14:26,160
 I won't save you.
 
-248
+249
 00:14:26,400 --> 00:14:26,960
 You have come to Qingdao.
 
-249
-00:14:27,200 --> 00:14:28,160
-You can't stay not swimming
-
 250
-00:14:28,240 --> 00:14:28,880
-Something big has happened.
+00:14:27,200 --> 00:14:28,160
+You can't stay not swimming.
 
 251
-00:14:29,200 --> 00:14:29,760
-Something big has happened.
+00:14:28,240 --> 00:14:28,880
+Something big has happened!
 
 252
-00:14:29,920 --> 00:14:30,320
-what's up
+00:14:29,200 --> 00:14:29,760
+Something big has happened!
 
 253
-00:14:30,400 --> 00:14:32,160
-Something bad, really bad
+00:14:29,920 --> 00:14:30,320
+What's up?
 
 254
-00:14:32,320 --> 00:14:32,880
-
+00:14:30,400 --> 00:14:32,160
+Something bad, really bad!
 
 255
-00:14:32,960 --> 00:14:34,560
-Jianmin Jianmin, wait a minute
+00:14:32,320 --> 00:14:32,880
+Something big has happened!
 
 256
-00:14:34,880 --> 00:14:35,760
-Why are you running
+00:14:32,960 --> 00:14:34,560
+Jianmin Jianmin, wait a minute.
 
 257
+00:14:34,880 --> 00:14:35,760
+Why are you running?
+
+258
 00:14:35,840 --> 00:14:37,600
 Something's wrong in Paris. Shandong is finished.
 
-258
-00:14:37,840 --> 00:14:38,240
-go
-
 259
+00:14:37,840 --> 00:14:38,240
+Go!
+
+260
 00:14:39,120 --> 00:14:40,640
 Something's wrong. Something's wrong.
 
-260
-00:14:42,080 --> 00:14:42,720
-XinGang
-
 261
-00:14:42,800 --> 00:14:43,600
-Go, go, go, go
+00:14:42,080 --> 00:14:42,720
+Xingang!
 
 262
-00:14:45,120 --> 00:14:46,640
-Where is justice?
+00:14:42,800 --> 00:14:43,600
+Go, go, go, go!
 
 263
+00:14:45,120 --> 00:14:46,640
+Where's the justice?
+
+264
 00:14:46,880 --> 00:14:48,320
 How can they be this unreasonable?
 
-264
-00:14:48,720 --> 00:14:50,320
-A bunch of promise breaking bastards!
-
 265
+00:14:48,720 --> 00:14:50,320
+A bunch of promise-breaking bastards!
+
+266
 00:14:52,960 --> 00:14:53,840
 I see.
 
-266
+267
+00:14:55,600 --> 00:14:58,936
+[Cai Yuanpei, styled Jiemin, President of Peking University]
+
+268
 00:14:59,360 --> 00:15:01,520
 I swore.
 
-267
-00:15:02,480 --> 00:15:03,600
-This is outragous
-
-268
-00:15:04,720 --> 00:15:06,160
-At the Paris Peace Conference yesterday
-
 269
+00:15:02,480 --> 00:15:03,600
+This is outragous!
+
+270
+00:15:04,720 --> 00:15:06,160
+At the Paris Peace Conference yesterday,
+
+271
 00:15:06,720 --> 00:15:09,760
 Wilson finally delivered a speech.
 
-270
-00:15:10,320 --> 00:15:12,080
-He's saying that China should accept it's unfortunate faith as it be
-
-271
-00:15:13,040 --> 00:15:14,560
-And aproved Japan's plan.
-
 272
-00:15:15,040 --> 00:15:17,760
-That ShanDong Province will be officially handed over to Japan.
+00:15:10,079 --> 00:15:12,246
+[Li Dazhao, styled Shouchang, Director of Peking University Library]
 
 273
+00:15:10,320 --> 00:15:12,080
+He's saying that China should accept its unfortunate fate as it is,
+
+274
+00:15:13,040 --> 00:15:14,560
+and approved Japan's plan
+
+275
+00:15:15,040 --> 00:15:17,760
+that Shandong will be officially handed over to Japan.
+
+276
 00:15:18,400 --> 00:15:20,080
 China's diplomacy has completely failed.
 
-274
+277
 00:15:20,720 --> 00:15:21,760
 What is going on here?
 
-275
+278
 00:15:22,640 --> 00:15:23,440
-Didn't you say two days ago?
+Didn't you say two days ago,
 
-276
+279
 00:15:23,680 --> 00:15:25,360
-There's hope that the five countries will govern Shandong?
+there's hope that the five countries will govern Shandong?
 
-277
+280
 00:15:25,680 --> 00:15:26,880
 How can that change in a blink?
 
-278
+281
 00:15:27,360 --> 00:15:28,320
 What's going on?
 
-279
-00:15:29,040 --> 00:15:29,760
-Brother Zhongfu
-
-280
-00:15:29,920 --> 00:15:31,360
-This is the good man in your words
-
-281
-00:15:31,440 --> 00:15:32,400
-This is what Wilson did!
-
 282
-00:15:32,560 --> 00:15:33,440
-This is rogue's behavior!
+00:15:29,040 --> 00:15:29,760
+Brother Zhongfu,
 
 283
-00:15:34,000 --> 00:15:35,120
-Imperialism is all hooligans!
+00:15:29,920 --> 00:15:31,360
+this is the good man in your words.
 
 284
-00:15:35,680 --> 00:15:36,320
-Now!
+00:15:31,440 --> 00:15:32,400
+This is what Wilson did.
 
 285
-00:15:37,600 --> 00:15:39,200
-It's not the endgame
+00:15:32,560 --> 00:15:33,440
+This is a stinking rascal!
 
 286
+00:15:34,000 --> 00:15:35,120
+Imperialism is full of hooligans!
+
+287
+00:15:35,680 --> 00:15:36,320
+Now,
+
+288
+00:15:37,600 --> 00:15:39,200
+is not the endgame.
+
+289
 00:15:39,920 --> 00:15:41,760
 Maybe there is still room for manoeuvre.
 
-287
+290
 00:15:42,240 --> 00:15:43,440
-Now we have to do our best.
+Now we have to do our best
 
-288
+291
 00:15:43,760 --> 00:15:44,960
-To save something
+to save something.
 
-289
+292
 00:15:45,440 --> 00:15:46,480
 What Peking University can do
 
-290
-00:15:46,880 --> 00:15:49,440
-Is to use all platforms and all means.
-
-291
-00:15:49,520 --> 00:15:51,520
-Speak out loud what is Peking University's attitude to the outside world
-
-292
-00:15:51,600 --> 00:15:53,760
-Show the society the clear stand of Peking University.
-
 293
-00:15:53,840 --> 00:15:54,800
-We will never flinch.
+00:15:46,880 --> 00:15:49,440
+is to use all platforms and all means
 
 294
-00:15:55,280 --> 00:15:56,800
-To urge the Chinese government and delegation
+00:15:49,520 --> 00:15:51,520
+speak out loud what is Peking University's attitude to the outside world
 
 295
-00:15:57,120 --> 00:15:58,480
-Take the most effective measures.
+00:15:51,600 --> 00:15:53,760
+and show society the clear stance of Peking University.
 
 296
-00:15:58,880 --> 00:15:59,920
-To fight for the last time
+00:15:53,840 --> 00:15:54,800
+We will never flinch!
 
 297
+00:15:55,280 --> 00:15:56,800
+Urge the Chinese government and delegation
+
+298
+00:15:57,120 --> 00:15:58,480
+to take the most effective measures
+
+299
+00:15:58,880 --> 00:15:59,920
+to fight for a final time.
+
+300
 00:16:00,800 --> 00:16:03,760
 Shouchang, Zhongfu, we can only rely on you now.
 
-298
+301
 00:16:03,840 --> 00:16:06,560
 Hurry to publish a special supplement to comment.
 
-299
+302
 00:16:06,880 --> 00:16:09,280
 We need to act quickly.
 
-300
-00:16:12,000 --> 00:16:12,560
-good
-
-301
-00:16:15,680 --> 00:16:17,600
-Yes
-
-302
-00:16:33,680 --> 00:16:34,640
-I'm Cai Yuanpei
-
 303
-00:16:34,960 --> 00:16:36,640
-Get me Wang Daxie.
+00:16:12,000 --> 00:16:12,560
+Good.
 
 304
-00:18:34,640 --> 00:18:35,600
-By the way, Dong Xiu
+00:16:15,680 --> 00:16:17,600
+Good. Good.
 
 305
+00:16:33,680 --> 00:16:34,640
+I'm Cai Yuanpei,
+
+306
+00:16:34,960 --> 00:16:36,640
+get me Wang Daxie.
+
+307
+00:18:34,640 --> 00:18:35,600
+By the way, Dongxiu.
+
+308
 00:18:35,840 --> 00:18:37,440
 I want to take a suit with me.
 
-306
+309
 00:18:38,160 --> 00:18:39,120
 You have to prepare two sets.
 
-307
+310
 00:18:39,600 --> 00:18:39,920
-All right
+Alright.
 
-308
+311
 00:18:40,320 --> 00:18:41,440
 This time,
 
-309
+312
 00:18:41,760 --> 00:18:43,040
 there are many speeches and meetings.
 
-310
+313
 00:18:43,520 --> 00:18:45,040
 Please bring me some more shirts.
 
-311
+314
 00:18:45,600 --> 00:18:47,440
-I heard from Junman
+I heard from Junman,
 
-312
+315
 00:18:47,760 --> 00:18:49,440
-Everyone in Peking University is busy these two days.
+everyone in Peking University is busy these two days.
 
-313
+316
 00:18:50,000 --> 00:18:52,560
 Is this a good time for you to go out?
 
-314
-00:18:53,680 --> 00:18:55,760
-The country and Peking University will be doing just fine without me
-
-315
-00:18:56,480 --> 00:18:58,240
-But my teacher, Mr Dewey, he is coming to China
-
-316
-00:18:58,640 --> 00:19:00,320
-He can't go anywhere without me
-
 317
+00:18:53,680 --> 00:18:55,760
+The country and Peking University will be doing just fine without me.
+
+318
+00:18:56,480 --> 00:18:58,240
+But my teacher, Mr. Dewey, is coming to China.
+
+319
+00:18:58,640 --> 00:19:00,320
+He can't go anywhere without me.
+
+320
 00:19:02,080 --> 00:19:03,840
 Which matter do you think I should attend to?
 
-318
+321
 00:19:04,560 --> 00:19:06,640
-This BeiJing is full of shenanigans
+This Beijing is full of shenanigans.
 
-319
+322
 00:19:07,600 --> 00:19:08,880
 Not as peaceful as the countryside.
 
-320
-00:19:09,440 --> 00:19:10,400
-You can be have your peace
-
-321
-00:19:10,960 --> 00:19:12,000
-I told Junman
-
-322
-00:19:12,720 --> 00:19:14,160
-asked her to visit you when she is free.
-
 323
+00:19:09,440 --> 00:19:10,400
+You can be have your peace.
+
+324
+00:19:10,960 --> 00:19:12,000
+I asked Junman
+
+325
+00:19:12,720 --> 00:19:14,160
+if she can visit you when she is free.
+
+326
 00:19:19,200 --> 00:19:19,840
 I'm done eating.
 
-324
+327
 00:19:20,240 --> 00:19:21,360
-I'll help you pack the luggage
+I'll help you pack the luggage.
 
-325
+328
 00:19:21,760 --> 00:19:22,240
-good
+Okay.
 
-326
+329
 00:19:35,360 --> 00:19:38,000
 The failure of the Paris Peace Conference spread all over the world.
 
-327
-00:19:38,320 --> 00:19:38,480
-
-
-328
-00:19:38,560 --> 00:19:38,560
-
-
-329
-00:19:38,640 --> 00:19:38,720
-
-
 330
-00:19:38,800 --> 00:19:39,520
-Chinese overseas all felt indignation in their hearts
+00:19:38,320 --> 00:19:40,240
+Chinese overseas all felt indignation in their hearts.
 
 331
-00:19:39,600 --> 00:19:39,680
-
+00:19:40,800 --> 00:19:44,080
+A large number of Chinese and overseas students poured into Paris,
 
 332
-00:19:39,760 --> 00:19:40,160
-
+00:19:44,560 --> 00:19:48,080
+supporting the delegation, also putting pressure on them.
 
 333
-00:19:40,240 --> 00:19:40,240
-
+00:19:48,160 --> 00:19:50,560
+They gathered around the residence of the Chinese delegation in Paris,
 
 334
-00:19:40,800 --> 00:19:44,080
-A large number of Chinese and overseas students poured into Paris.
+00:19:50,640 --> 00:19:52,800
+demanding the delegation to refuse to sign the peace treaty
 
 335
-00:19:44,560 --> 00:19:48,080
-Support the delegation, also put pressure on them
+00:19:53,280 --> 00:19:55,200
+and claiming to defend Shandong to the death.
 
 336
-00:19:48,160 --> 00:19:50,560
-They gathered around the residence of the Chinese delegation in Paris.
+00:19:55,844 --> 00:19:59,929
+[Hôtel Lutetia, Paris]
 
 337
-00:19:50,640 --> 00:19:52,800
-Ask the delegation to refuse to sign the peace treaty
+00:19:56,080 --> 00:19:57,120
+Down with traitors!
 
 338
-00:19:53,280 --> 00:19:55,200
-Claim to defend ShanDong to the death.
-
-339
-00:19:56,080 --> 00:19:57,120
-Down with traitors
-
-340
 00:19:57,200 --> 00:19:58,160
 Give us back Qingdao!
 
-341
+339
 00:19:58,320 --> 00:19:59,200
-Return to us ShanDong!
+Give us back Shandong!
 
-342
+340
 00:19:59,520 --> 00:20:00,480
 Give us back Qingdao!
 
-343
+341
 00:20:01,040 --> 00:20:01,600
-Return to us ShanDong!
+Give us back Qingdao!
+
+342
+00:20:01,760 --> 00:20:02,720
+Down with traitors!
+
+343
+00:20:02,800 --> 00:20:03,760
+We want justice!
 
 344
-00:20:01,760 --> 00:20:02,720
-Down with traitors
+00:20:04,160 --> 00:20:05,360
+We want justice!
 
 345
-00:20:02,800 --> 00:20:03,760
-We want justice
+00:20:07,280 --> 00:20:07,680
+Come on.
 
 346
-00:20:04,160 --> 00:20:05,360
-We want justice
+00:20:07,920 --> 00:20:09,920
+Let's close all the windows.
 
 347
-00:20:07,280 --> 00:20:07,680
-come on
+00:20:10,240 --> 00:20:11,120
+Even if you build a wall,
 
 348
-00:20:07,920 --> 00:20:09,920
-Let's close all the windows 
+00:20:11,360 --> 00:20:12,560
+the sound is coming in nevertheless.
 
 349
-00:20:10,240 --> 00:20:11,120
-Even if you build a wall
+00:20:13,120 --> 00:20:15,120
+You pretend to be an ostrich, burying your head in the sand?
 
 350
-00:20:11,360 --> 00:20:12,560
-The sound is coming in nevertheless 
+00:20:15,520 --> 00:20:16,400
+So you are saying,
 
 351
-00:20:13,120 --> 00:20:15,120
-Pretend to be an ostrich, bury your head in the sand?
+00:20:16,560 --> 00:20:17,600
+just open them all?
 
 352
-00:20:15,520 --> 00:20:16,400
-So you are saying
-
-353
-00:20:16,560 --> 00:20:17,600
-Just open them all
-
-354
 00:20:18,480 --> 00:20:18,800
 Keep it open.
 
-355
+353
 00:20:19,600 --> 00:20:21,520
-It's open. At least we can get some air
+It's open. At least we can get some air?
+
+354
+00:20:21,920 --> 00:20:23,600
+Don't you hear them condemning us?
+
+355
+00:20:24,720 --> 00:20:25,520
+The Chief is here.
 
 356
-00:20:21,920 --> 00:20:23,600
-Don't you feel these sounds condemning us?
-
-357
-00:20:24,720 --> 00:20:25,520
-Minister is here
-
-358
 00:20:28,080 --> 00:20:30,240
 We have become motherless children.
 
-359
+357
 00:20:32,320 --> 00:20:35,280
-Everyone, I sent a message to Qian Nengxun.
+Everyone, I sent a message to Qian Nengxun
+
+358
+00:20:35,440 --> 00:20:36,480
+requesting instructions.
+
+359
+00:20:37,120 --> 00:20:38,080
+He said:
 
 360
-00:20:35,440 --> 00:20:36,480
-Request instructions
+00:20:38,240 --> 00:20:39,200
+He can not
 
 361
-00:20:37,120 --> 00:20:38,080
-He said
+00:20:39,440 --> 00:20:41,200
+make the decision to let me go directly to Xu Shichang.
 
 362
-00:20:38,240 --> 00:20:39,200
-He can't give it
-
-363
-00:20:39,440 --> 00:20:41,200
-Asked me to go directly to Xu Shichang.
-
-364
 00:20:41,600 --> 00:20:43,600
 Okay then, I turned to Xu Shichang.
 
-365
+363
 00:20:44,320 --> 00:20:47,440
-Still haven't heard back from him
+Still haven't heard back from him.
 
-366
+364
 00:20:48,960 --> 00:20:50,960
 Brother Zixin, what shall we do?
 
-367
+365
 00:20:52,240 --> 00:20:54,720
-We can't resign and commit suicide altogether
+We can't resign and commit suicide altogether.
+
+366
+00:20:57,680 --> 00:20:58,880
+Shaochuan,
+
+367
+00:20:59,120 --> 00:21:00,800
+I really have no idea.
 
 368
-00:20:57,680 --> 00:20:58,880
-Shaochuan
-
-369
-00:20:59,120 --> 00:21:00,800
-I really have no idea
-
-370
 00:21:01,360 --> 00:21:04,560
 I went to Wang Daxie for advice again.
 
-371
+369
 00:21:05,120 --> 00:21:06,880
 He told me the same thing as yesterday.
 
-372
+370
 00:21:06,960 --> 00:21:09,520
-He asked us to make a compromise proposal.
+He asked us to propose a compromise.
 
-373
+371
 00:21:10,080 --> 00:21:11,040
 Go to Wilson,
 
-374
+372
 00:21:11,200 --> 00:21:11,840
 Lloyd George,
 
-375
+373
 00:21:11,920 --> 00:21:12,640
-and Clemenceau
+and Clemenceau.
+
+374
+00:21:13,520 --> 00:21:15,920
+Down with traitors! Give us back Qingdao!
+
+375
+00:21:16,160 --> 00:21:17,440
+Down with traitors!
 
 376
-00:21:13,520 --> 00:21:15,920
-Down with traitors and give me back Qingdao.
-
-377
-00:21:16,160 --> 00:21:17,440
-Down with traitors
-
-378
 00:21:17,600 --> 00:21:19,360
 Did you hear that? Did you hear that?
 
-379
+377
 00:21:19,760 --> 00:21:21,760
 In a blink of an eye, we are traitors.
 
-380
+378
 00:21:23,120 --> 00:21:25,600
 Everyone, how can we even look at ourselves now?
 
-381
+379
 00:21:27,520 --> 00:21:28,880
 Give your opinion.
 
-382
+380
 00:21:36,240 --> 00:21:37,760
-I asked the Guangzhou military junta
+I asked our Guangzhou warlord government,
+
+381
+00:21:38,480 --> 00:21:40,400
+the instruction they gave is eight words:
+
+382
+00:21:41,120 --> 00:21:43,760
+fight to death for every inch of land.
 
 383
-00:21:38,480 --> 00:21:40,400
-The instruction they gave is eight words
+00:21:46,880 --> 00:21:48,480
+Strong words, they are.
 
 384
-00:21:41,120 --> 00:21:43,760
-Fight to death for every inch and right
+00:21:49,040 --> 00:21:50,240
+Every inch of the land.
 
 385
-00:21:46,880 --> 00:21:48,480
-Strong words it is
+00:21:52,480 --> 00:21:53,680
+You should ask him though.
 
 386
-00:21:49,040 --> 00:21:50,240
-Every inch of the land
+00:21:54,720 --> 00:21:55,920
+How should we fight?
 
 387
-00:21:52,480 --> 00:21:53,680
-You should ask him though
-
-388
-00:21:54,720 --> 00:21:55,920
-How shoudl we fight?
-
-389
 00:21:57,120 --> 00:22:00,160
 Brother Zixin, it's over.
 
-390
+388
 00:22:00,640 --> 00:22:03,520
-I think we can only try Wang daxie's way.
+I think we can only try Wang Daxie's way.
+
+389
+00:22:04,720 --> 00:22:05,840
+We cannot be the traitor
+
+390
+00:22:05,950 --> 00:22:07,440
+that sits here and waits for the end.
 
 391
-00:22:04,720 --> 00:22:05,840
-We cannot be that traitor
+00:22:08,640 --> 00:22:09,520
+Shaochuan.
 
 392
-00:22:05,920 --> 00:22:07,440
-sit here and wait for the end of us
+00:22:09,840 --> 00:22:11,360
+Wang Daxie made it sounds easy.
 
 393
-00:22:08,640 --> 00:22:09,520
-Shaochuan
-
-394
-00:22:09,840 --> 00:22:11,360
-Wang Daxie made it sounds easy
-
-395
 00:22:11,680 --> 00:22:14,320
 Compromise. How can we compromise?
 
-396
+394
 00:22:14,960 --> 00:22:16,400
-Where is the middle ground?
+The middle ground
 
-397
+395
 00:22:16,480 --> 00:22:18,000
-Is extremely difficult to negotiate
+is extremely difficult to grasp.
 
-398
+396
 00:22:21,040 --> 00:22:22,320
 The word traitor
 
-399
+397
 00:22:25,760 --> 00:22:26,800
-It's too heavy
+is too heavy.
+
+398
+00:22:29,360 --> 00:22:30,400
+If it goes wrong,
+
+399
+00:22:34,080 --> 00:22:36,080
+we might as well pick up this title
 
 400
-00:22:29,360 --> 00:22:30,400
-If it goes wrong
+00:22:38,320 --> 00:22:39,600
+with our own hands.
 
 401
-00:22:34,080 --> 00:22:36,080
-We might as well pick up this title
+00:22:54,240 --> 00:22:56,880
+Everyone, as for now,
 
 402
-00:22:38,320 --> 00:22:39,600
-with our own hands 
+00:22:57,520 --> 00:22:59,200
+we can't think about personal reputation anymore.
 
 403
-00:22:54,240 --> 00:22:56,880
-Everyone, as for now
+00:22:59,680 --> 00:23:00,800
+Our country has come to the point of the return.
 
 404
-00:22:57,520 --> 00:22:59,200
-We can't think about personal reputation anymore.
+00:23:01,200 --> 00:23:02,320
+We have to fight with all we have.
 
 405
-00:22:59,680 --> 00:23:00,800
-Our country has come to the point of the return
+00:23:03,200 --> 00:23:04,720
+I dedicate myself to the interests of the country,
 
 406
-00:23:01,200 --> 00:23:02,320
-We have to fight with all we have
+00:23:06,480 --> 00:23:09,280
+in life and death irrespective of personal weal and woe.
 
 407
-00:23:03,200 --> 00:23:04,720
-
+00:23:10,400 --> 00:23:11,280
+Exactly!
 
 408
-00:23:03,200 --> 00:23:08,720
-I shall dedicate myself to the interests of the country in life and death irrespective of personal weal and woe
+00:23:11,760 --> 00:23:12,480
+Good!
 
 409
-00:23:06,480 --> 00:23:09,280
-
+00:23:13,360 --> 00:23:14,480
+No space for worry and fear.
 
 410
-00:23:10,400 --> 00:23:11,280
-Exactly
+00:23:14,800 --> 00:23:16,000
+This is our last duty.
 
 411
-00:23:11,760 --> 00:23:12,480
-Good point
-
-412
-00:23:13,360 --> 00:23:14,480
-No space for worry and fear
-
-413
-00:23:14,800 --> 00:23:16,000
-This is our last duty
-
-414
 00:23:34,640 --> 00:23:36,240
 Go upstairs now.
 
-415
+412
 00:23:37,520 --> 00:23:38,960
-let's go over every detail
+Let's go over every detail.
+
+413
+00:23:43,760 --> 00:23:46,320
+News! Fourteen equals zero!
+
+414
+00:23:44,359 --> 00:23:47,971
+[Peking University]
+
+415
+00:23:46,560 --> 00:23:48,880
+Wilson invents a new mathematical formula!
 
 416
-00:23:43,760 --> 00:23:46,320
-News! fourteen equals zero.
+00:23:49,120 --> 00:23:50,320
+Fourteen equals zero!
 
 417
-00:23:46,560 --> 00:23:48,880
-Wilson invented a new mathematical formula.
+00:23:50,560 --> 00:23:51,760
+Come and see! Come and buy!
 
 418
-00:23:49,120 --> 00:23:49,440
-Fourteen equals zero.
+00:23:52,240 --> 00:23:53,120
+Fourteen equals zero!
 
 419
-00:23:49,520 --> 00:23:49,520
-
+00:23:53,200 --> 00:23:55,440
+Wilson's newly invented mathematical formula!
 
 420
-00:23:49,600 --> 00:23:50,320
-Fourteen equals zero.
-
-421
-00:23:50,560 --> 00:23:51,760
-Come and see, come and buy.
-
-422
-00:23:52,240 --> 00:23:53,120
-Fourteen equals zero.
-
-423
-00:23:53,200 --> 00:23:55,440
-Wilson's newly invented mathematical formula
-
-424
 00:23:56,000 --> 00:24:00,240
 Shizhi, are you leaving Peking University at this time?
 
-425
+421
 00:24:00,640 --> 00:24:02,080
-is it all right?
+Is it alright?
 
-426
+422
 00:24:02,800 --> 00:24:05,840
-People will use this against you
+People will use this against you.
 
-427
+423
 00:24:06,560 --> 00:24:09,120
 Sir, I've been thinking about this too.
 
-428
+424
 00:24:09,360 --> 00:24:10,400
-I have to do this
+I have to do this.
+
+425
+00:24:10,640 --> 00:24:12,560
+Mr. Dewey's visit to China this time
+
+426
+00:24:12,960 --> 00:24:13,840
+was decided long ago.
+
+427
+00:24:13,920 --> 00:24:14,880
+It has already been arranged.
+
+428
+00:24:15,280 --> 00:24:16,320
+If I don't go,
 
 429
-00:24:10,640 --> 00:24:12,560
-Mr Dewey' visit to China this time
+00:24:16,560 --> 00:24:17,600
+there may be some obstacles.
 
 430
-00:24:12,960 --> 00:24:13,840
-It was decided long ago
-
-431
-00:24:13,920 --> 00:24:14,880
-Already arranged.
-
-432
-00:24:15,280 --> 00:24:16,320
-If I don't go
-
-433
-00:24:16,560 --> 00:24:17,600
-There may be some obstacles
-
-434
 00:24:17,760 --> 00:24:19,200
 Things won't be so smooth.
 
-435
+431
 00:24:21,040 --> 00:24:21,760
-Unless 
+Unless,
 
-436
+432
 00:24:21,840 --> 00:24:23,440
-This visit to China is cancelled
+his visit to China is cancelled.
 
-437
+433
 00:24:24,560 --> 00:24:27,840
 Dewey's visit to China is no small matter.
 
-438
+434
 00:24:28,240 --> 00:24:29,840
-However
+However,
 
-439
+435
 00:24:30,160 --> 00:24:32,560
 I have this feeling that something serious will happen to Peking University.
 
-440
+436
 00:24:33,360 --> 00:24:35,200
 Don't worry too much, sir.
 
-441
+437
 00:24:35,840 --> 00:24:36,960
-It can't be that bad
+It can't be that bad.
+
+438
+00:24:37,920 --> 00:24:39,600
+As long as we know clearly where we stand,
+
+439
+00:24:39,840 --> 00:24:40,880
+we can't count on one Peking University
+
+440
+00:24:40,960 --> 00:24:42,160
+to shake the whole world.
+
+441
+00:24:42,480 --> 00:24:43,600
+Think about this, Sir.
 
 442
-00:24:37,920 --> 00:24:39,600
-As long as we know cleary where we stand
-
-443
-00:24:39,840 --> 00:24:40,880
-We can't count on one Peking University to shake the whole world
-
-444
-00:24:40,960 --> 00:24:42,160
-It won't be like that
-
-445
-00:24:42,480 --> 00:24:43,600
-Think about this, Sir
-
-446
 00:24:43,920 --> 00:24:46,240
 Will Paris Peace Conference take orders from Peking University?
 
-447
+443
 00:24:46,800 --> 00:24:47,600
-No
+No.
 
-448
+444
 00:24:48,000 --> 00:24:49,440
 All we need to do is to make our attitude clear
 
-449
+445
 00:24:49,920 --> 00:24:50,880
-and try our best
+and try our best.
 
-450
+446
 00:24:51,440 --> 00:24:53,600
 This is about the fate of the country.
 
-451
+447
 00:24:54,320 --> 00:24:57,040
 I'm afraid it's not as simple as you think.
 
-452
+448
 00:24:58,160 --> 00:24:58,960
-I can tell
+I can tell.
 
-453
+449
 00:24:59,280 --> 00:25:00,960
 Now your mind is not about Peking University.
 
-454
+450
 00:25:01,680 --> 00:25:02,720
-That's fine, you can go
+That's fine, you can go.
+
+451
+00:25:03,360 --> 00:25:04,480
+Sir.
+
+452
+00:25:06,320 --> 00:25:07,600
+Mr. Shizhi.
+
+453
+00:25:08,080 --> 00:25:11,360
+I hope you come back as soon as possible.
+
+454
+00:25:12,640 --> 00:25:14,400
+If something really happens,
 
 455
-00:25:03,360 --> 00:25:04,480
-Sir
+00:25:14,960 --> 00:25:17,040
+I will go and get you back.
 
 456
-00:25:06,320 --> 00:25:07,600
-Mr. Shizhi
+00:25:17,440 --> 00:25:19,200
+I don't have many helpers around me.
 
 457
-00:25:08,080 --> 00:25:11,360
-I hope you come back as soon as possible
+00:25:19,760 --> 00:25:23,680
+After you leave, it's only Zhongfu and Shouchang.
 
 458
-00:25:12,640 --> 00:25:14,400
-If something really happens.
+00:25:24,320 --> 00:25:25,520
+You three leaders of new culture,
 
 459
-00:25:14,960 --> 00:25:17,040
-I will go and get you back
+00:25:25,760 --> 00:25:26,880
+with one missing.
 
 460
-00:25:17,440 --> 00:25:19,200
-I don't have many helpers around me
+00:25:27,120 --> 00:25:29,760
+It won't be as powerful without you.
 
 461
-00:25:19,760 --> 00:25:23,680
-After You leave, it's only Zhongfu and Shouchang
-
-462
-00:25:24,320 --> 00:25:25,520
-Three leaders of new culture
-
-463
-00:25:25,760 --> 00:25:26,880
-but one is missing.
-
-464
-00:25:27,120 --> 00:25:29,760
-Won't be as powerfull without you
-
-465
 00:25:30,240 --> 00:25:32,800
 Sir, do you know what worries me the most?
 
-466
+462
 00:25:33,360 --> 00:25:34,320
 Speaking of Zhongfu,
 
-467
+463
 00:25:34,480 --> 00:25:35,840
-What worries me most is him.
+what worries me most is him.
 
-468
+464
 00:25:36,240 --> 00:25:37,440
 You know him.
 
-469
+465
 00:25:37,680 --> 00:25:40,160
-He is over confident and sometimes grumpy
+He is over confident and sometimes grumpy.
+
+466
+00:25:40,720 --> 00:25:42,000
+He tends to go too far when things are tricky.
+
+467
+00:25:42,480 --> 00:25:43,840
+It might lead to serious problems.
+
+468
+00:25:44,640 --> 00:25:45,840
+So I invited him
+
+469
+00:25:46,320 --> 00:25:47,760
+to come with me to Shanghai.
 
 470
-00:25:40,720 --> 00:25:42,000
-He tends to go too far when things are tricky
+00:25:48,080 --> 00:25:49,280
+But he refused.
 
 471
-00:25:42,480 --> 00:25:43,840
-It might lead to serious problem
+00:25:52,160 --> 00:25:55,600
+Mr. Shizhi, you are too young.
 
 472
-00:25:44,640 --> 00:25:45,840
-So I invited him to come with me to Shanghai
+00:25:56,000 --> 00:25:57,520
+You don't know Zhongfu well enough.
 
 473
-00:25:46,320 --> 00:25:47,760
-
-
-474
-00:25:48,080 --> 00:25:49,280
-But he refused
-
-475
-00:25:52,160 --> 00:25:55,600
-Mr. Shizhi, you are too young
-
-476
-00:25:56,000 --> 00:25:57,520
-You don't know Zhongfu well enough
-
-477
 00:25:58,000 --> 00:26:01,840
 He must be with Shouchang at this moment.
 
-478
+474
 00:26:02,320 --> 00:26:03,440
-Shizhi
+Shizhi.
+
+475
+00:26:06,080 --> 00:26:06,880
+Sir.
+
+476
+00:26:07,280 --> 00:26:08,560
+Go and come back soon.
+
+477
+00:26:09,120 --> 00:26:11,200
+Don't worry, I will, Sir.
+
+478
+00:26:44,400 --> 00:26:46,400
+Down with traitors! Give us back Qingdao!
 
 479
-00:26:06,080 --> 00:26:06,880
-Sir
+00:26:44,993 --> 00:26:51,209
+[Hôtel Lutetia, Paris]
 
 480
-00:26:07,280 --> 00:26:08,560
-Go and come back soon
+00:26:46,480 --> 00:26:47,200
+Rutang.
 
 481
-00:26:09,120 --> 00:26:11,200
-Don't worry, I will, Sir
+00:26:47,760 --> 00:26:49,120
+Give me that file you have.
 
 482
-00:26:44,400 --> 00:26:46,400
-Down with traitors and give us back Qingdao.
+00:26:49,200 --> 00:26:49,520
+Ok.
 
 483
-00:26:46,480 --> 00:26:47,200
-Rutang
+00:26:50,160 --> 00:26:50,640
+Here.
 
 484
-00:26:47,760 --> 00:26:49,120
-Give me that file you have
+00:26:51,280 --> 00:26:53,040
+I've always felt that this wording here can be changed.
 
 485
-00:26:49,200 --> 00:26:49,520
-Ok
+00:26:53,360 --> 00:26:54,400
+It's better to go with this.
 
 486
-00:26:50,160 --> 00:26:50,640
-Here
+00:26:57,040 --> 00:26:58,080
+Indeed.
 
 487
-00:26:51,280 --> 00:26:53,040
-I've always felt that this wording here can be changed
+00:26:58,240 --> 00:26:58,720
+It is.
 
 488
-00:26:53,360 --> 00:26:54,400
-It's better to go with this
-
-489
-00:26:57,040 --> 00:26:58,080
-Indeed
-
-490
-00:26:58,240 --> 00:26:58,720
-Isn't it
-
-491
 00:26:59,920 --> 00:27:01,280
 Do what Shaochuan said.
 
-492
+489
 00:27:01,680 --> 00:27:01,920
-All right
+All right.
 
-493
+490
 00:27:08,720 --> 00:27:11,440
-Down with traitors and give us back Shandong.
+Down with traitors! Give us back Shandong!
 
-494
+491
 00:27:11,840 --> 00:27:14,720
-Give us back Qingdao, give us back Qingdao.
+Give us back Qingdao! Give us back Qingdao!
 
-495
+492
 00:27:16,960 --> 00:27:18,960
 Let's eat first, everyone.
 
-496
+493
 00:27:21,440 --> 00:27:23,040
 The hotel was blocked by protesters.
 
-497
+494
 00:27:23,440 --> 00:27:24,880
-Can't go shopping now
+Can't go shopping now.
 
-498
+495
 00:27:25,360 --> 00:27:26,720
 Let's make do with it.
 
-499
+496
 00:27:27,280 --> 00:27:27,920
-LaoYue
+Yue.
 
-500
+497
 00:27:28,640 --> 00:27:29,200
-Later
+Later.
 
-501
+498
 00:27:29,440 --> 00:27:31,360
-You have to ask those petitioners at the door to leave
+You have to ask those petitioners at the door to leave.
 
-502
+499
 00:27:31,680 --> 00:27:32,640
 Otherwise, we can't get out.
 
-503
+500
 00:27:33,040 --> 00:27:34,000
-That'd be impossible
+That'd be impossible.
 
-504
+501
 00:27:34,160 --> 00:27:34,960
-Just today
+Just today,
 
-505
+502
 00:27:35,040 --> 00:27:36,640
-I met with 16  groups of Chinese representatives
+I met with sixteen groups of Chinese representatives.
 
-506
+503
 00:27:37,600 --> 00:27:38,880
 Those people around the hotel now?
 
-507
+504
 00:27:39,040 --> 00:27:40,080
-It will only be more of them coming
+It will only be more of them coming.
+
+505
+00:27:41,840 --> 00:27:42,640
+What shall we do then?
+
+506
+00:27:43,680 --> 00:27:45,600
+I asked the hotel for a car.
+
+507
+00:27:45,920 --> 00:27:47,440
+Only three people can get in except the driver.
 
 508
-00:27:41,840 --> 00:27:42,640
-what shall we do then
+00:27:47,840 --> 00:27:50,240
+It's parked in a garage facing the street in the backyard.
 
 509
-00:27:43,680 --> 00:27:45,600
-I asked the hotel for a car
+00:27:50,880 --> 00:27:51,760
+Quiet area.
 
 510
-00:27:45,920 --> 00:27:47,440
-Only three people can get in except the driver
+00:27:51,920 --> 00:27:53,360
+Few people there, it's safe.
 
 511
-00:27:47,840 --> 00:27:50,240
-It's parked in a garage facing the street in the backyard
+00:27:54,320 --> 00:27:55,040
+So be it.
 
 512
-00:27:50,880 --> 00:27:51,760
-Quiet area
+00:27:55,600 --> 00:27:57,040
+Shaochuan. Shaochuan.
 
 513
-00:27:51,920 --> 00:27:53,360
-Few people there, it's safe
+00:27:57,760 --> 00:27:59,120
+I can't live without your stinky tofu now.
 
 514
-00:27:54,320 --> 00:27:55,040
-So be it
+00:28:07,440 --> 00:28:08,080
+Chief Lu.
 
 515
-00:27:55,600 --> 00:27:57,040
-Shaochuan Shaochuan
+00:28:15,360 --> 00:28:16,320
+Everyone.
 
 516
-00:27:57,760 --> 00:27:59,120
-I can't live without your stinky tofu now
+00:28:17,600 --> 00:28:18,400
+Everyone. Everyone.
 
 517
-00:28:07,440 --> 00:28:08,080
-General Lu
+00:28:19,600 --> 00:28:22,160
+The Chinese delegation's compromise plan to U.S. President Wilson,
 
 518
-00:28:15,360 --> 00:28:16,320
-Everyone
+00:28:22,560 --> 00:28:23,040
+U.K. Prime Minister
 
 519
-00:28:17,600 --> 00:28:18,400
-Everybody!
+00:28:23,120 --> 00:28:23,920
+Lloyd George,
 
 520
-00:28:19,600 --> 00:28:22,160
-Chinese delegation to President Wilson of the United States
+00:28:24,240 --> 00:28:26,640
+and French Prime Minister Clemenceau
 
 521
-00:28:22,560 --> 00:28:23,040
-Prime Minister of the UK
+00:28:26,720 --> 00:28:27,600
+has been printed.
 
 522
-00:28:23,120 --> 00:28:23,920
-Lloyd George
+00:28:28,080 --> 00:28:29,120
+Come, take a look.
 
 523
-00:28:24,240 --> 00:28:26,640
-And French Prime Minister Clemenceau's compromise plan
+00:28:35,440 --> 00:28:38,320
+We did this with the name of traitor on our heads.
 
 524
-00:28:26,720 --> 00:28:27,600
-It's already printed
+00:28:38,720 --> 00:28:41,200
+Four compromise schemes, every detail checked and discussed.
 
 525
-00:28:28,080 --> 00:28:29,120
-Come, take a look
+00:28:41,840 --> 00:28:43,600
+If there is no second opinion,
 
 526
-00:28:35,440 --> 00:28:38,320
-We did this with the name of traitor on our head
+00:28:44,160 --> 00:28:45,600
+myself, with Shaochuan and Rutang,
 
 527
-00:28:38,720 --> 00:28:41,200
-Four compromise schemes, every detail checked and discussed
-
-528
-00:28:41,840 --> 00:28:43,600
-If there is no second opinion
-
-529
-00:28:44,160 --> 00:28:45,600
-Myself, with Shaochuan and Rutang
-
-530
 00:28:45,840 --> 00:28:47,520
 will visit the heads of the three countries one by one
 
-531
+528
 00:28:47,840 --> 00:28:49,920
-try to win their sympathy and support
+and try to win their sympathy and support.
+
+529
+00:28:50,560 --> 00:28:54,400
+If this scheme can't be accepted,
+
+530
+00:28:56,240 --> 00:28:57,520
+then I'm afraid,
+
+531
+00:29:01,280 --> 00:29:02,080
+we can only wait for death.
 
 532
-00:28:50,560 --> 00:28:54,400
-If this scheme can't be accepted
+00:29:07,760 --> 00:29:11,520
+Shandong Province is the cradle of Chinese civilization.
 
 533
-00:28:56,240 --> 00:28:57,520
-Then I am afraid
+00:29:08,471 --> 00:29:14,031
+[U.S. Delegation Residence, Paris]
 
 534
-00:29:01,280 --> 00:29:02,080
-We can only wait for the doomsday to come
+00:29:13,600 --> 00:29:16,080
+It is the birthplace of Confucius and Mencius.
 
 535
-00:29:07,760 --> 00:29:11,520
-Shandong Province is the cradle of Chinese civilization
+00:29:17,280 --> 00:29:19,760
+It is a holy place for the Chinese people.
 
 536
-00:29:13,600 --> 00:29:16,080
-It is the birthplace of Confucius and Mencius
+00:29:20,080 --> 00:29:23,040
+We wish you can protect China's interests
 
 537
-00:29:17,280 --> 00:29:19,760
-It is a holy place for Chinese people
+00:29:23,280 --> 00:29:25,040
+by diplomatic means.
 
 538
-00:29:20,080 --> 00:29:23,040
-We hope that through diplomatic means
+00:29:25,600 --> 00:29:26,960
+Please help us.
 
 539
-00:29:23,280 --> 00:29:25,040
-China's interests can be preserved
+00:29:31,920 --> 00:29:32,800
+Good to see you, sir.
 
 540
-00:29:25,600 --> 00:29:26,960
-Please help us
+00:29:33,520 --> 00:29:34,080
+Good to see you.
 
 541
-00:29:31,920 --> 00:29:32,800
-Nice to see you
+00:29:34,160 --> 00:29:34,720
+Me too.
 
 542
-00:29:33,520 --> 00:29:34,080
-A pleasure to meet
+00:29:35,200 --> 00:29:35,760
+Good to see you.
 
 543
-00:29:34,160 --> 00:29:34,320
-me too
+00:29:35,840 --> 00:29:36,400
+Me too.
 
 544
-00:29:34,480 --> 00:29:34,720
-me too
+00:29:37,680 --> 00:29:38,480
+Cabinet Minister Lu,
 
 545
-00:29:35,200 --> 00:29:35,760
-Nice to see you
+00:29:39,440 --> 00:29:41,280
+I've conveyed your messages three times
 
 546
-00:29:35,840 --> 00:29:36,400
-Pleasure is mine
+00:29:41,360 --> 00:29:43,520
+to President Wilson.
 
 547
-00:29:37,680 --> 00:29:38,480
-General Lu
+00:29:43,840 --> 00:29:46,000
+He is not available to meet with you tonight.
 
 548
-00:29:39,440 --> 00:29:41,280
-I have conveyed your message three times
+00:29:46,560 --> 00:29:48,240
+He asked that you leave the files
 
 549
-00:29:41,360 --> 00:29:43,520
-to President Wilson
+00:29:48,640 --> 00:29:49,920
+and he'll read them later.
 
 550
-00:29:43,840 --> 00:29:46,000
-He is not available to meet you tonight
+00:29:55,520 --> 00:29:57,600
+Then please give this to President Wilson.
 
 551
-00:29:46,560 --> 00:29:48,240
-He said that you leave the files
+00:29:58,320 --> 00:29:59,600
+If there is any doubt,
 
 552
-00:29:48,640 --> 00:29:49,920
-and he will read it later
+00:29:59,840 --> 00:30:01,360
+you can call me anytime.
 
 553
-00:29:55,520 --> 00:29:57,600
-Then please give this to President Wilson
+00:30:02,080 --> 00:30:03,360
+Please tell him,
 
 554
-00:29:58,320 --> 00:29:59,600
-If there is any doubt
-
-555
-00:29:59,840 --> 00:30:01,360
-You can call me anytime
-
-556
-00:30:02,080 --> 00:30:03,360
-Please tell him
-
-557
 00:30:03,680 --> 00:30:04,480
 that tonight
 
-558
+555
 00:30:04,720 --> 00:30:07,040
-The three of us will stay by the telephone all night
+the three of us will stay by the telephone all night.
+
+556
+00:30:08,720 --> 00:30:10,880
+I'll pass these along to the President.
+
+557
+00:30:11,440 --> 00:30:12,960
+Sir. I bid you good due.
+
+558
+00:30:13,440 --> 00:30:14,720
+I bid you goodbye, sir.
 
 559
-00:30:08,720 --> 00:30:10,880
-I'll hand it over to the president
+00:30:15,440 --> 00:30:16,320
+And I bid you goodbye.
 
 560
-00:30:11,440 --> 00:30:12,960
-
+00:30:30,640 --> 00:30:32,000
+Sorry, Mr. Lu.
 
 561
-00:30:13,440 --> 00:30:14,720
-Goodbye
+00:30:31,309 --> 00:30:34,509
+[U.K. Delegation Residence, Paris]
 
 562
-00:30:15,440 --> 00:30:16,320
-
+00:30:32,320 --> 00:30:36,320
+I have conveyed your requests three times already.
 
 563
-00:30:30,640 --> 00:30:32,000
-Sorry, General Lu
+00:30:36,800 --> 00:30:37,680
+Unfortunately,
 
 564
-00:30:32,320 --> 00:30:36,320
-I have conveyed your requests three times already
+00:30:37,760 --> 00:30:40,000
+the Prime Minister Lloyd George
 
 565
-00:30:36,800 --> 00:30:37,680
-Unfortunately
+00:30:40,080 --> 00:30:41,520
+cannot see you tonight.
 
 566
-00:30:37,760 --> 00:30:40,000
-Prime Minister Lloyd George
+00:30:42,160 --> 00:30:42,960
+However,
 
 567
-00:30:40,080 --> 00:30:41,520
-cannot see you tonight
+00:30:43,200 --> 00:30:46,000
+he said you can leave the document
 
 568
-00:30:42,160 --> 00:30:42,960
-However
+00:30:46,480 --> 00:30:50,480
+and he will find time to read it carefully.
 
 569
-00:30:43,200 --> 00:30:46,000
-He said you can leave the document
+00:30:52,240 --> 00:30:53,600
+Then please,
 
 570
-00:30:46,480 --> 00:30:50,480
-He will find time to read it carefully
+00:30:54,400 --> 00:30:56,080
+bring it to the Prime Minister.
 
 571
-00:30:52,240 --> 00:30:53,600
-Then please 
+00:30:57,760 --> 00:30:59,440
+No matter what doubts you have,
 
 572
-00:30:54,400 --> 00:30:56,080
-Bring it to Prime Minister 
+00:31:00,000 --> 00:31:01,680
+you can call me anytime.
 
 573
-00:30:57,760 --> 00:30:59,440
-No matter what doubts you have
+00:31:02,240 --> 00:31:03,760
+Please tell him,
 
 574
-00:31:00,000 --> 00:31:01,680
-You can call me anytime
+00:31:04,000 --> 00:31:05,600
+the three of us
 
 575
-00:31:02,240 --> 00:31:03,760
-Please tell him
+00:31:05,840 --> 00:31:07,440
+will stay up all night tonight
 
 576
-00:31:04,000 --> 00:31:05,600
-The three of us
+00:31:07,680 --> 00:31:09,360
+staying by the phone.
 
 577
-00:31:05,840 --> 00:31:07,440
-Will stay up all night tonight
+00:31:13,600 --> 00:31:15,280
+Yes, I understand that
 
 578
-00:31:07,680 --> 00:31:09,360
-Stay by the phone always
+00:31:15,520 --> 00:31:17,120
+I will make sure that the Prime Minister gets the document.
 
 579
-00:31:13,600 --> 00:31:15,280
-Yes, I understand
+00:32:03,120 --> 00:32:04,400
+I'm sorry, Chief Lu.
 
 580
-00:31:15,520 --> 00:31:17,120
-I will make sure that the Prime Minister gets the document
+00:32:04,880 --> 00:32:07,120
+I have conveyed your messages for the third time.
 
 581
-00:32:03,120 --> 00:32:04,400
-General Lu
+00:32:07,440 --> 00:32:08,000
+Regrettably,
 
 582
-00:32:04,880 --> 00:32:07,120
-I have conveyed your messages three times
+00:32:08,080 --> 00:32:10,800
+Prime Minister Clemenceau is not available to meet you tonight.
 
 583
-00:32:07,440 --> 00:32:08,000
-Regrettably
+00:32:11,120 --> 00:32:12,080
+However, he said
 
 584
-00:32:08,080 --> 00:32:10,800
-Prime Minister Clemenceau is not available to meet you tonight
+00:32:12,160 --> 00:32:13,520
+to leave the document here
 
 585
-00:32:11,120 --> 00:32:12,080
-
+00:32:13,680 --> 00:32:15,840
+and he will take the time to read it carefully.
 
 586
-00:32:12,160 --> 00:32:13,520
-He said please leave the document
+00:32:17,120 --> 00:32:18,160
+Then please,
 
 587
-00:32:13,680 --> 00:32:15,840
-He will read it carefully
+00:32:18,400 --> 00:32:20,080
+give it to Prime Minister Clemenceau.
 
 588
-00:32:17,120 --> 00:32:18,160
-Then please
+00:32:20,320 --> 00:32:21,600
+If he has any question at all,
 
 589
-00:32:18,400 --> 00:32:20,080
-Give it to Prime Minister Clemenceau
+00:32:22,080 --> 00:32:23,600
+please call me anytime.
 
 590
-00:32:20,320 --> 00:32:21,600
-If he has any question at all
+00:32:24,400 --> 00:32:25,200
+Please tell him,
 
 591
-00:32:22,080 --> 00:32:23,600
-please call me anytime
-
-592
-00:32:24,400 --> 00:32:25,200
-Please tell him
-
-593
 00:32:25,600 --> 00:32:26,320
 The three of us
 
-594
+592
 00:32:26,400 --> 00:32:29,200
-will stay by the telephone all night tonight
+will stay by the telephone all night tonight.
+
+593
+00:32:30,400 --> 00:32:31,120
+No problem.
+
+594
+00:33:28,000 --> 00:33:29,040
+We've been Paris this long,
 
 595
-00:32:30,400 --> 00:32:31,120
-Rest assured
+00:33:30,000 --> 00:33:31,200
+I still haven't been to the Arc de Triomphe yet.
 
 596
-00:33:28,000 --> 00:33:29,040
-We've been Paris this long
-
-597
-00:33:30,000 --> 00:33:31,200
-I still haven't been to the Arc de Triomphe yet
-
-598
 00:33:36,960 --> 00:33:38,560
 Do you know what this Arc de Triomphe is for?
 
-599
+597
 00:33:41,200 --> 00:33:42,240
-For a state funeral
+For a state funeral.
 
-600
+598
 00:33:43,600 --> 00:33:46,320
 The funerals of Napoleon and Hugo
 
-601
+599
 00:33:47,840 --> 00:33:49,120
-Held there
+held there in those days.
+
+600
+00:33:49,760 --> 00:33:51,520
+I heard that the French have a motion recently,
+
+601
+00:33:52,560 --> 00:33:54,880
+to have a memorial there:
 
 602
-00:33:49,760 --> 00:33:51,520
-I heard that the French have a motion recently
+00:33:56,400 --> 00:33:58,720
+an ever-burning lamp of the unknown soldier who died in the war.
 
 603
-00:33:52,560 --> 00:33:54,880
-To have a memorial here
+00:34:01,120 --> 00:34:03,520
+Brother Zixin, what do you say?
 
 604
-00:33:56,400 --> 00:33:58,720
-The ever-burning lamp of the unknown martyr who died in the European war
-
-605
-00:34:01,120 --> 00:34:03,520
-Mr.Zixin, what do you say
-
-606
 00:34:04,080 --> 00:34:05,040
 Will three of us qualified
 
-607
+605
 00:34:05,520 --> 00:34:06,560
-to have a funeral here
+to have a funeral there?
 
-608
+606
 00:34:09,600 --> 00:34:14,000
 Buried in the ground or scattered into the water?
 
-609
+607
 00:34:15,200 --> 00:34:17,120
-I say cremated should do
+I say cremated should do.
+
+608
+00:34:22,080 --> 00:34:25,360
+Shaochuan, let me ask you something.
+
+609
+00:34:26,080 --> 00:34:28,320
+When you first came to Paris,
 
 610
-00:34:22,080 --> 00:34:25,360
-Shaochuan, let me ask you something
+00:34:29,120 --> 00:34:31,120
+have you ever thought about how you will be welcomed when going back?
 
 611
-00:34:26,080 --> 00:34:28,320
-When you first came to Paris
+00:34:32,000 --> 00:34:33,040
+Brother Zixin,
 
 612
-00:34:29,120 --> 00:34:31,120
-Have you ever thought about how you will be welcomed when going back?
-
-613
-00:34:32,000 --> 00:34:33,040
-Mr.Zixin
-
-614
 00:34:34,080 --> 00:34:37,680
 I once saw it, like a dream
 
-615
+613
 00:34:38,240 --> 00:34:39,440
-that the Qianmenlouzi in Beijing 
+that the Qianmenlouzi in Beijing
+
+614
+00:34:42,400 --> 00:34:43,760
+turned into the Arc de Triomphe.
+
+615
+00:34:44,720 --> 00:34:47,760
+And there is us, walking through.
 
 616
-00:34:42,400 --> 00:34:43,760
-turned into the Arc de Triomphe
+00:34:48,560 --> 00:34:50,000
+People there waiting for us, cheering up for us.
 
 617
-00:34:44,720 --> 00:34:47,760
-And there is us, walking through
+00:34:50,720 --> 00:34:52,240
+Huge crowds of people.
 
 618
-00:34:48,560 --> 00:34:50,000
-People there waiting for us, cheering up for us
+00:34:53,040 --> 00:34:55,360
+The elders, the kids.
 
 619
-00:34:50,720 --> 00:34:52,240
-huge crowds of people
+00:34:57,200 --> 00:34:59,520
+People singing and dancing.
 
 620
-00:34:53,040 --> 00:34:55,360
-The elders, the kids
+00:35:00,400 --> 00:35:02,720
+You can hear them shouting out our names.
 
 621
-00:34:57,200 --> 00:34:58,000
-
-
-622
-00:34:58,080 --> 00:34:59,520
-People singing and dancing
-
-623
-00:35:00,400 --> 00:35:02,720
-You can hear them shouting out our names
-
-624
 00:35:03,680 --> 00:35:07,840
 Lu Zhengxiang! Gu Weijun! Wang Zhengting!
 
-625
+622
 00:35:09,040 --> 00:35:11,440
-The drums and the gongs, the fircrackers and laughters
+The drums and the gongs, the fircrackers and laughters.
+
+623
+00:35:16,080 --> 00:35:17,200
+That's not all.
+
+624
+00:35:18,000 --> 00:35:19,040
+From the crowd,
+
+625
+00:35:20,320 --> 00:35:21,680
+a little boy running towards me.
 
 626
-00:35:16,080 --> 00:35:17,200
-That's not all
+00:35:22,080 --> 00:35:24,160
+He lit a firecracker.
 
 627
-00:35:18,000 --> 00:35:19,040
-From the crowd
+00:35:25,360 --> 00:35:26,320
+A huge one.
 
 628
-00:35:20,320 --> 00:35:21,680
-A little boy running towards me
+00:35:27,120 --> 00:35:28,800
+The bang sound from that one can go on forever.
 
 629
-00:35:22,080 --> 00:35:24,160
-He lit a firecracker
+00:35:28,960 --> 00:35:30,240
+He threw it close to my feet.
 
 630
-00:35:25,360 --> 00:35:26,320
-A huge one
+00:35:30,480 --> 00:35:32,000
+It exploded at such close distance.
 
 631
-00:35:27,120 --> 00:35:28,800
-The bang sound from that one can go on forever
+00:35:32,240 --> 00:35:33,840
+I jumped, trying to avoid it.
 
 632
-00:35:28,960 --> 00:35:30,240
-He threw it close to my feet
+00:35:34,320 --> 00:35:36,000
+Bam, bam, bam!
 
 633
-00:35:30,480 --> 00:35:32,000
-It exploded at such close distance
+00:35:36,480 --> 00:35:39,040
+But I couldn't.
 
 634
-00:35:32,240 --> 00:35:33,840
-I jumped, trying to avoid it
+00:35:40,000 --> 00:35:40,880
+It hurt, a lot.
 
 635
-00:35:34,320 --> 00:35:36,000
-
-
-636
-00:35:36,480 --> 00:35:39,040
-But I couldn't
-
-637
-00:35:40,000 --> 00:35:40,880
-It hurt, a lot
-
-638
 00:35:45,120 --> 00:35:46,480
 Then I woke up.
 
-639
+636
 00:35:48,560 --> 00:35:50,000
-I was there, half awaken for a while
+I was there, half awaken for a while.
+
+637
+00:35:52,240 --> 00:35:53,600
+Finally, realized it's no more than a dream.
+
+638
+00:36:02,320 --> 00:36:03,120
+You two.
+
+639
+00:36:09,120 --> 00:36:10,000
+It's all my fault.
 
 640
-00:35:52,240 --> 00:35:53,600
-Finally, realized it's no more than a dream
-
-641
-00:36:02,320 --> 00:36:03,120
-You two
-
-642
-00:36:09,120 --> 00:36:10,000
-It's all my fault
-
-643
 00:36:13,840 --> 00:36:15,760
 I got you into trouble.
 
-644
+641
 00:36:18,640 --> 00:36:19,600
-it is me.
+It's me.
 
-645
+642
 00:36:26,160 --> 00:36:28,000
 I took your Arc de Triomphe
 
-646
+643
 00:36:31,840 --> 00:36:34,000
-turned it to a pillar of shame
+and turned it to a pillar of shame.
+
+644
+00:36:39,280 --> 00:36:40,320
+I'm sorry.
+
+645
+00:36:41,600 --> 00:36:42,400
+I'm sorry.
+
+646
+00:36:44,400 --> 00:36:46,800
+So sorry.
 
 647
-00:36:39,280 --> 00:36:40,320
-I'm sorry
+00:38:10,480 --> 00:38:12,880
+On April 30th, 1919,
 
 648
-00:36:41,600 --> 00:36:42,400
-I'm sorry
+00:38:14,240 --> 00:38:17,120
+the United States, the United Kingdom and France held a trilateral meeting in Paris.
 
 649
-00:36:44,400 --> 00:36:46,800
-So sorry
-
-650
-00:38:10,480 --> 00:38:12,880
-April 30th, 1919
-
-651
-00:38:14,240 --> 00:38:17,120
-U.S., Britain and France hold trilateral meeting in Paris.
-
-652
 00:38:18,160 --> 00:38:20,000
 Japanese representatives were invited to attend.
 
-653
+650
 00:38:20,960 --> 00:38:22,880
 This meeting set the final terms for
 
-654
+651
 00:38:23,120 --> 00:38:25,040
-Provisions on the ShanDong issue discussed on the Paris Peace Conference
+the provisions on the Shandong issue discussed on the Paris Peace Conference.
+
+652
+00:38:25,600 --> 00:38:28,320
+The three great powers finally made a decision.
+
+653
+00:38:29,120 --> 00:38:32,240
+They agreed that all the rights and interests of Germany in Shandong
+
+654
+00:38:32,720 --> 00:38:34,000
+will be transfered to Japan.
 
 655
-00:38:25,600 --> 00:38:28,320
-The three great power finally made a decision
+00:38:37,600 --> 00:38:38,480
+China,
 
 656
-00:38:29,120 --> 00:38:31,200
-Agreed that all the rights and interests of Germany in Shandong
+00:38:41,040 --> 00:38:43,040
+a victorious country,
 
 657
-00:38:31,360 --> 00:38:32,240
-
+00:38:45,520 --> 00:38:47,120
+and all we got is a treaty like this?
 
 658
-00:38:32,720 --> 00:38:34,000
-will be transfered to Japan
-
-659
-00:38:37,600 --> 00:38:38,480
-China
-
-660
-00:38:41,040 --> 00:38:43,040
-We are the ones that won this war
-
-661
-00:38:45,520 --> 00:38:47,120
-And all we got is a treaty like this?
-
-662
 00:38:47,920 --> 00:38:50,480
 A treaty that disgraces the country?
 
-663
+659
 00:38:55,760 --> 00:38:57,280
-This is a disgrace to mankind
+This is a disgrace to mankind.
 
-664
+660
 00:38:58,480 --> 00:39:00,720
-It is an unprecedented shame
+It is an unprecedented shame.
 
-665
+661
 00:39:02,400 --> 00:39:03,680
 Our Chinese government
 
-666
+662
 00:39:04,480 --> 00:39:05,840
 refuse to accept this.
 
-667
+663
 00:39:06,960 --> 00:39:08,400
-This shameful peace treaty
+This shameful peace treaty.
 
-668
+664
 00:39:53,760 --> 00:39:54,880
 I'm Wang Daxie.
 
-669
+665
 00:39:55,440 --> 00:39:59,280
-We lost ShanDong
+We lost Shandong.
 
-670
+666
+00:39:59,482 --> 00:40:03,668
+[Wang Daxie, styled Botang, Chairman of the Foreign Affairs Committee of the Republic of China]
+
+667
 00:39:59,920 --> 00:40:00,400
-Chen lu
+Chen Lu.
 
-671
+668
 00:40:01,680 --> 00:40:03,200
 You are the acting foreign minister.
 
-672
+669
 00:40:03,280 --> 00:40:04,640
-Are you gonna just cry at time like this?
+Are you gonna just cry at a time like this?
 
-673
+670
 00:40:04,880 --> 00:40:05,920
 What the hell happened?
 
-674
+671
 00:40:06,240 --> 00:40:07,200
 Make it clear to me.
 
-675
+672
 00:40:07,520 --> 00:40:08,720
 Shandong is lost.
 
-676
+673
 00:40:08,960 --> 00:40:12,160
 We lost. We lost completely.
 
-677
+674
 00:40:16,400 --> 00:40:19,200
-We became the one lost now 
+We became the ones lost now.
 
-678
+675
 00:40:21,360 --> 00:40:26,400
-You and I, we will never be able to face our people again
+You and I, will never be able to face our people again.
