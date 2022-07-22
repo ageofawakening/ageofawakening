@@ -12,79 +12,79 @@ Please be quiet.
 
 4
 00:00:08,480 --> 00:00:09,440
-Quiet please
+Quiet please.
 
 5
 00:00:10,720 --> 00:00:11,360
-Mr Cai has arrived.
+Mr. Cai has arrived.
 
 6
+00:00:24,791 --> 00:00:26,710
+[Cai Yuanpei, styled Jiemin, President of Peking University]
+
+7
 00:00:40,720 --> 00:00:42,960
 Mr. Cai, and fellow classmates.
 
-7
-00:00:43,040 --> 00:00:44,080
-This parade on the streets today.
-
 8
-00:00:44,400 --> 00:00:46,560
-It was the collective decision of all of us.
+00:00:43,040 --> 00:00:44,080
+This demonstration on the streets today
 
 9
+00:00:44,400 --> 00:00:46,560
+was the collective decision of all of us.
+
+10
+00:00:46,835 --> 00:00:48,523
+[Li Dazhao, styled Shouchang, Director of Peking University Library]
+
+11
 00:00:46,880 --> 00:00:47,840
 We cannot
 
-10
-00:00:48,240 --> 00:00:49,920
-leave the arrested 32 classmates to face the outcome
-
-11
-00:00:50,160 --> 00:00:50,800
-
-
 12
+00:00:48,240 --> 00:00:49,920
+leave the arrested 32 classmates
+
+13
+00:00:50,160 --> 00:00:50,800
+to face the consequences.
+
+14
 00:00:51,040 --> 00:00:51,840
 I propose
 
-13
+15
 00:00:52,000 --> 00:00:53,600
 all the students in Peking University
 
-14
-00:00:53,920 --> 00:00:54,800
-We unite
-
-15
-00:00:54,880 --> 00:00:54,880
-
-
 16
-00:00:55,200 --> 00:00:57,200
-We go turn ourselves in at the door of the army commander together.
+00:00:53,920 --> 00:00:54,880
+must unite.
 
 17
+00:00:55,200 --> 00:00:57,200
+We go turn ourselves in to the Nine Gates Infantry Commander together.
+
+18
 00:00:57,600 --> 00:00:58,080
 We go to jail together.
 
-18
+19
 00:00:58,560 --> 00:01:01,520
 We pledge to defend our arrested classmates to the death together.
 
-19
-00:01:02,080 --> 00:01:04,160
-We live and die with the arressted students!
-
 20
-00:01:04,480 --> 00:01:04,480
-
+00:01:02,080 --> 00:01:04,160
+We live and die with the arrested students!
 
 21
 00:01:04,560 --> 00:01:06,480
-We live and die with the arressted students!
+We live and die with the arrested students!
 
 22
 00:01:07,280 --> 00:01:09,120
-We live and die with the arressted students!
+We live and die with the arrested students!
 
 23
 00:01:10,240 --> 00:01:11,360
@@ -92,7 +92,7 @@ Everyone, quiet please.
 
 24
 00:01:12,480 --> 00:01:13,600
-Let's listen to what Mr Cai has to say.
+Let's listen to what Mr. Cai has to say.
 
 25
 00:01:19,600 --> 00:01:21,120
@@ -100,7 +100,7 @@ I want to tell you.
 
 26
 00:01:21,680 --> 00:01:23,680
-That more intense the situation we are facing with,
+The more intense the situation we are facing with,
 
 27
 00:01:24,240 --> 00:01:26,000
@@ -128,7 +128,7 @@ We will not do what mobs do.
 
 33
 00:01:36,880 --> 00:01:38,320
-Me, Cai Yuanpei fully support
+I, Cai Yuanpei, fully support
 
 34
 00:01:38,560 --> 00:01:40,160
@@ -155,8 +155,8 @@ Heartbroken.
 I am the principal, I should take the fall for this.
 
 40
-00:01:53,640 --> 00:01:55,120
-Take the blame and resign
+00:01:53,600 --> 00:01:55,120
+I should take the blame and resign.
 
 41
 00:01:55,760 --> 00:01:58,800
@@ -164,11 +164,11 @@ But the most urgent thing now
 
 42
 00:01:59,040 --> 00:02:00,640
-Is to do everything possible,
+is to do everything possible
 
 43
 00:02:01,280 --> 00:02:04,480
-To rescue the arrested 32 students.
+to rescue the arrested 32 students.
 
 44
 00:02:04,800 --> 00:02:07,440
@@ -184,7 +184,7 @@ The arrested students
 
 47
 00:02:12,000 --> 00:02:14,080
-Has been transferred to the metropolitan police department.
+has been transferred to the metropolitan police department.
 
 48
 00:02:14,560 --> 00:02:17,120
@@ -196,11 +196,11 @@ But I have made up my mind.
 
 50
 00:02:19,520 --> 00:02:21,280
-I am to go to the Metropolitan Police Department in person.
+I am to go to the Metropolitan Police Department in person
 
 51
 00:02:21,680 --> 00:02:23,520
-Go to police chief Wu Bingxiang.
+and meet Police Chief Wu Bingxiang.
 
 52
 00:02:23,680 --> 00:02:24,720
@@ -220,15 +220,15 @@ So here, I ask my fellow students to be patient.
 
 56
 00:02:34,400 --> 00:02:35,600
-Don't go out.
+Do not go out.
 
 57
 00:02:36,080 --> 00:02:37,360
-I will update with you all. 
+I will update with you all.
 
 58
 00:02:38,720 --> 00:02:40,000
-Can everyone do it?
+Can everyone do that?
 
 59
 00:02:40,240 --> 00:02:41,280
@@ -240,15 +240,15 @@ Students.
 
 61
 00:02:48,640 --> 00:02:49,920
-What Mr. Cai said just now
+What Mr. Cai said just now,
 
 62
 00:02:50,640 --> 00:02:51,760
-Is everyone listening?
+did everyone listen?
 
 63
 00:02:52,480 --> 00:02:53,840
-We all want to be 
+We all want to be
 
 64
 00:02:54,000 --> 00:02:55,200
@@ -284,7 +284,7 @@ Peking University is to be locked down.
 
 72
 00:03:15,520 --> 00:03:16,560
-Replace the principal of Peking University
+Replace the principal of Peking University.
 
 73
 00:03:17,200 --> 00:03:18,800
@@ -292,307 +292,307 @@ The arrested students are to be punished severely.
 
 74
 00:03:19,280 --> 00:03:21,280
-Wu Bingxiang, director of the Metropolitan Police Department.
+Wu Bingxiang, director of the Metropolitan Police Department
 
 75
 00:03:21,920 --> 00:03:24,240
-Put forward the plan for dealing with the arrested students.
+has put forward the plan for dealing with the arrested students.
 
 76
 00:03:25,040 --> 00:03:27,520
-Wu Bingxiang, Chen Zhuan amd Fu Zengxiang
+Wu Bingxiang, Chen Zhuan and Fu Zengxiang
 
 77
 00:03:28,000 --> 00:03:29,760
-The three is responsible for stopping the National Convention
+will be responsible for stopping the National Convention
 
 78
 00:03:30,000 --> 00:03:31,760
-held in Central Park on May 7th.
+held at Central Park on May 7th.
 
 79
 00:03:32,400 --> 00:03:33,360
-Ministry of Education
+The Ministry of Education
 
 80
 00:03:33,440 --> 00:03:35,200
-Responsible for restoring school order.
+will responsible for restoring school order.
 
 81
 00:03:36,160 --> 00:03:37,520
-This meeting is over.
+Meeting adjourned.
 
 82
 00:03:37,840 --> 00:03:38,400
-Dismiss.
+Dismissed.
 
 83
-00:04:03,760 --> 00:04:06,240
-Brother XiCheng, I resign.
+00:03:57,521 --> 00:03:59,949
+[Qian Nengxun, styled Xicheng, Premier of the Beiyang Government]
 
 84
+00:04:03,760 --> 00:04:06,240
+Brother Xicheng, I resign.
+
+85
 00:04:08,480 --> 00:04:09,680
 I can't carry on
 
-85
+86
 00:04:09,760 --> 00:04:11,360
 doing this job anymore.
 
-86
-00:04:13,840 --> 00:04:16,600
-YuanShu, this is not like you.
-
 87
-00:04:17,560 --> 00:04:20,000
-You don't quit when a national disaster coming close.
+00:04:13,840 --> 00:04:17,600
+Yuanshu, this is not like you.
 
 88
+00:04:18,560 --> 00:04:20,000
+You don't quit when a national disaster coming close.
+
+89
 00:04:20,640 --> 00:04:21,600
 Stay?
 
-89
+90
 00:04:23,200 --> 00:04:25,360
 What good can I do staying?
 
-90
-00:04:26,400 --> 00:04:30,320
-The student parade was driven by their patriotism.
-
 91
+00:04:26,400 --> 00:04:30,320
+The student demonstration was driven by their patriotism.
+
+92
 00:04:30,800 --> 00:04:33,520
 Any sensible person can see it.
 
-92
+93
 00:04:34,160 --> 00:04:35,760
 You arrested so many students.
 
-93
+94
 00:04:36,240 --> 00:04:38,960
 You also want to lock down Peking University and replace Cai Heqing.
 
-94
+95
 00:04:39,280 --> 00:04:41,680
 This will not only discourage students.
 
-95
-00:04:42,080 --> 00:04:44,080
-Instead, it will add fuel to the fire
-
 96
+00:04:42,080 --> 00:04:44,080
+Instead, it will add fuel to the fire.
+
+97
 00:04:44,880 --> 00:04:47,120
 It is bound to lead to greater chaos.
 
-97
+98
 00:04:47,680 --> 00:04:50,400
 I am not drowning with you.
 
-98
-00:04:53,120 --> 00:04:54,800
-YuanShu, come.
-
 99
-00:04:54,880 --> 00:04:54,880
-
+00:04:53,120 --> 00:04:56,480
+Yuanshu, come.
 
 100
-00:04:54,960 --> 00:04:56,480
-
+00:04:57,280 --> 00:04:57,920
+Come on.
 
 101
-00:04:57,280 --> 00:04:57,920
-Come on
-
-102
 00:05:02,320 --> 00:05:04,000
 You really don't understand my mind?
 
-103
+102
 00:05:06,080 --> 00:05:07,840
 I have the same opinion as yours.
 
-104
+103
 00:05:08,880 --> 00:05:11,520
 But can you go against Duan Qirui's will?
 
-105
+104
 00:05:12,560 --> 00:05:13,840
-Students burnt down Zhao Jialou.
+Students burnt down Zhaojialou
+
+105
+00:05:14,240 --> 00:05:15,360
+and wounded Zhang Zongxiang.
 
 106
-00:05:14,240 --> 00:05:15,360
-Wounded Zhang Zongxiang.
+00:05:15,760 --> 00:05:18,320
+Xu Shuzheng threatened to set up a cannon at Jingshan.
 
 107
-00:05:15,760 --> 00:05:18,320
-Xu Shuzheng threatened to set up a cannon on moutain Jing.
-
-108
 00:05:18,400 --> 00:05:19,520
 He wants to erase Peking University once for all.
 
-109
+108
 00:05:20,240 --> 00:05:21,360
-Under this circumstance,
+Under these circumstances,
 
-110
+109
 00:05:22,080 --> 00:05:23,680
 some actions are necessary
 
-111
+110
 00:05:24,960 --> 00:05:26,240
 so that everyone will agree to take a step back.
 
-112
+111
 00:05:27,920 --> 00:05:29,360
 You want to replace Cai Yuanpei.
 
-113
+112
 00:05:30,000 --> 00:05:31,920
-Who will be that replacement ?
+Who will be that replacement?
 
-114
+113
 00:05:32,560 --> 00:05:33,920
 Duan Qirui nominated Ma Qichang.
 
-115
+114
 00:05:34,640 --> 00:05:35,920
 I beat about the bush.
 
-116
+115
 00:05:37,680 --> 00:05:39,040
 Let's make a gesture first.
 
-117
+116
 00:05:40,080 --> 00:05:41,600
 Wait for things to calm down.
 
-118
+117
 00:05:42,080 --> 00:05:43,440
-The Peking University now,
+With Peking University now,
+
+118
+00:05:44,160 --> 00:05:45,520
+I think no one except Cai Yuanpei
 
 119
-00:05:44,160 --> 00:05:45,520
-I think except Cai Yuanpei,
+00:05:45,920 --> 00:05:46,960
+can have it under control.
 
 120
-00:05:45,920 --> 00:05:46,960
-no one can have it under control.
+00:05:48,000 --> 00:05:49,280
+The real question here is
 
 121
-00:05:48,000 --> 00:05:49,280
-The real question here is,
-
-122
 00:05:49,840 --> 00:05:52,160
 the police arrested dozens of students.
 
-123
+122
 00:05:52,640 --> 00:05:54,160
 That's the tricky part.
 
-124
+123
 00:05:55,360 --> 00:05:59,120
 If they don't let the students go or something goes wrong,
 
-125
+124
 00:05:59,920 --> 00:06:01,360
 it will be a big deal.
 
-126
+125
 00:06:02,160 --> 00:06:04,000
 We can't afford that happening.
 
-127
+126
 00:06:05,680 --> 00:06:07,040
 Student affairs is very difficult.
 
-128
+127
 00:06:08,880 --> 00:06:11,040
-The AnFu people unanimously demanded severe punishment.
+The Anfu Club unanimously demanded severe punishment.
 
-129
+128
 00:06:11,680 --> 00:06:13,520
 Only Wu Bingxiang is smart on this incident.
 
-130
+129
 00:06:13,920 --> 00:06:15,440
 He intends to make use of these students,
 
-131
+130
 00:06:15,840 --> 00:06:17,120
 so that he can have Cai Yuanpei under his thumb
 
-132
+131
 00:06:17,520 --> 00:06:19,120
 and break down the student union.
 
-133
+132
 00:06:19,840 --> 00:06:22,320
 He asked for my full cooperation too.
 
-134
+133
 00:06:22,800 --> 00:06:24,000
 But Wu Bingxiang
 
-135
+134
 00:06:25,200 --> 00:06:27,360
-he is Duan Qirui's loyal clique!
+is Duan Qirui's loyal clique.
 
-136
+135
 00:06:27,840 --> 00:06:29,200
 Can you really trust him?
 
-137
+136
 00:06:31,680 --> 00:06:33,120
 It is his duty after all.
 
-138
+137
 00:06:34,080 --> 00:06:35,680
 To maintain public order in the capital,
 
-139
+138
 00:06:36,080 --> 00:06:37,280
 you can't offend the students.
 
-140
+139
 00:06:38,240 --> 00:06:39,360
 If this matter gets out of hand,
 
-141
+140
 00:06:39,840 --> 00:06:42,240
 he is the first to be held accountable.
 
-142
+141
 00:06:43,360 --> 00:06:44,400
 I say
 
-143
+142
 00:06:45,680 --> 00:06:47,440
-situation is hanging by a thread.
+the situation is hanging by a thread.
 
-144
+143
 00:06:48,000 --> 00:06:49,760
 It's like walking a tightrope.
 
-145
+144
 00:06:52,560 --> 00:06:53,520
 We just do what we can.
 
-146
+145
 00:06:54,160 --> 00:06:55,200
-Worst case scenario
+In the worst case scenario,
 
-147
+146
 00:06:55,600 --> 00:06:56,720
 I resign with you.
 
-148
+147
 00:07:04,080 --> 00:07:05,120
-These students
+These students,
+
+148
+00:07:05,440 --> 00:07:07,920
+all they do is causing troubles and making a fuss.
 
 149
-00:07:05,440 --> 00:07:07,920
-All they do is causing troubles and making fuss.
+00:07:06,090 --> 00:07:09,147
+[Li Changtai, Nine Gates Infantry Commander]
 
 150
 00:07:08,400 --> 00:07:10,000
@@ -603,808 +603,808 @@ Arrest them when needed is the only way.
 All you know is arrest.
 
 152
+00:07:10,594 --> 00:07:12,184
+[Wu Bingxiang, Chief of Metropolitan Police]
+
+153
 00:07:12,560 --> 00:07:13,520
 Do you know about anything else?
 
-153
+154
 00:07:14,000 --> 00:07:15,920
 We can't go soft on them.
 
-154
+155
 00:07:16,000 --> 00:07:17,360
 Principal Cai, what do you want?
 
-155
+156
 00:07:17,440 --> 00:07:18,720
 Please don't make it difficult for me.
 
-156
-00:07:18,960 --> 00:07:19,920
-Principal Cai, principal Cai
-
 157
+00:07:18,960 --> 00:07:19,920
+Principal Cai, principal Cai.
+
+158
 00:07:20,240 --> 00:07:21,360
 Don't be like this please.
 
-158
-00:07:21,600 --> 00:07:22,320
-Principal Cai, principal Cai
-
 159
+00:07:21,600 --> 00:07:22,320
+Principal Cai, principal Cai.
+
+160
 00:07:22,480 --> 00:07:23,520
 What are you doing, let him go!
 
-160
-00:07:23,760 --> 00:07:24,400
-Cheif, he
-
 161
+00:07:23,760 --> 00:07:24,400
+Cheif, he-
+
+162
 00:07:25,920 --> 00:07:26,480
 he just broke in.
 
-162
+163
 00:07:27,440 --> 00:07:27,840
 Leave.
 
-163
-00:07:27,920 --> 00:07:28,160
-Yes
-
 164
-00:07:30,480 --> 00:07:31,440
-Cai Yuanpei
+00:07:27,920 --> 00:07:28,160
+Yes.
 
 165
-00:07:32,320 --> 00:07:34,000
-How dare you come here?
+00:07:30,480 --> 00:07:31,440
+Cai Yuanpei.
 
 166
-00:07:38,880 --> 00:07:39,840
-What did you do to manage
+00:07:32,320 --> 00:07:34,000
+How dare you come here.
 
 167
-00:07:39,920 --> 00:07:40,080
-Stop
+00:07:38,880 --> 00:07:39,840
+What did you do to manage-
 
 168
+00:07:39,920 --> 00:07:40,080
+Stop!
+
+169
 00:07:45,680 --> 00:07:49,280
 Principal Cai, what can I do for you?
 
-169
+170
 00:07:50,160 --> 00:07:52,560
 I am here for the 32 students
 
-170
+171
 00:07:53,280 --> 00:07:55,200
 you arrested.
 
-171
-00:07:56,480 --> 00:07:58,400
-I would like to ask the metropolitan police department
-
 172
-00:07:58,640 --> 00:08:00,000
-and army general office
+00:07:56,480 --> 00:07:58,400
+I would like to ask the Chief of Metropolitan Police
 
 173
+00:07:58,640 --> 00:08:00,000
+and the Nine Gates Infantry Commander.
+
+174
 00:08:00,400 --> 00:08:01,600
 Let my students go.
 
-174
+175
 00:08:02,080 --> 00:08:04,800
 I'll take all the responsibility.
 
-175
+176
 00:08:05,120 --> 00:08:06,560
 Release them?
 
-176
+177
 00:08:06,800 --> 00:08:08,800
 I say I should arrest you too!
 
-177
+178
 00:08:09,840 --> 00:08:11,360
 If you let my students go,
 
-178
-00:08:11,760 --> 00:08:12,880
-You can arrest me.
-
 179
+00:08:11,760 --> 00:08:12,880
+you can arrest me.
+
+180
 00:08:13,360 --> 00:08:15,440
 Principal Cai, you are exaggerating.
 
-180
+181
 00:08:16,560 --> 00:08:17,280
 The two of us here
 
-181
-00:08:17,360 --> 00:08:21,120
-we were scolded by President Xu today.
-
 182
-00:08:21,520 --> 00:08:22,480
-Bad mood
+00:08:17,360 --> 00:08:21,120
+were scolded by President Xu today.
 
 183
+00:08:21,520 --> 00:08:22,480
+Bad mood.
+
+184
 00:08:22,720 --> 00:08:23,520
 Don't take it seriously.
 
-184
+185
 00:08:24,080 --> 00:08:26,080
 But what you asked for
 
-185
-00:08:26,480 --> 00:08:27,840
-It's not within our power to decide.
-
 186
+00:08:26,480 --> 00:08:27,840
+is not within our power to decide.
+
+187
 00:08:28,320 --> 00:08:30,160
 We're just running errands here.
 
-187
+188
 00:08:30,320 --> 00:08:33,440
 Unless there is an order from the president, we can't do anything.
 
-188
+189
 00:08:34,080 --> 00:08:36,000
 I understand, Chief Wu.
 
-189
+190
 00:08:36,240 --> 00:08:37,600
 I will go visit the President.
 
-190
+191
 00:08:38,240 --> 00:08:40,560
 And I will not ask too much of you two.
 
-191
+192
 00:08:41,120 --> 00:08:42,400
 Only for tonight,
 
-192
+193
 00:08:42,480 --> 00:08:45,040
 I would like to ask you two to do me a favor.
 
-193
+194
 00:08:45,280 --> 00:08:48,240
 Let me take my students back tonight.
 
-194
+195
 00:08:48,720 --> 00:08:51,600
 I will for sure go visit President Xu tomorrow.
 
-195
+196
 00:08:52,000 --> 00:08:54,400
 I will resign
 
-196
-00:08:55,120 --> 00:08:56,480
-if it's what it cost.
-
 197
-00:08:57,040 --> 00:09:00,400
-You are making a laugh, the principal of Peking University.
+00:08:55,120 --> 00:08:56,480
+if that's what it costs.
 
 198
-00:09:00,800 --> 00:09:02,560
-Are you now treating the law and regulation as a joke?
+00:08:57,040 --> 00:09:00,400
+You are making a laugh, the President of Peking University.
 
 199
+00:09:00,800 --> 00:09:02,560
+Are you now treating the law and regulations as a joke?
+
+200
 00:09:02,960 --> 00:09:04,480
 What a joke.
 
-200
+201
 00:09:04,800 --> 00:09:05,840
 These students of yours,
 
-201
+202
 00:09:06,080 --> 00:09:07,680
 now they are prisoners of the state.
 
-202
+203
 00:09:13,200 --> 00:09:13,840
 Sir,
 
-203
+204
 00:09:15,200 --> 00:09:16,800
 I am Cai Yuanpei, a teacher.
 
-204
+205
 00:09:17,280 --> 00:09:19,120
 Now my students are in trouble.
 
-205
+206
 00:09:19,520 --> 00:09:20,640
 It is my obligation to save them.
 
-206
+207
 00:09:21,040 --> 00:09:22,400
 It is my obligation to care.
 
-207
+208
 00:09:22,800 --> 00:09:25,120
 So I'd like to sincerely ask two of you,
 
-208
+209
 00:09:25,680 --> 00:09:27,760
 do me a favor please.
 
-209
+210
 00:09:28,320 --> 00:09:29,280
 Don't you two have kids?
 
-210
+211
 00:09:29,360 --> 00:09:31,600
 Don't your children go to school to study?
 
-211
+212
 00:09:32,160 --> 00:09:35,600
 General Li said that the students commited crime.
 
-212
+213
 00:09:36,000 --> 00:09:37,280
 I would like to ask
 
-213
+214
 00:09:37,440 --> 00:09:40,560
 did students act for themselves?
 
-214
+215
 00:09:40,880 --> 00:09:42,160
 They did it for they have patriotic hearts.
 
-215
+216
 00:09:42,480 --> 00:09:43,280
 They did it
 
-216
+217
 00:09:43,440 --> 00:09:44,960
 for fighting the unfair Paris Peace Treaty.
 
-217
+218
 00:09:45,200 --> 00:09:46,560
 This unfair Paris peace treaty
 
-218
+219
 00:09:46,800 --> 00:09:48,960
 aroused the anger of every Chinese.
 
-219
+220
 00:09:49,840 --> 00:09:50,800
 You two
 
-220
-00:09:51,040 --> 00:09:53,840
-are public officials in the government of the Republic of China.
-
 221
-00:09:54,160 --> 00:09:55,200
-In your eyes
+00:09:51,040 --> 00:09:53,840
+are public officials of the government of the Republic of China.
 
 222
+00:09:54,160 --> 00:09:55,200
+In your eyes,
+
+223
 00:09:55,600 --> 00:09:59,680
 somehow patriotic students equals to prisoners.
 
-223
-00:10:06,000 --> 00:10:10,160
-JiePing, what Principal Cai just said...
-
 224
+00:10:06,000 --> 00:10:10,160
+Jieping, what Principal Cai just said-
+
+225
 00:10:15,680 --> 00:10:17,920
 Right or wrong is none of my business.
 
-225
-00:10:18,320 --> 00:10:19,200
-Cai Yuanpei
-
 226
+00:10:18,320 --> 00:10:19,200
+Cai Yuanpei.
+
+227
 00:10:19,280 --> 00:10:21,360
 They say you are untouchable.
 
-227
+228
 00:10:21,840 --> 00:10:23,920
 I'm going to teach you a lesson today.
 
-228
+229
 00:10:24,320 --> 00:10:26,320
 Let you know what the rules are.
 
-229
+230
 00:10:26,720 --> 00:10:28,240
 Get him out of here.
 
-230
+231
 00:10:29,280 --> 00:10:31,120
 His students are nothing but trouble makers
 
-231
+232
 00:10:31,360 --> 00:10:32,240
 act against the rule.
 
-232
+233
 00:10:32,320 --> 00:10:33,840
 I will arrest and kill them if needed!
 
-233
+234
 00:10:34,000 --> 00:10:35,280
 Take him away, go take a rest.
 
-234
+235
 00:10:35,360 --> 00:10:36,320
 I am touching you today!
 
-235
+236
 00:10:39,280 --> 00:10:40,640
 Principal Cai, you saw it.
 
-236
+237
 00:10:41,440 --> 00:10:41,840
 Only if
 
-237
+238
 00:10:42,480 --> 00:10:44,400
 there are orders from President Xu.
 
-238
+239
 00:10:44,880 --> 00:10:45,120
 Otherwise,
 
-239
+240
 00:10:46,560 --> 00:10:48,000
 there's really nothing we can do.
 
-240
+241
 00:10:48,800 --> 00:10:49,920
 Let's take it slow.
 
-241
-00:10:50,240 --> 00:10:50,560
-Chief Wu
-
 242
-00:10:50,640 --> 00:10:50,960
-Take it slow
+00:10:50,240 --> 00:10:50,560
+Chief Wu.
 
 243
-00:10:52,960 --> 00:10:53,840
-What's he doing.
+00:10:50,640 --> 00:10:50,960
+Take it slow.
 
 244
-00:10:53,920 --> 00:10:54,960
-Chief Wu
+00:10:52,960 --> 00:10:53,840
+What is he doing...
 
 245
-00:11:01,680 --> 00:11:03,120
-China is Chinese's China.
+00:10:53,920 --> 00:10:54,960
+Chief Wu!
 
 246
+00:11:01,680 --> 00:11:03,120
+China is the Chinese people's China.
+
+247
 00:11:03,840 --> 00:11:05,040
 You are also Chinese.
 
-247
+248
 00:11:05,680 --> 00:11:07,120
 We marched in the streets for China.
 
-248
+249
 00:11:07,360 --> 00:11:10,400
 What's wrong with that?
 
-249
+250
 00:11:14,640 --> 00:11:15,680
 We are trying to make the government
 
-250
+251
 00:11:15,760 --> 00:11:17,040
 refuse to sign the Paris Peace Treaty
 
-251
+252
 00:11:17,520 --> 00:11:18,320
 If Shandong is gone,
 
-252
-00:11:18,880 --> 00:11:20,480
-is China still there?
-
 253
-00:11:20,880 --> 00:11:22,080
-That's right.
+00:11:18,880 --> 00:11:20,480
+will China still be there?
 
 254
-00:11:23,440 --> 00:11:25,440
-Independence or death.
+00:11:20,880 --> 00:11:22,080
+That's right!
 
 255
-00:11:25,680 --> 00:11:27,840
-I would rather die than be independent.
+00:11:23,440 --> 00:11:25,440
+Independence or death!
 
 256
-00:11:28,080 --> 00:11:30,240
-Sovereignty or death.
+00:11:25,680 --> 00:11:27,840
+Independence or death!
 
 257
-00:11:30,560 --> 00:11:32,640
-Sovereignty or death.
+00:11:28,080 --> 00:11:30,240
+Independence or death!
 
 258
+00:11:30,560 --> 00:11:32,640
+Independence or death!
+
+259
 00:11:32,720 --> 00:11:34,400
 Be quiet. This is a prison.
 
-259
+260
 00:11:34,720 --> 00:11:36,000
 No matter who you are out there.
 
-260
+261
 00:11:36,240 --> 00:11:36,720
 In here,
 
-261
-00:11:36,880 --> 00:11:38,080
-You have to follow the rules.
-
 262
+00:11:36,880 --> 00:11:38,080
+you have to follow the rules.
+
+263
 00:11:38,480 --> 00:11:41,360
 Prisoners are not allowed to talk and play with each other.
 
-263
-00:11:41,840 --> 00:11:43,200
-When sleeping
-
 264
-00:11:43,280 --> 00:11:46,560
-Everyone must either look up or turn around
+00:11:41,840 --> 00:11:43,200
+When sleeping,
 
 265
+00:11:43,280 --> 00:11:46,560
+everyone must either look up or turn around
+
+266
 00:11:47,040 --> 00:11:48,080
 every half hour.
 
-266
+267
 00:11:48,320 --> 00:11:50,000
 To prove that the prisoner is still alive.
 
-267
+268
 00:11:50,560 --> 00:11:52,720
 Prisoners can pee in the urinal.
 
-268
+269
 00:11:53,200 --> 00:11:54,960
 For the other one they must hold it in.
 
-269
+270
 00:11:55,200 --> 00:11:56,480
 This is a violation of our human rights.
 
-270
+271
 00:11:58,400 --> 00:11:59,760
 You have to follow the rules here.
 
-271
-00:11:59,840 --> 00:12:01,680
-Wait until noon the next day for free time.
-
 272
-00:12:01,760 --> 00:12:02,560
-
+00:11:59,840 --> 00:12:01,680
+You can wait until tomorrow noon
 
 273
+00:12:01,760 --> 00:12:02,560
+to defecate!
+
+274
 00:12:02,640 --> 00:12:04,000
 You are violating our human rights.
 
-274
-00:12:04,160 --> 00:12:04,880
-I protest.
-
 275
-00:12:05,040 --> 00:12:06,800
-Yes, we protest.
+00:12:04,160 --> 00:12:04,880
+I protest!
 
 276
-00:12:07,440 --> 00:12:10,240
-Protest Protest Protest
+00:12:05,040 --> 00:12:06,800
+Yes, we protest!
 
 277
+00:12:07,440 --> 00:12:10,240
+Protest! Protest! Protest!
+
+278
 00:12:10,560 --> 00:12:11,920
 Protest as you like.
 
-278
+279
 00:12:12,160 --> 00:12:13,840
 But the rules must be enforced.
 
-279
+280
 00:12:14,240 --> 00:12:15,760
 Eat or not, I don't care.
 
-280
+281
 00:12:16,160 --> 00:12:17,360
 You have to obey here.
 
-281
+282
 00:12:17,680 --> 00:12:18,640
 Do you still have humanity?
 
-282
+283
 00:12:18,720 --> 00:12:19,440
 Isn't this bullying?
 
-283
-00:12:20,960 --> 00:12:22,080
-They set fire to it without authorization.
-
 284
-00:12:22,160 --> 00:12:22,720
-Burnt down Zhao Jialou.
+00:12:20,960 --> 00:12:22,080
+They burnt down Zhaojialou
 
 285
-00:12:22,800 --> 00:12:23,760
-Disrupt the plan.
+00:12:22,160 --> 00:12:22,720
+without authorization.
 
 286
+00:12:22,800 --> 00:12:23,760
+They disrupted the plan!
+
+287
 00:12:23,840 --> 00:12:25,360
 Yes, it's their personal behavior.
 
-287
+288
 00:12:25,440 --> 00:12:26,400
 Fu Sinian.
 
-288
-00:12:26,960 --> 00:12:28,000
-I think You must take full responsibility
-
 289
+00:12:26,960 --> 00:12:28,000
+I think you must take full responsibility
+
+290
 00:12:28,160 --> 00:12:29,280
 for what happened today.
 
-290
+291
 00:12:29,520 --> 00:12:31,520
 How can I take full responsibility for this?
 
-291
-00:12:32,000 --> 00:12:33,920
-I didn't agree to go to Zhao Jialou.
-
 292
+00:12:32,000 --> 00:12:33,920
+I didn't agree to go to Zhaojialou.
+
+293
 00:12:34,320 --> 00:12:35,040
 So what?
 
-293
+294
 00:12:35,120 --> 00:12:36,800
 No one listens to me as the commander in chief.
 
-294
+295
 00:12:37,360 --> 00:12:39,200
 Since no one listens to you as the commander in chief.
 
-295
+296
 00:12:39,680 --> 00:12:40,400
 Then I suggest
 
-296
-00:12:40,720 --> 00:12:42,560
-Revoke your assignment as the commander-in-chief.
-
 297
-00:12:42,800 --> 00:12:45,840
-I agree, I agree, I agree
+00:12:40,720 --> 00:12:42,560
+we revoke your assignment as the commander-in-chief!
 
 298
-00:12:46,480 --> 00:12:47,040
-good
+00:12:42,800 --> 00:12:45,840
+I agree, I agree, I agree!
 
 299
-00:12:47,120 --> 00:12:47,120
-
+00:12:46,480 --> 00:12:47,040
+Very well.
 
 300
-00:12:47,520 --> 00:12:47,520
-
+00:12:47,760 --> 00:12:49,440
+I resign as commander-in-chief!
 
 301
-00:12:47,760 --> 00:12:49,440
-I quit.
-
-302
-00:12:50,100 --> 00:12:50,880
+00:12:49,920 --> 00:12:50,880
 Fine by me.
 
-303
+302
 00:12:51,040 --> 00:12:52,480
 Let's re-elect now.
 
-304
+303
 00:12:52,880 --> 00:12:53,840
 Don't go. It's not your fault.
 
-305
+304
 00:12:53,920 --> 00:12:54,800
-Dont say anything.
+Don't say anything.
+
+305
+00:12:55,120 --> 00:12:56,880
+Fellow students, I propose,
 
 306
-00:12:55,120 --> 00:12:56,880
-Fellow students, I propose
+00:12:57,360 --> 00:12:58,320
+in order to strengthen
 
 307
-00:12:57,360 --> 00:12:58,320
-In order to strengthen
+00:12:58,400 --> 00:13:00,080
+the organization and leadership of the student movement
 
 308
-00:12:58,400 --> 00:13:00,080
-organization and leadership of the student movement,
+00:13:00,480 --> 00:13:02,000
+and facilitate the communication between schools in Beijing,
 
 309
-00:13:00,480 --> 00:13:02,000
-facilitate the communication between schools in Beijing.
+00:13:02,400 --> 00:13:03,520
+we shall establish
 
 310
-00:13:02,400 --> 00:13:03,520
-We be establish
-
-311
 00:13:03,760 --> 00:13:05,280
 a Beijing College Student Affairs Association.
 
-312
+311
 00:13:05,600 --> 00:13:07,280
-I agree, I agree, I agree
+I agree, I agree, I agree!
 
-313
+312
 00:13:07,840 --> 00:13:09,840
 Okay, it's an emergency, we skip voting.
 
-314
+313
 00:13:10,320 --> 00:13:12,880
-Deng Zhongxia, Huangrikui, Zhang Guotao
+Deng Zhongxia, Huang Rikui, Zhang Guotao,
+
+314
+00:13:13,200 --> 00:13:14,800
+Kang Baiqing and Chen Baoe,
 
 315
-00:13:13,200 --> 00:13:14,800
-Kang Baiqing and Chen Baoe
+00:13:14,960 --> 00:13:16,000
+these five are the general secretaries.
 
 316
-00:13:14,960 --> 00:13:15,960
-These five are the general secretaries
-
-317
 00:13:16,240 --> 00:13:17,440
 Raise your hand if you agree.
 
-318
+317
 00:13:17,600 --> 00:13:18,800
-Agreed, agreed, agreed
+Agreed, agreed, agreed!
+
+318
+00:13:19,200 --> 00:13:19,680
+All pass.
 
 319
-00:13:19,200 --> 00:13:19,680
-All pass
+00:13:20,000 --> 00:13:21,120
+Let's have a meeting.
 
 320
-00:13:20,000 --> 00:13:21,120
-Let's have a meeting
+00:13:26,240 --> 00:13:27,680
+Here are the eight codes for the association.
 
 321
-00:13:26,240 --> 00:13:27,680
-Here is eight codes for the association.
-
-322
 00:13:27,920 --> 00:13:28,560
 Take a look.
 
-323
+322
 00:13:28,960 --> 00:13:30,160
-Rescue the arrested students.
+One, rescue the arrested students.
+
+323
+00:13:30,240 --> 00:13:32,480
+Students, students, students!
 
 324
-00:13:30,240 --> 00:13:32,480
-Students, students, students
-
-325
 00:13:32,640 --> 00:13:33,440
 Listen to me.
 
-326
+325
 00:13:33,840 --> 00:13:35,920
-Mr Cai's negotiation with Wu Bingxiang is invalid.
+Mr. Cai's negotiation with Wu Bingxiang is invalid.
 
-327
+326
 00:13:36,000 --> 00:13:37,680
 He has returned to school from the metropolitan police department.
 
-328
+327
 00:13:37,920 --> 00:13:39,040
 Now he is on the phone.
 
-329
+328
 00:13:39,200 --> 00:13:40,560
 Contacting principals of various schools in Beijing.
 
-330
+329
 00:13:40,880 --> 00:13:42,160
 Organizing a meeting in Peking University tomorrow.
 
+330
+00:13:41,325 --> 00:13:44,038
+[Luo Zhanglong, Student at Peking University]
+
 331
 00:13:42,240 --> 00:13:44,160
-Work together on the rescue of the arrested ones.
+Working together for the rescue of the arrested students.
 
 332
 00:13:44,400 --> 00:13:44,960
 What should we do?
 
 333
-00:13:48,880 --> 00:13:48,880
-
+00:13:51,680 --> 00:13:52,960
+Jialun, Jialun!
 
 334
-00:13:49,600 --> 00:13:49,600
-
+00:13:53,520 --> 00:13:54,720
+Zhongxia, Zhongxia!
 
 335
-00:13:51,680 --> 00:13:52,960
-Jialun jialun
+00:13:55,360 --> 00:13:56,880
+All the students from normal universities flocked to the school grounds
 
 336
-00:13:53,520 --> 00:13:54,720
-Zhongxia, Zhongxia
-
-337
-00:13:55,360 --> 00:13:56,880
-All the students from normal universities flocked to the playground.
-
-338
 00:13:57,120 --> 00:13:58,080
 calling unanimously for a strike
 
-339
+337
 00:13:58,160 --> 00:13:59,040
 and rescue of the arrested students.
 
-340
+338
+00:13:59,184 --> 00:14:02,504
+[Zhao Shiyan, styled Qinsheng, Student at The High School Affiliated to Beijing Normal University]
+
+339
 00:13:59,360 --> 00:14:00,320
-I suggest Peking University take the lead.
+I suggest Peking University take the lead
+
+340
+00:14:00,400 --> 00:14:01,360
+and contact other higher education institutions in Beijing urgently
 
 341
-00:14:00,400 --> 00:14:01,360
-Contact other tertiary institutions in Beijing urgently.
+00:14:02,000 --> 00:14:02,800
+to implement a general strike.
 
 342
-00:14:02,000 --> 00:14:02,800
-Implement a general strike
-
-343
 00:14:02,960 --> 00:14:03,680
 Okay, add that to the code.
 
-344
+343
 00:14:03,760 --> 00:14:04,720
 Here, add this one.
 
-345
+344
 00:14:04,960 --> 00:14:05,840
 We can't go to classes now.
 
-346
+345
 00:14:07,600 --> 00:14:08,320
 Yes, no problem.
 
-347
+346
 00:14:08,400 --> 00:14:08,880
 Then I will announce it.
 
-348
+347
 00:14:09,040 --> 00:14:10,000
-Okay, announce it
+Okay, announce it.
+
+348
+00:14:11,680 --> 00:14:13,040
+Students, students.
 
 349
-00:14:11,680 --> 00:14:13,040
-Students, students
-
-350
 00:14:13,120 --> 00:14:14,400
 Be quiet and listen to me.
 
-351
+350
 00:14:14,960 --> 00:14:17,200
-Upon urgent consultation by the Student Affairs Council.
+Upon urgent consultation by the Student Affairs Council,
+
+351
+00:14:17,680 --> 00:14:19,760
+please take action at once.
 
 352
-00:14:17,680 --> 00:14:19,760
-Please take action at once.
+00:14:17,828 --> 00:14:19,626
+[Deng Zhongxia, styled Zhongxie, Student at Peking University]
 
 353
 00:14:20,080 --> 00:14:21,680
@@ -1412,7 +1412,7 @@ In the name of the Peking University Student Affairs Council,
 
 354
 00:14:21,920 --> 00:14:23,600
-contacting 14 others tertiary institutions, 
+contacting 14 other higher education institutions,
 
 355
 00:14:23,840 --> 00:14:24,880
@@ -1424,7 +1424,7 @@ A meeting will be held at Peking University at 9 tomorrow morning.
 
 357
 00:14:27,600 --> 00:14:28,720
-We will wor on establishing a student union
+We will work on establishing a student union
 
 358
 00:14:29,200 --> 00:14:31,280
@@ -1432,63 +1432,63 @@ among all 14 schools in Beijing.
 
 359
 00:14:31,600 --> 00:14:32,800
-A students'federation
+A students' federation.
 
 360
 00:14:33,040 --> 00:14:34,800
-We aim to reach a resolution
+We aim to reach a resolution:
 
 361
 00:14:35,360 --> 00:14:37,680
-to rescue the arrested students.
+one, to rescue the arrested students,
 
 362
 00:14:38,080 --> 00:14:39,760
-One, all schools will go on strike
+all schools will go on strike
 
 363
 00:14:40,160 --> 00:14:42,240
-until the arrested students return.
+until the arrested students return;
 
 364
 00:14:42,640 --> 00:14:45,680
-Two, we urge principals to negotiate with the government.
+two, we urge principals to negotiate with the government
 
 365
 00:14:46,080 --> 00:14:47,920
-Bail out the arrested students
+to bail out the arrested students;
 
 366
 00:14:48,400 --> 00:14:50,160
-Three, send joint petition to the government.
+three, send a joint petition to the government
 
 367
 00:14:50,400 --> 00:14:51,840
-Demand the punishment of traitors.
+and demanding the punishment of the traitors
 
 368
 00:14:52,000 --> 00:14:54,160
-Cao Rulin, Lu Zongyu and Zhang Zongxiang
+Cao Rulin, Lu Zongyu, and Zhang Zongxiang;
 
 369
 00:14:54,560 --> 00:14:56,720
-Four, contact our special envoy in Paris.
+four, contact our delegation in Paris
 
 370
 00:14:57,040 --> 00:14:59,440
-Fight to the death for the Qingdao issue.
+to fight to the death for the Qingdao issue
 
 371
 00:14:59,840 --> 00:15:00,720
-Never sign
+and never sign the peace treaty;
 
 372
 00:15:01,440 --> 00:15:04,080
-Five, contact National Education Association Chamber of Commerce and National Business Association
+five, contact National Education Association Chamber of Commerce and National Business Association
 
 373
 00:15:04,640 --> 00:15:05,680
-Call for co-action.
+to call for co-action.
 
 374
 00:15:05,840 --> 00:15:06,800
@@ -1504,11 +1504,11 @@ If there is no objection, please act immediately.
 
 377
 00:15:10,160 --> 00:15:11,440
-Let's go, let's go.
+Let's go, let's go!
 
 378
 00:15:11,520 --> 00:15:12,400
-Action time.
+Go! Go!
 
 379
 00:15:16,240 --> 00:15:18,640
@@ -1520,7 +1520,7 @@ In Japan in 1915, right?
 
 381
 00:15:21,440 --> 00:15:23,920
-Because of your "patriotism and self-awareness"
+Because of your "Patriotism and Self-awareness",
 
 382
 00:15:24,000 --> 00:15:24,720
@@ -1536,11 +1536,11 @@ Yeah, it's for that self-awareness,
 
 385
 00:15:30,240 --> 00:15:31,520
-I went back to China to establish New Youth.
+I went back to China to establish "New Youth".
 
 386
 00:15:32,320 --> 00:15:33,840
-Because I saw your New Youth.
+Because I saw your "New Youth",
 
 387
 00:15:34,720 --> 00:15:35,920
@@ -1552,7 +1552,7 @@ So I joined you.
 
 389
 00:15:38,400 --> 00:15:40,400
-New Youth has been running for almost four years.
+"New Youth" has been running for almost four years.
 
 390
 00:15:40,960 --> 00:15:41,840
@@ -1568,787 +1568,787 @@ I have a hunch that today
 
 393
 00:15:49,120 --> 00:15:51,440
-It will be a big day in Chinese history.
+it will be a big day in Chinese history.
 
 394
-00:15:52,880 --> 00:15:55,440
-It's from today.
+00:15:51,947 --> 00:15:55,912
+[Chen Duxiu, styled Zhongfu, Professor at Peking University]
 
 395
-00:15:57,280 --> 00:15:59,280
-We should not only shout.
+00:15:52,880 --> 00:15:55,440
+Yes. From today,
 
 396
-00:16:00,400 --> 00:16:02,080
-We are to take practical actions.
+00:15:57,280 --> 00:15:59,280
+we should not only disseminate
 
 397
-00:16:04,080 --> 00:16:06,800
-Shouchang, I have a question for you
+00:16:00,400 --> 00:16:02,080
+but also take practical actions.
 
 398
+00:16:04,080 --> 00:16:06,800
+Shouchang, I have a question for you.
+
+399
 00:16:07,520 --> 00:16:08,160
 Go ahead.
 
-399
-00:16:09,040 --> 00:16:10,560
-When I started New Youth
-
 400
+00:16:09,040 --> 00:16:10,560
+When I started "New Youth",
+
+401
 00:16:11,440 --> 00:16:12,560
 I put forward a goal.
 
-401
-00:16:13,280 --> 00:16:15,440
-To find a truth for China
-
 402
+00:16:13,280 --> 00:16:15,440
+To find a truth for China.
+
+403
 00:16:16,080 --> 00:16:17,040
 A path.
 
-403
-00:16:17,600 --> 00:16:18,320
-I want to ask you
-
 404
-00:16:19,120 --> 00:16:20,800
-Do you feel you find it now?
+00:16:17,600 --> 00:16:18,320
+I want to ask you.
 
 405
-00:16:22,240 --> 00:16:23,280
-I think I found it.
+00:16:19,120 --> 00:16:20,800
+Do you feel that you have found it now?
 
 406
-00:16:24,000 --> 00:16:25,200
-Truth is Marxism.
+00:16:22,240 --> 00:16:23,280
+I think I've found it.
 
 407
+00:16:24,000 --> 00:16:25,200
+That truth is Marxism.
+
+408
 00:16:26,000 --> 00:16:27,440
 The path is the Russian October Revolution.
 
-408
+409
 00:16:28,000 --> 00:16:28,720
 Are you sure?
 
-409
-00:16:29,280 --> 00:16:30,480
-In the process of being determined.
-
 410
+00:16:29,280 --> 00:16:30,480
+In the process of being sure.
+
+411
 00:16:31,360 --> 00:16:32,080
 Brother Zhongfu.
 
-411
-00:16:32,240 --> 00:16:33,200
-I recently wrote an article.
-
 412
-00:16:33,280 --> 00:16:34,400
-My View of Marxism
+00:16:32,240 --> 00:16:33,200
+I recently wrote the article
 
 413
-00:16:34,960 --> 00:16:36,080
-I want to publish it in New Youth.
+00:16:33,280 --> 00:16:34,400
+"My View of Marxism".
 
 414
+00:16:34,960 --> 00:16:36,080
+I want to publish it in "New Youth".
+
+415
 00:16:36,480 --> 00:16:37,280
 Are you okay with that?
 
-415
-00:16:37,600 --> 00:16:39,760
-Of course, I started Pay close attention to Marx's works
-
 416
+00:16:37,600 --> 00:16:39,760
+Of course, I started to pay close attention to Marx's works
+
+417
 00:16:40,160 --> 00:16:42,320
 from the second half of last year.
 
-417
-00:16:43,200 --> 00:16:44,240
-First six months in this year
-
 418
-00:16:44,640 --> 00:16:46,720
-Every issue of New Youth published and introduced
+00:16:43,200 --> 00:16:44,240
+In the first six months of this year,
 
 419
-00:16:46,800 --> 00:16:47,840
-Marxist articles
+00:16:44,640 --> 00:16:46,720
+every issue of "New Youth" published and introduced
 
 420
-00:16:48,400 --> 00:16:49,840
-Especially last month's <Weekly Review>.
+00:16:46,800 --> 00:16:47,840
+Marxist articles.
 
 421
-00:16:50,640 --> 00:16:51,520
-Published Marx's
+00:16:48,400 --> 00:16:49,840
+Especially last month's "Weekly Review"
 
 422
-00:16:51,760 --> 00:16:52,800
-Chapter II of the Communist Manifesto.
+00:16:50,640 --> 00:16:51,520
+which published Marx's
 
 423
+00:16:51,760 --> 00:16:52,800
+Chapter II of the "Communist Manifesto".
+
+424
 00:16:53,360 --> 00:16:54,320
 It had a great response.
 
-424
+425
 00:16:54,880 --> 00:16:57,120
 My mind was delightened too.
 
-425
-00:16:57,680 --> 00:16:58,400
-The Communist Manifesto
-
 426
-00:16:58,480 --> 00:17:00,640
-It is a classic work of Marx and Engels.
+00:16:57,680 --> 00:16:58,400
+The "Communist Manifesto"
 
 427
+00:16:58,480 --> 00:17:00,640
+is a classic work of Marx and Engels.
+
+428
 00:17:00,720 --> 00:17:01,920
 Very wonderful and profound.
 
-428
+429
 00:17:02,320 --> 00:17:03,360
 I can recite many paragraphs.
 
-429
-00:17:04,080 --> 00:17:05,040
-To be honest.
-
 430
-00:17:05,440 --> 00:17:07,040
-Although I'm not as sure as you are.
+00:17:04,080 --> 00:17:05,040
+To be honest,
 
 431
-00:17:07,600 --> 00:17:10,000
-But my interest in Marxism
+00:17:05,440 --> 00:17:07,040
+although I'm not as sure as you are,
 
 432
-00:17:10,800 --> 00:17:11,840
-It's getting stronger and stronger
+00:17:07,600 --> 00:17:10,000
+my interest in Marxism
 
 433
-00:17:12,240 --> 00:17:13,600
-As for the October Revolution in Russia.
+00:17:10,800 --> 00:17:11,840
+is getting stronger and stronger.
 
 434
+00:17:12,240 --> 00:17:13,600
+As for the October Revolution in Russia,
+
+435
 00:17:14,080 --> 00:17:15,120
 I feel the same way.
 
-435
+436
 00:17:16,240 --> 00:17:17,280
 I haven't done much research.
 
-436
+437
 00:17:17,600 --> 00:17:18,880
 But I think
 
-437
-00:17:19,280 --> 00:17:20,480
-Compared with Britain, France and America
-
 438
-00:17:21,200 --> 00:17:23,680
-The Russian way might be more suitable for China.
+00:17:19,280 --> 00:17:20,480
+compared to Britain, France, and America,
 
 439
+00:17:21,200 --> 00:17:23,680
+the Russian way might be more suitable for China.
+
+440
 00:17:24,720 --> 00:17:28,480
 Shouchang, I really want to have a chance to have time
 
-440
-00:17:29,200 --> 00:17:31,440
-The two of us carefully and deeply
-
 441
+00:17:29,200 --> 00:17:31,440
+for the two of us to carefully and deeply
+
+442
 00:17:31,520 --> 00:17:32,800
 discuss this problem.
 
-442
+443
 00:17:33,040 --> 00:17:34,480
 I also have a lot of ideas and questions
 
-443
-00:17:34,640 --> 00:17:35,520
-to discuss with you
-
 444
+00:17:34,640 --> 00:17:35,520
+to discuss with you.
+
+445
 00:17:39,600 --> 00:17:41,280
 All the things happened today
 
-445
+446
 00:17:41,840 --> 00:17:42,800
 stimulated me a lot.
 
-446
-00:17:43,360 --> 00:17:44,240
-I'm thinking.
-
 447
-00:17:44,880 --> 00:17:46,080
-Maybe from today.
+00:17:43,360 --> 00:17:44,240
+I'm thinking,
 
 448
-00:17:46,720 --> 00:17:49,040
-We're going to take on a path together.
+00:17:44,880 --> 00:17:46,080
+maybe from today,
 
 449
-00:17:49,600 --> 00:17:51,840
-The road of direct confrontation with the reactionary government
+00:17:46,720 --> 00:17:49,040
+we're going to take on a path together
 
 450
-00:17:53,920 --> 00:17:54,320
-Shouchang
+00:17:49,600 --> 00:17:51,840
+on the road of direct confrontation with the reactionary government.
 
 451
-00:17:55,200 --> 00:17:57,840
-How should we follow this path?
+00:17:53,920 --> 00:17:54,320
+Shouchang,
 
 452
-00:18:00,320 --> 00:18:01,360
-Actually, I've been thinking about it for a long time
+00:17:55,200 --> 00:17:57,840
+how should we follow this path?
 
 453
+00:18:00,320 --> 00:18:01,360
+Actually, I've been thinking about it for a long time.
+
+454
 00:18:02,800 --> 00:18:04,160
 I think what you said is right.
 
-454
+455
 00:18:04,720 --> 00:18:05,680
 We have to let the people
 
-455
+456
 00:18:05,920 --> 00:18:06,960
 come out and solve the problem directly.
 
-456
+457
 00:18:07,600 --> 00:18:08,880
 Students alone can't do it.
 
-457
+458
 00:18:09,360 --> 00:18:11,760
 We must mobilize the masses to fight.
 
-458
+459
 00:18:12,480 --> 00:18:17,920
 Yeah, today was just a trigger.
 
-459
+460
 00:18:19,040 --> 00:18:20,000
 Our mission
 
-460
+461
 00:18:20,320 --> 00:18:22,720
 is to use it to detonate the whole of China.
 
-461
+462
 00:18:23,680 --> 00:18:26,800
 Let all walks of life in the country take action.
 
-462
-00:18:27,040 --> 00:18:28,160
-Get them directly involved.
-
 463
-00:18:28,320 --> 00:18:30,000
-Participate in the fight to transform the whole society.
+00:18:27,040 --> 00:18:28,160
+Get them directly involved
 
 464
+00:18:28,320 --> 00:18:30,000
+and participating in the fight to transform the whole society.
+
+465
 00:18:30,720 --> 00:18:32,800
 Only then, China will have hope.
 
-465
-00:18:33,520 --> 00:18:34,880
-In the past, our <New Youth>
-
 466
-00:18:35,520 --> 00:18:37,280
-only focused on ideological enlightenment.
+00:18:33,520 --> 00:18:34,880
+In the past, our "New Youth"
 
 467
+00:18:35,520 --> 00:18:37,280
+was only focused on ideological enlightenment.
+
+468
 00:18:37,600 --> 00:18:38,960
 Now we have to make it clear that
 
-468
-00:18:39,280 --> 00:18:41,120
-the task of fundamentally transforming society.
-
 469
+00:18:39,280 --> 00:18:41,120
+that task is the fundamental transformation of society.
+
+470
 00:18:41,600 --> 00:18:42,720
 That is our responsibility.
 
-470
-00:18:44,400 --> 00:18:44,560
-good
-
 471
-00:18:45,280 --> 00:18:46,160
-The <weekly review>
+00:18:44,400 --> 00:18:44,560
+Good.
 
 472
-00:18:46,240 --> 00:18:46,880
-and <New Youth>.
+00:18:45,280 --> 00:18:46,160
+The "Weekly Review"
 
 473
-00:18:47,040 --> 00:18:47,600
-Two publications
+00:18:46,240 --> 00:18:46,880
+and "New Youth".
 
 474
+00:18:47,040 --> 00:18:47,600
+These two publications
+
+475
 00:18:47,920 --> 00:18:49,120
 will put out more articles regarding this.
 
-475
+476
 00:18:49,520 --> 00:18:51,040
 We will start tonight.
 
-476
-00:18:52,000 --> 00:18:53,040
-Try to complete tomorrow.
-
 477
-00:18:53,920 --> 00:18:54,800
-Brother Zhongfu
+00:18:52,000 --> 00:18:53,040
+Try to complete them by tomorrow.
 
 478
-00:18:55,680 --> 00:18:57,200
-You remind me of that sentence again.
+00:18:53,920 --> 00:18:54,800
+Brother Zhongfu,
 
 479
+00:18:55,680 --> 00:18:57,200
+you remind me of that sentence again.
+
+480
 00:18:58,000 --> 00:19:01,280
 Let the tempest come strike harder!
 
-480
+481
 00:19:04,080 --> 00:19:04,400
 Let's go.
 
-481
-00:19:12,160 --> 00:19:15,920
-To maintain order and rectify current trend among education insititues.
-
 482
-00:19:16,480 --> 00:19:19,840
-All schools are ordered to strictly investigate
+00:19:12,160 --> 00:19:15,920
+In order to maintain order and rectify the current trend among education institutes,
 
 483
-00:19:20,160 --> 00:19:21,680
-about the Zhao Jialou fire event in May 4th.
+00:19:16,480 --> 00:19:19,840
+all schools are ordered to strictly investigate
 
 484
-00:19:22,240 --> 00:19:23,840
-Students who took the lead in that 
+00:19:20,160 --> 00:19:21,680
+the Zhaojialou fire incident on May 4th.
 
 485
+00:19:22,240 --> 00:19:23,840
+Students who took the lead in that
+
+486
 00:19:24,400 --> 00:19:25,440
 shall be expelled.
 
-486
+487
 00:19:25,840 --> 00:19:26,720
 No place for mercy and negotiation.
 
-487
-00:19:27,680 --> 00:19:28,880
-All schools shall behave accordingly.
-
 488
-00:19:29,120 --> 00:19:29,680
-
+00:19:27,680 --> 00:19:28,880
+All schools shall behave accordingly
 
 489
-00:19:30,080 --> 00:19:32,480
-What do you mean?
+00:19:29,120 --> 00:19:29,680
+to this order.
 
 490
+00:19:30,080 --> 00:19:31,228
+What does this mean?
+
+491
+00:19:31,228 --> 00:19:32,480
+What do you mean?
+
+492
 00:19:40,480 --> 00:19:41,280
 No need to bother.
 
-491
-00:19:41,600 --> 00:19:42,800
-We quit.
-
-492
-00:19:43,200 --> 00:19:44,400
-No more class
-
 493
-00:19:44,480 --> 00:19:46,560
-Strike, strike, strike
+00:19:41,600 --> 00:19:42,800
+We quit!
 
 494
-00:19:46,640 --> 00:19:46,640
-
+00:19:43,200 --> 00:19:44,400
+No more class!
 
 495
-00:19:46,720 --> 00:19:51,600
-Strike, strike, strike
+00:19:44,480 --> 00:19:51,600
+Strike, strike, strike!
 
 496
 00:20:37,200 --> 00:20:37,840
-Gentlemen
+Gentlemen.
 
 497
-00:20:40,560 --> 00:20:40,560
-
+00:20:40,640 --> 00:20:43,600
+Having you all gather here in our metropolitan police department
 
 498
-00:20:40,640 --> 00:20:43,600
-Having you all gather here in our metropolitan police department.
+00:20:43,920 --> 00:20:45,280
+is really a great honor.
 
 499
-00:20:43,920 --> 00:20:45,280
-It's really a great honor.
-
-500
 00:20:46,160 --> 00:20:47,360
 Please come inside, please.
 
-501
+500
 00:21:00,720 --> 00:21:02,320
-What business do you have today, if I may ask.
+What business do you have today, if I may ask?
+
+501
+00:21:02,720 --> 00:21:04,080
+Your honor, Chief Wu,
 
 502
-00:21:02,720 --> 00:21:04,080
-You honor, Chief Wu.
+00:21:04,960 --> 00:21:07,440
+we are principals of major schools in Beijing.
 
 503
-00:21:04,960 --> 00:21:07,440
-We are principals of major schools in Beijing.
-
-504
 00:21:07,760 --> 00:21:10,240
 We're all here for bail today.
 
-505
+504
 00:21:10,720 --> 00:21:13,840
 We came for the thirty-two students who were arrested.
 
-506
+505
 00:21:14,880 --> 00:21:17,360
 Chief Wu, please grant permission.
 
-507
+506
 00:21:22,560 --> 00:21:25,600
 Principal Cai, soon you won't be the principal anymore.
 
-508
+507
 00:21:25,840 --> 00:21:27,680
 Why bother with those students?
 
-509
+508
 00:21:28,960 --> 00:21:30,160
 Principal or not,
 
-510
+509
 00:21:30,240 --> 00:21:31,920
 it doesn't really matter.
 
-511
+510
 00:21:32,320 --> 00:21:33,040
 These students
 
-512
+511
 00:21:33,120 --> 00:21:35,280
-they will always be me, this Cai Yuanpei's student.
+will always be my students.
 
-513
+512
 00:21:36,080 --> 00:21:39,680
 Besides, the behavior of students marching in the streets
 
-514
+513
 00:21:40,000 --> 00:21:42,000
-It's not unreasonable.
+is not unreasonable.
 
-515
+514
 00:21:42,800 --> 00:21:44,640
 They were not looking for trouble.
 
-516
+515
 00:21:45,120 --> 00:21:47,600
 They did it because of the unfair Paris Peace Treaty.
 
-517
+516
 00:21:48,000 --> 00:21:49,440
 They marched for justice.
 
-518
+517
 00:21:50,000 --> 00:21:52,480
 We support their actions.
 
-519
+518
 00:21:52,560 --> 00:21:54,160
 If you want someone to be held accountable for that,
 
-520
+519
 00:21:55,120 --> 00:21:56,960
 then pursue us.
 
-521
+520
 00:21:57,680 --> 00:21:58,480
-Chief Wu
+Chief Wu,
+
+521
+00:21:58,640 --> 00:22:00,080
+unless you release the arrested students,
 
 522
-00:21:58,640 --> 00:22:00,080
-As long as you release the arrested students.
+00:22:00,400 --> 00:22:02,320
+all principals will resign.
 
 523
-00:22:00,400 --> 00:22:02,320
-All principals will resign.
+00:22:02,640 --> 00:22:04,000
+Yes, we'll all resign.
 
 524
-00:22:02,640 --> 00:22:04,000
-Wen all resign.
+00:22:04,240 --> 00:22:04,880
+Yes.
 
 525
-00:22:04,240 --> 00:22:04,880
-Yes
+00:22:05,200 --> 00:22:05,920
+Principal Chen,
 
 526
-00:22:05,200 --> 00:22:05,920
-Principal Chen
+00:22:06,160 --> 00:22:08,480
+it's none of my business whether you resign or not.
 
 527
-00:22:06,160 --> 00:22:08,480
-It's none of my business whether you resign or not.
-
-528
 00:22:08,800 --> 00:22:11,600
 It is not within my power
 
-529
+528
 00:22:11,920 --> 00:22:13,920
 to release the students.
 
-530
+529
 00:22:14,320 --> 00:22:15,760
 I can't give the order.
 
-531
+530
 00:22:16,960 --> 00:22:17,360
 About that,
 
-532
+531
 00:22:17,440 --> 00:22:18,240
 last night,
 
-533
+532
 00:22:18,320 --> 00:22:20,480
-I made it clear to principal Cai.
+I made it clear to Principal Cai.
 
-534
+533
 00:22:20,880 --> 00:22:22,640
 Please, you respected scholars here
 
-535
+534
 00:22:22,960 --> 00:22:24,240
 don't make it difficult for me.
 
-536
+535
 00:22:25,600 --> 00:22:26,160
-Chief Wu
+Chief Wu,
+
+536
+00:22:26,960 --> 00:22:30,400
+now all schools in Beijing will go on a general strike.
 
 537
-00:22:26,960 --> 00:22:30,400
-Now all schools in Beijing will go on a general strike.
-
-538
 00:22:30,800 --> 00:22:33,040
 It is these arrested students who are the cause.
 
-539
+538
 00:22:33,280 --> 00:22:34,320
 If things gets out of hand,
 
-540
+539
 00:22:35,120 --> 00:22:37,600
 the consequences are unimaginable.
 
-541
+540
 00:22:38,320 --> 00:22:39,600
-Especially you.
+Especially for you.
+
+541
+00:22:39,760 --> 00:22:42,960
+To shoulder the general responsibility of societal security in the capital.
 
 542
-00:22:39,760 --> 00:22:42,960
-Shoulder the general responsibility of social security in the capital.
-
-543
 00:22:43,600 --> 00:22:44,960
 You should think twice.
 
-544
+543
 00:22:48,080 --> 00:22:49,760
 I thank you for reminding me.
 
-545
+544
 00:22:50,480 --> 00:22:51,600
 As you all fully aware,
 
-546
+545
 00:22:52,000 --> 00:22:54,880
 you are all guests of the high-ranking politicians.
 
-547
+546
 00:22:55,440 --> 00:22:56,560
 Let me remind you, too.
 
-548
+547
 00:22:57,040 --> 00:22:57,440
-Please
+Please.
 
-549
+548
 00:22:57,760 --> 00:22:59,840
 As long as you can talk through President Xu,
 
-550
+549
 00:23:00,400 --> 00:23:01,680
-get a warrant
+and get a warrant
 
-551
+550
 00:23:01,920 --> 00:23:03,600
 I will release them immediately.
 
-552
+551
 00:23:04,160 --> 00:23:05,920
 Can you please bend the rules this time?
 
-553
+552
 00:23:06,560 --> 00:23:07,520
 How about this.
 
-554
+553
 00:23:07,760 --> 00:23:10,240
 You let us talk to the students.
 
-555
+554
 00:23:10,320 --> 00:23:10,960
 Right.
 
-556
+555
 00:23:11,760 --> 00:23:12,080
 You release them.
 
-557
+556
 00:23:12,160 --> 00:23:13,120
 We will talk some sense into them.
 
-558
+557
 00:23:13,280 --> 00:23:14,320
-Gentlemen, gentlemen
+Gentlemen, gentlemen.
 
-559
+558
 00:23:15,200 --> 00:23:16,480
 This is the police department.
 
-560
+559
 00:23:16,800 --> 00:23:17,920
-It's not a food market
+It's not a food market.
 
-561
+560
 00:23:18,400 --> 00:23:20,400
 How can you bargain?
 
-562
+561
 00:23:21,520 --> 00:23:22,960
 I understand your feelings.
 
-563
+562
 00:23:23,440 --> 00:23:25,280
-But you are in the wrong place
+But you are in the wrong place.
+
+563
+00:23:25,680 --> 00:23:26,960
+The wrong temple.
 
 564
-00:23:25,680 --> 00:23:26,960
-Wrong temple.
-
-565
 00:23:27,520 --> 00:23:30,640
 I advise you to find Xu Shichang.
 
-566
+565
 00:23:31,040 --> 00:23:32,160
 I'm busy with my duty.
 
-567
+566
 00:23:32,560 --> 00:23:34,080
 Please go back, please go back.
 
-568
+567
 00:23:40,240 --> 00:23:43,760
-If you insist on staying.
+If you insist on staying,
+
+568
+00:23:44,400 --> 00:23:46,160
+have some tea in the side room then.
 
 569
-00:23:44,400 --> 00:23:46,160
-Have some tea in the side room then.
+00:23:46,640 --> 00:23:47,120
+Make tea, make tea.
 
 570
-00:23:46,640 --> 00:23:47,120
-Make tea, make tea
-
-571
 00:23:47,680 --> 00:23:48,400
 Gentlemen, please.
 
-572
+571
 00:23:48,560 --> 00:23:49,120
-Wait a moment
+Wait a moment.
+
+572
+00:23:50,720 --> 00:23:52,800
+Brother Jingtan, please stay.
 
 573
-00:23:50,720 --> 00:23:52,800
-Brother Jing Tan, please stay.
+00:23:56,240 --> 00:23:58,080
+My fellow townsman is here to give me the honor.
 
 574
-00:23:56,240 --> 00:23:58,080
-My fellow villagers is here to give me the honor.
-
-575
 00:23:58,640 --> 00:23:59,280
 Should've have welcomed you.
 
-576
+575
 00:23:59,440 --> 00:24:00,720
 Forgive me, forgive me, forgive me.
 
-577
+576
 00:24:01,360 --> 00:24:02,640
 We might be from the same town,
 
-578
+577
 00:24:02,800 --> 00:24:03,680
-but on different paths.
+but we're on different paths.
 
-579
+578
 00:24:04,160 --> 00:24:05,200
 I dare not flatter myself.
 
-580
+579
 00:24:05,520 --> 00:24:07,520
 Chairman Wang is here.
 
-581
+580
 00:24:07,600 --> 00:24:08,320
 Any instructions?
 
-582
+581
 00:24:09,280 --> 00:24:09,920
 Let's talk inside.
 
-583
+582
 00:24:10,080 --> 00:24:10,720
 No, stay right here.
 
-584
+583
 00:24:11,600 --> 00:24:13,680
 I'm here to submit a bail submission.
 
-585
+584
 00:24:14,320 --> 00:24:15,280
-Who are you bailing out?
+Who wants to pay the bail?
+
+585
+00:24:15,680 --> 00:24:18,080
+I, Wang Chonghui, and Lin Changmin
 
 586
-00:24:15,680 --> 00:24:18,080
-Me and Wang Chonghui, Lin Changmin.
+00:24:18,320 --> 00:24:20,800
+wish to bail the 32 arrested students arrested.
 
 587
-00:24:18,320 --> 00:24:20,800
-Bail 32 students arrested jointly.
+00:24:18,630 --> 00:24:20,546
+[Wang Daxie, styled Botang, Chairman of the Foreign Affairs Committee of the Republic of China]
 
 588
 00:24:24,240 --> 00:24:25,520
-This is a bail petition.
+This is the bail petition.
 
 589
 00:24:25,920 --> 00:24:26,960
@@ -2356,23 +2356,23 @@ Let me read it to you.
 
 590
 00:24:27,040 --> 00:24:28,000
-No, I'll see for myself
+No, I'll read it for myself.
 
 591
 00:24:28,400 --> 00:24:28,800
-Wu Bingxiang
+Wu Bingxiang,
 
 592
 00:24:29,280 --> 00:24:30,480
-Are you going to listen or not?
+are you going to listen or not?
 
 593
 00:24:31,520 --> 00:24:31,840
-I listen
+I will listen.
 
 594
 00:24:32,320 --> 00:24:32,480
-listen
+I'm listening.
 
 595
 00:24:32,720 --> 00:24:33,520
@@ -2380,11 +2380,11 @@ I'm all ears.
 
 596
 00:24:39,360 --> 00:24:40,160
-On the fourth day of this month
+On the fourth day of this month,
 
 597
 00:24:40,560 --> 00:24:41,520
-Students from various schools in Beijing
+students from various schools in Beijing
 
 598
 00:24:41,920 --> 00:24:43,440
@@ -2396,7 +2396,7 @@ The gathering of people led to the brewing incident
 
 600
 00:24:46,400 --> 00:24:48,160
-in the noisy field at the time.
+in the noisy fields at the time.
 
 601
 00:24:48,560 --> 00:24:50,400
@@ -2412,19 +2412,19 @@ For their patriotism.
 
 604
 00:24:54,880 --> 00:24:56,160
-These people though
+And the more than 30 people,
 
 605
 00:24:56,400 --> 00:24:58,000
-not necessarily the person who caused the accident.
+who may not be the perpetrators,
 
 606
 00:24:58,480 --> 00:25:01,040
-Daxie, along with others, beg to bail them first.
+Daxie, along with others, beg to bail them.
 
 607
 00:25:01,360 --> 00:25:02,560
-If you need these ones for interrogation in the future
+If you need these ones for interrogation in the future.
 
 608
 00:25:02,880 --> 00:25:05,360
@@ -2432,7 +2432,7 @@ We bear the responsibility to deliver them to the court.
 
 609
 00:25:05,760 --> 00:25:08,400
-People's anger is getting closer to the limit any minute now
+People's anger is getting closer to the limit any minute now.
 
 610
 00:25:09,040 --> 00:25:11,520
@@ -2440,31 +2440,31 @@ For this reason, it is urgent for this bail to be granted.
 
 611
 00:25:12,160 --> 00:25:13,600
-With respect on behave of the people.
+With respect on behalf of the people.
 
 612
 00:25:14,320 --> 00:25:15,840
-Present to the police chief
+Thus is presented to the police chief.
 
 613
 00:25:16,800 --> 00:25:17,520
-Presenter
+Presenters:
 
 614
 00:25:17,920 --> 00:25:18,480
-Wang Dawei
+Wang Daxie,
 
 615
 00:25:18,960 --> 00:25:19,600
-Wang Chonghui
+Wang Chonghui,
 
 616
 00:25:20,400 --> 00:25:21,120
-Lin Changmin
+Lin Changmin.
 
 617
 00:25:33,840 --> 00:25:34,640
-Chairman Wang
+Chairman Wang,
 
 618
 00:25:35,280 --> 00:25:37,600
@@ -2488,63 +2488,63 @@ I hope you can understand my situation.
 
 623
 00:25:56,800 --> 00:25:57,760
-Newspaper!
+Newspaper! Newspaper!
 
 624
 00:25:58,000 --> 00:26:01,040
 Beijing academic groups calling the Chinese delegation in Paris
 
 625
-00:26:01,600 --> 00:26:02,840
-No signing with disgrace.
+00:26:01,360 --> 00:26:03,360
+to not sign in humiliation.
 
 626
-00:26:03,120 --> 00:26:03,120
-
+00:26:03,760 --> 00:26:04,960
+Newspaper! Newspaper!
 
 627
-00:26:03,760 --> 00:26:04,960
-Newspaper!
-
-628
 00:26:05,200 --> 00:26:07,440
 Academic groups all over the nation calling Cai Yuanpei
 
-629
+628
 00:26:07,760 --> 00:26:09,600
-Support Peking University Students Movement
+supporting the Peking University students' movement.
+
+629
+00:26:10,160 --> 00:26:11,120
+Newspaper! Newspaper!
 
 630
-00:26:10,160 --> 00:26:11,120
-Read the newspaper
-
-631
 00:26:11,280 --> 00:26:14,160
 Beijing academic groups calling the Chinese delegation in Paris
 
-632
+631
 00:26:14,400 --> 00:26:16,000
-No signing with disgrace.
+to not sign in humiliation.
 
-633
+632
 00:26:16,400 --> 00:26:17,520
 Come and see, come and buy.
 
-634
+633
 00:26:25,360 --> 00:26:26,000
 What's your name?
 
-635
+634
 00:26:26,800 --> 00:26:27,520
-Xu Deheng
+Xu Deheng.
 
-636
+635
 00:26:28,240 --> 00:26:28,720
 How old are you?
 
-637
+636
 00:26:29,280 --> 00:26:29,840
-Twenty-nine
+Twenty-nine.
+
+637
+00:26:29,353 --> 00:26:31,859
+[Xu Deheng, styled Chusheng, Student at Peking University]
 
 638
 00:26:30,320 --> 00:26:31,920
@@ -2560,7 +2560,7 @@ We did nothing but treasure our country.
 
 641
 00:26:39,200 --> 00:26:41,280
-It's not murder and arson.
+It's neither murder nor arson.
 
 642
 00:26:41,600 --> 00:26:42,320
@@ -2572,7 +2572,7 @@ You think you are patriotic?
 
 644
 00:26:47,360 --> 00:26:47,840
-Xu Deheng
+Xu Deheng,
 
 645
 00:26:49,120 --> 00:26:51,440
@@ -2608,7 +2608,7 @@ and Chen Duxiu.
 
 653
 00:27:11,920 --> 00:27:12,160
-come on
+Come on.
 
 654
 00:27:14,960 --> 00:27:16,560
@@ -2616,7 +2616,7 @@ Have a glass of water first.
 
 655
 00:27:16,960 --> 00:27:18,000
-Tell me about it
+Tell me about it.
 
 656
 00:27:18,160 --> 00:27:20,560
@@ -2624,15 +2624,15 @@ What have they told you recently?
 
 657
 00:27:21,200 --> 00:27:21,680
-Come and drink
+Come and drink.
 
 658
 00:27:23,760 --> 00:27:24,960
-Chief Wu
+Chief Wu.
 
 659
 00:27:25,440 --> 00:27:26,560
-You flattered me.
+You flatter me.
 
 660
 00:27:26,960 --> 00:27:29,200
@@ -2656,11 +2656,11 @@ How can I know what they said?
 
 665
 00:27:56,400 --> 00:27:59,360
-Xu Deheng, you know
+Xu Deheng, you know,
 
 666
 00:28:00,000 --> 00:28:02,080
-I came to ask you myself today.
+the reason I came to ask you myself today
 
 667
 00:28:02,720 --> 00:28:04,320
@@ -2672,11 +2672,11 @@ Why don't you cooperate?
 
 669
 00:28:06,720 --> 00:28:09,040
-I really want to cooperate with you, Cheif Wu.
+I really want to cooperate with you, Chief Wu.
 
 670
 00:28:09,600 --> 00:28:11,520
-I told all truth and only truth.
+I told the whole truth and only the truth.
 
 671
 00:28:11,920 --> 00:28:13,280
@@ -2712,7 +2712,7 @@ Confessions are all the same.
 
 679
 00:28:43,680 --> 00:28:44,400
-Interrogate all night
+Interrogate them all tonight.
 
 680
 00:28:45,760 --> 00:28:47,680
@@ -2728,7 +2728,7 @@ The situation has changed dramatically since May 5th.
 
 683
 00:29:00,960 --> 00:29:03,760
-Beijing National Foreign Affairs Associatio,n Chamber of Commerce and Farmers Association
+The Beijing National Foreign Affairs Association, the Chamber of Commerce, and the Farmers Association
 
 684
 00:29:04,480 --> 00:29:06,640
@@ -2736,11 +2736,11 @@ all sent letters to the government and put words out around the country,
 
 685
 00:29:07,840 --> 00:29:08,960
-that they support the student movement.
+that they support the student movement
 
 686
 00:29:09,520 --> 00:29:11,120
-Request the release of the arrested students.
+and request the release of the arrested students.
 
 687
 00:29:11,440 --> 00:29:14,000
@@ -2752,11 +2752,11 @@ along with Kang Youwei, Wu Peifu, Zhang Jingyao,
 
 689
 00:29:16,640 --> 00:29:18,880
-Chen Guangyuan and others expressed their support for the students.
+Chen Guangyuan and others expressed their support for the students,
 
 690
 00:29:19,280 --> 00:29:22,080
-Demand to remove duty from Cao Rulin, Zhang Zongxiang and Lu Zongyu.
+demanding to remove Cao Rulin, Zhang Zongxiang, and Lu Zongyu from duty.
 
 691
 00:29:22,640 --> 00:29:24,960
@@ -2764,47 +2764,47 @@ There are several senators in Congress
 
 692
 00:29:25,120 --> 00:29:26,720
-have jointly sent a letter to the President.
+who have jointly sent a letter to the President
 
 693
 00:29:27,360 --> 00:29:28,720
-Request the release of the arrested students.
+requesting the release of the arrested students.
 
 694
 00:29:29,200 --> 00:29:30,080
-Besides Beijing and Guangzhou
+Besides Beijing and Guangzhou,
 
 695
 00:29:30,560 --> 00:29:30,880
-Shanghai
+Shanghai,
 
 696
 00:29:31,200 --> 00:29:31,520
-Nanjing
+Nanjing,
 
 697
 00:29:31,760 --> 00:29:32,000
-Tianjin
+Tianjin,
 
 698
 00:29:32,320 --> 00:29:32,560
-Wuhan
+Wuhan,
 
 699
 00:29:32,720 --> 00:29:33,120
-Changsha
+Changsha,
 
 700
 00:29:33,440 --> 00:29:35,920
-Activities in support of Beijing students also took place.
+activities in support of Beijing students also took place.
 
 701
 00:29:36,400 --> 00:29:37,200
-In the last two days
+In the last two days,
 
 702
 00:29:37,440 --> 00:29:38,640
-Presidential Palace and State Council
+the Presidential Palace and the State Council
 
 703
 00:29:38,880 --> 00:29:41,520
@@ -2816,27 +2816,27 @@ More than one hundred of them.
 
 705
 00:29:43,360 --> 00:29:45,280
-Solidarity activities around the country show the following characteristics
+Solidarity activities around the country show the following characteristics:
 
 706
 00:29:46,000 --> 00:29:47,680
-One, set up student organizations
+One, setting up student organizations
 
 707
 00:29:48,240 --> 00:29:50,320
-to implementi various action plans and
+to implement various action plans.
 
 708
 00:29:50,640 --> 00:29:52,080
-to organize demonstrations
+Two, organizing demonstrations
 
 709
 00:29:52,320 --> 00:29:54,160
-Two, protest the government's foreign policy.
+to protest the government's foreign policy,
 
 710
 00:29:54,480 --> 00:29:56,400
-Paris Peace Treaty and Arrest Students
+the Paris Peace Treaty and the arrest of the students.
 
 711
 00:29:56,800 --> 00:29:58,960
@@ -2864,11 +2864,11 @@ what countermeasures should we take?
 
 717
 00:30:15,280 --> 00:30:16,160
-President
+Mr. President,
 
 718
 00:30:24,320 --> 00:30:27,040
-This is my third resignation letter.
+this is my third resignation letter.
 
 719
 00:30:29,760 --> 00:30:31,040
@@ -2896,15 +2896,15 @@ No way.
 
 725
 00:30:45,280 --> 00:30:46,560
-I can retreat it.
+I can resign without resigning.
 
 726
 00:30:47,360 --> 00:30:49,120
-If the students are released.
+Then let the arrested students go.
 
 727
 00:30:49,600 --> 00:30:51,120
-Students have been on strike for two days.
+The students have been on strike for two days.
 
 728
 00:30:51,680 --> 00:30:52,720
@@ -2944,7 +2944,7 @@ Who says they can't do harm.
 
 737
 00:31:09,120 --> 00:31:09,760
-This Beijing city
+The city of Beijing
 
 738
 00:31:09,920 --> 00:31:11,840
@@ -2964,11 +2964,11 @@ The newly established Beijing Federation of Students
 
 742
 00:31:20,000 --> 00:31:20,960
-They are going to the streets.
+are going to the streets,
 
 743
 00:31:21,360 --> 00:31:24,800
-Go to the streets and the factorys to give a speech.
+going to the streets and the factories to give speeches.
 
 744
 00:31:25,200 --> 00:31:27,760
@@ -2976,11 +2976,11 @@ They also plan to go to Shanghai, Wuhan, Changsha and other places.
 
 745
 00:31:28,000 --> 00:31:28,880
-Give speech
+Giving speeches,
 
 746
 00:31:29,040 --> 00:31:31,360
-Plan to establish the National Federation of Students.
+planning to establish the National Federation of Students.
 
 747
 00:31:31,680 --> 00:31:33,440
@@ -2992,11 +2992,11 @@ They also encouraged the business community.
 
 749
 00:31:35,920 --> 00:31:38,160
-Seeing that the military community is also dividing.
+Seeing that the military community is also dividing,
 
 750
 00:31:38,560 --> 00:31:39,520
-When May 7th comes,
+when May 7th comes,
 
 751
 00:31:39,760 --> 00:31:41,600
@@ -3012,11 +3012,11 @@ By then,
 
 754
 00:31:45,600 --> 00:31:47,920
-There's nothing you can do to help.
+there's nothing you can do to help.
 
 755
 00:31:48,960 --> 00:31:49,760
-Chief Wu
+Chief Wu,
 
 756
 00:31:51,280 --> 00:31:52,560
@@ -3024,23 +3024,23 @@ you are exaggerating.
 
 757
 00:31:53,600 --> 00:31:54,000
-President
+Mr. President,
 
 758
 00:31:54,480 --> 00:31:56,640
-Whether I am exaggerating or not,
+whether I am exaggerating or not,
 
 759
 00:31:57,280 --> 00:31:59,120
-please listen to the Prime Minister's opinion.
+please listen to the Premier's opinion.
 
 760
 00:32:01,760 --> 00:32:02,160
-Premier Qian
+Premier Qian,
 
 761
 00:32:03,440 --> 00:32:04,480
-Are you pessimistic too?
+are you pessimistic too?
 
 762
 00:32:05,200 --> 00:32:06,160
@@ -3048,7 +3048,7 @@ My opinion
 
 763
 00:32:07,280 --> 00:32:10,960
-it's even worse than Chief Wu's.
+is even worse than Chief Wu's.
 
 764
 00:32:13,200 --> 00:32:14,160
@@ -3056,7 +3056,7 @@ So,
 
 765
 00:32:14,560 --> 00:32:17,600
-what's police chief's strategy?
+what's the police chief's strategy?
 
 766
 00:32:18,480 --> 00:32:19,680
@@ -3076,19 +3076,19 @@ Besides, what about General Duan's will?
 
 770
 00:32:31,520 --> 00:32:32,400
-President
+Mr. President,
 
 771
 00:32:33,120 --> 00:32:36,400
-All I can say now is to release students.
+all I can say now is to release students.
 
 772
 00:32:37,200 --> 00:32:39,200
-If you must not let it go,
+If you must not let them go,
 
 773
 00:32:39,520 --> 00:32:41,680
-if there is any trouble in Beijing again
+if there is any trouble in Beijing again,
 
 774
 00:32:42,160 --> 00:32:43,200
@@ -3100,15 +3100,15 @@ I also resign.
 
 776
 00:32:47,920 --> 00:32:48,800
-Jingtan
+Jingtan,
 
 777
 00:32:53,440 --> 00:32:57,360
-Don't be like a child now.
+don't be like a child now.
 
 778
 00:32:58,480 --> 00:32:59,280
-you come back
+You come back.
 
 779
 00:32:59,760 --> 00:33:01,280
@@ -3128,19 +3128,19 @@ My opinion
 
 783
 00:33:22,000 --> 00:33:23,600
-is exactly the same as Cheif Wu's.
+is exactly the same as Chief Wu's.
 
 784
-00:33:26,160 --> 00:33:27,720
-I see
+00:33:26,160 --> 00:33:26,720
+I see.
 
 785
 00:33:28,240 --> 00:33:29,120
-
+I see.
 
 786
 00:33:29,760 --> 00:33:31,280
-Since you are all share the same opinion.
+Since you are all share the same opinion,
 
 787
 00:33:32,080 --> 00:33:33,760
@@ -3152,7 +3152,7 @@ But I have to ask you to be aware of two things.
 
 789
 00:33:37,120 --> 00:33:40,000
-First, make sure that all schools
+First, make sure that in all schools,
 
 790
 00:33:40,320 --> 00:33:41,840
@@ -3160,11 +3160,11 @@ all classes must resume on May 7th.
 
 791
 00:33:42,560 --> 00:33:44,960
-The second is to ensure that all students and teachers
+Second, ensure that all students and teachers
 
 792
 00:33:45,040 --> 00:33:47,440
-will not participate the National Convention in Central Park
+will not participate the National Convention at Central Park
 
 793
 00:33:47,680 --> 00:33:49,360
@@ -3172,7 +3172,7 @@ on May 7th.
 
 794
 00:33:50,000 --> 00:33:52,800
-If anything goes wrong, you are the one I go to.
+If anything goes wrong, I'll hold you all accountable.
 
 795
 00:33:56,560 --> 00:33:57,600
@@ -3184,15 +3184,15 @@ Students!
 
 797
 00:34:21,840 --> 00:34:24,080
-In response to appeals from all walks of life.
+In response to appeals from all walks of life,
 
 798
 00:34:24,400 --> 00:34:26,720
-With great kindness, the president
+with great kindness, the President
 
 799
 00:34:27,040 --> 00:34:29,680
-Ordered to spare you for your recklessness.
+ordered to spare you for your recklessness.
 
 800
 00:34:30,240 --> 00:34:33,440
@@ -3208,11 +3208,11 @@ Focus on study and stop making trouble.
 
 803
 00:34:40,480 --> 00:34:40,960
-Please
+Please.
 
 804
 00:35:01,520 --> 00:35:02,480
-Fellow students
+Fellow students.
 
 805
 00:35:03,120 --> 00:35:05,520
@@ -3220,19 +3220,19 @@ Principal Cai came in personal to pick you up.
 
 806
 00:35:06,160 --> 00:35:06,640
-Please
+Please.
 
 807
 00:35:11,840 --> 00:35:12,320
-Mr. Cai
+Mr. Cai.
 
 808
 00:35:16,160 --> 00:35:16,720
-Mr. Zhongfu
+Mr. Zhongfu.
 
 809
 00:35:21,360 --> 00:35:22,000
-Chief Wu
+Chief Wu.
 
 810
 00:35:22,880 --> 00:35:24,720
@@ -3248,7 +3248,7 @@ one more day of us being detained here,
 
 813
 00:35:30,240 --> 00:35:32,160
-one more day the people will be stimulated.
+one more day the people will be incited.
 
 814
 00:35:32,240 --> 00:35:33,600
@@ -3256,11 +3256,11 @@ If all 32 people here
 
 815
 00:35:33,680 --> 00:35:35,280
-sacrifice in this jail under your knife,
+are sacrificed in this jail under your knife,
 
 816
 00:35:35,760 --> 00:35:38,800
-then 400 million people in China will be awaken.
+then 400 million Chinese people will be awakened.
 
 817
 00:35:39,840 --> 00:35:40,720
@@ -3292,11 +3292,11 @@ What's this about?
 
 824
 00:36:17,360 --> 00:36:18,560
-Your spirit
+Your spirit,
 
 825
 00:36:19,360 --> 00:36:21,440
-I admire it very much
+I admire it very much.
 
 826
 00:36:22,160 --> 00:36:24,000
@@ -3328,320 +3328,316 @@ Everyone is Looking forward to your safe return to school.
 
 833
 00:36:42,400 --> 00:36:44,720
-Students, don't let them down.
+Students, don't let down
 
 834
-00:36:45,040 --> 00:36:46,280
-Hundreds of thousands of teachers and students in Beijing
+00:36:45,040 --> 00:36:46,320
+hundreds of thousands of teachers and students in Beijing
 
 835
-00:36:45,360 --> 00:36:45,360
-
-
-836
 00:36:46,560 --> 00:36:48,880
 with their sincere hearts.
 
-837
+836
 00:36:49,520 --> 00:36:51,920
 Mr. Cai, you don't have to persuade us.
 
-838
+837
 00:36:52,560 --> 00:36:54,000
 We appreciate your help.
 
-839
+838
 00:36:54,800 --> 00:36:56,960
 I also yearn for a free life outside prison.
 
-840
+839
 00:36:58,000 --> 00:37:00,160
 But, as long as it can awaken the Chinese people
 
-841
+840
 00:37:01,120 --> 00:37:02,400
-wven if we give our lives away,
+even if we give our lives away,
+
+841
+00:37:03,360 --> 00:37:04,560
+we're willing to do it.
 
 842
-00:37:03,360 --> 00:37:04,560
-I'm willing to do it.
+00:37:38,720 --> 00:37:39,200
+You-
 
 843
-00:37:38,720 --> 00:37:39,200
-You
-
-844
 00:37:40,320 --> 00:37:40,960
 You kids
 
-845
+844
 00:37:41,760 --> 00:37:43,920
 are just so arrogant.
 
-846
+845
 00:37:44,960 --> 00:37:45,840
 You think
 
-847
+846
 00:37:46,640 --> 00:37:47,680
-Wake up a nation
+to wake up a nation
+
+847
+00:37:48,560 --> 00:37:49,600
+trapped in a feudal mindset
 
 848
-00:37:48,560 --> 00:37:49,600
-a nation trapped in feudal mindset
-
-849
 00:37:49,680 --> 00:37:51,360
 for thousands of years
 
-850
+849
 00:37:51,680 --> 00:37:53,040
-Is that easy?
+is that easy?
 
-851
+850
 00:37:54,160 --> 00:37:55,040
 You think
 
-852
+851
 00:37:55,520 --> 00:37:57,040
-To wipe out the numbness and indifference
+to wipe out the numbness, indifference,
+
+852
+00:37:57,360 --> 00:37:59,600
+and inert thinking
 
 853
-00:37:57,360 --> 00:37:59,600
-running in the blood of this nation
+00:37:59,840 --> 00:38:01,040
+from the blood of our nation
 
 854
-00:37:59,840 --> 00:38:01,040
-the inertial thinking
-
-855
 00:38:01,360 --> 00:38:02,560
 is a day's work?
 
-856
+855
 00:38:04,240 --> 00:38:05,680
-It take several generations!
+It will take several generations
+
+856
+00:38:05,920 --> 00:38:07,920
+to strive for a great cause.
 
 857
-00:38:05,920 --> 00:38:07,920
-Strive for a great cause
+00:38:09,840 --> 00:38:10,640
+Let me tell you.
 
 858
-00:38:09,840 --> 00:38:10,640
-Let me tell you something.
-
-859
 00:38:11,440 --> 00:38:13,920
 You have no right to die now.
 
-860
+859
 00:38:15,040 --> 00:38:17,040
 This disaster-stricken country of ours
 
-861
+860
 00:38:17,440 --> 00:38:18,720
-needs you stay alive
+needs you stay alive,
+
+861
+00:38:19,360 --> 00:38:20,800
+needs you to fight!
 
 862
-00:38:19,360 --> 00:38:20,800
-needs you to fight.
+00:38:34,720 --> 00:38:35,360
+Mr. Zhongfu.
 
 863
-00:38:34,720 --> 00:38:35,360
-Mr. Zhongfu
-
-864
 00:38:36,080 --> 00:38:36,880
 We'll go with you.
 
-865
+864
 00:39:46,640 --> 00:39:48,880
 So this is how you brought them back.
 
-866
+865
 00:39:52,960 --> 00:39:54,400
-It's your style
+It's your style.
 
-867
+866
 00:39:54,720 --> 00:39:58,160
 But sometimes you can be a bit bossy.
 
-868
+867
 00:40:00,800 --> 00:40:01,520
 Am I?
 
-869
+868
 00:40:03,200 --> 00:40:03,920
 I'm not overbearing.
 
-870
+869
 00:40:04,720 --> 00:40:05,600
 They are confused.
 
-871
+870
 00:40:06,320 --> 00:40:07,040
-Revolutionary
+Revolutionaries.
+
+871
+00:40:07,760 --> 00:40:10,320
+They can't do such a thing as killing themselves in the revolution?
 
 872
-00:40:07,760 --> 00:40:10,320
-they can't do such thing as kill themselves in the revolution?
-
-873
 00:40:10,880 --> 00:40:11,920
 You can be an alarm if you want,
 
-874
+873
 00:40:12,960 --> 00:40:15,040
 but you have to respect a bomb's will to go without regret.
 
-875
+874
 00:40:15,600 --> 00:40:16,240
 What do you mean?
 
-876
+875
 00:40:16,720 --> 00:40:17,600
-For example.
+For example,
+
+876
+00:40:18,400 --> 00:40:19,520
+there is this land
 
 877
-00:40:18,400 --> 00:40:19,520
-There is this land
+00:40:20,160 --> 00:40:21,600
+where a group of people are sleeping.
 
 878
-00:40:20,160 --> 00:40:21,600
-where a group of people sleeping.
-
-879
 00:40:22,000 --> 00:40:23,120
 In the distance, there is a volcano
 
-880
+879
 00:40:23,760 --> 00:40:24,720
-It's about to explode.
+about to explode.
 
-881
+880
 00:40:25,280 --> 00:40:26,000
 You are like an alarm clock.
 
-882
+881
 00:40:26,720 --> 00:40:27,840
-Facing these sleeping people
+Facing these sleeping people,
 
-883
+882
 00:40:28,560 --> 00:40:29,840
 you want to wake them up.
 
-884
+883
 00:40:30,240 --> 00:40:31,840
 So you keep ringing.
 
-885
+884
 00:40:32,240 --> 00:40:33,440
 The ones sleeping lightly,
 
-886
+885
 00:40:34,240 --> 00:40:34,960
 you woke them up.
 
-887
+886
 00:40:35,440 --> 00:40:36,880
 They go with you to wake up the others.
 
-888
+887
 00:40:37,600 --> 00:40:38,960
 But there are too many people,
 
-889
+888
 00:40:39,600 --> 00:40:40,880
 your voice is too weak.
 
-890
+889
 00:40:41,840 --> 00:40:43,520
-After all, there are limited people waken.
+After all, there are only a few people who awaken.
 
-891
+890
 00:40:44,000 --> 00:40:44,800
 And sometimes,
 
-892
+891
 00:40:45,520 --> 00:40:46,400
-there are ones find you nuisance
+there are ones find you as a nuisance.
 
-893
+892
 00:40:46,880 --> 00:40:48,080
 From time to time, they kick the alarm away.
 
-894
+893
 00:40:48,800 --> 00:40:51,120
-Some alarm, they are afraid they are not gonna make it in time.
+Then there are alarm clocks that are afraid of being too late.
 
-895
+894
 00:40:51,680 --> 00:40:52,800
 So they use their lives
 
-896
+895
 00:40:53,760 --> 00:40:54,560
 as raw material
 
-897
+896
 00:40:55,120 --> 00:40:56,080
-and turn into a bomb.
+to turn into a bomb.
+
+897
+00:40:56,560 --> 00:40:58,880
+The explosion will awaken a large number of people.
 
 898
-00:40:56,560 --> 00:40:58,880
-The explosion woke up a large number of people.
+00:40:59,440 --> 00:41:00,720
+Then, as you say,
 
 899
-00:40:59,440 --> 00:41:00,720
-Then, as you say.
+00:41:01,520 --> 00:41:03,120
+the bomb is much more powerful than the alarm clock.
 
 900
-00:41:01,520 --> 00:41:03,120
-The bomb is much more powerful than the alarm clock.
+00:41:03,840 --> 00:41:05,600
+So all we need is few more bombs?
 
 901
-00:41:03,840 --> 00:41:05,600
-So sll we need is few more bombs?
-
-902
 00:41:05,920 --> 00:41:06,960
 What's the use of an alarm clock then?
 
-903
+902
 00:41:07,520 --> 00:41:08,400
 No.
 
-904
+903
 00:41:10,800 --> 00:41:11,920
-Brother Zhongfu, think about it
+Brother Zhongfu, think about it.
 
-905
+904
 00:41:14,480 --> 00:41:15,680
 If it was not for the alarm clock
 
-906
+905
 00:41:16,320 --> 00:41:19,040
-for them keep ringing constantly and never stop,
+that kept ringing constantly and never stopped,
+
+906
+00:41:19,680 --> 00:41:21,360
+there wouldn't be any bomb.
 
 907
-00:41:19,680 --> 00:41:21,360
-there would'nt be any bomb.
+00:41:21,920 --> 00:41:23,280
+Although the bomb is powerful,
 
 908
-00:41:21,920 --> 00:41:23,280
-Although the bomb is powerful
+00:41:23,920 --> 00:41:26,640
+it can't overcome people's inertia after all.
 
 909
-00:41:23,920 --> 00:41:26,640
-But it can't overcome people's inertia after all.
+00:41:27,120 --> 00:41:28,320
+Only the alarm clock
 
 910
-00:41:27,120 --> 00:41:28,320
-Only the alarm clock,
+00:41:28,720 --> 00:41:31,360
+keeps ringing, keeps reminding, keeps watching
 
 911
-00:41:28,720 --> 00:41:31,360
-it keeps ringing, keeps reminding, keeps watching.
-
-912
 00:41:31,840 --> 00:41:34,640
-To finally wake everyone up.
+to finally wake everyone up.
