@@ -764,7 +764,7 @@ Luo Zhanglong.
 
 192
 00:06:49,280 --> 00:06:50,000
-Which hospital?
+Which college?
 
 193
 00:06:50,080 --> 00:06:51,120
@@ -1144,15 +1144,15 @@ Good.
 
 287
 00:09:28,720 --> 00:09:29,760
-What is the situation in the Third Hospital now?
+What is the situation in the Third College now?
 
 288
 00:09:29,840 --> 00:09:30,880
-The Third Hospital is in good condition.
+The Third College is in good condition.
 
 289
 00:09:31,120 --> 00:09:32,560
-But the Second Hospital is a bit tight.
+But the Second College is a bit tight.
 
 290
 00:09:32,800 --> 00:09:33,280
@@ -1164,11 +1164,11 @@ Let some students
 
 292
 00:09:34,560 --> 00:09:35,840
-go and see the situation of the Second Hospital.
+go and see the situation of the Second College.
 
 293
 00:09:35,920 --> 00:09:37,280
-At the same time, tell the students of the Second Hospital
+At the same time, tell the students of the Second College
 
 294
 00:09:37,440 --> 00:09:38,640
@@ -2560,7 +2560,7 @@ Where are you going to look?
 
 641
 00:27:22,560 --> 00:27:24,080
-We looked in the First, Second, and Third Hospitals,
+We looked in the First, Second, and Third Colleges,
 
 642
 00:27:24,400 --> 00:27:26,160
