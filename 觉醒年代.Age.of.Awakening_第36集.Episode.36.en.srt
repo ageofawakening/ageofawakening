@@ -64,7 +64,7 @@ If it's a signed telegram,
 
 17
 00:00:47,760 --> 00:00:48,720
-Rutang,
+Rutang--
 
 18
 00:00:49,360 --> 00:00:51,120
@@ -72,7 +72,7 @@ Refuse to sign the Paris Peace Treaty!
 
 19
 00:00:51,520 --> 00:00:52,880
-I'll go out with you and make a statement.
+--I'll go out with you and make a statement.
 
 20
 00:00:53,920 --> 00:00:55,680
@@ -344,7 +344,7 @@ The world's tide is rolling more dramatically.
 
 87
 00:05:20,640 --> 00:05:23,760
-The gate of Dongting Lake moved and opened.
+The flood gates of Dongting Lake are moving and opening.
 
 88
 00:05:24,000 --> 00:05:25,760
@@ -352,15 +352,15 @@ A mighty new trend of thought
 
 89
 00:05:25,840 --> 00:05:29,440
-has surged on both sides of Xiangjiang River.
+has surged across the Xiang River.
 
 90
 00:05:30,080 --> 00:05:31,360
-Follow its life
+Follow its life,
 
 91
 00:05:31,680 --> 00:05:33,040
-and die against it
+welcome its death.
 
 92
 00:05:33,504 --> 00:05:35,275
@@ -368,7 +368,7 @@ and die against it
 
 93
 00:05:33,760 --> 00:05:35,280
-How to bear it?
+How to endure it?
 
 94
 00:05:35,760 --> 00:05:37,120
@@ -388,7 +388,7 @@ This is the most pressing and most important issue
 
 98
 00:05:43,440 --> 00:05:45,600
-for all Xiang (=Hunan) people.
+for all Xiang people.
 
 99
 00:05:46,160 --> 00:05:47,680
@@ -396,11 +396,11 @@ This is the most pressing and most important task
 
 100
 00:05:47,920 --> 00:05:50,800
-for the rise of Xiangjiang.
+for the rise of the Xiang River.
 
 101
 00:05:51,280 --> 00:05:52,240
-How to bear it?
+How to endure it?
 
 102
 00:05:53,040 --> 00:05:54,080
@@ -428,7 +428,7 @@ This is the most pressing and most important task
 
 108
 00:06:03,840 --> 00:06:06,640
-for the rise of Xiangjiang.
+for the rise of the Xiang River.
 
 109
 00:06:07,200 --> 00:06:07,760
@@ -508,7 +508,7 @@ Here.
 
 128
 00:06:48,880 --> 00:06:49,840
-What is this?
+What's this?
 
 129
 00:06:50,240 --> 00:06:51,280
@@ -528,11 +528,11 @@ and wake the world up.
 
 133
 00:06:57,280 --> 00:06:58,400
-What is it
+We young people
 
 134
 00:06:59,120 --> 00:07:00,400
-when I wait for young people to suffer?
+suffer a little, what's the big deal?
 
 135
 00:07:06,640 --> 00:07:08,560
@@ -560,7 +560,7 @@ What is the strongest power?
 
 141
 00:07:18,560 --> 00:07:20,720
-The strength of the people is the strongest.
+The power of the people is the strongest.
 
 142
 00:07:20,960 --> 00:07:22,160
@@ -612,7 +612,7 @@ Send this inaugural issue to each school
 
 154
 00:07:42,400 --> 00:07:43,520
-and then distribute the presentations.
+and then start giving speeches.
 
 155
 00:07:43,680 --> 00:07:44,880
@@ -632,7 +632,7 @@ Everyone knows
 
 159
 00:07:54,640 --> 00:07:58,080
-Mr. Chen Duxiu is a star in Chinese ideological circles.
+Mr. Chen Duxiu is a star in the Chinese intellectual community.
 
 160
 00:07:58,480 --> 00:08:01,120
@@ -656,7 +656,7 @@ young Mao Zedong spent a summer
 
 165
 00:08:09,840 --> 00:08:12,320
-like fire in Changsha.
+like a fire in Changsha.
 
 166
 00:08:12,640 --> 00:08:14,400
@@ -680,11 +680,11 @@ to organize a 10-member group to save the nation,
 
 171
 00:08:22,000 --> 00:08:24,800
-to give a speech in the streets of the society,
+giving speeches in the streets of the society
 
 172
 00:08:25,520 --> 00:08:26,720
-and to widely mobilize the people
+to widely mobilize the people
 
 173
 00:08:26,800 --> 00:08:30,000
@@ -696,15 +696,15 @@ He pointed out
 
 175
 00:08:32,240 --> 00:08:35,680
-that Mr. Chen Duxiu is a star in Chinese ideological circles,
+that Mr. Chen Duxiu is a star in the Chinese intellectual community,
 
 176
 00:08:36,080 --> 00:08:37,440
-and because of science and democracy
+and he offended the reactionary authorities
 
 177
 00:08:37,520 --> 00:08:38,880
-he offended the reactionary authorities.
+because of science and democracy.
 
 178
 00:08:39,600 --> 00:08:42,720
@@ -856,7 +856,7 @@ scrounge this up.
 
 215
 00:10:33,600 --> 00:10:35,200
-After you have gone to jail,
+Now that you're in jail,
 
 216
 00:10:35,920 --> 00:10:37,200
@@ -884,11 +884,11 @@ You'll understand it when you read the newspaper.
 
 222
 00:10:54,800 --> 00:10:56,480
-Professor Chen, it is because of you.
+Professor Chen, it is because of you
 
 223
 00:10:56,720 --> 00:10:57,760
-I, Wu Bingxiang,
+that I, Wu Bingxiang,
 
 224
 00:10:58,320 --> 00:11:00,960
@@ -916,7 +916,7 @@ Blame no one else.
 
 230
 00:11:20,400 --> 00:11:22,400
-There are also brave words.
+There are also some brave words.
 
 231
 00:11:22,960 --> 00:11:24,160
@@ -932,7 +932,7 @@ Fortunately, police chief Wu Bingxiang
 
 234
 00:11:32,080 --> 00:11:34,000
-has a novel brain.
+has an innovative mind.
 
 235
 00:11:34,560 --> 00:11:35,680
@@ -952,7 +952,7 @@ That's true.
 
 239
 00:11:46,080 --> 00:11:49,120
-It said Wu Bingxiang didn't treat you badly.
+It said that I, Wu Bingxiang, didn't treat you badly.
 
 240
 00:11:49,680 --> 00:11:53,040
@@ -960,7 +960,7 @@ It's not true to say that the traditionalists are secretly encouraging me.
 
 241
 00:11:55,040 --> 00:11:56,640
-Look here, there are some.
+Look here, there are some more.
 
 242
 00:11:58,560 --> 00:12:02,560
@@ -1000,7 +1000,7 @@ you don't have to get carried away.
 
 251
 00:12:26,320 --> 00:12:28,880
-Don't forget Cai Yuanpei's sentence.
+Don't forget Cai Yuanpei's words.
 
 252
 00:12:29,440 --> 00:12:31,920
@@ -1024,7 +1024,7 @@ This Zedong guy?
 
 257
 00:12:49,200 --> 00:12:51,360
-Not only did he make you a star in the ideological circle,
+Not only did he make you a star in the intellectual community,
 
 258
 00:12:51,920 --> 00:12:53,040
@@ -1124,7 +1124,7 @@ However, Professor Chen,
 
 282
 00:14:10,640 --> 00:14:13,120
-now you're at the end of your rope.
+now you're at the end of the line.
 
 283
 00:14:14,640 --> 00:14:18,960
@@ -1144,7 +1144,7 @@ Stop.
 
 287
 00:14:23,280 --> 00:14:24,720
-If you say again I will be scolded.
+If you say that again, I'm going to curse.
 
 288
 00:14:25,120 --> 00:14:27,280
@@ -1168,11 +1168,11 @@ Professor Chen is really a man of character.
 
 293
 00:14:37,680 --> 00:14:40,560
-So you can stick to your faith.
+Well, you can stick to your faith.
 
 294
 00:14:41,120 --> 00:14:43,360
-I stick to my duty.
+I'll stick to my duty.
 
 295
 00:14:43,920 --> 00:14:46,240
@@ -1180,7 +1180,7 @@ Let's see.
 
 296
 00:14:46,400 --> 00:14:47,120
-Don't bother to see me out.
+Don't bother.
 
 297
 00:14:57,840 --> 00:15:06,320
@@ -1204,7 +1204,7 @@ In a straw cloak, spend my life in mist and rain.
 
 302
 00:17:29,440 --> 00:17:30,720
-It's all you want to see
+It's all you want to see.
 
 303
 00:17:32,720 --> 00:17:33,200
@@ -1264,7 +1264,7 @@ In the right context,
 
 317
 00:18:06,720 --> 00:18:08,160
-we are both in the cage.
+we are both in a cage.
 
 318
 00:18:08,960 --> 00:18:11,200
@@ -1324,7 +1324,7 @@ This is a great event.
 
 332
 00:18:40,800 --> 00:18:41,840
-You are in the cell.
+You are in a cell.
 
 333
 00:18:40,825 --> 00:18:42,945
@@ -1412,7 +1412,7 @@ It can help you
 
 354
 00:19:20,400 --> 00:19:21,840
-learn more about Marxism
+learn more about Marxism.
 
 355
 00:19:22,160 --> 00:19:23,440
@@ -1620,7 +1620,7 @@ Here.
 
 406
 00:22:47,360 --> 00:22:49,440
-Professor Chen, you really have a personality.
+Professor Chen, you really have quite a personality.
 
 407
 00:22:50,960 --> 00:22:53,840
@@ -1632,7 +1632,7 @@ There is no big piece of paper.
 
 409
 00:22:57,840 --> 00:22:59,840
-Do not do evil,
+Do no evil,
 
 410
 00:23:00,800 --> 00:23:02,240
@@ -1668,7 +1668,7 @@ You guys talk, I'll leave you alone.
 
 418
 00:23:38,000 --> 00:23:39,680
-Do not do evil,
+Do no evil,
 
 419
 00:23:41,040 --> 00:23:42,560
@@ -1760,7 +1760,7 @@ Otherwise, it will be banned immediately
 
 441
 00:25:22,880 --> 00:25:24,160
-and I'll add guilt to you.
+and I'll add more to your guilt.
 
 442
 00:25:24,800 --> 00:25:25,760
@@ -1772,7 +1772,7 @@ I can only take this approach.
 
 444
 00:25:28,320 --> 00:25:29,520
-The "Weekly Review"
+The "Weekly Review".
 
 445
 00:25:30,160 --> 00:25:32,080
@@ -1848,15 +1848,15 @@ to find a scientific way to save the country and the people.
 
 463
 00:26:14,640 --> 00:26:15,520
-The Two magazines.
+The two magazines,
 
 464
 00:26:16,080 --> 00:26:18,240
-The main idea of "New Youth" is enlightenment.
+"New Youth"'s main idea is enlightenment,
 
 465
 00:26:18,960 --> 00:26:21,360
-The "Weekly Review" guides the mass movement.
+the "Weekly Review" guides the mass movement.
 
 466
 00:26:22,080 --> 00:26:23,360
@@ -1888,7 +1888,7 @@ and talk less about socialism.
 
 473
 00:26:36,720 --> 00:26:39,440
-Brother Zhongfu, talking is wrong for the country
+Brother Zhongfu, talking is wrong for the country.
 
 474
 00:26:40,000 --> 00:26:42,320
@@ -1896,7 +1896,7 @@ This truth must be told more.
 
 475
 00:26:42,960 --> 00:26:46,480
-Shizhi, your point of view is worth squeezing.
+Shizhi, your opinion is questionable.
 
 476
 00:26:47,520 --> 00:26:49,360
@@ -1960,15 +1960,15 @@ Shizhi.
 
 491
 00:27:14,320 --> 00:27:15,200
-Three of us.
+The three of us,
 
 492
 00:27:16,640 --> 00:27:17,840
-Shouchang is a fan of Russia.
+Shouchang is a fan of Russia,
 
 493
 00:27:18,400 --> 00:27:19,520
-You are a fan of the United States.
+you are a fan of the United States,
 
 494
 00:27:20,160 --> 00:27:21,360
@@ -2080,11 +2080,11 @@ You'd better listen and go back to Shanghai.
 
 521
 00:28:39,520 --> 00:28:40,640
-My family is in this situation.
+My family, in this situation,
 
 522
 00:28:40,960 --> 00:28:41,840
-It's not good for you either
+is not good for you either
 
 523
 00:28:42,000 --> 00:28:43,520
@@ -2164,7 +2164,7 @@ there isn't much wheat left.
 
 542
 00:29:31,440 --> 00:29:33,040
-I am reluctant to eat at ordinary times.
+I am reluctant to eat in normal times.
 
 543
 00:29:33,760 --> 00:29:35,280
@@ -2172,11 +2172,11 @@ I save it for festivals.
 
 544
 00:29:35,680 --> 00:29:36,720
-Usually eaten at home,
+Usually eat it at home,
 
 545
 00:29:37,120 --> 00:29:38,720
-or sweet potato or corn.
+or eat sweet potato, corn.
 
 546
 00:29:38,880 --> 00:29:40,000
@@ -2188,7 +2188,7 @@ There are not many shops here.
 
 548
 00:29:43,120 --> 00:29:44,480
-Can you plant more and count more?
+We plant as many as we can.
 
 549
 00:29:45,440 --> 00:29:46,560
@@ -2200,7 +2200,7 @@ Usually eat less.
 
 551
 00:29:48,720 --> 00:29:51,600
-Eat dry food during the farming season and eat thin food during the day.
+Eat dry during the harvest, eat little during the day.
 
 552
 00:29:51,920 --> 00:29:54,240
@@ -2228,7 +2228,7 @@ yet the day is still so hard
 
 558
 00:30:05,360 --> 00:30:06,720
-and you have to go out and beg for food.
+having to go out and beg for food.
 
 559
 00:30:07,840 --> 00:30:10,400
@@ -2240,7 +2240,7 @@ Life.
 
 561
 00:30:11,840 --> 00:30:13,280
-Life as a horse and cow.
+A life like horses and cattle.
 
 562
 00:30:14,400 --> 00:30:15,120
@@ -2248,11 +2248,11 @@ No way out.
 
 563
 00:30:15,360 --> 00:30:16,400
-Can't compete with your types.
+Can't compete with your types,
 
 564
 00:30:16,480 --> 00:30:18,160
-A teacher who knows how to read.
+a teacher who knows how to read.
 
 565
 00:30:18,400 --> 00:30:20,560
@@ -2316,11 +2316,11 @@ The police department just sent out a message
 
 580
 00:31:14,640 --> 00:31:16,000
-and said to hold a press briefing
+that a press briefing will be held
 
 581
 00:31:16,160 --> 00:31:18,160
-to make public his situation in prison.
+to announce his situation in prison to the public.
 
 582
 00:31:19,680 --> 00:31:20,240
@@ -2356,11 +2356,11 @@ You're pretty good with him.
 
 590
 00:31:37,840 --> 00:31:38,720
-Not caring about him.
+I don't care about him.
 
 591
 00:31:40,000 --> 00:31:41,200
-I'm worried about me, auntie.
+I'm worried about my auntie.
 
 592
 00:31:43,280 --> 00:31:45,360
@@ -2456,7 +2456,7 @@ Trying to use your father as a pawn
 
 615
 00:32:43,920 --> 00:32:45,520
-to negotiate with the Southern government
+to negotiate with the Southern Government.
 
 616
 00:32:46,480 --> 00:32:47,520
@@ -2468,7 +2468,7 @@ The tripartite forces are involved in a wide range.
 
 618
 00:32:53,280 --> 00:32:54,720
-If your father is outside,
+If your father is released,
 
 619
 00:32:55,280 --> 00:32:56,480
@@ -2480,19 +2480,19 @@ in the political struggle.
 
 621
 00:32:58,560 --> 00:33:00,000
-I guess I'll have to skin it if I die.
+I guess if you don't die, you'll be skinned.
 
 622
 00:33:01,200 --> 00:33:03,440
-But as it happens, he is inside now.
+But as it happens, he is in prison now.
 
 623
 00:33:03,840 --> 00:33:05,520
-Instead, we avoided this disaster.
+Instead, this disaster was avoided.
 
 624
 00:33:06,240 --> 00:33:06,800
-That is to say
+Meaning,
 
 625
 00:33:06,960 --> 00:33:07,760
@@ -2592,7 +2592,7 @@ These dishes are all sent by fellow villagers.
 
 649
 00:33:59,360 --> 00:34:00,560
-They are working in the ground now.
+They are working in the fields now.
 
 650
 00:34:01,040 --> 00:34:02,640
@@ -2644,7 +2644,7 @@ What will be the crime?
 
 662
 00:34:55,280 --> 00:34:56,080
-How many years will it take?
+How many years will it be?
 
 663
 00:34:56,720 --> 00:34:58,880
@@ -2668,7 +2668,7 @@ Please.
 
 668
 00:35:06,800 --> 00:35:07,520
-Just introduced information
+We just received information
 
 669
 00:35:07,680 --> 00:35:09,520
@@ -2696,11 +2696,11 @@ Therefore, he received special preferential treatment.
 
 675
 00:35:21,840 --> 00:35:22,960
-Like his food.
+For example, his food
 
 676
 00:35:23,360 --> 00:35:25,520
-It refers to the standards of the first-class superintendent.
+is based on the standard of a first-class police superintendent.
 
 677
 00:35:26,720 --> 00:35:27,760
@@ -2744,7 +2744,7 @@ Director Wu,
 
 687
 00:35:50,800 --> 00:35:52,960
-the media in Beijing are eager to form a group.
+the media in Beijing are eager to form a group
 
 688
 00:35:53,120 --> 00:35:54,480
@@ -2772,11 +2772,11 @@ During the investigation period,
 
 694
 00:36:03,840 --> 00:36:04,640
-no interview.
+no interview,
 
 695
 00:36:04,720 --> 00:36:05,680
-Do not publish articles.
+not publishing of articles.
 
 696
 00:36:06,000 --> 00:36:07,120
@@ -2864,11 +2864,11 @@ Another place is Chaozhou, Guangdong.
 
 717
 00:37:06,080 --> 00:37:07,680
-Mr. Han Yu was there once.
+Mr. Han Yu lived there
 
 718
 00:37:07,760 --> 00:37:08,800
-Lived for a while.
+for a while.
 
 719
 00:37:09,680 --> 00:37:12,080
@@ -2944,7 +2944,7 @@ all critics of Confucius?
 
 737
 00:37:44,560 --> 00:37:46,720
-The criticism of Confucius is political respect for Confucius.
+Criticism of Confucius is political respect for Confucius.
 
 738
 00:37:47,520 --> 00:37:48,720
@@ -3204,7 +3204,7 @@ the police department didn't find
 
 802
 00:39:54,320 --> 00:39:55,600
-any evidence of his breaking the law.
+any evidence of him breaking the law.
 
 803
 00:39:56,080 --> 00:39:57,120
@@ -3236,7 +3236,7 @@ A few days ago,
 
 810
 00:40:07,760 --> 00:40:10,640
-All-China Federation of Students has decided to end the strike.
+the National Federation of Students has decided to end the strike.
 
 811
 00:40:10,880 --> 00:40:12,480
@@ -3296,7 +3296,7 @@ Great!
 
 825
 00:40:41,680 --> 00:40:44,000
-Students
+Students.
 
 826
 00:40:45,440 --> 00:40:47,520
