@@ -8,7 +8,7 @@
 
 3
 00:00:12,320 --> 00:00:12,880
-classmates
+My fellow students.
 
 4
 00:00:14,480 --> 00:00:17,760
@@ -20,11 +20,11 @@ The May 4th Movement was great.
 
 6
 00:00:21,680 --> 00:00:22,960
-Then I want to ask my classmates about the price.
+Here, I want to ask you a question.
 
 7
 00:00:24,000 --> 00:00:27,360
-What is the greatness of the May 4th Movement?
+Why is May 4th Movement great?
 
 8
 00:00:28,160 --> 00:00:30,400
@@ -32,11 +32,11 @@ Large scale and large number of people
 
 9
 00:00:30,800 --> 00:00:33,200
-Then all walks of life took part.
+Also all walks of life took part.
 
 10
 00:00:34,640 --> 00:00:35,600
-Qun was right first.
+Qunxian was right.
 
 11
 00:00:36,640 --> 00:00:37,600
@@ -44,43 +44,43 @@ But I thought
 
 12
 00:00:38,480 --> 00:00:40,160
-The most important point of the May 4th Movement
+the most important thing about the May 4th Movement,
 
 13
 00:00:40,800 --> 00:00:44,080
-Is that it is a war against feudalism.
+is that it is a war against feudalism,
 
 14
 00:00:44,480 --> 00:00:45,920
-And against imperialism.
+also a war against imperialism.
 
 15
 00:00:46,320 --> 00:00:48,960
-Mass patriotic self-help movement
+With mass patriotic people voluntarily participated, tried to save themselves.
 
 16
 00:00:50,480 --> 00:00:51,440
-In recent days
+These few days,
 
 17
 00:00:52,400 --> 00:00:54,720
-I reflected on the inside of Hanwengong Temple.
+I was buried in thoughts sitting in the ancestral temple of HanYu.
 
 18
 00:00:56,000 --> 00:00:57,120
-I realized a truth.
+I realized something,
 
 19
 00:00:58,560 --> 00:01:00,080
-If China wants to develop
+that if China seeks development,
 
 20
 00:01:00,880 --> 00:01:04,080
-I'm afraid I have to take the road of Russian revolution. 
+then the path of Russian revolution should be adpoted. 
 
 21
 00:01:04,640 --> 00:01:06,720
-This is the inspiration of the May 4th Movement. 
+That is the inspiration of the May 4th Movement. 
 
 22
 00:01:08,400 --> 00:01:09,440
@@ -88,43 +88,43 @@ Everyone is here today.
 
 23
 00:01:10,160 --> 00:01:12,000
-I just propose
+I propose
 
 24
 00:01:12,400 --> 00:01:15,360
-Let's restore the reading class in the Red Chamber.
+Let's restart the reading class in the Red Chamber here.
 
 25
 00:01:16,000 --> 00:01:17,600
-Let's study it carefully.
+Let's study together and think thoroughly.
 
 26
 00:01:18,080 --> 00:01:20,560
-Which road should China take in the future?
+Which path can lead to a better China?
 
 27
 00:01:21,040 --> 00:01:21,600
-is it all right
+Sounds good?
 
 28
 00:01:21,920 --> 00:01:22,800
-nicely
+Yes.
 
 29
 00:01:27,920 --> 00:01:28,800
-延年兄
+Brother Yannian.
 
 30
 00:01:28,960 --> 00:01:30,480
-Why don't we just sit on this Wufeng Mountain? 
+Why don't we have a debate right here on the Wufeng Mt.
 
 31
 00:01:30,560 --> 00:01:33,440
-Come to a vigorous Marxism
+A vigorous debate between Marxism
 
 32
 00:01:33,680 --> 00:01:35,440
-A big debate with anarchism
+and anarchism.
 
 33
 00:01:36,080 --> 00:01:36,960
@@ -132,11 +132,11 @@ Do you dare to take it?
 
 34
 00:01:37,360 --> 00:01:38,480
-There's nothing to be afraid of.
+Of course I will.
 
 35
 00:01:39,200 --> 00:01:39,920
-take sb. on right to very end
+To the very end.
 
 36
 00:01:40,000 --> 00:01:40,400
@@ -144,7 +144,7 @@ good
 
 37
 00:01:41,520 --> 00:01:43,040
-You talk about controversy.
+Speaking of which,
 
 38
 00:01:44,480 --> 00:01:45,360
@@ -152,39 +152,39 @@ Mr. Hu Shi
 
 39
 00:01:45,680 --> 00:01:46,960
-In the recent Weekly Review
+published an article
 
 40
 00:01:47,120 --> 00:01:48,080
-Published an article.
+in the latest Weekly Review.
 
 41
 00:01:48,560 --> 00:01:49,440
-The name is.
+Title
 
 42
 00:01:50,000 --> 00:01:52,160
-Study more problems and talk less about socialism
+"Focus more on actual problem, less on abstract doctrine."
 
 43
 00:01:52,720 --> 00:01:53,760
-It caused quite a response.
+It caused wide response.
 
 44
 00:01:54,960 --> 00:01:55,680
-Gongwu
+Lan Gongwu
 
 45
 00:01:56,000 --> 00:01:57,360
-Lan Gong of the research department
+the one from the research department,
 
 46
 00:01:57,840 --> 00:01:58,960
-Also in the National Gazette.
+also published an article
 
 47
 00:01:59,040 --> 00:02:00,000
-Published an article.
+in the National Gazette.
 
 48
 00:02:00,480 --> 00:02:02,560
@@ -192,7 +192,7 @@ It's called "Problems and Doctrine"
 
 49
 00:02:03,360 --> 00:02:05,760
-His article with Hu Shi caused controversy.
+These two articles caused quite a controversy now
 
 50
 00:02:06,560 --> 00:02:07,600
@@ -204,63 +204,63 @@ I visited Mr. Zhongfu.
 
 52
 00:02:09,440 --> 00:02:10,960
-He's a little ambiguous. 
+He's a little ambiguous on this issue. 
 
 53
 00:02:11,360 --> 00:02:14,160
-I don't seem to agree with Mr. Hu Shi. 
+He doesn't agree with Mr Hushi,
 
 54
 00:02:14,800 --> 00:02:17,040
-I also don't think Lan Gongwu is convincing.
+but he also doesn't think Lan Gongwu's words are convincing enough.
 
 55
 00:02:17,760 --> 00:02:20,160
-So you want me to invite Mr. Shouchang
+So he asked me to turn to Mr. Shouchang for some advice.
 
 56
 00:02:20,480 --> 00:02:21,520
-Take a look at this article
+Please take a look at this article
 
 57
 00:02:34,240 --> 00:02:34,800
-classmates
+Students.
 
 58
 00:02:35,920 --> 00:02:38,080
-I think we should carry out Marxism now.
+I think it is too early for a debate
 
 59
 00:02:38,560 --> 00:02:40,000
-On anarchism.
+between Marxism
 
 60
 00:02:40,800 --> 00:02:41,840
-It's a little early.
+and anarchism.
 
 61
 00:02:42,480 --> 00:02:43,200
-I suggest
+I reckon
 
 62
 00:02:44,320 --> 00:02:45,680
-Let's discuss it first.
+we should discuss this first.
 
 63
 00:02:46,480 --> 00:02:50,000
-Mr. Hu Shi question and doctrine
+This problem and doctrine from Mr. Hu Shi. 
 
 64
 00:02:56,720 --> 00:02:57,600
-史鸷先生
+To Mr. Shizhi.
 
 65
 00:02:58,320 --> 00:02:59,680
-
+I have read your article
 
 66
 00:02:59,760 --> 00:03:01,520
-The paper published on the 31st. 
+from the paper came out on the 31st. 
 
 67
 00:03:02,480 --> 00:03:03,520
@@ -268,31 +268,31 @@ The title is
 
 68
 00:03:03,760 --> 00:03:06,320
-Study more problems and talk less about socialism
+"focus more on actual problem, less on abstract doctrine"
 
 69
 00:03:07,040 --> 00:03:08,560
-Some feelings happened.
+Inspired by which, I have some thoughts now.
 
 70
 00:03:09,680 --> 00:03:10,800
-Some of them.
+Some
 
 71
 00:03:11,040 --> 00:03:13,920
-Or can be invented with Mr. Wang's ideas.
+might can relate to your view,
 
 72
 00:03:14,720 --> 00:03:17,600
-
+some is what I want to tell the whole society.
 
 73
 00:03:18,560 --> 00:03:20,080
-Now write them out one by one.
+Now I write them all down.
 
 74
 00:03:20,560 --> 00:03:22,080
-Please correct me, sir
+Please share your thoughts on this with me.
 
 75
 00:03:23,120 --> 00:03:23,840
@@ -300,11 +300,11 @@ Fellow students
 
 76
 00:03:24,320 --> 00:03:25,440
-Leave you at school.
+I asked you to stay at school.
 
 77
 00:03:25,920 --> 00:03:28,480
-Because there's something brewing.
+Because there's something ongoing now might affect you.
 
 78
 00:03:29,200 --> 00:03:30,160
@@ -312,55 +312,55 @@ Everyone knows
 
 79
 00:03:30,560 --> 00:03:31,280
-May 4th period
+during the May 4th movement,
 
 80
 00:03:31,680 --> 00:03:32,720
-Mr. Mu Ouchu of Shanghai
+Mr. Mu Ouchu from Shanghai
 
 81
 00:03:33,440 --> 00:03:34,960
-Donate to our Peking University.
+made a donation to Peking University,
 
 82
 00:03:35,280 --> 00:03:36,400
-Hundreds of thousands of oceans
+a huge amount of money.
 
 83
 00:03:36,880 --> 00:03:38,080
-But the student union didn't ask for it.
+But the student union didn't take it.
 
 84
 00:03:38,960 --> 00:03:41,360
-And now my senior brother, Mr. Jiang Menglin
+Now, my senior alumnu, Mr. Jiang Menglin
 
 85
 00:03:41,760 --> 00:03:43,120
-Entrusted by Mr. Cai
+entrusted by Mr. Cai
 
 86
 00:03:43,440 --> 00:03:44,880
-Escrow Peking University
+manages Peking University.
 
 87
 00:03:45,440 --> 00:03:46,560
-I asked him.
+So I asked him.
 
 88
 00:03:46,720 --> 00:03:47,920
-Can I use this money?
+Can we use this money?
 
 89
 00:03:50,640 --> 00:03:51,840
-Can I use this sum of money?
+Can we use it
 
 90
 00:03:52,560 --> 00:03:56,000
-To support potential students left in Peking University.
+To support students with potentials in Peking University
 
 91
 00:03:56,720 --> 00:03:58,000
-Go to America for further study. 
+to study abroad in the States.
 
 92
 00:03:58,720 --> 00:03:59,920
@@ -368,63 +368,63 @@ Mr. Jiang agreed.
 
 93
 00:04:00,240 --> 00:04:01,520
-You are all the subjects of investigation.
+You here are all possible candidates.
 
 94
 00:04:01,840 --> 00:04:04,160
-So I left you in the school.
+So I kept you late today.
 
 95
 00:04:10,240 --> 00:04:11,920
-Actually, I'll call everyone here today.
+However, there is another reason 
 
 96
 00:04:12,800 --> 00:04:14,160
-There is another thing to talk about.
+for having you all here today.
 
 97
 00:04:15,760 --> 00:04:16,960
-You've seen it.
+I believe that
 
 98
 00:04:17,280 --> 00:04:18,240
-I'm in the Weekly Review
+you have all read my article
 
 99
 00:04:18,320 --> 00:04:19,520
-It was written on the 31st.
+from Weekly Review came out on th 31st.
 
 100
 00:04:20,080 --> 00:04:23,200
-Study more problems and talk less about socialism
+"Focus more on actual problem, less on abstract doctrine"
 
 101
 00:04:23,520 --> 00:04:24,880
-Everyone is the May Fourth Movement.
+Everyone here played vital role in the May Fourth Movement.
 
 102
 00:04:25,040 --> 00:04:27,920
-So I want to talk to you about this article.
+I want to talk to you about this article.
 
 103
 00:04:28,720 --> 00:04:29,760
-Since the May 4th Movement
+Since the May 4th Movement,
 
 104
 00:04:30,000 --> 00:04:31,200
-Many new molecules.
+many people
 
 105
 00:04:31,840 --> 00:04:33,760
-Shut up about specific political issues.
+don't talk about specific political issues.
 
 106
 00:04:34,240 --> 00:04:36,160
-Instead, talk about Marxism.
+Instead, they only blabber about Marxism
 
 107
 00:04:36,480 --> 00:04:37,680
-And anarchism.
+and anarchism.
 
 108
 00:04:38,080 --> 00:04:38,960
@@ -440,11 +440,11 @@ Because I am a believer in experimentalism.
 
 111
 00:04:44,400 --> 00:04:46,480
-So I got angry and wanted to talk about politics.
+I felt provoked, so I want to talk about politics now.
 
 112
 00:04:47,040 --> 00:04:48,480
-So there is this article.
+Which resulted in that article.
 
 113
 00:04:49,200 --> 00:04:51,520
@@ -452,55 +452,55 @@ I think there is a great danger now.
 
 114
 00:04:52,000 --> 00:04:54,880
-That is the doctrine of empty talk about foreign imports.
+That is the empty talk on imported doctrine,
 
 115
 00:04:55,360 --> 00:04:57,440
-Theory biased towards foreign paper
+and the clueless bias towards theory from foreign paper.
 
 116
 00:04:58,000 --> 00:04:59,440
-Instead of actually investigating.
+Instead of actually investigating
 
 117
 00:04:59,680 --> 00:05:02,400
-What does he need in China today? 
+on what does China today really need. 
 
 118
 00:05:17,920 --> 00:05:18,480
-classmates
+Students.
 
 119
 00:05:18,960 --> 00:05:20,720
-I read Mr Hu Shi's article.
+I have read the article.
 
 120
 00:05:21,600 --> 00:05:24,240
-Study more problems and talk less about socialism
+"Focus more on actual problem, less on abstract doctrine."
 
 121
 00:05:24,320 --> 00:05:24,880
-The article.
+from Mr. Hu shi.
 
 122
 00:05:25,920 --> 00:05:28,000
-I think there are several important issues.
+I think there are several important issues
 
 123
 00:05:28,560 --> 00:05:29,920
-I need to clarify with you.
+that I need to clarify with you.
 
 124
 00:05:30,640 --> 00:05:32,800
-So I made this article.
+So I wrote this article
 
 125
 00:05:34,400 --> 00:05:35,520
-Take this topic.
+in this title here.
 
 126
 00:05:35,600 --> 00:05:36,560
-寿昌先生
+Mr. Shouchang
 
 127
 00:05:36,880 --> 00:05:38,880
@@ -508,2768 +508,2728 @@ Why is that called reconsideration?
 
 128
 00:05:39,520 --> 00:05:43,280
-Because Lan Gongwu is in the National Gazette. 
+Because Lan Gongwu has already published his article on this topic
 
 129
 00:05:43,600 --> 00:05:46,320
-Published the article "Problems and Doctrine" 
+in the National Gazette. 
 
 130
 00:05:46,800 --> 00:05:47,920
-So this one of mine
+So my one
 
 131
 00:05:48,240 --> 00:05:49,760
-It can only be called Sao theory.
+is the second consideration.
 
 132
 00:05:50,240 --> 00:05:51,120
-First of all, a little
+First of all, 
 
 133
 00:05:51,360 --> 00:05:53,200
-I disagree, Mr. Hu Shi 
+I disagree with his view
 
 134
 00:05:54,080 --> 00:05:55,520
-The viewpoint of less talk.
+that we should focus less on doctrine.
 
 135
 00:05:55,760 --> 00:05:56,800
-Because of the current medium voltage
+Given the current situation in China,
 
 136
-00:05:56,880 --> 00:05:56,880
-
+00:05:57,760 --> 00:05:59,360
+the most urgent matter for us
 
 137
-00:05:57,760 --> 00:05:59,360
-What we need to do as a matter of urgency.
+00:06:00,000 --> 00:06:02,880
+is to find a way to save the country 
 
 138
-00:06:00,000 --> 00:06:02,880
-Is to find a way to save the country 
+00:06:03,600 --> 00:06:04,960
+Without doctrine and theory,
 
 139
-00:06:03,600 --> 00:06:04,960
-Absolutism and scientific theory
+00:06:05,360 --> 00:06:06,800
+there is no direction.
 
 140
-00:06:05,360 --> 00:06:06,800
-There is no direction.
+00:06:07,280 --> 00:06:09,680
+Looking for a new road without a guide flag
 
 141
-00:06:07,280 --> 00:06:09,680
-Looking for a new road without a guide flag.
+00:06:10,080 --> 00:06:12,080
+we may go down a wrong path or worse,
 
 142
-00:06:10,080 --> 00:06:12,080
-You may go down a wrong path. 
+00:06:12,720 --> 00:06:14,080
+a dead end.
 
 143
-00:06:12,720 --> 00:06:14,080
-Even a dead end.
-
-144
 00:06:14,480 --> 00:06:15,520
 Therefore, doctrine
 
-145
+144
 00:06:15,840 --> 00:06:16,800
-Is always important.
+is curcial.
+
+145
+00:06:17,360 --> 00:06:17,760
+Sir
 
 146
-00:06:17,360 --> 00:06:17,760
-sir
-
-147
 00:06:18,160 --> 00:06:19,760
 I have read Mr Hu Shi's article.
 
-148
+147
 00:06:20,240 --> 00:06:21,840
-He said he felt it deeply.
+He said he felt it deeply,
+
+148
+00:06:22,080 --> 00:06:22,800
+the danger behind doctrine.
 
 149
-00:06:22,080 --> 00:06:22,800
-The danger of socialism
+00:06:23,520 --> 00:06:26,160
+That danger Mr. Hu Shi talked about,
 
 150
-00:06:23,520 --> 00:06:26,160
-Mr. Hu Shi talked about the danger of socialism.
+00:06:26,640 --> 00:06:28,880
+I'm afraid it's not caused by doctrine.
 
 151
-00:06:26,640 --> 00:06:28,880
-I'm afraid it's not socialism itself.
+00:06:29,200 --> 00:06:30,160
+What brought it then?
 
 152
-00:06:29,200 --> 00:06:30,160
-What brought it?
+00:06:30,480 --> 00:06:32,640
+Those who only blabber about doctrine.
 
 153
-00:06:30,480 --> 00:06:32,640
-Who are those who talk about it?
+00:06:33,120 --> 00:06:35,120
+I remember Mr. Zhongfu once said that
 
 154
-00:06:33,120 --> 00:06:35,120
-I remember Mr. Zhongfu once said a word
+00:06:35,760 --> 00:06:37,840
+what China today desperatly needs
 
 155
-00:06:35,760 --> 00:06:37,840
-Talking about China today
+00:06:38,960 --> 00:06:41,920
+is a theory that can save the nation. 
 
 156
-00:06:38,960 --> 00:06:41,920
-What is needed most is the theory of saving the nation. 
-
-157
 00:06:42,240 --> 00:06:43,760
 So what's the theory, students?
 
-158
+157
 00:06:45,120 --> 00:06:46,240
 Theory is doctrine.
 
-159
+158
 00:06:46,880 --> 00:06:48,480
-So if China wants to develop
+If China wants to develop,
+
+159
+00:06:48,640 --> 00:06:50,720
+We must find an advanced theory,
 
 160
-00:06:48,640 --> 00:06:50,720
-We must find an advanced theory.
+00:06:51,280 --> 00:06:52,240
+a doctrine.
 
 161
-00:06:51,280 --> 00:06:52,240
-Is doctrine.
+00:06:52,800 --> 00:06:53,920
+Mr. Hu Shi said that
 
 162
-00:06:52,800 --> 00:06:53,920
-Mr. Hu Shi
+00:06:54,320 --> 00:06:56,560
+there is fake socialism.
 
 163
-00:06:54,320 --> 00:06:56,560
-Socialism is fake.
-
-164
 00:06:57,360 --> 00:06:58,480
 So we can't talk about it.
 
-165
+164
 00:06:59,120 --> 00:07:01,680
 I don't agree with this either.
 
-166
+165
 00:07:02,560 --> 00:07:04,160
-It is true that today's society
+It is true that now
+
+166
+00:07:04,640 --> 00:07:07,040
+there are all kinds of socialism being spread around.
 
 167
-00:07:04,640 --> 00:07:07,040
-There are all kinds of socialism in vogue.
+00:07:07,680 --> 00:07:08,960
+There is the scientific socialism
 
 168
-00:07:07,680 --> 00:07:08,960
-There is something we promote.
+00:07:09,120 --> 00:07:10,320
+which we promote.
 
 169
-00:07:09,120 --> 00:07:10,320
-scientific socialism
+00:07:10,720 --> 00:07:12,240
+There is also An-Fu group's socialism,
 
 170
-00:07:10,720 --> 00:07:12,240
-An-Fu's Socialism
+00:07:12,480 --> 00:07:15,200
+also, all kinds of incorrect socialism.
 
 171
-00:07:12,480 --> 00:07:15,200
-All kinds of fake socialism
-
-172
 00:07:15,600 --> 00:07:18,880
 It really tarnished the reputation of scientific socialism.
 
-173
+172
 00:07:19,360 --> 00:07:21,680
-But for us to seek the truth
+But for who wants to seek the truth,
+
+173
+00:07:21,760 --> 00:07:23,760
+for who wants to save the country,
 
 174
-00:07:21,760 --> 00:07:23,760
-For those who seek to save the country.
+00:07:24,320 --> 00:07:26,560
+how can you give up the pursuit of scientific truth
 
 175
-00:07:24,320 --> 00:07:26,560
-How can you give up just because there is an impostor? 
+00:07:26,640 --> 00:07:28,400
+just because there is impostors? 
 
 176
-00:07:26,640 --> 00:07:28,400
-What about the pursuit of scientific truth?
-
-177
 00:07:28,800 --> 00:07:29,200
 right
 
-178
+177
 00:07:29,440 --> 00:07:30,960
-We can't let the Anfu family
+We cannot stop pursuing the truth
+
+178
+00:07:31,120 --> 00:07:32,400
+just because those An Fu people
 
 179
-00:07:31,120 --> 00:07:32,400
-They also talk about socialism. 
+00:07:32,640 --> 00:07:34,000
+are promoting their version of socialism.
 
 180
-00:07:32,640 --> 00:07:34,000
-Stop pursuing the truth. 
+00:07:34,480 --> 00:07:37,680
+The whole "less on doctrine" view of Mr. Hu shi
 
 181
-00:07:34,480 --> 00:07:37,680
-Mr. Hu Shi advocated less talk about socialism and more solutions to problems. 
+00:07:38,400 --> 00:07:40,400
+is actually against solving China's current problems
 
 182
-00:07:38,400 --> 00:07:40,400
-Actually, it's against it. Fundamentally
+00:07:40,480 --> 00:07:41,680
+fundamentally.
 
 183
-00:07:40,480 --> 00:07:41,680
-Solve China's problems
+00:07:41,920 --> 00:07:43,360
+Moreover, it is treating those who seek fundamental solution
 
 184
-00:07:41,920 --> 00:07:43,360
-And this fundamental solution
+00:07:43,600 --> 00:07:45,920
+as dangerous extremist. 
 
 185
-00:07:43,600 --> 00:07:45,920
-As dangerous extremism. 
+00:07:46,080 --> 00:07:47,360
+He wants people to focus more on problems,
 
 186
-00:07:46,080 --> 00:07:47,360
-
+00:07:48,160 --> 00:07:50,000
+which is actually advocating improvement over full-scale change.
 
 187
-00:07:48,160 --> 00:07:50,000
-Is essentially advocating improvement.
+00:07:50,640 --> 00:07:52,320
+It's putting band-aid on an open wound instead of healing it completely.
 
 188
-00:07:50,640 --> 00:07:52,320
-Do not touch the reactionary foundation.
+00:07:53,040 --> 00:07:55,600
+It is wrong and won't work.
 
 189
-00:07:53,040 --> 00:07:55,600
-This is wrong and won't work.
-
-190
 00:07:56,480 --> 00:07:59,520
 Everyone knows that under the dark rule of Beiyang government 
 
-191
+190
 00:07:59,600 --> 00:08:01,840
 China is a lifeless country.
 
-192
+191
 00:08:02,240 --> 00:08:03,520
-Withered society
+A withered society.
+
+192
+00:08:04,080 --> 00:08:06,160
+They would go as far as to turn a school into a prison
 
 193
-00:08:04,080 --> 00:08:06,160
-How dare he turn the school into a prison?
+00:08:06,560 --> 00:08:08,400
+to hold patriotic students.
 
 194
-00:08:06,560 --> 00:08:08,400
-Used to hold patriotic students.
-
-195
 00:08:08,880 --> 00:08:10,000
 In such a society
 
-196
+195
 00:08:10,400 --> 00:08:12,400
-What practical problems can you solve?
+what practical problems can you solve?
+
+196
+00:08:12,960 --> 00:08:15,200
+Use all and every tool you have, but there is still no way 
 
 197
-00:08:12,960 --> 00:08:15,200
-When you use any tool, there is no way to make it 
+00:08:15,280 --> 00:08:16,400
+to bring the hope back.
 
 198
-00:08:15,280 --> 00:08:16,400
-At the time of resurrection
+00:08:17,120 --> 00:08:18,080
+I'm afraid at time like this,
 
 199
-00:08:17,120 --> 00:08:18,080
-I'm afraid we must
+00:08:18,160 --> 00:08:19,920
+we have to find a fundamental solution,
 
 200
-00:08:18,160 --> 00:08:19,920
-There is a fundamental solution.
+00:08:20,480 --> 00:08:23,760
+that's the only hope for the actual problems to be solved.
 
 201
-00:08:20,480 --> 00:08:23,760
-There is hope that all the specific problems will be solved.
+00:08:24,800 --> 00:08:25,360
+Sir
 
 202
-00:08:24,800 --> 00:08:25,360
-sir
-
-203
 00:08:26,240 --> 00:08:28,160
 I wonder if there is a successful case.
 
-204
+203
 00:08:28,480 --> 00:08:31,040
-It is to talk about socialism before solving practical problems. 
+One that focused on doctrine before solving actual problems.
 
-205
+204
 00:08:31,760 --> 00:08:32,400
 yes
 
-206
+205
 00:08:33,200 --> 00:08:34,240
-As far as Russia is concerned
+Take Russia as an example.
+
+206
+00:08:34,960 --> 00:08:37,600
+The means of production shall be owned by the people. 
 
 207
-00:08:34,960 --> 00:08:37,600
-The means of production shall be owned by all the people. 
-
-208
 00:08:38,320 --> 00:08:40,400
 This is the principle of socialism.
 
-209
+208
 00:08:41,280 --> 00:08:43,600
-Problems that could not be solved by any society in the past. 
+All those problems that could not be solved in the past, 
+
+209
+00:08:44,240 --> 00:08:46,800
+now solved.
 
 210
-00:08:44,240 --> 00:08:46,800
-Now it's all solved.
-
-211
 00:08:47,600 --> 00:08:49,200
 According to Marxist historical materialism
 
-212
+211
 00:08:49,680 --> 00:08:51,440
 The foundation of human society is economy.
 
-213
+212
 00:08:51,680 --> 00:08:52,480
-legal question
+Issues regarding law,
+
+213
+00:08:52,800 --> 00:08:53,680
+economic
 
 214
-00:08:52,800 --> 00:08:53,680
-economic problem
+00:08:53,920 --> 00:08:54,640
+and community
 
 215
-00:08:53,920 --> 00:08:54,640
-Family problems
+00:08:54,880 --> 00:08:56,240
+things abstract.
 
 216
-00:08:54,880 --> 00:08:56,240
-Wait, mental structure
+00:08:56,720 --> 00:09:00,240
+These are all like the surface structures of a building.
 
 217
-00:08:56,720 --> 00:09:00,240
-All belong to the surface structure of superstructure.
+00:09:00,720 --> 00:09:02,560
+Underneath all these structures,
 
 218
-00:09:00,720 --> 00:09:02,560
-Then the lower side of these superstructures
+00:09:03,120 --> 00:09:04,400
+there is the economic. 
 
 219
-00:09:03,120 --> 00:09:04,400
-There is an economic structure. 
+00:09:05,120 --> 00:09:06,720
+Economic is the foundation.
 
 220
-00:09:05,120 --> 00:09:06,720
-Economic structure is their foundation.
+00:09:07,280 --> 00:09:09,200
+If the economic structure ever moves,
 
 221
-00:09:07,280 --> 00:09:09,200
-Once the economic structure changes
+00:09:10,240 --> 00:09:12,400
+then all the above structures will shatter.
 
 222
-00:09:10,240 --> 00:09:12,400
-The above structure will also change.
+00:09:13,040 --> 00:09:14,160
+So in other words,
 
 223
-00:09:13,040 --> 00:09:14,160
-So in other words
+00:09:14,640 --> 00:09:17,600
+the economic problem is the fundamental problem.
 
 224
-00:09:14,560 --> 00:09:14,560
-
+00:09:18,160 --> 00:09:20,160
+So once the economic problem is solved,
 
 225
-00:09:14,640 --> 00:09:17,600
-The economic problem is the fundamental problem.
+00:09:20,880 --> 00:09:24,160
+then all the other issues
 
 226
-00:09:18,160 --> 00:09:20,160
-So once the economic problems are solved
+00:09:24,800 --> 00:09:26,160
+like politic, law, community
 
 227
-00:09:20,880 --> 00:09:24,160
-What political issues, legal issues?
+00:09:26,480 --> 00:09:27,600
+women's liberation
 
 228
-00:09:24,800 --> 00:09:26,160
-Family system problem
+00:09:28,000 --> 00:09:28,960
+and issue regarding workers
 
 229
-00:09:26,480 --> 00:09:27,600
-Women's liberation
+00:09:29,200 --> 00:09:30,800
+can all be settled.
 
 230
-00:09:28,000 --> 00:09:28,960
-Worker problem
-
-231
-00:09:29,200 --> 00:09:30,800
-It's all settled.
-
-232
 00:09:31,280 --> 00:09:33,680
 Sir, could you speak more slowly?
 
-233
+231
 00:09:34,160 --> 00:09:35,360
-We can't remember it a bit.
+We can't catch up to you.
+
+232
+00:09:36,080 --> 00:09:38,000
+I noticed that your have so many new insights 
+
+233
+00:09:38,240 --> 00:09:39,280
+in Marxism recently.
 
 234
-00:09:36,080 --> 00:09:38,000
-I find that you are interested in Marxism recently.
+00:09:39,600 --> 00:09:40,160
+I'm working on
 
 235
-00:09:38,240 --> 00:09:39,280
-There are many new ideas. 
+00:09:40,240 --> 00:09:41,840
+the second part of <My View of Marxism>
 
 236
-00:09:39,600 --> 00:09:40,160
-I'm writing
-
-237
-00:09:40,240 --> 00:09:41,840
-The second part of My View of Marxism
-
-238
 00:09:42,400 --> 00:09:43,280
 That topic just now
 
-239
+237
 00:09:43,840 --> 00:09:45,360
-Let's talk in detail sometime.
+we will talk about it sometime.
+
+238
+00:09:46,000 --> 00:09:47,280
+But not today.
+
+239
+00:09:47,840 --> 00:09:50,240
+Today I want to talk to you about Bolshevism.
 
 240
-00:09:46,000 --> 00:09:47,280
-But I don't want to talk about it today.
+00:09:51,120 --> 00:09:52,000
+I have declared publicly that
 
 241
-00:09:47,840 --> 00:09:50,240
-I want to talk to you about Bolshevism.
+00:09:52,560 --> 00:09:54,640
+I am fond of Bolshevism very much.
 
 242
-00:09:51,120 --> 00:09:52,000
-I declare publicly that
+00:09:55,280 --> 00:09:58,320
+The day when the Allies won,
 
 243
-00:09:52,560 --> 00:09:54,640
-I like Bolshevism very much.
+00:09:58,720 --> 00:09:59,760
+I wrote an article.
 
 244
-00:09:55,280 --> 00:09:58,320
-Remember the day when the Allies won.
-
-245
-00:09:58,720 --> 00:09:59,760
-I made an article.
-
-246
 00:10:00,080 --> 00:10:01,520
 It's called "The Victory of Bolshevism"
 
-247
+245
 00:10:02,160 --> 00:10:03,360
-On the "new youth"
+Published on the "new youth"
+
+246
+00:10:04,080 --> 00:10:07,120
+The translation for bolshevism is wrong,
+
+247
+00:10:07,200 --> 00:10:09,360
+it's translated to radicalism and maybe that's why
 
 248
-00:10:04,080 --> 00:10:07,120
-Maybe it's because someone in Japan put Bolshevism
+00:10:10,480 --> 00:10:13,520
+some people say it is a kind of cruel doctrine. 
 
 249
-00:10:07,200 --> 00:10:09,360
-Translate into the source of radicalism
+00:10:13,920 --> 00:10:15,680
+That's absurd.
 
 250
-00:10:10,480 --> 00:10:13,520
-Some people say it is a kind of cruel doctrine. 
-
-251
-00:10:13,920 --> 00:10:15,680
-
-
-252
 00:10:16,800 --> 00:10:18,080
 I have a strong feeling.
 
-253
+251
 00:10:18,240 --> 00:10:19,920
 The popularity of Bolshevism
 
-254
+252
 00:10:20,480 --> 00:10:22,880
-Is a great change in our human culture.
+is a great turning point in the human culture.
 
-255
+253
 00:10:23,600 --> 00:10:24,800
 We should introduce it.
 
-256
+254
 00:10:26,320 --> 00:10:27,680
-We should study it.
+We should study it
+
+255
+00:10:28,160 --> 00:10:29,920
+and spread it to human society.
+
+256
+00:10:30,720 --> 00:10:32,560
+Just because there all some rumors about it, 
 
 257
-00:10:28,160 --> 00:10:29,920
-And spread it to human society.
+00:10:33,200 --> 00:10:36,240
+doesn't mean we should just believe that and treat Bolshevism negatively.
 
 258
-00:10:30,720 --> 00:10:32,560
-Don't listen to other people's rumors about it
+00:10:36,800 --> 00:10:37,920
+Or even eliminate it.
 
 259
-00:10:33,200 --> 00:10:36,240
-Treat it with cruel and rude words.
+00:10:38,640 --> 00:10:39,760
+Some time ago, some people said that
 
 260
-00:10:36,800 --> 00:10:37,920
-Wipe it all out.
-
-261
-00:10:38,640 --> 00:10:39,760
-Some time ago, someone said
-
-262
 00:10:40,240 --> 00:10:41,040
 After the October Revolution
 
-263
+261
 00:10:41,280 --> 00:10:43,040
-Krupotkin was shot.
+Krupotkin was exterminated.
+
+262
+00:10:43,120 --> 00:10:44,640
+But recently there are reports from the West say that
+
+263
+00:10:45,200 --> 00:10:46,800
+he is safe and sound somewhere near Moscow.
 
 264
-00:10:43,120 --> 00:10:44,640
-But recent European and American reports say
+00:10:48,400 --> 00:10:50,160
+This incident helped clarifying one thing for us.
 
 265
-00:10:45,200 --> 00:10:46,800
-He is safe and sound near Moscow.
-
-266
-00:10:48,400 --> 00:10:50,160
-This makes us see more clearly.
-
-267
 00:10:50,240 --> 00:10:51,760
 A question.
 
-268
+266
 00:10:52,400 --> 00:10:54,320
 What is Bolshevism?
 
-269
+267
 00:10:54,880 --> 00:10:56,560
-Those who advocate not talking about socialism
+Those who advocate not talking about doctrine,
+
+268
+00:10:57,200 --> 00:10:59,600
+what they aim at is to against Bolshevism,
+
+269
+00:11:00,080 --> 00:11:02,240
+to against the scentific principles.
 
 270
-00:10:57,200 --> 00:10:59,600
-Since it is against Bolshevism.
+00:11:02,960 --> 00:11:04,880
+With people like that around, what shall we do then?
 
 271
-00:11:00,080 --> 00:11:02,240
-What is opposed is the truth of science.
+00:11:06,240 --> 00:11:08,160
+Promoting an abstract dotrine and studying into the practical problems,
 
 272
-00:11:02,960 --> 00:11:04,880
-In this case, how can we
+00:11:08,240 --> 00:11:11,280
+they are not contradictory, instead they help each other in many ways.
 
 273
-00:11:06,240 --> 00:11:08,160
-We believe that the doctrine of claiming ideals
+00:11:11,760 --> 00:11:12,720
+To solve a widely existing problem in the society,
 
 274
-00:11:08,240 --> 00:11:11,280
-It is complementary to studying practical problems.
+00:11:12,960 --> 00:11:16,880
+it has to rely on the common movement of most people in that society.
 
 275
-00:11:11,760 --> 00:11:12,720
-The solution of social problems
+00:11:17,280 --> 00:11:18,640
+To have a common movement,
 
 276
-00:11:12,960 --> 00:11:16,880
-We must rely on the common movement of most people in society.
+00:11:18,960 --> 00:11:22,000
+there must be a common doctrine as the criterion.
 
 277
-00:11:17,280 --> 00:11:18,640
-But to have a common movement. 
+00:11:22,240 --> 00:11:24,800
+So it is necessary to talk about doctrine. 
 
 278
-00:11:18,960 --> 00:11:22,000
-There must be a common doctrine as the criterion.
+00:11:25,600 --> 00:11:26,400
+Without it,
 
 279
-00:11:22,240 --> 00:11:24,800
-So it is necessary to talk about socialism. 
+00:11:26,800 --> 00:11:28,400
+without the guidance of scientific theory,
 
 280
-00:11:25,600 --> 00:11:26,400
-Nonpropagandism
+00:11:28,720 --> 00:11:31,440
+there is no way to solve those social problems.
 
 281
-00:11:26,800 --> 00:11:28,400
-Without the guidance of scientific theory
+00:11:32,400 --> 00:11:34,480
+Let more people know about the scientific truth
 
 282
-00:11:28,720 --> 00:11:31,440
-Social problems will never be solved.
+00:11:34,960 --> 00:11:36,640
+and use this doctrine as a material,
 
 283
-00:11:32,400 --> 00:11:34,480
-Let more people know the scientific truth
+00:11:37,200 --> 00:11:38,080
+as a tool,
 
 284
-00:11:34,960 --> 00:11:36,640
-And use this doctrine as a material.
+00:11:38,240 --> 00:11:40,480
+to solve one practical problem after another.
 
 285
-00:11:37,200 --> 00:11:38,080
-As a tool
+00:11:41,200 --> 00:11:44,000
+As for all those nonsense,
 
 286
-00:11:38,240 --> 00:11:40,480
-To solve one practical problem after another.
+00:11:44,560 --> 00:11:46,560
+those who only blabbers,
 
 287
-00:11:41,200 --> 00:11:44,000
-As for those cats and dogs
+00:11:47,040 --> 00:11:48,800
+let them be.
 
 288
-00:11:44,560 --> 00:11:46,560
-Parrot phonograph
+00:11:49,840 --> 00:11:52,160
+Radicalism?
 
 289
-00:11:47,040 --> 00:11:48,800
-Let them ring around.
+00:11:52,480 --> 00:11:53,840
+Great diaster and danger?
 
 290
-00:11:49,840 --> 00:11:52,160
-What radicalism?
+00:11:54,160 --> 00:11:55,360
+Calling us heresy?
 
 291
-00:11:52,480 --> 00:11:53,840
-fierce floods and savage beasts—great scourge and great disaster
+00:11:55,760 --> 00:11:58,240
+They can say whatever they want about us.
 
 292
-00:11:54,160 --> 00:11:55,360
-heresy
-
-293
-00:11:55,760 --> 00:11:58,240
-We let them label us randomly.
-
-294
 00:11:58,560 --> 00:12:00,640
 Because we don't care about them at all. 
 
-295
+293
 00:12:18,720 --> 00:12:20,640
-The method of relief became impossible.
+The methods for rescue turned out to be impossible.
+
+294
+00:12:21,520 --> 00:12:23,300
+Which leads to many unnecessary misery
+
+295
+00:12:23,480 --> 00:12:24,560
+happened in the history.
 
 296
-00:12:21,520 --> 00:12:22,400
-It also made history play out.
+00:12:27,600 --> 00:12:28,720
+Which one is professor Hu Shi?
 
 297
-00:12:22,480 --> 00:12:24,560
-A lot of unnecessary misery.
+00:12:29,200 --> 00:12:29,840
+I am.
 
 298
-00:12:27,600 --> 00:12:28,720
-Who is professor Hu Shi?
+00:12:30,480 --> 00:12:31,200
+Director Wu asked for you.
 
 299
-00:12:29,200 --> 00:12:29,840
-speaking
+00:12:31,280 --> 00:12:33,120
+Please come to the Metropolitan Police Department with me.
 
 300
-00:12:30,480 --> 00:12:31,200
-Our director Wu
-
-301
-00:12:31,280 --> 00:12:33,120
-Please go to the Metropolitan Police Department.
-
-302
 00:12:33,360 --> 00:12:34,240
 What are you doing?
 
-303
+301
 00:12:34,400 --> 00:12:35,040
-Yeah, what are you doing? 
+Yeah, what is it?
 
-304
+302
 00:12:35,120 --> 00:12:36,080
 What do you want with Mr. Hu?
 
-305
+303
 00:12:36,320 --> 00:12:37,440
-Don't worry, I'll ask him.
+Don't worry, let me do the talking.
+
+304
+00:12:39,680 --> 00:12:40,640
+What time and what is it about?
+
+305
+00:12:40,720 --> 00:12:42,000
+I'm just following my orders.
 
 306
-00:12:39,680 --> 00:12:40,640
-When and what?
+00:12:42,160 --> 00:12:42,960
+Please come now.
 
 307
-00:12:40,720 --> 00:12:42,000
-I'm also ordered to ask you
+00:12:43,040 --> 00:12:44,240
+Car is waiting outside.
 
 308
-00:12:42,160 --> 00:12:42,960
-Go now.
+00:12:44,560 --> 00:12:45,760
+I don't know what it is about.
 
 309
-00:12:43,040 --> 00:12:44,240
-The car is waiting in front of the door
+00:12:46,720 --> 00:12:47,440
+Please.
 
 310
-00:12:44,560 --> 00:12:45,760
-I don't know what it is.
+00:12:47,680 --> 00:12:48,960
+Sir.
 
 311
-00:12:46,720 --> 00:12:47,440
-Please
-
-312
-00:12:47,680 --> 00:12:48,960
-sir
-
-313
 00:12:50,080 --> 00:12:51,040
 Stay at school.
 
-314
+312
 00:12:51,680 --> 00:12:52,400
 Wait for me.
 
-315
+313
 00:12:55,920 --> 00:12:56,000
-please
+Please
 
-316
+314
 00:13:01,120 --> 00:13:01,600
 Jialun
 
-317
+315
 00:13:02,080 --> 00:13:02,640
 Sinian
 
-318
+316
 00:13:02,800 --> 00:13:04,000
-Report to school. Go
+We need to report this, go.
 
-319
+317
 00:13:04,080 --> 00:13:04,640
-Go for a walk
+Go.
 
-320
+318
 00:13:08,160 --> 00:13:09,680
 Professor Hu, please sit down for a moment.
 
-321
+319
 00:13:10,240 --> 00:13:11,840
 Director Wu will be here soon.
 
-322
+320
 00:13:12,240 --> 00:13:12,800
-thank you
+Thank you
+
+321
+00:13:58,000 --> 00:13:58,880
+Fellow townsman
+
+322
+00:14:01,280 --> 00:14:02,080
+Young fellow.
 
 323
-00:13:58,000 --> 00:13:58,880
-fellow townsman
+00:14:04,560 --> 00:14:07,360
+Your reputation is at the peak now.
 
 324
-00:14:01,280 --> 00:14:02,080
-young fellow
+00:14:07,520 --> 00:14:10,880
+Seems like you will be able to replace Chen Duxiu soon.
 
 325
-00:14:04,560 --> 00:14:07,360
-Your fame is in full swing now.
+00:14:17,200 --> 00:14:19,040
+Director Wu said we are brothers from the same town.
 
 326
-00:14:07,520 --> 00:14:10,880
-There is a great potential to replace Chen Duxiu.
+00:14:19,280 --> 00:14:20,480
+That's too much.
 
 327
-00:14:17,200 --> 00:14:19,040
-Director Wu called me bro fellow villager.
+00:14:21,040 --> 00:14:24,640
+Why, is that not true?
 
 328
-00:14:19,280 --> 00:14:20,480
-I don't deserve it.
+00:14:25,360 --> 00:14:26,320
+True that we are from same place.
 
 329
-00:14:21,040 --> 00:14:24,640
-Why don't I deserve to be your buddy?
+00:14:26,800 --> 00:14:29,120
+But I can't not even imagine being your brother.
 
 330
-00:14:25,360 --> 00:14:26,320
-It's not that you don't deserve it
+00:14:29,440 --> 00:14:31,360
+After all, we are not the same kind.
 
 331
-00:14:26,800 --> 00:14:29,120
-But I Hu Shi dare not climb the ladder.
+00:14:32,560 --> 00:14:34,960
+Are you saying I am not a human just like you?
 
 332
-00:14:29,440 --> 00:14:31,360
-After all, I'm not the same kind.
-
-333
-00:14:32,560 --> 00:14:34,960
-What do you mean, calling me a human being?
-
-334
 00:14:35,200 --> 00:14:36,320
 Director Wu, you misunderstood.
 
-335
+333
 00:14:37,200 --> 00:14:38,000
 I mean
 
-336
+334
 00:14:38,640 --> 00:14:40,160
 We are not the same kind of people.
 
-337
+335
 00:14:40,640 --> 00:14:41,680
-It's two people on the road.
+We are two people on two different paths.
 
-338
+336
 00:14:42,720 --> 00:14:45,760
-Well, since you don't care about your hometown
+Well, since you don't care about talking about hometown.
 
-339
+337
 00:14:46,080 --> 00:14:47,440
 Then let's get down to business.
 
-340
+338
 00:14:47,680 --> 00:14:49,120
-I'm just going to ask Director Wu. 
+I was just about to ask Director Wu. 
 
-341
+339
 00:14:49,440 --> 00:14:51,040
-You invited me here with all your might.
+You sent a car to bring me here.
 
-342
+340
 00:14:51,600 --> 00:14:52,960
 What is the reason?
 
-343
+341
 00:14:57,120 --> 00:14:57,920
 Please sit down.
 
-344
+342
 00:15:04,880 --> 00:15:05,360
 Sit down.
 
-345
+343
 00:15:17,120 --> 00:15:17,680
 Brother Hu
 
-346
+344
 00:15:19,120 --> 00:15:21,200
-This weekly review, this publication
+The <Weekly Review>, 
 
-347
+345
 00:15:21,440 --> 00:15:23,600
 I don't think it's necessary to continue.
 
-348
+346
 00:15:23,920 --> 00:15:24,880
 What does this mean?
 
-349
+347
 00:15:25,200 --> 00:15:26,160
 This is for your own good.
 
-350
-00:15:26,240 --> 00:15:26,240
-
-
-351
+348
 00:15:27,360 --> 00:15:30,240
 The Weekly Review promotes radical remarks.
 
-352
+349
 00:15:30,560 --> 00:15:32,160
+Spreading rumors and disturbing the people.
 
+350
+00:15:32,480 --> 00:15:33,360
+That is a serious allegation.
+
+351
+00:15:33,600 --> 00:15:36,320
+I don't think Dierctor has the power
+
+352
+00:15:36,480 --> 00:15:37,680
+to stop publication.
 
 353
-00:15:32,480 --> 00:15:33,360
-No small crime.
+00:15:39,280 --> 00:15:42,160
+Like I said, it's for your own good.
 
 354
-00:15:33,600 --> 00:15:36,320
-I think Director Hao didn't cancel my waiting.
+00:15:47,280 --> 00:15:48,240
+Look at these.
 
 355
-00:15:36,480 --> 00:15:37,680
-The power to create primers.
-
-356
-00:15:39,280 --> 00:15:42,160
-I just said I was doing it for your own good.
-
-357
-00:15:47,280 --> 00:15:48,240
-Look at this again.
-
-358
 00:15:48,720 --> 00:15:50,720
 These are all evidence materials.
 
-359
+356
 00:15:51,120 --> 00:15:54,400
-Shangfeng ordered the Police Department to file a case for investigation.
+My boss has ordered the Police Department to file a case for investigation.
+
+357
+00:15:54,720 --> 00:15:56,080
+I made an exception,
+
+358
+00:15:56,400 --> 00:15:57,600
+invited you here to talk to you in peace,
+
+359
+00:15:58,000 --> 00:16:00,240
+given that we are from the same town.
 
 360
-00:15:54,720 --> 00:15:56,080
-I remember that you are a fellow villager.
+00:16:00,800 --> 00:16:03,040
+Director Wu, what do you have in mind?
 
 361
-00:15:56,400 --> 00:15:57,600
-That's why I made an exception.
+00:16:03,760 --> 00:16:05,920
+Two ways, you either stop publishing right now.
 
 362
-00:15:58,000 --> 00:16:00,240
-I invited you here to discuss with you.
+00:16:06,400 --> 00:16:09,280
+Or you and others will face investigation and ban by the government.
 
 363
-00:16:00,800 --> 00:16:03,040
-Director Wu, what do you think?
+00:16:10,080 --> 00:16:12,720
+I advise you to choose the easier one.
 
 364
-00:16:03,760 --> 00:16:05,920
-One of the two roads is self-stopping.
+00:16:13,360 --> 00:16:14,560
+Just end it.
 
 365
-00:16:06,400 --> 00:16:09,280
-Investigating and banning by the government
+00:16:15,040 --> 00:16:15,600
+<Weekly review>
 
 366
-00:16:10,080 --> 00:16:12,720
-I advise you to choose the lesser of two evils.
+00:16:15,680 --> 00:16:17,360
+It is a registered publication of Peking University. 
 
 367
-00:16:13,360 --> 00:16:14,560
-Let's just end it ourselves.
+00:16:18,000 --> 00:16:19,040
+Chen Duxiu is the editor-in-chief.
 
 368
-00:16:15,040 --> 00:16:15,600
-Weekly review
-
-369
-00:16:15,680 --> 00:16:17,360
-It is a registered publication in Peking University. 
-
-370
-00:16:18,000 --> 00:16:19,040
-Chen Duxiu, he is the editor-in-chief.
-
-371
 00:16:19,360 --> 00:16:20,720
 I'm just a temporary custodian. 
 
-372
+369
 00:16:21,280 --> 00:16:22,480
-I'm afraid I can't make decisions.
+I'm afraid I can't make that decision.
+
+370
+00:16:22,960 --> 00:16:24,720
+I have to say sorry to your kindness, Director Wu. 
+
+371
+00:16:25,280 --> 00:16:25,920
+Indeed.
+
+372
+00:16:26,000 --> 00:16:27,840
+It is precisely because Chen Duxiu is the one in charge
 
 373
-00:16:22,960 --> 00:16:24,720
-I failed to live up to your kindness, Director Wu. 
+00:16:28,800 --> 00:16:31,120
+that I want to talk to you about the situation.
 
 374
-00:16:25,280 --> 00:16:25,920
-precisely because
+00:16:32,160 --> 00:16:33,440
+Think about it.
 
 375
-00:16:26,000 --> 00:16:27,840
-The editor-in-chief of Weekly Review is Chen Duxiu. 
+00:16:33,760 --> 00:16:36,800
+The attention on Chen Duxiu's case has just dropped a bit.
 
 376
-00:16:28,800 --> 00:16:31,120
-I just asked you to stop it.
+00:16:38,080 --> 00:16:40,960
+At this time, an investigation on <Weekly Reviw>,
 
 377
-00:16:32,160 --> 00:16:33,440
-You can think it over.
+00:16:41,360 --> 00:16:42,080
+a new case on file, 
 
 378
-00:16:33,760 --> 00:16:36,800
-Chen Duxiu's case has just been loosened.
+00:16:42,640 --> 00:16:44,400
+it's not gonna help with his case.
 
 379
-00:16:38,080 --> 00:16:40,960
-At this time to the Weekly Review
+00:16:44,480 --> 00:16:45,680
+Let alone if he can get out or not,
 
 380
-00:16:41,360 --> 00:16:42,080
-report of placing a case on file 
+00:16:46,400 --> 00:16:48,640
+it will be if he can live or not.
 
 381
-00:16:42,640 --> 00:16:44,400
-Duxiu is afraid not.
-
-382
-00:16:44,480 --> 00:16:45,680
-The problem of getting out and not getting out. 
-
-383
-00:16:46,400 --> 00:16:48,640
-It's a question of living or not.
-
-384
 00:16:49,840 --> 00:16:51,040
 Let me tell you this.
 
-385
+382
 00:16:51,120 --> 00:16:53,680
-Do you agree or disagree?
+Your decision doesn't matter.
+
+383
+00:16:54,080 --> 00:16:55,360
+The government will ban it either way.
+
+384
+00:16:57,360 --> 00:16:59,440
+I say you might as well take the initiative,
+
+385
+00:17:00,160 --> 00:17:01,440
+give all concerned party an easy way out.
 
 386
-00:16:54,080 --> 00:16:55,360
-The government will ban it.
+00:17:03,840 --> 00:17:05,040
+Then, after some time,
 
 387
-00:16:57,360 --> 00:16:59,440
-I advise you to take the initiative.
+00:17:05,680 --> 00:17:06,960
+when things are not this tense again. 
 
 388
-00:17:00,160 --> 00:17:01,440
-Everyone has a step down.
+00:17:08,560 --> 00:17:11,520
+You can always apply to run another new paper.
 
 389
-00:17:03,840 --> 00:17:05,040
-Maybe by some time.
+00:17:12,160 --> 00:17:13,280
+Director Wu, what you meant is that
 
 390
-00:17:05,680 --> 00:17:06,960
-I won't pursue it.
+00:17:14,000 --> 00:17:14,960
+if now,
 
 391
-00:17:08,560 --> 00:17:11,520
-If you want to run a newspaper, you can apply again. 
+00:17:15,040 --> 00:17:16,720
+I stop <Weekly Review>,
 
 392
-00:17:12,160 --> 00:17:13,280
-Director Wu, what do you mean?
+00:17:16,800 --> 00:17:18,160
+Zhongfu can come out soon?
 
 393
-00:17:14,000 --> 00:17:14,960
-If now
+00:17:18,800 --> 00:17:20,400
+Hard to be a good guy these days.
 
 394
-00:17:15,040 --> 00:17:16,720
-The Weekly Review was closed for it.
+00:17:21,520 --> 00:17:24,400
+Why else would I have invited you here?
 
 395
-00:17:16,800 --> 00:17:18,160
-Can Zhongfu come out soon?
+00:17:29,680 --> 00:17:30,400
+Have some tea.
 
 396
-00:17:18,800 --> 00:17:20,400
-Good people are hard to do.
+00:17:41,760 --> 00:17:44,880
+Director Wu, I'll go back and talk to the others.
 
 397
-00:17:21,520 --> 00:17:24,400
-Otherwise, why did I call you here? 
+00:17:45,440 --> 00:17:46,880
+We will do as you say.
 
 398
-00:17:29,680 --> 00:17:30,400
-Drink tea.
+00:17:50,000 --> 00:17:52,320
+Now you see, we are indeed brothers from the same town.
 
 399
-00:17:41,760 --> 00:17:44,880
-Director Wu, I'll go back and discuss with you.
+00:17:53,280 --> 00:17:54,160
+Tea.
 
 400
-00:17:45,440 --> 00:17:46,880
-According to director Wu's strength.
+00:18:19,120 --> 00:18:20,560
+Cleaning is also working.
 
 401
-00:17:50,000 --> 00:17:52,320
-It has to be a fellow villager to help fellow villagers.
+00:18:21,200 --> 00:18:22,640
+Labor is also work.
 
 402
-00:17:53,280 --> 00:17:54,160
-Drink tea.
+00:18:23,280 --> 00:18:24,640
+Focus on your work, everyone.
 
 403
-00:18:19,120 --> 00:18:20,560
-Work is labor.
+00:18:25,120 --> 00:18:25,920
+Yeah.
 
 404
-00:18:21,200 --> 00:18:22,640
-Labor is work.
+00:18:26,080 --> 00:18:27,040
+Mr. Shouchang
 
 405
-00:18:23,280 --> 00:18:24,640
-Let's all work carefully.
-
-406
-00:18:25,120 --> 00:18:25,920
-nicely
-
-407
-00:18:26,080 --> 00:18:27,040
-寿昌先生
-
-408
 00:18:28,000 --> 00:18:29,600
 Mr. Shouchang, good news
 
-409
+406
 00:18:30,240 --> 00:18:30,960
-A telegram just arrived.
+Just got the message.
+
+407
+00:18:31,520 --> 00:18:33,440
+"I am fully recovered and will be in Beijing soon."
+
+408
+00:18:33,840 --> 00:18:35,280
+"Back to school on the 20th."
+
+409
+00:18:35,680 --> 00:18:36,240
+From Cai Yuanpei.
 
 410
-00:18:31,520 --> 00:18:33,440
-My body has recently arrived in Beijing.
+00:18:36,640 --> 00:18:38,160
+Good, great.
 
 411
-00:18:33,840 --> 00:18:35,280
-Be reinstated at school on the 20th. 
+00:18:44,400 --> 00:18:46,640
+Now the rescue movement for Mr.Cai succeed.
 
 412
-00:18:35,680 --> 00:18:36,240
-Cai Yuanpei
-
-413
-00:18:36,640 --> 00:18:38,160
-Okay, okay, okay.
-
-414
-00:18:44,400 --> 00:18:46,640
-Cai Wan's movement was a complete victory.
-
-415
 00:18:47,280 --> 00:18:48,640
 All that's left is brother Zhongfu.
 
-416
+413
 00:18:49,520 --> 00:18:52,080
 Come on, students, work hard.
 
-417
+414
 00:18:52,240 --> 00:18:52,480
 come
 
-418
+415
 00:18:52,720 --> 00:18:52,720
 
 
-419
+416
 00:18:52,800 --> 00:18:53,200
 good
 
-420
+417
 00:18:58,560 --> 00:18:59,120
-寿昌先生
+Mr. Shouchang.
 
-421
+418
 00:19:00,800 --> 00:19:02,880
 This is Zhou Enlai from Tianjin Federation of Students. 
 
-422
+419
 00:19:02,960 --> 00:19:04,720
 They made a special trip to ask you for advice.
 
-423
+420
 00:19:04,880 --> 00:19:05,760
-寿昌先生好
+Nice to meet you, Mr. Shouchang.
 
-424
+421
 00:19:06,160 --> 00:19:07,040
-Hello, classmates.
+Nice to see you, students.
 
-425
+422
 00:19:11,680 --> 00:19:12,800
 Zhou Enlai
 
-426
+423
 00:19:13,920 --> 00:19:15,200
 I know you.
 
-427
+424
 00:19:15,840 --> 00:19:17,680
 I read your "Innovation"
 
-428
+425
 00:19:18,240 --> 00:19:21,040
 Very well written and insightful.
 
-429
+426
 00:19:21,440 --> 00:19:22,400
 Sir, I'm flattered.
 
-430
+427
 00:19:22,640 --> 00:19:24,880
 good
 
-431
+428
 00:19:24,960 --> 00:19:25,360
-sit
+Please sit.
 
-432
+429
 00:19:26,080 --> 00:19:26,800
 There are stools here.
 
-433
+430
 00:19:27,120 --> 00:19:27,680
 Enlai
 
-434
+431
 00:19:28,160 --> 00:19:29,920
 What's the situation like over there?
 
-435
+432
 00:19:30,160 --> 00:19:31,600
-I wonder if sir knows.
+You might not know.
 
-436
+433
 00:19:32,240 --> 00:19:33,760
-The police have put our
+The police forced us
 
-437
+434
 00:19:33,840 --> 00:19:35,760
-Tianjin Students' Union Newspaper was closed.
+to stop the Tianjin Students' Union Newspaper.
 
-438
+435
 00:19:36,400 --> 00:19:37,600
 We're preparing for a reissue.
 
-439
+436
 00:19:38,880 --> 00:19:39,680
 I heard about it.
 
-440
+437
 00:19:40,080 --> 00:19:43,040
-Now the reactionaries are crazy.
+Recently the reactionaries are acting aggressively.
 
-441
+438
 00:19:43,360 --> 00:19:44,800
-The Weekly Review was also blocked.
+The Weekly Review also had to stop.
 
-442
+439
 00:19:45,040 --> 00:19:46,560
 But our New Youth
 
-443
+440
 00:19:46,640 --> 00:19:48,080
-It will be published again soon. 
+will be back again soon. 
+
+441
+00:19:48,240 --> 00:19:49,280
+We came here with a question.
+
+442
+00:19:49,440 --> 00:19:51,280
+We want to know your advice on
+
+443
+00:19:51,360 --> 00:19:53,120
+how to make patriotic student movement a long-lasting movement.
 
 444
-00:19:48,240 --> 00:19:49,280
-Let's come this time.
+00:19:53,200 --> 00:19:54,320
+How to keep it going.
 
 445
-00:19:49,440 --> 00:19:51,280
-I mainly want to ask my husband for advice
-
-446
-00:19:51,360 --> 00:19:53,120
-How to put the patriotic student movement 
-
-447
-00:19:53,200 --> 00:19:54,320
-Persistent problem
-
-448
 00:19:55,040 --> 00:19:56,960
 Persistence
 
-449
+446
 00:19:58,240 --> 00:19:59,520
-Well, I think your question
+Enlai, you brought this question to me
+
+447
+00:19:59,600 --> 00:20:01,040
+at the exact right time.
+
+448
+00:20:01,920 --> 00:20:03,840
+After the issue of Paris peace conference has came to an end.
+
+449
+00:20:04,080 --> 00:20:06,720
+How to find new goals for the student movement?
 
 450
-00:19:59,600 --> 00:20:01,040
-That's very good.
+00:20:07,120 --> 00:20:08,960
+What should we do now?
 
 451
-00:20:01,920 --> 00:20:03,840
-After the Paris peace conference
-
-452
-00:20:04,080 --> 00:20:06,720
-How to deepen the student movement?
-
-453
-00:20:07,120 --> 00:20:08,960
-What should we do again?
-
-454
 00:20:09,200 --> 00:20:11,920
 This is indeed a question worthy of consideration.
 
-455
+452
 00:20:13,760 --> 00:20:14,880
 Do you have any ideas?
 
-456
+453
 00:20:15,840 --> 00:20:16,480
-We Tianjin
+In Tianjin
+
+454
+00:20:16,720 --> 00:20:18,560
+There are student associations and women's associations.
+
+455
+00:20:18,640 --> 00:20:19,440
+Two main organizations
+
+456
+00:20:19,520 --> 00:20:20,560
+Which leads to the potential problem
 
 457
-00:20:16,720 --> 00:20:18,560
-There are major student associations and women's associations.
+00:20:20,640 --> 00:20:22,240
+of unified command and coordination.
 
 458
-00:20:18,640 --> 00:20:19,440
-Two organizations
-
-459
-00:20:19,520 --> 00:20:20,560
-Exists objectively
-
-460
-00:20:20,640 --> 00:20:22,240
-The problem of unified command and coordination
-
-461
 00:20:22,400 --> 00:20:23,280
 So we thought
 
-462
+459
 00:20:23,440 --> 00:20:25,760
-Can we unify the two organizations?
+can we unify these two organizations?
+
+460
+00:20:26,080 --> 00:20:28,560
+Among them, the backbone will make up the Awakening Club. 
+
+461
+00:20:28,720 --> 00:20:30,400
+On top of leading the student movement,
+
+462
+00:20:30,480 --> 00:20:32,960
+we need to strengthen our minds with new knowledge and ideological forces.
 
 463
-00:20:26,080 --> 00:20:28,560
-Among them, the backbone makes up the Awakening Society. 
+00:20:33,200 --> 00:20:35,760
+We should study new thoughts and ideas, publish publications,
 
 464
-00:20:28,720 --> 00:20:30,400
-In addition to leading the student movement
+00:20:35,840 --> 00:20:38,160
+form a core team with the adequate knowledge and skills
 
 465
-00:20:30,480 --> 00:20:32,960
-What's more important is to strengthen our own ideological armed forces.
+00:20:38,240 --> 00:20:40,640
+that can take the responsiility as leader of the students.
 
 466
-00:20:33,200 --> 00:20:35,760
-Research new thoughts and ideas, publish publications.
+00:20:41,600 --> 00:20:42,400
+I wonder
 
 467
-00:20:35,840 --> 00:20:38,160
-Form an armed with new ideas.
+00:20:42,560 --> 00:20:44,960
+if you think our idea is feasible?
 
 468
-00:20:38,240 --> 00:20:40,640
-A core group that can take on leadership responsibilities.
+00:20:45,040 --> 00:20:46,960
+Very good.
 
 469
-00:20:41,600 --> 00:20:42,400
-be ignorant of 
+00:20:48,400 --> 00:20:50,240
+After what we been through during the May 4th Movement,
 
 470
-00:20:42,560 --> 00:20:44,960
-Sir, do you think our idea is feasible?
+00:20:50,480 --> 00:20:52,000
+now we are at this place,
 
 471
-00:20:45,040 --> 00:20:46,960
-I feel particularly good.
+00:20:52,080 --> 00:20:54,720
+a critical moment needing new guiding ideology.
 
 472
-00:20:48,400 --> 00:20:50,240
-After the baptism of the May 4th Movement
+00:20:54,800 --> 00:20:56,320
+At such a critical moment, 
 
 473
-00:20:50,480 --> 00:20:52,000
-Now we are really at a place.
+00:20:56,800 --> 00:20:58,240
+Tianjin Federation of Students
 
 474
-00:20:52,080 --> 00:20:54,720
-A critical moment for new guiding ideology.
+00:20:58,560 --> 00:21:01,440
+chose to take a brave step to break the boundaries between male and female, 
 
 475
-00:20:54,800 --> 00:20:56,320
-At such a critical moment 
+00:21:01,520 --> 00:21:03,760
+to organize the essential members
 
 476
-00:20:56,800 --> 00:20:58,240
-Your Tianjin Federation of Students
+00:21:03,840 --> 00:21:05,200
+and start this Awakening Club.
 
 477
-00:20:58,560 --> 00:21:01,440
-Dare to break the boundaries between boys and girls. 
+00:21:05,440 --> 00:21:07,360
+Studying, researching and promoting new ideas and knowledge.
 
 478
-00:21:01,520 --> 00:21:03,760
-Organize these backbones.
-
-479
-00:21:03,840 --> 00:21:05,200
-Set up an enlightenment club.
-
-480
-00:21:05,440 --> 00:21:07,360
-And publicize and research new ideas.
-
-481
 00:21:10,080 --> 00:21:10,880
 I really think
 
-482
+479
 00:21:10,960 --> 00:21:11,920
-You caught it.
+You are now holding
+
+480
+00:21:12,000 --> 00:21:13,840
+the core of the student movement.
+
+481
+00:21:14,480 --> 00:21:15,440
+I like the sound of it.
+
+482
+00:21:15,680 --> 00:21:16,880
+I support you.
 
 483
-00:21:12,000 --> 00:21:13,840
-The core of the student movement.
+00:21:17,440 --> 00:21:18,080
+Good
 
 484
-00:21:14,480 --> 00:21:15,440
-I like you
+00:21:18,240 --> 00:21:19,760
+We are hoping that
 
 485
-00:21:15,680 --> 00:21:16,880
-I also support you.
+00:21:19,840 --> 00:21:21,760
+you can come to Tianjin to give us a speech.
 
 486
-00:21:17,440 --> 00:21:18,080
-good
+00:21:22,000 --> 00:21:23,520
+Share your valuable insights with us, give us the chance to learn.
 
 487
-00:21:18,240 --> 00:21:19,760
-We want Mr. Li
-
-488
-00:21:19,840 --> 00:21:21,760
-You go to Tianjin to give us a speech.
-
-489
-00:21:22,000 --> 00:21:23,520
-Let us also edify ourselves.
-
-490
 00:21:23,600 --> 00:21:25,040
 Well, I'd like to go
 
-491
+488
 00:21:25,840 --> 00:21:27,920
-But we don't have any funds
+But we don't have any funds.
+
+489
+00:21:28,160 --> 00:21:28,960
+I'm afraid we can't pay you for transportation.
+
+490
+00:21:29,040 --> 00:21:30,800
+Is that all right?
+
+491
+00:21:30,880 --> 00:21:32,480
+No problem, I will take care of that.
 
 492
-00:21:28,160 --> 00:21:28,960
-If Lu Fei says so.
-
-493
-00:21:29,040 --> 00:21:30,800
-Sir, you need to come out yourself.
-
-494
-00:21:30,880 --> 00:21:32,480
-Okay, I'll bring my own dry food.
-
-495
 00:21:34,720 --> 00:21:36,960
 Please tell me if you have any difficulties.
 
-496
+493
 00:21:37,040 --> 00:21:38,960
-Let me help you find a solution.
+I will do my best to help.
 
-497
+494
 00:21:39,040 --> 00:21:39,840
 Thank you, sir.
 
-498
+495
 00:21:39,920 --> 00:21:40,960
 You are welcome
 
-499
+496
 00:21:41,200 --> 00:21:42,400
 So this speech
 
-500
+497
 00:21:42,560 --> 00:21:43,840
-What do you want me to say?
+What do you want me to talk about?
+
+498
+00:21:44,000 --> 00:21:45,920
+Whatever you want to, Sir.
+
+499
+00:21:46,080 --> 00:21:46,800
+Right.
+
+500
+00:21:47,600 --> 00:21:48,880
+How about this?
 
 501
-00:21:44,000 --> 00:21:45,920
-We all like to hear what you say, sir. 
+00:21:49,680 --> 00:21:50,480
+Here.
 
 502
-00:21:46,080 --> 00:21:46,800
-right
+00:21:50,640 --> 00:21:52,000
+It's my second half part of 
 
 503
-00:21:47,600 --> 00:21:48,880
-Do you think this will work?
+00:21:52,080 --> 00:21:52,800
+"My view of Marxism",
 
 504
-00:21:49,680 --> 00:21:50,480
-What about this?
+00:21:52,880 --> 00:21:54,240
+it will come out on New Youth, 
 
 505
-00:21:50,640 --> 00:21:52,000
-Will I be in the "new youth"
+00:21:54,320 --> 00:21:55,040
+next issue.
 
 506
-00:21:52,080 --> 00:21:52,800
-Published in the next issue
+00:21:55,600 --> 00:21:56,720
+I will talk about it.
 
 507
-00:21:52,880 --> 00:21:54,240
-My View of Marxism
-
-508
-00:21:54,320 --> 00:21:55,040
-Lower part
-
-509
-00:21:55,600 --> 00:21:56,720
-That's what I'm talking about.
-
-510
 00:21:58,960 --> 00:22:00,000
 Marxism
 
-511
+508
 00:22:10,640 --> 00:22:11,280
 Great
 
-512
+509
 00:22:11,760 --> 00:22:12,880
-This question is too good.
+Perfect topic.
 
-513
+510
 00:22:13,360 --> 00:22:14,240
-Do you eat in Zhajiang Noodles?
+Want some noodles with soybean paste?
 
-514
+511
 00:22:16,400 --> 00:22:17,280
 Noodles with soybean paste
 
-515
+512
 00:22:18,000 --> 00:22:18,640
-Eat ah
+Of course.
 
-516
+513
 00:22:19,360 --> 00:22:20,880
-I won't accompany you at a meeting later.
+I need to go to a meeting soon.
 
-517
+514
 00:22:20,960 --> 00:22:21,600
 Shiyan
 
-518
+515
 00:22:22,080 --> 00:22:24,400
-Take care of Enlai and my classmates for me.
+Take care of Enlai and the others for me.
+
+516
+00:22:24,480 --> 00:22:25,920
+Take them to have some noodles.
+
+517
+00:22:26,000 --> 00:22:26,720
+The usual place.
+
+518
+00:22:26,800 --> 00:22:27,760
+Longfu Temple.
 
 519
-00:22:24,480 --> 00:22:25,760
-Take them to eat Zhajiang Noodles.
+00:22:28,400 --> 00:22:30,000
+Big amount, enough for everone.
 
 520
-00:22:25,840 --> 00:22:25,920
-Take them to Zhajiang Noodles.
-
-521
-00:22:26,000 --> 00:22:26,720
-the same place
-
-522
-00:22:26,800 --> 00:22:27,760
-Longsi
-
-523
-00:22:28,400 --> 00:22:30,000
-Sufficient and sufficient.
-
-524
 00:22:30,560 --> 00:22:31,920
 Thank you, sir.
 
-525
+521
 00:22:39,040 --> 00:22:41,840
-Tanna is dealing with Chen Duxiu's problem.
+Jingtan, you saw the bigger picture
 
-526
+522
 00:22:42,480 --> 00:22:45,440
-You're looking ahead and taking care of the big picture. 
+on how to deal with this Chen Duxiu problem.
 
-527
+523
 00:22:46,720 --> 00:22:47,120
-sit
+Take a sit.
 
-528
+524
 00:22:48,800 --> 00:22:49,200
 good
 
-529
+525
 00:22:49,280 --> 00:22:50,320
 Come and sit.
 
-530
+526
 00:22:54,480 --> 00:22:57,440
-Jingtan is going to make peace between North and South now. 
+Jingtan, now North and South is trying to reach an agreement. 
+
+527
+00:22:57,840 --> 00:23:00,240
+The southern government insists to release Chen Duxiu. 
+
+528
+00:23:01,120 --> 00:23:02,400
+To make sure this agreement goes through smoothly,
+
+529
+00:23:03,120 --> 00:23:05,760
+we might as well just let Chen Duxiu go.
+
+530
+00:23:06,160 --> 00:23:06,800
+Mr. President
 
 531
-00:22:57,840 --> 00:23:00,240
-The southern government insisted on the release of Chen Duxiu. 
-
-532
-00:23:01,120 --> 00:23:02,400
-In order not to stimulate them
-
-533
-00:23:03,120 --> 00:23:05,760
-Let's find a step and let Chen Duxiu go.
-
-534
-00:23:06,160 --> 00:23:06,800
-president
-
-535
 00:23:07,440 --> 00:23:09,040
 I have long anticipated this day. 
 
-536
+532
 00:23:09,440 --> 00:23:11,200
-That's why I left behind a successful man.
+I have already prepared for this day.
 
-537
+533
 00:23:11,760 --> 00:23:13,440
 Don't worry, I'll do it right away.
 
-538
+534
 00:23:14,080 --> 00:23:15,120
 No, no, no
 
-539
+535
 00:23:15,680 --> 00:23:17,120
-Let me talk to you a few more words. 
+There is more.
+
+536
+00:23:18,000 --> 00:23:19,920
+Chen Duxiu is a trouble.
+
+537
+00:23:20,400 --> 00:23:21,360
+We are letting him go,
+
+538
+00:23:22,080 --> 00:23:24,720
+not setting him free to do whatever he wants.
+
+539
+00:23:25,600 --> 00:23:26,720
+Even out of the prison,
 
 540
-00:23:18,000 --> 00:23:19,920
-Yes, Chen Duxiu is a dangerous man.
+00:23:27,200 --> 00:23:28,640
+we need to supervise him.
 
 541
-00:23:20,400 --> 00:23:21,360
-Play it when you play it.
-
-542
-00:23:22,080 --> 00:23:24,720
-But you can't let it go.
-
-543
-00:23:25,600 --> 00:23:26,720
-Is out of prison.
-
-544
-00:23:27,200 --> 00:23:28,640
-It is also necessary to be able to supervise
-
-545
 00:23:29,120 --> 00:23:31,120
 Otherwise, there will be chaos at any time.
 
-546
+542
 00:23:32,960 --> 00:23:34,160
 Jingtan, you have experience.
 
-547
+543
 00:23:34,640 --> 00:23:38,080
-You need to do more in this respect. 
+You need to take more cautions in this respect. 
+
+544
+00:23:38,720 --> 00:23:40,000
+Rest assured, Mr. President.
+
+545
+00:23:41,360 --> 00:23:43,120
+I've already made a plan.
+
+546
+00:23:43,920 --> 00:23:44,800
+Talk to me.
+
+547
+00:23:46,240 --> 00:23:49,280
+First, the investigation on Chen Duxiu
 
 548
-00:23:38,720 --> 00:23:40,000
-Please rest assured the president.
+00:23:49,760 --> 00:23:51,040
+has been going on over three months.
 
 549
-00:23:41,360 --> 00:23:43,120
-I've already left a plan.
+00:23:51,920 --> 00:23:52,960
+We have to give an explanation.
 
 550
-00:23:43,920 --> 00:23:44,800
-Tell us your opinion 
+00:23:54,560 --> 00:23:59,360
+So, we will say it is a granted bail on the ground of sickness. 
 
 551
-00:23:46,240 --> 00:23:49,280
-First, Chen Duxiu filed a case to investigate incense 
+00:23:59,840 --> 00:24:01,680
+Hence, three sponsors are necessary for it.
 
 552
-00:23:49,760 --> 00:23:51,040
-It's been over three months.
+00:24:02,160 --> 00:24:03,280
+They have to be a fellow villager too.
 
 553
-00:23:51,920 --> 00:23:52,960
-You have to have an explanation.
+00:24:03,920 --> 00:24:05,200
+I volunteer to be one.
 
 554
-00:23:54,560 --> 00:23:59,360
-Therefore, it can only be said that it is released on bail due to illness. 
+00:24:05,840 --> 00:24:07,920
+He shall find the other two by himself.
 
 555
-00:23:59,840 --> 00:24:01,680
-There must be three sponsors for this one.
+00:24:08,480 --> 00:24:10,400
+Second, after he's released,
 
 556
-00:24:02,160 --> 00:24:03,280
-You have to be a fellow villager.
+00:24:10,960 --> 00:24:12,800
+there is also probation period.
 
 557
-00:24:03,920 --> 00:24:05,200
-I volunteered to count one.
+00:24:13,440 --> 00:24:16,400
+He has to report to the police station regularly. 
 
 558
-00:24:05,840 --> 00:24:07,920
-Let him find the other two by himself.
+00:24:16,800 --> 00:24:17,760
+He can't leave Beijing without permission.
 
 559
-00:24:08,480 --> 00:24:10,400
-Second, after he got out of prison 
+00:24:18,320 --> 00:24:20,080
+If he agrees to these two articles, 
 
 560
-00:24:10,960 --> 00:24:12,800
-Must continue to accept supervision.
+00:24:20,480 --> 00:24:21,680
+we will let him go. 
 
 561
-00:24:13,440 --> 00:24:16,400
-Report his movements to the police station regularly. 
-
-562
-00:24:16,800 --> 00:24:17,760
-You can't leave Beijing without permission.
-
-563
-00:24:18,320 --> 00:24:20,080
-If he agrees to these two articles 
-
-564
-00:24:20,480 --> 00:24:21,680
-Then let's let him go. 
-
-565
 00:24:26,560 --> 00:24:27,040
 right
 
-566
+562
 00:24:27,120 --> 00:24:30,000
-Mirror, it's thoughtful.
+Jingtan, that's very thoughtful.
 
-567
+563
 00:24:32,000 --> 00:24:33,440
-Just like you said.
+Do it in your way.
 
-568
+564
 00:24:33,760 --> 00:24:34,240
-be
+Yes.
 
-569
+565
 00:24:39,280 --> 00:24:41,280
 Professor Chen Duxiu of Peking University
 
-570
+566
 00:24:42,000 --> 00:24:46,240
 He has been detained by the Metropolitan Police Department for more than three months.
 
-571
+567
 00:24:47,040 --> 00:24:49,680
-Investigation results of the near police department
+Given that the investigation by the Police Department
+
+568
+00:24:50,320 --> 00:24:53,600
+has not shown any illeagl actions carried out by Chen.
+
+569
+00:24:54,480 --> 00:24:58,880
+Also, considering the three months of prison life
+
+570
+00:24:59,760 --> 00:25:01,760
+has caused him stomach illness.
+
+571
+00:25:02,560 --> 00:25:05,120
+He is now released on bail by fellow Anhui villagers.
 
 572
-00:24:50,320 --> 00:24:53,600
-Eventually, Chen did not commit any illegal acts. 
+00:25:05,760 --> 00:25:08,400
+During the time, his actions shall be restricted.
 
 573
-00:24:54,480 --> 00:24:58,880
-Chen has lost his freedom in the hall for a long time.
+00:25:08,960 --> 00:25:12,000
+Any major actions must be approved by the government.
 
 574
-00:24:59,760 --> 00:25:01,760
-Then cause stomach trouble.
+00:25:19,280 --> 00:25:21,360
+Chen Duxiu, you can go now.
 
 575
-00:25:02,560 --> 00:25:05,120
-He was released on bail by fellow Anhui residents.
-
-576
-00:25:05,760 --> 00:25:08,400
-After bail, movement is still restricted.
-
-577
-00:25:08,960 --> 00:25:12,000
-Major actions must be approved by the government.
-
-578
-00:25:19,280 --> 00:25:21,360
-Chen Duxiu was released on bail.
-
-579
 00:27:51,600 --> 00:27:53,200
 It's our pigeon.
 
-580
+576
 00:27:53,280 --> 00:27:56,240
 Dad has no right to let it go.
 
-581
+577
 00:27:56,880 --> 00:27:58,080
 Dad is a bad guy.
 
-582
+578
 00:27:58,160 --> 00:28:00,000
-Give it back to Ying Ying.
+Give Yingying back to us.
 
-583
+579
 00:28:01,280 --> 00:28:03,600
-You two silly children don't understand.
+You silly children, you don't understand.
 
-584
+580
 00:28:04,560 --> 00:28:07,680
-It's really good for it to be free. 
+It's good for it to set it free.
 
-585
+581
 00:28:07,760 --> 00:28:08,320
 Why are you crying?
 
-586
+582
 00:28:08,400 --> 00:28:10,080
-How does dad know?
+How can you know?
 
-587
+583
 00:28:10,640 --> 00:28:13,120
 I don't care. I want Ying Ying.
 
-588
+584
 00:28:13,360 --> 00:28:14,400
-Brother, here you are.
+Let big brother take you to get a new one
 
-589
+585
 00:28:14,480 --> 00:28:15,760
-How about choosing another Ying Ying?
+How about another Ying Ying?
 
-590
+586
 00:28:15,920 --> 00:28:16,080
-Choose Ying Ying.
+A new Ying Ying.
 
-591
+587
 00:28:16,160 --> 00:28:18,160
-I don't want my Ying Ying.
+I don't want a new one, I want my Yingying
 
-592
+588
 00:28:18,240 --> 00:28:19,120
 Ying Ying is Ying Ying.
 
-593
+589
 00:28:19,200 --> 00:28:20,880
 What smells so good?
 
-594
+590
 00:28:21,040 --> 00:28:22,240
-Yes, sir.
+Hello, Sir.
 
-595
+591
 00:28:22,320 --> 00:28:23,120
-covered tureen
+Yipin Guo.
 
-596
+592
 00:28:24,240 --> 00:28:25,200
 Hello, everybody!
 
-597
+593
 00:28:26,320 --> 00:28:28,080
-Do you think I have the luck to eat sth delicious?
+Aren't I a lucky one?
+
+594
+00:28:28,240 --> 00:28:30,080
+A big meal right after I get off the train.
+
+595
+00:28:30,480 --> 00:28:32,400
+I say you have it all planned, coming at lunch time.
+
+596
+00:28:35,520 --> 00:28:36,960
+I am not a free loader.
+
+597
+00:28:38,000 --> 00:28:38,080
+Here.
 
 598
-00:28:28,240 --> 00:28:30,080
-I have a big meal as soon as I get off the train.
+00:28:38,640 --> 00:28:39,280
+You are so polite.
 
 599
-00:28:30,480 --> 00:28:32,400
-You have a plan to step on it.
+00:28:39,360 --> 00:28:40,560
+Bringing gifts all the way here.
 
 600
-00:28:35,520 --> 00:28:36,960
-I don't eat yours for nothing.
-
-601
-00:28:38,000 --> 00:28:38,080
-come
-
-602
-00:28:38,640 --> 00:28:39,280
-So polite.
-
-603
-00:28:39,360 --> 00:28:40,560
-You brought something all the way here.
-
-604
 00:28:40,720 --> 00:28:42,320
 Please take a seat.
 
-605
+601
 00:28:42,400 --> 00:28:42,720
 good
 
-606
+602
 00:28:43,600 --> 00:28:44,720
 Zhongfu, let me see.
 
-607
+603
 00:28:46,400 --> 00:28:48,320
 It's okay. Come sit down and talk
 
-608
+604
 00:28:48,400 --> 00:28:48,800
-good
+Zhonfu
 
-609
+605
 00:28:50,240 --> 00:28:52,320
-Zhongfu
+Zhongfu, see who is here.
 
-610
+606
 00:28:52,480 --> 00:28:53,040
 Zhongfu
 
-611
+607
 00:29:03,360 --> 00:29:07,280
-I understand that you have suffered a lot.
+I know, you have suffered a lot.
 
-612
+608
 00:29:08,400 --> 00:29:10,000
-As long as we can win the struggle.
+As long as we can win this fight,
 
-613
+609
 00:29:10,480 --> 00:29:11,280
-No matter how bitter.
+I don't mind some suffering,
 
-614
+610
 00:29:11,760 --> 00:29:13,040
-I'm as happy as stuffing
+I can even enjoy it.
 
-615
+611
 00:29:14,080 --> 00:29:14,960
 Good point!
 
-616
+612
 00:29:15,840 --> 00:29:17,520
 We welcome the hero back.
 
-617
+613
 00:29:22,640 --> 00:29:24,240
 I'm flattered.
 
-618
+614
 00:29:24,880 --> 00:29:28,320
-Is nothing more than the birthplace of world civilization.
+I just went to the birthplace of world civilization,
+
+615
+00:29:29,040 --> 00:29:29,920
+stayed there for a while.
+
+616
+00:29:30,160 --> 00:29:31,280
+What kind of hero is that?
+
+617
+00:29:32,160 --> 00:29:33,920
+Out of the prison and into the laboratory.
+
+618
+00:29:34,640 --> 00:29:36,560
+Or go to jail when you leave the lab.
 
 619
-00:29:29,040 --> 00:29:29,920
-Stay for a while.
-
-620
-00:29:30,160 --> 00:29:31,280
-What kind of hero is there?
-
-621
-00:29:32,160 --> 00:29:33,920
-Out of the prison into the laboratory.
-
-622
-00:29:34,640 --> 00:29:36,560
-Go to jail when you leave the lab.
-
-623
 00:29:37,120 --> 00:29:39,360
 This is the noblest life.
 
-624
+620
 00:29:39,680 --> 00:29:41,120
 The most beautiful life
 
-625
+621
 00:29:41,280 --> 00:29:43,280
-Civilization from these two places.
+Civilization from these two places
 
-626
+622
 00:29:43,760 --> 00:29:45,040
-Is the true civilization.
+is the true civilization,
 
-627
+623
 00:29:45,520 --> 00:29:48,480
-Is a civilization with life and value.
+is a civilization with life and value.
 
-628
+624
 00:29:52,480 --> 00:29:53,360
 Sir, sit down.
 
-629
+625
 00:29:53,760 --> 00:29:55,520
 Mr Cai, please sit down.
 
-630
+626
 00:29:56,000 --> 00:29:56,640
 Come and sit down.
 
-631
+627
 00:29:56,960 --> 00:29:57,360
 have a seat
 
-632
+628
 00:29:58,400 --> 00:29:59,040
 have a seat
 
-633
+629
 00:29:59,360 --> 00:30:00,000
 Sit down, sir.
 
-634
+630
 00:30:01,200 --> 00:30:01,760
 thank you
 
-635
+631
 00:30:10,640 --> 00:30:11,200
-ladies
+Ladies
 
-636
+632
 00:30:11,440 --> 00:30:12,080
-gentlemen
+Gentlemen
 
-637
+633
 00:30:12,400 --> 00:30:13,520
-Hello, everybody!
+Everybody.
 
-638
+634
 00:30:18,320 --> 00:30:20,400
 Welcome to Mr. Chen Duxiu's glorious release from prison
 
-639
+635
 00:30:20,480 --> 00:30:22,960
 The welcome banquet begins now. 
 
-640
+636
 00:30:26,880 --> 00:30:28,240
-First of all, please our
+First of all, please 
 
-641
+637
 00:30:28,320 --> 00:30:29,680
-Mr Cai Yuanpei spoke.
+Mr Cai Yuanpei will speak.
 
-642
+638
 00:30:38,080 --> 00:30:40,400
 I have been away from Peking University for four months.
 
-643
+639
 00:30:41,200 --> 00:30:42,240
-See you today.
+Today, I can see that
+
+640
+00:30:42,640 --> 00:30:43,920
+you still hold the same spirit 
+
+641
+00:30:44,560 --> 00:30:46,400
+you still have the same ambition.
+
+642
+00:30:46,960 --> 00:30:48,640
+I feel gratified.
+
+643
+00:30:49,440 --> 00:30:50,960
+I want to say something.
 
 644
-00:30:42,640 --> 00:30:43,920
-The initial heart depends on
-
-645
-00:30:44,560 --> 00:30:46,400
-The initial ambition has not been extinguished.
-
-646
-00:30:46,960 --> 00:30:48,640
-Feel gratified
-
-647
-00:30:49,440 --> 00:30:50,960
-I'll say a few words now.
-
-648
 00:30:51,600 --> 00:30:52,640
 The first sentence is
 
-649
+645
 00:30:53,920 --> 00:30:56,400
 We would like to thank Mr. Zhongfu.
 
-650
+646
 00:30:57,680 --> 00:30:59,760
-Brother Zhongfu gave me the price.
+Brother Zhongfu here 
+
+647
+00:30:59,840 --> 00:31:02,320
+lit the torch of science and democracy for us.
+
+648
+00:31:03,040 --> 00:31:04,560
+Though I'm afraid that 
+
+649
+00:31:04,960 --> 00:31:06,560
+the significance of this torch
+
+650
+00:31:06,960 --> 00:31:08,160
+will not be known untill decades later.
 
 651
-00:30:59,840 --> 00:31:02,320
-Lit the torch of science and democracy
-
-652
-00:31:03,040 --> 00:31:04,560
-The significance of this torch
-
-653
-00:31:04,960 --> 00:31:06,560
-I'm afraid it will be decades later.
-
-654
-00:31:06,960 --> 00:31:08,160
-To show it.
-
-655
 00:31:08,880 --> 00:31:10,320
 It shows us the direction.
 
-656
+652
 00:31:10,960 --> 00:31:12,640
 It also illuminates the way forward.
 
-657
+653
 00:31:13,040 --> 00:31:14,000
 The second sentence is 
 
-658
+654
 00:31:14,800 --> 00:31:20,800
-Brother Zhongfu, I'm Cai Yuanpei. I'm sorry.
+Brother Zhongfu, I'm sorry.
 
-659
+655
 00:31:22,160 --> 00:31:22,720
-sir
+Sir
 
-660
+656
 00:31:24,160 --> 00:31:25,840
-This is what I say from my heart.
+I am saying this from my heart.
 
-661
+657
 00:31:34,640 --> 00:31:37,440
 Master Cai, I really thank you.
 
-662
+658
 00:31:37,920 --> 00:31:40,480
 You gave me a stage.
 
-663
+659
 00:31:43,920 --> 00:31:44,560
-have a seat
+Have a seat
 
-664
+660
 00:31:45,360 --> 00:31:49,760
-The following program is offering poems.
+Now we will demonstrate our poems.
 
-665
+661
 00:31:50,560 --> 00:31:51,520
 During Mr. Zhongfu's imprisonment
 
-666
+662
 00:31:52,160 --> 00:31:54,080
-Many gentlemen have written it.
+we all wrote something
+
+663
+00:31:54,240 --> 00:31:55,360
+reminding ourselves of Chen Duxiu.
+
+664
+00:31:56,400 --> 00:31:58,080
+Now Mr. Shizhi
+
+665
+00:31:58,560 --> 00:32:01,200
+will read his one out.
+
+666
+00:32:20,800 --> 00:32:23,680
+At this time, I want to borrow the Qupai of Shengchazi.
 
 667
-00:31:54,240 --> 00:31:55,360
-Miss his vernacular poems.
-
-668
-00:31:56,400 --> 00:31:58,080
-First of all, let's invite Mr. Shizhi
-
-669
-00:31:58,560 --> 00:32:01,200
-Present his little poem.
-
-670
-00:32:20,800 --> 00:32:23,680
-At this time, I want to use the Qupai of Shengchazi.
-
-671
 00:32:24,080 --> 00:32:25,440
 Recite a little poem of mine.
 
-672
+668
 00:32:25,920 --> 00:32:27,680
-Share it with all your friends here. 
+Share it with all my friends here. 
 
-673
+669
 00:32:28,480 --> 00:32:30,880
 Also dedicate this little poem to my beloved friend. 
 
-674
+670
 00:32:31,440 --> 00:32:32,160
-中富兄
+Mr. Zhongfu.
+
+671
+00:32:35,360 --> 00:32:41,280
+I'd rather not to miss you.
+
+672
+00:32:42,160 --> 00:32:48,240
+So I can avoid the lovesickness.
+
+673
+00:32:49,520 --> 00:32:56,320
+Think about it several times.
+
+674
+00:32:57,280 --> 00:33:10,720
+Now I am willing to be lovesick.
 
 675
-00:32:35,360 --> 00:32:41,280
-I don't want to miss you either.
+00:33:15,040 --> 00:33:16,000
+Excellent
 
 676
-00:32:42,160 --> 00:32:48,240
-Can avoid lovesickness.
+00:33:27,680 --> 00:33:29,920
+Now it's Mr. Liu Bannong's turn.
 
 677
-00:32:49,520 --> 00:32:56,320
-Think about it several times
+00:33:30,320 --> 00:33:32,560
+The title of Mr. Wang's poem is of very new style.
 
 678
-00:32:57,280 --> 00:33:10,720
-Willing to be lovesick.
+00:33:33,040 --> 00:33:35,360
+It's called <D!>
 
 679
-00:33:15,040 --> 00:33:16,000
-excellent
+00:33:49,600 --> 00:33:50,400
+Zhongfu regained his freedom.
 
 680
-00:33:27,680 --> 00:33:29,920
-Let's ask Mr. Liu Bannong to present a poem.
-
-681
-00:33:30,320 --> 00:33:32,560
-The title of Mr. Wang's poem is The Renaissance.
-
-682
-00:33:33,040 --> 00:33:35,360
-It's called "D! 》 
-
-683
-00:33:49,600 --> 00:33:50,400
-中富出狱
-
-684
 00:33:50,880 --> 00:33:51,680
 I am very excited
 
-685
+681
 00:33:52,400 --> 00:33:53,280
 I am going abroad soon.
 
-686
+682
 00:33:53,760 --> 00:33:54,720
-Before I finally went abroad
+Before I leave,
 
-687
+683
 00:33:54,800 --> 00:33:55,680
-I saw him again.
+finally, I see him again.
 
-688
+684
 00:33:56,560 --> 00:33:57,840
 I wrote a vernacular poem.
 
-689
+685
 00:33:58,240 --> 00:33:59,680
 I'll just read a short paragraph.
 
-690
+686
 00:34:01,760 --> 00:34:04,960
 I haven't seen you for more than eighty days.
 
-691
+687
 00:34:06,000 --> 00:34:08,160
 People say it's separation.
 
-692
+688
 00:34:09,040 --> 00:34:10,560
 It's a tragic parting.
 
-693
+689
 00:34:11,600 --> 00:34:12,640
 Is that so?
 
-694
+690
 00:34:13,760 --> 00:34:14,960
 Our friendship
 
-695
+691
 00:34:16,000 --> 00:34:18,800
-If it's not an ordinary good friend and a foolish brother
+If it's not for those foolish people
 
-696
+692
 00:34:19,360 --> 00:34:20,800
-Then what about him?
+Then whatever happens
 
-697
+693
 00:34:21,840 --> 00:34:24,720
 You still see me every day as usual
 
-698
+694
 00:34:25,360 --> 00:34:29,440
-I still see you every day.
+And I still see you every day.
+
+695
+00:34:31,040 --> 00:34:32,480
+The power has imprisoned you.
+
+696
+00:34:32,960 --> 00:34:34,720
+I'm not confined. 
+
+697
+00:34:35,600 --> 00:34:37,600
+Countless comrades are not confined. 
+
+698
+00:34:37,760 --> 00:34:42,560
+And countless brothers coming after us are not confined.
 
 699
-00:34:31,040 --> 00:34:32,480
-Authoritarianism has imprisoned you.
-
-700
-00:34:32,960 --> 00:34:34,720
-I'm not confined yet. 
-
-701
-00:34:35,600 --> 00:34:37,600
-More confinement can't countless comrades. 
-
-702
-00:34:37,760 --> 00:34:42,560
-And countless later brothers.
-
-703
 00:34:53,520 --> 00:34:55,680
 Bannong, you are a great talent.
 
-704
+700
 00:34:56,080 --> 00:34:58,240
-Zhongfu fortunately met you.
+It's my luck that I met you.
+
+701
+00:35:05,280 --> 00:35:06,240
+Great poem.
+
+702
+00:35:06,720 --> 00:35:09,120
+I heard Mr Shouchang stayed up all night last night.
+
+703
+00:35:09,520 --> 00:35:10,640
+He wrote a long poem.
+
+704
+00:35:11,040 --> 00:35:12,880
+Let's hear it together.
 
 705
-00:35:05,280 --> 00:35:06,240
-Recite it perfectly.
+00:35:13,120 --> 00:35:14,000
+From Mr. Shouchang.
 
 706
-00:35:06,720 --> 00:35:09,120
-It is said that Mr Shouchang stayed up all night last night.
+00:35:29,760 --> 00:35:32,640
+Brother Zhongfu and I all had a hard time.
 
 707
-00:35:09,520 --> 00:35:10,640
-Made a long poem.
+00:35:32,960 --> 00:35:35,520
+It's like a rebirth of Phoenix for us.
 
 708
-00:35:11,040 --> 00:35:12,880
-Let's enjoy it together.
+00:35:36,320 --> 00:35:38,240
+My poem is a bit long 
 
 709
-00:35:13,120 --> 00:35:14,000
-Mr's works
-
-710
-00:35:29,760 --> 00:35:32,640
-What about this trip? Brother Zhongfu and I
-
-711
-00:35:32,960 --> 00:35:35,520
-It's a rebirth of Phoenix.
-
-712
-00:35:36,320 --> 00:35:38,240
-Although my poem is a bit long 
-
-713
 00:35:38,880 --> 00:35:40,240
 But I sincerely hope that you 
 
-714
+710
 00:35:40,720 --> 00:35:42,240
-Allow me to finish reading it.
+allow me to finish reading it.
 
-715
+711
 00:35:42,880 --> 00:35:46,400
 To show my admiration for brother Zhongfu.
 
-716
+712
 00:35:47,360 --> 00:35:48,080
 Is that OK
 
-717
+713
 00:36:03,760 --> 00:36:04,960
 You got out of prison today.
 
-718
+714
 00:36:05,920 --> 00:36:07,040
-We are very happy.
+We are all in great joy.
+
+715
+00:36:07,840 --> 00:36:09,600
+Their power, their authoritarianism
+
+716
+00:36:09,920 --> 00:36:12,320
+all defeated in front of absolute truth.
+
+717
+00:36:13,440 --> 00:36:14,960
+Prison? Death?
+
+718
+00:36:15,360 --> 00:36:16,960
+They can't bend your knees.
 
 719
-00:36:07,840 --> 00:36:09,600
-Their power and power
+00:36:17,760 --> 00:36:19,360
+You support the truth.
 
 720
-00:36:09,920 --> 00:36:12,320
-After all, the truth is invincible
-
-721
-00:36:13,440 --> 00:36:14,960
-What prison what death?
-
-722
-00:36:15,360 --> 00:36:16,960
-Can't give in to you.
-
-723
-00:36:17,760 --> 00:36:19,360
-Because you support the truth.
-
-724
 00:36:19,760 --> 00:36:22,880
 So the truth supports you.
 
-725
+721
 00:36:24,320 --> 00:36:25,440
 You got out of prison today.
 
-726
+722
 00:36:27,200 --> 00:36:28,480
-We are very happy.
+We are all in great joy.
 
-727
+723
 00:36:29,360 --> 00:36:31,040
 There are many good young people.
 
-728
+724
 00:36:31,840 --> 00:36:34,320
-I have already implemented your words.
+Following your steps.
 
-729
+725
 00:36:35,360 --> 00:36:37,760
-Come out of the lab and go to jail.
+It's either jail or laboratory.
 
-730
+726
 00:36:38,240 --> 00:36:40,640
-Come out of prison and enter the laboratory.
+It's either study or fight.
 
-731
+727
 00:36:40,800 --> 00:36:42,400
-They all went to prison.
+They all go to prison.
 
-732
+728
 00:36:42,640 --> 00:36:46,560
 Then the prison becomes a laboratory.
 
-733
+729
 00:36:48,800 --> 00:36:51,040
-So you live here?
+You can relax there.
 
-734
+730
 00:36:53,200 --> 00:36:59,280
-Don't worry, be lonely, have no partner.
+As you will never be loney, you never short of campanion.
 
-735
+731
 00:37:28,160 --> 00:37:30,480
-When will the seats be opened at this time?
+When shall we start this welcome meal.
 
-736
+732
 00:37:30,880 --> 00:37:32,160
 I'm drooling.
 
-737
-00:37:33,520 --> 00:37:33,520
-
-
-738
-00:37:33,600 --> 00:37:33,840
+733
+00:37:33,600 --> 00:37:34,320
 Sorry.
 
-739
-00:37:33,920 --> 00:37:34,000
-Sorry.
-
-740
-00:37:34,080 --> 00:37:34,160
-Sorry.
-
-741
-00:37:34,240 --> 00:37:34,320
-Sorry.
-
-742
-00:37:34,400 --> 00:37:34,400
-
-
-743
+734
 00:37:34,800 --> 00:37:36,320
-Come here. I'm sorry.
+Sorry for keep you waiting.
 
-744
+735
 00:37:36,720 --> 00:37:38,720
-I now declare the meeting open.
+Let's eat now!
 
-745
+736
 00:37:39,760 --> 00:37:40,320
 come on
 
-746
+737
 00:37:40,800 --> 00:37:41,360
 Yucai
 
-747
+738
 00:37:43,200 --> 00:37:44,240
-Always pushing others. 
+Always pushing the others. 
 
-748
+739
 00:37:44,720 --> 00:37:46,320
-When does your own table open?
+When is your turn?
 
-749
+740
 00:37:46,640 --> 00:37:47,120
-I
+Me?
 
-750
+741
 00:37:47,680 --> 00:37:48,880
-Where do I have any seats? 
+What do you mean?
 
-751
+742
 00:37:50,400 --> 00:37:52,640
-I'm waiting for your novel feast.
+I've been waiting for feast of novel from you.
 
-752
+743
 00:37:53,040 --> 00:37:53,760
 You don't know.
 
-753
+744
 00:37:54,240 --> 00:37:55,680
-Spent a lot of time in prison
+In prison
 
-754
+745
 00:37:56,160 --> 00:37:58,320
 I spent my time reading your novels.
 
-755
+746
 00:37:58,720 --> 00:38:02,000
 The new culture movement can't do without it 
 
-756
+747
 00:38:02,480 --> 00:38:03,360
-Look, sir.
+See.
 
-757
+748
 00:38:04,400 --> 00:38:06,720
-A man's mouth is soft while his hand is short.
+I have his food in my bowl, now I am in debt to him.
 
-758
+749
 00:38:06,880 --> 00:38:08,240
-Zhongfu, how many days have you not seen me?
+Zhongfu has gained the ability to push people for drafts 
 
-759
+750
 00:38:08,560 --> 00:38:09,840
-The ability to rush the draft can be seen to be long.
+in these days I didn't see him.
 
-760
+751
 00:38:15,920 --> 00:38:17,840
-Gentlemen and classmates.
+Everyone.
 
-761
+752
 00:38:25,680 --> 00:38:26,800
-I still have something to say.
+I have something to say.
 
-762
+753
 00:38:27,840 --> 00:38:30,000
 I was a child four years ago.
 
-763
+754
 00:38:30,640 --> 00:38:32,640
-Manager Wang Meng Zou is Mr. Chen Duxiu.
+At a dinner party for Mr. Chen Duxiu
 
-764
+755
 00:38:32,720 --> 00:38:34,560
-At a dinner party held at.
+held by Mr. Wang Mengzou,
 
-765
+756
 00:38:34,800 --> 00:38:36,480
-I put that ox hoof 
+I changed an ox hoof dish 
 
-766
+757
 00:38:36,640 --> 00:38:37,840
-Changed to a lazy clam.
+to a lazy frog.
 
-767
+758
 00:38:38,640 --> 00:38:40,160
-I wanted to tease my father.
+I wanted to play a joke on my father.
 
-768
+759
 00:38:40,880 --> 00:38:41,600
 But today
 
-769
+760
 00:38:41,920 --> 00:38:43,600
-I made an ox hoof by myself.
+I made an ox hoof dish by myself.
 
-770
+761
 00:38:45,280 --> 00:38:46,560
 I don't know if it's delicious.
 
-771
+762
 00:38:47,200 --> 00:38:48,720
 But I want to dedicate it to my father. 
 
-772
+763
 00:38:49,760 --> 00:38:52,720
-Dedicated to returning to the laboratory from prison
+Dedicated to this return to the laboratory from prison.
 
-773
+764
 00:38:52,960 --> 00:38:53,920
 Mr. Chen Duxiu
 
-774
+765
 00:38:55,920 --> 00:38:57,280
 Please accept this gift.
 
-775
+766
 00:38:58,160 --> 00:39:01,280
-Because it represents my apology.
+For it also represents my apology.
+
+767
+00:39:44,000 --> 00:39:45,120
+Even if there is frog
+
+768
+00:39:45,440 --> 00:39:46,720
+in this plate today.
+
+769
+00:39:46,880 --> 00:39:47,760
+I'll still have it.
+
+770
+00:39:55,440 --> 00:39:55,840
+Everyone
+
+771
+00:39:57,200 --> 00:39:57,760
+Never be satisfied.
+
+772
+00:39:58,960 --> 00:39:59,600
+Always learn something new.
+
+773
+00:40:00,480 --> 00:40:01,200
+Always making progress.
+
+774
+00:40:02,960 --> 00:40:04,240
+Chen Duxiu today
+
+775
+00:40:04,720 --> 00:40:06,080
+is still ehe same Chen Duxiu.
 
 776
-00:39:44,000 --> 00:39:45,120
-In this dish today
+00:40:07,680 --> 00:40:08,720
+Chen Duxiu today
 
 777
-00:39:45,440 --> 00:39:46,720
-Even if there are otters and clams
+00:40:09,520 --> 00:40:11,280
+is also a brand-new Chen Duxiu.
 
 778
-00:39:46,880 --> 00:39:47,760
-I'll eat it, too.
-
-779
-00:39:55,440 --> 00:39:55,840
-everyone
-
-780
-00:39:57,200 --> 00:39:57,760
-Gourixin
-
-781
-00:39:58,960 --> 00:39:59,600
-Ririxin
-
-782
-00:40:00,480 --> 00:40:01,200
-Yourixin
-
-783
-00:40:02,960 --> 00:40:04,240
-今天的陈独秀
-
-784
-00:40:04,720 --> 00:40:06,080
-The same Chen Duxiu.
-
-785
-00:40:07,680 --> 00:40:08,720
-今天的陈独秀
-
-786
-00:40:09,520 --> 00:40:11,280
-It's another brand-new Chen Duxiu.
-
-787
 00:40:19,440 --> 00:40:20,000
 Comrades
 
-788
+779
 00:40:20,480 --> 00:40:23,040
-Today, we Tianjin Student Union
+Today, from Tianjin Student Union
+
+780
+00:40:23,360 --> 00:40:24,960
+and the women's patriotic comrades' association,
+
+781
+00:40:25,200 --> 00:40:26,560
+ten men and ten women each,
+
+782
+00:40:26,800 --> 00:40:28,640
+gathered here today.
+
+783
+00:40:28,960 --> 00:40:30,720
+For we share the same goal and the same mindset,
+
+784
+00:40:31,520 --> 00:40:32,640
+we set up this Awakening Club today.
+
+785
+00:40:37,600 --> 00:40:38,480
+This club
+
+786
+00:40:38,800 --> 00:40:42,080
+will be the leading organization of Tianjin students' patriotic movement. 
+
+787
+00:40:42,320 --> 00:40:43,680
+With the spirit of introspection, pratical exercise,
+
+788
+00:40:44,000 --> 00:40:47,360
+persistence, dedication, joyfulness, 
 
 789
-00:40:23,360 --> 00:40:24,960
-And the women's patriotic comrades' association
+00:40:47,920 --> 00:40:51,120
+sacrifice and creation.
 
 790
-00:40:25,200 --> 00:40:26,560
-Ten men and ten women each.
+00:40:51,760 --> 00:40:53,440
+With the spirit of criticism and mutual assistance 
 
 791
-00:40:26,800 --> 00:40:28,640
-Because of the common mission
+00:40:53,680 --> 00:40:56,080
+We aim to build a new ideology foundation for students,
 
 792
-00:40:28,960 --> 00:40:30,720
-The common consciousness came together.
+00:40:56,400 --> 00:40:58,640
+lead everyone to self-consciousness and self-determination.
 
 793
-00:40:31,520 --> 00:40:32,640
-Formally set up the Awakening Society.
-
-794
-00:40:37,600 --> 00:40:38,480
-Our enlightenment club
-
-795
-00:40:38,800 --> 00:40:42,080
-It is the leading organization of Tianjin students' patriotic movement. 
-
-796
-00:40:42,320 --> 00:40:43,680
-Our goal is in line with
-
-797
-00:40:44,000 --> 00:40:47,360
-Carry out introspection and persistent struggle.
-
-798
-00:40:47,920 --> 00:40:51,120
-Lively and happy! Sacrifice creation
-
-799
-00:40:51,200 --> 00:40:51,280
-Happy creation
-
-800
-00:40:51,760 --> 00:40:53,440
-The spirit of criticism and mutual assistance 
-
-801
-00:40:53,680 --> 00:40:56,080
-Do a good job in ideological reform of students.
-
-802
-00:40:56,400 --> 00:40:58,640
-Lead everyone to self-consciousness and self-determination.
-
-803
 00:40:59,600 --> 00:41:00,560
 Our determination
 
-804
+794
 00:41:00,640 --> 00:41:02,800
-Is to make concerted efforts to walk on the path of enlightenment.
+is to make concerted efforts to walk on the path of enlightenment.
 
-805
+795
 00:41:03,440 --> 00:41:05,280
-At the same time, I look forward to all the people in society.
+At the same time, we hope to see all people 
 
-806
+796
 00:41:05,520 --> 00:41:06,560
-Can walk on the path of enlightenment
+can find the path of enlightenment.
 
-807
+797
 00:41:08,560 --> 00:41:09,280
 Comrades
 
-808
+798
 00:41:09,760 --> 00:41:10,720
-Because of the need of struggle
+Given the current potential danger of this career,
 
-809
+799
 00:41:11,120 --> 00:41:12,560
-The names of the members of our Awakening Society
+all names of members in the club
 
-810
+800
 00:41:12,880 --> 00:41:13,680
-Not open to the public
+will remain hidden from the public.
 
-811
+801
 00:41:14,080 --> 00:41:15,360
-And draw lots.
+So, we will draw from the pool
 
-812
+802
 00:41:15,760 --> 00:41:16,800
-Named after the number 
+to give each one a number
 
-813
+803
 00:41:16,960 --> 00:41:18,560
-Used as a code for communication.
+as a code for communication,
 
-814
+804
 00:41:18,800 --> 00:41:19,840
-And the pseudonym of the published article.
+also as the pseudonym.
 
-815
+805
 00:41:20,480 --> 00:41:23,280
 There are fifty notes on the table now.
 
-816
+806
 00:41:23,600 --> 00:41:25,280
 A number is written on each note.
 
-817
+807
 00:41:25,600 --> 00:41:26,800
-The number you drew.
+The number you drew
 
-818
+808
 00:41:27,120 --> 00:41:29,200
-Is your future correspondence code and pen name.
+is your future correspondence code and pen name.
 
-819
+809
 00:41:29,760 --> 00:41:31,120
-Let's start arresting me now.
+Let's start now.
