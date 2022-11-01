@@ -16,7 +16,7 @@ The food we eat is from those ones work hard in the fields.
 
 5
 00:00:17,358 --> 00:00:18,253
-[Chen Wangdao, Translator of "The Communist Manifesto"]
+[Chen Wangdao, Translator of the "Communist Manifesto"]
 
 6
 00:00:18,800 --> 00:00:20,240
@@ -32,11 +32,11 @@ The clothes we wear are made by tailors.
 
 9
 00:00:24,560 --> 00:00:26,240
-Not by the Emperor,
+Not from the Emperor, the President,
 
 10
 00:00:26,320 --> 00:00:27,440
-not by the President.
+nor from the bureaucrats.
 
 11
 00:00:27,920 --> 00:00:29,120
@@ -48,11 +48,11 @@ were made by carpenters and bricklayers.
 
 13
 00:00:32,320 --> 00:00:34,000
-Not by the Emperor, the President,
+Not from the Emperor, the President,
 
 14
 00:00:34,080 --> 00:00:35,280
-nor by the bureaucrats.
+nor from the bureaucrats.
 
 15
 00:00:35,520 --> 00:00:37,040
@@ -76,7 +76,7 @@ by sailers, porters, and others.
 
 20
 00:00:46,854 --> 00:00:49,542
-[Chen Duxiu, courtesy name Zhongfu]
+[Chen Duxiu, styled Zhongfu]
 
 21
 00:00:47,280 --> 00:00:49,760
@@ -128,7 +128,7 @@ no clothes, no houses,
 
 33
 00:01:13,768 --> 00:01:15,333
-[Zhao Shiyan, courtesy Qinsheng]
+[Zhao Shiyan, styled Qinsheng]
 
 34
 00:01:14,080 --> 00:01:16,080
@@ -228,7 +228,7 @@ that we should talk in depth about it
 
 58
 00:02:21,520 --> 00:02:24,080
-in this evening school for Changxindian workers, 
+in this evening school for Changxindian workers,
 
 59
 00:02:24,560 --> 00:02:27,280
@@ -236,7 +236,7 @@ so as to organize the mass working class.
 
 60
 00:02:24,595 --> 00:02:27,467
-[Li Dazhao, courtesy name Shouchang, Director of Peking University Library]
+[Li Dazhao, styled Shouchang, Director of Peking University Library]
 
 61
 00:02:27,680 --> 00:02:28,160
@@ -420,7 +420,7 @@ Shizhi, you waiting for me?
 
 106
 00:05:04,480 --> 00:05:05,680
-Tell me, is this still the "New Youth" 
+Tell me, is this still the "New Youth"
 
 107
 00:05:05,760 --> 00:05:06,720
@@ -436,7 +436,7 @@ is it still a magazine of enlightenment?
 
 110
 00:05:11,200 --> 00:05:12,320
-Zhongfu, what is it he wants? 
+Zhongfu, what is it he wants?
 
 111
 00:05:12,960 --> 00:05:13,680
@@ -444,31 +444,31 @@ What's wrong here?
 
 112
 00:05:14,400 --> 00:05:15,360
-The New Youth!
+The "New Youth"
 
 113
 00:05:15,920 --> 00:05:17,920
-Made a special issue for illiterate workers.
+made a special issue for illiterate workers.
 
 114
 00:05:18,400 --> 00:05:19,520
-The New Youth!
+The "New Youth"
 
 115
 00:05:19,840 --> 00:05:21,120
-See what it's written inside!
+if full of
 
 116
 00:05:21,200 --> 00:05:22,800
-Casual daily chores about merely household stuff!
+casual daily chores about merely household stuff!
 
 117
 00:05:23,200 --> 00:05:24,320
-The New Youth!
+The "New Youth"
 
 118
 00:05:24,480 --> 00:05:26,240
-Do we not care about academic level anymore?
+does not care about academic rigour anymore!
 
 119
 00:05:27,520 --> 00:05:30,320
@@ -476,7 +476,7 @@ Shizhi, didn't we all agree?
 
 120
 00:05:30,960 --> 00:05:32,480
-How to run "New Youth" is Brother Zhongfu's business.
+How to run "New Youth" is brother Zhongfu's business.
 
 121
 00:05:33,040 --> 00:05:34,160
@@ -500,19 +500,19 @@ Wrong!
 
 126
 00:05:40,000 --> 00:05:40,320
-New youth
+"New Youth"
 
 127
 00:05:40,400 --> 00:05:41,760
-It's Li Dazhao's New Youth.
+is Li Dazhao's "New Youth".
 
 128
 00:05:42,080 --> 00:05:43,440
-It's me, Hu Shi's New Youth.
+It's Hu Shi's "New Youth".
 
 129
 00:05:43,520 --> 00:05:44,960
-It's everyone's New Youth.
+It's everyone's "New Youth"!
 
 130
 00:05:45,760 --> 00:05:47,120
@@ -520,11 +520,11 @@ Do you think this is all right?
 
 131
 00:05:48,160 --> 00:05:49,520
-I think it's good. 
+I think it's good.
 
 132
 00:05:49,920 --> 00:05:51,520
-I heard that the sales of this issue is doing well too. 
+I heard that the sales of this issue is doing well too.
 
 133
 00:05:55,600 --> 00:05:56,640
@@ -543,2929 +543,3049 @@ No way I would allow Chen Zhongfu
 tarnish "New Youth" like this!
 
 137
-00:07:57,920 --> 00:07:58,880
-Come on, come on, come on
+00:07:30,673 --> 00:07:36,398
+[Shanghai]
 
 138
+00:07:36,916 --> 00:07:38,644
+[Mao Zedong, styled Runzhi]
+
+139
+00:07:57,920 --> 00:07:58,880
+Come on, come on, come on.
+
+140
 00:07:58,960 --> 00:08:00,080
 Come in, Runzhi.
 
-139
+141
 00:08:00,160 --> 00:08:00,720
 Sir.
 
-140
+142
 00:08:00,960 --> 00:08:01,680
 Took you time.
 
-141
+143
 00:08:01,760 --> 00:08:03,120
 Didn't you leave Beijing long ago?
 
-142
+144
 00:08:03,840 --> 00:08:04,560
 What's this?
 
-143
+145
 00:08:05,680 --> 00:08:06,960
 Here are some peanuts and jujubes.
 
-144
+146
 00:08:07,120 --> 00:08:08,080
 I passed Shandong on the way.
 
-145
+147
 00:08:08,160 --> 00:08:09,280
 Brought you some local specialties.
 
-146
-00:08:10,000 --> 00:08:11,040
-After leaving Beijing
-
-147
-00:08:11,600 --> 00:08:12,640
-I went down south. 
-
 148
-00:08:12,960 --> 00:08:15,040
-I climbed Mount Tai and visited Confucius Temple.
+00:08:10,000 --> 00:08:11,040
+After leaving Beijing,
 
 149
+00:08:11,600 --> 00:08:12,640
+I went down south.
+
+150
+00:08:12,960 --> 00:08:15,040
+I climbed Mount Tai and visited the Confucius Temple.
+
+151
 00:08:15,120 --> 00:08:17,280
 I had a good journey and leart a lot.
 
-150
+152
 00:08:18,560 --> 00:08:20,640
-I arrived in Shanghai last night. 
+I arrived in Shanghai last night.
 
-151
+153
 00:08:20,880 --> 00:08:22,640
 First thing today I came here.
 
-152
+154
 00:08:23,440 --> 00:08:25,440
 You went to Qufu.
 
-153
+155
 00:08:25,600 --> 00:08:26,240
 Yes.
 
-154
+156
 00:08:26,640 --> 00:08:29,040
 I went to see the old residence of Confucius and his cemetery.
 
-155
+157
 00:08:29,280 --> 00:08:30,640
-And burned incense stick too.
+And burned incense sticks too.
 
-156
+158
 00:08:31,760 --> 00:08:34,720
 I would have asked you to do the same thing on my behalf.
 
-157
-00:08:35,040 --> 00:08:36,800
-So to ask Confucius to cut me some slack.
-
-158
-00:08:37,120 --> 00:08:39,600
-And to critisize Yuan Shikai instead of me.
-
 159
-00:08:40,160 --> 00:08:44,320
-He restored the monarchy in the name of Confucius,
+00:08:35,040 --> 00:08:36,800
+To ask Confucius to cut me some slack
 
 160
-00:08:44,720 --> 00:08:46,400
-had the whole nation condemning him.
+00:08:37,120 --> 00:08:39,600
+and to criticize Yuan Shikai.
 
 161
+00:08:40,160 --> 00:08:44,320
+He restored the monarchy in the name of Confucius
+
+162
+00:08:44,720 --> 00:08:46,400
+and had the whole nation condemning him.
+
+163
 00:08:46,480 --> 00:08:47,200
 Isn't it?
 
-162
+164
 00:08:47,440 --> 00:08:48,400
 To be honest.
 
-163
+165
 00:08:48,720 --> 00:08:49,760
 I do admire Confucius
 
-164
+166
 00:08:50,000 --> 00:08:51,840
 from the bottom of my heart.
 
-165
+167
 00:08:52,080 --> 00:08:53,120
 If there is a chance
 
-166
+168
 00:08:53,600 --> 00:08:56,080
 I'll also go to Qufu to burn a incense stick to pay my respect.
 
-167
+169
 00:08:57,920 --> 00:08:58,480
 Sir.
 
-168
+170
 00:08:58,800 --> 00:09:00,960
 I think Confucius wouldn't mind you do so.
 
-169
+171
 00:09:01,280 --> 00:09:02,320
 Because he understands,
 
-170
+172
 00:09:02,800 --> 00:09:04,240
 that he is just a portrait now.
 
-171
+173
 00:09:04,320 --> 00:09:06,560
 As for how to paint it, it's a matter for future generations.
 
-172
+174
 00:09:06,640 --> 00:09:07,760
 That's a good point.
 
-173
+175
 00:09:08,480 --> 00:09:09,200
 Runzhi.
 
-174
+176
 00:09:10,000 --> 00:09:11,440
 You are one of the few wise men.
 
-175
+177
 00:09:11,680 --> 00:09:14,480
 By the way, how is the anti-Zhang movement going?
 
-176
+178
 00:09:14,720 --> 00:09:16,240
 I wrote something the end of last year
 
-177
+179
 00:09:16,400 --> 00:09:17,600
 on New Youth,
 
-178
+180
 00:09:17,680 --> 00:09:19,280
 "Welcome Hunan People's Spirit"
 
-179
+181
 00:09:19,360 --> 00:09:20,320
 so to support you guys.
 
-180
+182
 00:09:20,400 --> 00:09:22,640
 Yes, I've wanted to thank you for a long time
 
-181
+183
 00:09:23,680 --> 00:09:25,440
 Those legit stuggles we did in Beijing,
 
-182
+184
 00:09:25,680 --> 00:09:27,280
-all the peaceful petitions we had,  
+all the peaceful petitions we had,
 
-183
+185
 00:09:27,440 --> 00:09:28,560
 they all failed.
 
-184
+186
 00:09:28,800 --> 00:09:30,320
 Now, with warlords at each others' throats,
 
-185
-00:09:30,400 --> 00:09:32,080
-we might can take this chance and finally put an end to Zhang's cruelty. 
-
-186
-00:09:32,640 --> 00:09:34,560
-But after we get rid of Zhang JIngyao,
-
 187
+00:09:30,400 --> 00:09:32,080
+we might can take this chance and finally put an end to Zhang's cruelty.
+
+188
+00:09:32,640 --> 00:09:34,560
+But after we get rid of Zhang Jingyao,
+
+189
 00:09:34,720 --> 00:09:36,800
 how we should do with the autonomy in Hunan？
 
-188
+190
 00:09:37,440 --> 00:09:39,760
 I have no clue about it.
 
-189
+191
 00:09:40,000 --> 00:09:40,720
 Here is my view.
 
-190
+192
 00:09:41,200 --> 00:09:42,800
 As long as we have the so-called supervisor general system,
 
-191
+193
 00:09:43,600 --> 00:09:45,600
 this world will be still under control of those ones who only know how to shoot guns.
 
-192
+194
 00:09:45,840 --> 00:09:48,000
 We call it democratic republic,
 
-193
+195
 00:09:48,240 --> 00:09:50,880
 whilst in fact it is warlords taking turns showing their power,
 
-194
+196
 00:09:51,440 --> 00:09:52,640
 stealing from the people and betraying this country.
 
-195
-00:09:53,040 --> 00:09:54,960
-You want to talk petition, improve people's livelihood
-
-196
-00:09:55,040 --> 00:09:56,880
-and better system with them?
-
 197
+00:09:53,040 --> 00:09:54,960
+You want to talk petitions, improve people's livelihood
+
+198
+00:09:55,040 --> 00:09:56,880
+and a better system with them?
+
+199
 00:09:57,600 --> 00:09:59,920
 You might well ask a tiger for its skin.
 
-198
+200
 00:10:01,600 --> 00:10:02,880
 Sir, you are absolutely right.
 
-199
+201
 00:10:03,280 --> 00:10:04,560
-This country is sick in it's bones.
+This country is sick in her bones.
 
-200
+202
 00:10:06,800 --> 00:10:09,200
 I don't know which medicine is the right one,
 
-201
+203
 00:10:09,440 --> 00:10:10,640
-but even with the slightest hope, I will try them all
+but even with the slightest hope, I will try them all.
 
-202
+204
 00:10:10,800 --> 00:10:13,040
 Though the efforts needed is tremendous.
 
-203
+205
 00:10:13,440 --> 00:10:16,480
 I have always thought it's okay if we do it slowly,
 
-204
+206
 00:10:16,640 --> 00:10:18,880
-with enlightenment education, awakening Chinese people gradually. 
+with enlightenment education, awakening Chinese people gradually.
 
-205
+207
 00:10:19,200 --> 00:10:20,880
 Step by step.
 
-206
+208
 00:10:21,360 --> 00:10:23,440
 But now there is no time.
 
-207
+209
 00:10:23,600 --> 00:10:26,640
 Inside we have warlords, outside we have foreign enemies.
 
-208
+210
 00:10:26,800 --> 00:10:27,840
 If we do it slowly,
 
-209
+211
 00:10:27,920 --> 00:10:30,320
 China will be split apart before we realize it,
 
-210
+212
 00:10:30,720 --> 00:10:32,640
 we will always be under their fingers.
 
-211
+213
 00:10:33,040 --> 00:10:34,080
 The core to save our nation,
 
-212
+214
 00:10:34,160 --> 00:10:37,440
 I think it is to take action immediately.
 
-213
+215
 00:10:40,880 --> 00:10:41,440
 Sir.
 
-214
+216
 00:10:41,600 --> 00:10:42,640
 Then, in your opinion,
 
-215
+217
 00:10:42,800 --> 00:10:45,680
 what kind of ideology is the guideline to save the nation?
 
-216
+218
 00:10:49,760 --> 00:10:51,920
 Marx and Lenin showed us the way.
 
-217
+219
 00:10:52,240 --> 00:10:52,960
 Take a look.
 
-218
+220
 00:10:55,040 --> 00:10:56,080
 Chen Wangdao finished this just now.
 
-219
+221
 00:10:56,160 --> 00:10:57,280
 The translated full version
 
-220
+222
 00:10:57,360 --> 00:10:59,360
-of The Communist Manifesto.
+of the "Communist Manifesto".
 
-221
+223
 00:10:59,600 --> 00:11:01,200
 This is the guideline of salvation.
 
-222
-00:11:01,520 --> 00:11:04,960
-I'm doing the proofread so it can be published as soon as possible.
-
-223
-00:11:06,080 --> 00:11:07,840
-A fully translated Communist Manifesto?
-
 224
-00:11:08,160 --> 00:11:10,480
-What I read in Beijing before were all only paragraphs. 
+00:11:01,520 --> 00:11:04,960
+I'm doing the proofreading so it can be published as soon as possible.
 
 225
+00:11:06,080 --> 00:11:07,840
+A fully translated "Communist Manifesto"?
+
+226
+00:11:08,160 --> 00:11:10,480
+What I read in Beijing before were all only paragraphs.
+
+227
 00:11:11,040 --> 00:11:12,640
 I've never read the full thing.
 
-226
+228
 00:11:14,240 --> 00:11:15,040
 Sir.
 
-227
+229
 00:11:15,760 --> 00:11:17,760
 Can I read it first?
 
-228
-00:11:17,840 --> 00:11:19,840
-Of course, not only that.
-
-229
-00:11:20,160 --> 00:11:20,800
-Runzhi
-
 230
+00:11:17,840 --> 00:11:19,840
+Of course, not only that,
+
+231
+00:11:20,160 --> 00:11:20,800
+Runzhi,
+
+232
 00:11:20,960 --> 00:11:22,960
 I wish you could join me.
 
-231
+233
 00:11:23,360 --> 00:11:25,360
 I wish you could also be a believer in the Communist Party.
 
-232
+234
 00:11:25,760 --> 00:11:27,440
 I think I will.
 
-233
+235
 00:11:27,920 --> 00:11:28,800
 Before I only read some paragraphs,
 
-234
+236
 00:11:28,880 --> 00:11:30,080
 but those alone
 
-235
+237
 00:11:30,320 --> 00:11:32,800
-has made my heart pounding so hard. 
+has made my heart pounding so hard.
 
-236
+238
 00:11:32,880 --> 00:11:33,440
 Good.
 
-237
+239
 00:11:33,520 --> 00:11:34,400
 Here, Runzhi.
 
-238
+240
 00:11:34,640 --> 00:11:36,080
-Don't go anywhere today. 
+Don't go anywhere today.
 
-239
+241
 00:11:36,160 --> 00:11:37,040
 Stay here.
 
-240
+242
 00:11:37,120 --> 00:11:38,320
 You can finish reading it in one go!
 
-241
+243
 00:11:38,400 --> 00:11:39,280
 Yes, please.
 
-242
+244
 00:11:40,480 --> 00:11:43,120
-Members of our Marxist Research Association
+Members of our Marxist Research Society
 
-243
+245
 00:11:43,360 --> 00:11:44,480
 are from three organizations.
 
-244
-00:11:44,880 --> 00:11:45,920
-New Youth magazine,
-
-245
-00:11:46,240 --> 00:11:47,360
-Weekly Review magazine,
-
 246
-00:11:47,840 --> 00:11:48,720
-and the Current Affairs News.
+00:11:44,880 --> 00:11:45,920
+"New Youth" magazine,
 
 247
+00:11:46,240 --> 00:11:47,360
+the "Weekly Review" magazine,
+
+248
+00:11:47,840 --> 00:11:48,720
+and the "Current Affairs News".
+
+249
 00:11:49,360 --> 00:11:51,520
 Today, we are have a seminar.
 
-248
+250
 00:11:52,320 --> 00:11:52,880
 Everyone knows,
 
-249
+251
 00:11:53,120 --> 00:11:54,080
 not long ago,
 
-250
+252
 00:11:54,400 --> 00:11:56,960
 Voitinsky from Communist International came to China.
 
-251
+253
 00:11:57,360 --> 00:11:58,400
 I have met him.
 
-252
+254
+00:11:58,713 --> 00:12:00,243
+[Shi Cuntong]
+
+255
 00:11:58,800 --> 00:12:01,680
 Voitinsky stayed in China for more than a month.
 
-253
+256
 00:12:02,240 --> 00:12:05,680
-In Beijing, Tianjin, Shanghai, Jinan and other places
+In Beijing, Tianjin, Shanghai, Jinan and other places,
 
-254
+257
+00:12:02,372 --> 00:12:03,880
+[Yu Xiusong]
+
+258
 00:12:06,160 --> 00:12:08,000
 he has met many people,
 
-255
+259
 00:12:08,240 --> 00:12:09,520
 also learned a lot about the current situation.
 
-256
+260
 00:12:10,080 --> 00:12:13,360
 Comrade Zhao Shiyan will share with us about
 
-257
+261
 00:12:13,760 --> 00:12:15,600
 Comrade Voitinsky's thoughts and ideas.
 
-258
+262
 00:12:15,920 --> 00:12:16,560
 Please feel free to change your ideas.
 
-259
+263
 00:12:16,640 --> 00:12:20,240
 About the Chinese ideology research and political circle
 
-260
+264
 00:12:20,720 --> 00:12:22,080
 if anyone is keen to discuss,
 
-261
+265
 00:12:22,480 --> 00:12:23,280
 discussion is always welcomed.
 
-262
+266
 00:12:25,200 --> 00:12:26,320
 Here are some Comrade Voitinsky's opinions.
 
-263
+267
 00:12:26,720 --> 00:12:29,600
 The tide of new culture movement in China is surging unstoppably,
 
-264
+268
 00:12:30,000 --> 00:12:31,600
-but first, the contents is too complicated.
+but first, the contents are too complicated.
 
-265
+269
 00:12:31,840 --> 00:12:32,880
 There is anarchism,
 
-266
+270
 00:12:33,120 --> 00:12:33,920
 unionism,
 
-267
+271
 00:12:34,320 --> 00:12:35,280
 socialism,
 
-268
+272
 00:12:35,360 --> 00:12:36,720
-Kilt socialism. 
+guild socialism.
 
-269
+273
 00:12:37,200 --> 00:12:39,200
-All kinds of theory going around without a dominant one.
+All kinds of theories going around without one dominant.
 
-270
+274
 00:12:39,600 --> 00:12:40,640
 This kind of chaotic situation
 
-271
+275
 00:12:40,800 --> 00:12:42,000
 is not helping us to reach a common idea.
 
-272
+276
 00:12:42,480 --> 00:12:43,840
 Second, there is no organization.
 
-273
+277
 00:12:44,320 --> 00:12:46,880
-We have too many people with too many empty talk. 
+We have too many people with too many empty talk.
 
-274
+278
 00:12:47,200 --> 00:12:49,040
 What about the actual action though?
 
-275
+279
 00:12:49,440 --> 00:12:51,200
 This is in no way beneficial in starting a revolution in this country.
 
-276
+280
 00:12:51,760 --> 00:12:52,560
 So he believes that
 
-277
+281
 00:12:52,960 --> 00:12:54,880
 the most urgent task
 
-278
+282
 00:12:55,200 --> 00:12:56,080
 for the Chinese ideology research and political circle
 
-279
+283
 00:12:56,400 --> 00:12:57,840
 is to build as soon as possible,
 
-280
+284
 00:12:58,080 --> 00:12:59,600
 one firm and strong
 
-281
+285
 00:12:59,920 --> 00:13:00,960
 Marxist political party.
 
-282
+286
 00:13:02,000 --> 00:13:03,360
 I don't agree with Voitinsky.
 
-283
+287
 00:13:04,320 --> 00:13:05,520
 He doesn't know China at all.
 
-284
+288
 00:13:06,000 --> 00:13:08,000
 There are too many political parties and factions in China now.
 
-285
+289
 00:13:08,320 --> 00:13:09,600
 There is no point forming a small party now at all.
 
-286
+290
 00:13:10,160 --> 00:13:11,280
 It's not going to work.
 
-287
+291
 00:13:11,840 --> 00:13:12,640
 I think
 
-288
+292
 00:13:12,720 --> 00:13:14,720
 Comrade Voitinsky's opinion makes sense.
 
-289
+293
 00:13:14,960 --> 00:13:16,640
 Without the strong leadership of a proletarian party
 
-290
+294
 00:13:17,120 --> 00:13:19,680
 China can't form a united force now.
 
-291
+295
 00:13:20,960 --> 00:13:22,640
 I have always thought that
 
-292
+296
 00:13:22,800 --> 00:13:25,440
 China's top priority is to develop industry.
 
-293
+297
 00:13:25,600 --> 00:13:26,800
 We must first utilise capitalism,
 
-294
+298
 00:13:27,040 --> 00:13:28,160
 then we will work to achieve socialism.
 
-295
+299
 00:13:28,560 --> 00:13:30,400
 Following the path and direction of Russia right now
 
-296
+300
 00:13:30,960 --> 00:13:32,160
 will be unrealistic.
 
-297
-00:13:33,680 --> 00:13:34,480
-Comrades
-
-298
-00:13:35,200 --> 00:13:37,200
-I think it is urgent for China to build a political party. 
-
-299
-00:13:38,080 --> 00:13:46,320
-I agree.
-
-300
-00:13:57,040 --> 00:13:57,600
-Watch it.
-
 301
-00:13:58,240 --> 00:13:58,720
-I'm sorry
+00:13:33,680 --> 00:13:34,480
+Comrades.
 
 302
-00:13:58,800 --> 00:13:59,760
-Runzhi
+00:13:35,200 --> 00:13:37,200
+I think it is urgent for China to build a political party.
 
 303
+00:13:38,080 --> 00:13:38,796
+Agreed.
+
+304
+00:13:39,940 --> 00:13:40,525
+I agree.
+
+305
+00:13:41,598 --> 00:13:42,159
+Agreed.
+
+306
+00:13:42,790 --> 00:13:43,446
+I agree.
+
+307
+00:13:43,953 --> 00:13:44,510
+Agreed.
+
+308
+00:13:44,683 --> 00:13:45,005
+Agreed.
+
+309
+00:13:45,172 --> 00:13:46,453
+Agreed.
+
+310
+00:13:57,040 --> 00:13:57,600
+Watch it!
+
+311
+00:13:58,240 --> 00:13:58,720
+I'm sorry.
+
+312
+00:13:58,800 --> 00:13:59,760
+Runzhi.
+
+313
 00:14:00,480 --> 00:14:03,040
 I have successfully completed the task you gave me.
 
-304
+314
 00:14:03,520 --> 00:14:04,480
 Shanghai celebrities from all walks of life
 
-305
+315
 00:14:04,560 --> 00:14:07,760
 are all very supportive of work-studying in France.
 
-306
+316
 00:14:07,920 --> 00:14:10,160
 They also cares a lot about Hunan's reform movement.
 
-307
+317
 00:14:10,480 --> 00:14:11,280
 Everyone took part in donation.
 
-308
+318
 00:14:11,360 --> 00:14:13,440
 20,000 silver dollars was quickly raised.
 
-309
+319
 00:14:14,080 --> 00:14:14,720
 How about that.
 
-310
+320
 00:14:14,960 --> 00:14:16,800
 You didn't come all the way here for nothing.
 
-311
+321
 00:14:17,040 --> 00:14:17,920
 Twenty thousand silver dollar.
 
-312
+322
 00:14:18,160 --> 00:14:18,960
 So many.
 
-313
+323
 00:14:19,680 --> 00:14:21,200
 Mr. Zhang, thank you very much.
 
-314
+324
 00:14:21,440 --> 00:14:22,880
-The money came just in time. 
+The money came just in time.
 
-315
+325
 00:14:22,960 --> 00:14:24,960
-When the revolution is successful, we will pay it back. 
+When the revolution is successful, we will pay it back.
 
-316
+326
 00:14:25,280 --> 00:14:26,214
 Revolution?
 
-317
+327
 00:14:45,994 --> 00:14:47,159
 Revolution, huh?
 
-318
+328
 00:14:47,920 --> 00:14:49,360
-What kind of revolution are you talking about? 
+What kind of revolution are you talking about?
 
-319
+329
 00:14:51,280 --> 00:14:52,880
 Socialist revolution, of course.
 
-320
+330
 00:14:53,120 --> 00:14:55,440
 Can it be done in China?
 
-321
+331
 00:14:55,760 --> 00:14:56,720
 It's too difficult.
 
-322
+332
 00:14:57,280 --> 00:14:59,440
 Nevertheless, we must overcome many difficulties.
 
-323
+333
 00:14:59,520 --> 00:15:02,240
 Risks and dangers right ahead waiting,
 
-324
+334
 00:15:02,730 --> 00:15:03,611
-I am still taking this path.
+I still take this path.
 
-325
+335
 00:15:03,680 --> 00:15:06,400
-Well-said. Can I live to see it?
+Well said. Can I live to see it?
 
-326
+336
 00:15:07,200 --> 00:15:09,120
-You can see it. Trust me.
+You will see it. Trust me.
 
-327
+337
 00:15:09,360 --> 00:15:10,080
-We revolutionary,
+We revolutionaries,
 
-328
+338
 00:15:10,160 --> 00:15:12,000
-we keep our word and our deeds.
+keep our word and our deeds.
 
-329
+339
 00:15:12,240 --> 00:15:13,840
-Me, Mao Zedong honor my word.
+I, Mao Zedong, honor my word.
 
-330
+340
 00:15:14,560 --> 00:15:17,200
 Fine, I will be waiting for you to pay back the money.
 
-331
-00:15:19,200 --> 00:15:28,880
-Zhang Shizhao, famous activist/educationist/politcis, passed away in HongKong in year 1973.
+341
+00:15:25,313 --> 00:15:36,188
+[Zhang Shizhao, famous activist, educator, political scientist. Died in Hong Kong in 1973, aged 92.]
 
-332
+342
 00:15:40,880 --> 00:15:43,200
-Mrs. Chen, that's enough. There's too much to take. 
+Mrs. Chen, that's enough. There's too much to take.
 
-333
+343
 00:15:43,920 --> 00:15:45,840
 Nonsense, it's a long way to France.
 
-334
+344
 00:15:46,320 --> 00:15:47,440
 You can have it all on the way.
 
-335
+345
 00:15:48,080 --> 00:15:49,040
 Those are all specialties.
 
-336
+346
 00:15:49,600 --> 00:15:51,520
 You won't be able to find them when you are in France.
 
-337
+347
 00:15:52,160 --> 00:15:53,280
 Exactly, it's too far away.
 
-338
+348
 00:15:53,520 --> 00:15:54,400
 And it's hot.
 
-339
+349
 00:15:54,560 --> 00:15:55,600
 I'm afraid these will go bad.
 
-340
+350
 00:15:56,480 --> 00:15:57,120
-Shiyan
+Shiyan.
 
-341
+351
 00:15:57,440 --> 00:15:58,320
 You are going to France now.
 
-342
+352
 00:15:58,720 --> 00:16:00,000
 In addition to work-study programs
 
-343
+353
 00:16:00,560 --> 00:16:01,760
 there is another important task for you.
 
-344
+354
 00:16:02,720 --> 00:16:05,920
-That is to actively promote and learn more about Marxism 
+That is to actively promote and learn more about Marxism
 
-345
+355
 00:16:06,720 --> 00:16:09,280
 among those other students in France.
 
-346
+356
 00:16:09,760 --> 00:16:11,600
 Prepare for the establishment of our organization.
 
-347
+357
 00:16:12,800 --> 00:16:14,400
 I will write to you often too.
 
-348
+358
 00:16:15,440 --> 00:16:16,960
 Besides, please.
 
-349
+359
 00:16:17,520 --> 00:16:20,960
-Visit Yannian and Qiaonian more. 
+Visit Yannian and Qiaonian more.
 
-350
+360
 00:16:22,400 --> 00:16:24,720
-The situation of work-study program in France is very complicated. 
+The situation of work-study program in France is very complicated.
 
-351
+361
 00:16:25,120 --> 00:16:26,560
-Yannian can get stubborn sometime.
+Yannian can get stubborn sometimes.
 
-352
+362
 00:16:27,040 --> 00:16:28,160
 I worry about him.
 
-353
+363
 00:16:29,280 --> 00:16:30,400
-These are some Chinese materials 
+These are some Chinese materials.
 
-354
+364
 00:16:30,560 --> 00:16:31,840
 I prepared for them.
 
-355
+365
 00:16:32,240 --> 00:16:32,960
 You take it with you.
 
-356
+366
 00:16:33,680 --> 00:16:34,400
-You tell them
+You tell them,
 
-357
+367
 00:16:35,120 --> 00:16:38,720
 I won't be able to die in peace
 
-358
+368
 00:16:39,520 --> 00:16:41,760
 if they dont believe in Marxism.
 
-359
+369
 00:16:43,600 --> 00:16:44,400
 Leave it to me.
 
-360
+370
 00:16:45,440 --> 00:16:46,160
 Don't worry.
 
-361
+371
 00:16:46,560 --> 00:16:48,000
 I've sealed it tight for you.
 
-362
+372
 00:16:48,160 --> 00:16:49,040
-It will be finr
+It will be fine.
 
-363
+373
 00:16:51,360 --> 00:16:51,840
-Haiwei
+Haiwei.
 
-364
+374
 00:16:52,960 --> 00:16:53,520
 Mrs. Chen.
 
-365
+375
 00:16:54,720 --> 00:16:55,680
 Now you are all leaving,
 
-366
+376
 00:16:56,080 --> 00:16:57,520
 I don't know when I will see you again.
 
-367
+377
 00:16:58,000 --> 00:17:00,240
 Bai Lan, we'll entrust her to you.
 
-368
+378
 00:17:00,960 --> 00:17:01,920
 Be sure to take care of her.
 
-369
+379
 00:17:03,040 --> 00:17:03,920
-Mrs.Chen, rest assured.
+Mrs. Chen, rest assured.
 
-370
+380
 00:17:04,160 --> 00:17:04,880
 When we are in France,
 
-371
+381
 00:17:04,960 --> 00:17:06,400
 I will do my best.
 
-372
+382
 00:17:07,360 --> 00:17:08,320
-Sister Bai lan.
+Sister Bai Lan.
 
-373
+383
 00:17:08,640 --> 00:17:10,400
 Brother Yannian gave it to me.
 
-374
+384
 00:17:10,880 --> 00:17:13,360
 Take it with you, it can keep you company on the way.
 
-375
+385
 00:17:14,720 --> 00:17:16,720
-Zi mei, I won't take Yingying with me this time.
+Zimei, I won't take Yingying with me this time.
 
-376
+386
 00:17:17,360 --> 00:17:18,240
 That's because
 
-377
+387
 00:17:18,400 --> 00:17:19,360
 I'm going on a long journey,
 
-378
+388
 00:17:19,760 --> 00:17:20,640
 and it's by boat.
 
-379
+389
 00:17:20,880 --> 00:17:21,920
 I'm afraid Yingying won't like it.
 
-380
+390
 00:17:22,160 --> 00:17:23,120
 Okay, but Sister Bai Lan
 
-381
+391
 00:17:23,280 --> 00:17:24,400
 you need to tell
 
-382
+392
 00:17:24,800 --> 00:17:26,800
 Brother Yannian and Qiaonian that
 
-383
+393
 00:17:27,280 --> 00:17:31,040
-Mom, dad, little brother and I
+Mom, Dad, little brother and I
 
-384
+394
 00:17:31,200 --> 00:17:32,720
 we miss them very much.
 
-385
+395
 00:17:33,360 --> 00:17:34,560
 Okay, I will.
 
-386
+396
 00:17:37,120 --> 00:17:38,960
-All done, time to go. 
+All done, time to go.
 
-387
+397
 00:17:40,240 --> 00:17:41,680
 It's getting late. Don't miss the boat.
 
-388
+398
 00:17:41,760 --> 00:17:43,600
-Put it back and feed it some water. 
+Put it back and feed it some water.
 
-389
+399
 00:17:45,040 --> 00:17:45,600
 Grab your stuff.
 
-390
+400
 00:17:46,880 --> 00:17:47,360
 Let's go.
 
-391
+401
 00:18:00,160 --> 00:18:04,560
-Shouchang, work for building our party is under way.
+Shouchang, party building work is under way.
 
-392
+402
 00:18:05,280 --> 00:18:07,680
-Communist international urges east Asia secretariat 
+The Communist International urges the East Asia Secretariat
 
-393
+403
 00:18:08,080 --> 00:18:11,120
 to hurry on the process of setting up the organization in China.
 
-394
+404
 00:18:12,320 --> 00:18:13,360
-Comrade Lenin
+Comrade Lenin,
 
-395
+405
 00:18:14,080 --> 00:18:15,120
-Comrade Trotsky
+Comrade Trotsky,
 
-396
+406
 00:18:15,360 --> 00:18:16,480
-And Comrade Stalin.
+and Comrade Stalin
 
-397
+407
 00:18:17,120 --> 00:18:19,040
-Are very concerned about China's situation.
+are very concerned about China's situation.
 
-398
+408
 00:18:19,920 --> 00:18:24,560
-We plan to set up the party's initiating group in advance in August.
+We plan to set up the Party's initiating branch in advance in August
 
-399
+409
 00:18:24,720 --> 00:18:26,320
-So we can provide an example for other places.
+so as to set an example for future branches.
 
-400
+410
 00:18:27,040 --> 00:18:30,080
-Currently I'm working on draw up a draft 
+Currently I'm working on draw up a draft
 
-401
+411
 00:18:30,160 --> 00:18:31,520
-of the party's temporary program.
+of the Party's temporary program.
 
-402
+412
 00:18:32,320 --> 00:18:35,760
 I share it with you now so we can have some discussion and modification.
 
-403
+413
 00:18:36,880 --> 00:18:38,960
-As for the name of this party.
+As for the name of this Party,
 
-404
+414
 00:18:39,600 --> 00:18:40,800
-It's still uncertain.
+it is still uncertain.
 
-405
+415
 00:18:41,440 --> 00:18:43,358
 Some people want to call it the Socialist Party.
 
-406
+416
 00:18:44,455 --> 00:18:47,049
 Some the Social Communist Party.
 
-407
+417
 00:18:47,703 --> 00:18:50,198
 Also some the Social Democratic Party.
 
-408
+418
 00:18:50,400 --> 00:18:51,440
 Many options.
 
-409
+419
 00:18:52,080 --> 00:18:53,440
-How should we call it?
+How should we call the Party?
 
-410
+420
 00:18:54,000 --> 00:18:56,080
 I'd like to hear your opinion.
 
-411
+421
 00:18:59,280 --> 00:19:01,920
 Brother Zhongfu, I have received your letter.
 
-412
+422
 00:19:02,800 --> 00:19:04,080
 We here in Beijing
 
-413
+423
 00:19:04,480 --> 00:19:05,840
 are working nonstoppedly as I'm writing this letter right now.
 
-414
+424
 00:19:06,960 --> 00:19:10,320
-We plan to hold work with the Chinese Youth Society, 
+We plan to hold work with the Chinese Youth Society,
 
-415
+425
 00:19:11,120 --> 00:19:14,800
-the Twilight Group, the Humanity Club, the Youth Mutual Aid Group 
+the Twilight Group, the Humanity Club, the Youth Mutual Aid Group
 
-416
+426
 00:19:15,600 --> 00:19:17,120
-and Tianjin Awakeness Society, etc.
+the Tianjin Awakening Society, and others
 
-417
+427
 00:19:17,440 --> 00:19:18,560
 to hold a symposium together in the near future
 
-418
+428
 00:19:19,280 --> 00:19:20,560
 where commonly-concerned issues will be discussed.
 
-419
+429
 00:19:21,760 --> 00:19:24,960
-We are eager to see the establishment of the party's initiating group
+We are eager to see the establishment of the Party's initiating branch
 
-420
+430
 00:19:25,280 --> 00:19:26,080
-takes place in Shanghai as soon as possible.
+taking place in Shanghai as soon as possible.
 
-421
+431
 00:19:26,720 --> 00:19:27,840
 So that it can be an example for all of us.
 
-422
+432
 00:19:28,480 --> 00:19:29,520
-As for the name of the party
+As for the name of the Party,
 
-423
+433
 00:19:30,240 --> 00:19:31,600
-I firmly believe that 
+I firmly believe that
 
-424
+434
 00:19:32,160 --> 00:19:35,040
-it should be the Communist Party of China（CPC）.
+it should be the Communist Party of China.
 
-425
+435
 00:20:50,080 --> 00:20:50,640
-come on
+Come. Come.
 
-426
+436
 00:20:50,880 --> 00:20:51,600
 Come, Runzhi.
 
-427
+437
 00:20:51,840 --> 00:20:52,000
 Yes.
 
-428
+438
 00:20:52,080 --> 00:20:52,800
 Come here.
 
-429
+439
 00:20:55,120 --> 00:20:56,080
 Come and sit.
 
-430
+440
 00:20:56,240 --> 00:20:56,880
 Thank you, sir
 
-431
+441
 00:20:58,000 --> 00:20:59,040
 You been busy recently?
 
-432
+442
 00:20:59,280 --> 00:21:00,400
 Haven't seen you in a long timw.
 
-433
+443
 00:21:01,840 --> 00:21:03,600
 Me and some classmates from Hunan First Normal University
 
-434
+444
 00:21:03,680 --> 00:21:05,600
 rented places in Minxiang South.
 
-435
+445
 00:21:05,680 --> 00:21:07,600
 We are having a trial run with work-study life.
 
-436
+446
 00:21:07,760 --> 00:21:08,480
 It's been a month so far.
 
-437
+447
 00:21:08,640 --> 00:21:09,520
 It's really hard.
 
-438
+448
 00:21:09,680 --> 00:21:11,040
 Work-study is not easy.
 
-439
+449
 00:21:11,360 --> 00:21:13,520
 Chen Yannian did experiments for two months.
 
-440
+450
 00:21:13,600 --> 00:21:14,400
-Failed
+Failed.
 
-441
+451
 00:21:14,480 --> 00:21:15,360
-Then I heard that 
+Then I heard that
 
-442
+452
 00:21:15,520 --> 00:21:17,360
 Wang Guangqi had a large-scale one,
 
-443
+453
 00:21:17,440 --> 00:21:18,320
 also failed.
 
-444
+454
 00:21:18,400 --> 00:21:19,040
 What about you?
 
-445
+455
 00:21:19,520 --> 00:21:21,280
 We are engaged in a small experiment of several people.
 
-446
+456
 00:21:21,360 --> 00:21:22,560
 You probably have guessed the result.
 
-447
+457
 00:21:22,800 --> 00:21:23,600
 You failed too.
 
-448
+458
 00:21:25,040 --> 00:21:25,680
 Yes.
 
-449
+459
 00:21:26,640 --> 00:21:27,360
 But sir
 
-450
+460
 00:21:27,840 --> 00:21:29,120
 I've made my decision now.
 
-451
+461
 00:21:29,440 --> 00:21:31,520
 I will stop going to school from now on.
 
-452
+462
 00:21:31,840 --> 00:21:33,680
 I want to focus on independent research.
 
-453
+463
 00:21:33,840 --> 00:21:34,560
 Good.
 
-454
+464
 00:21:34,640 --> 00:21:35,360
-Sir
+Sir.
 
-455
+465
 00:21:35,520 --> 00:21:36,640
-Manifesto of the Communist Party
+The "Communist Manifesto",
 
-456
+466
 00:21:37,040 --> 00:21:39,040
 I carefully read it over and over again.
 
-457
+467
 00:21:39,360 --> 00:21:40,480
 I can confirm now that
 
-458
+468
 00:21:41,040 --> 00:21:43,120
 I believe in Marxism.
 
-459
+469
 00:21:46,080 --> 00:21:47,280
 For sure?
 
-460
+470
 00:21:48,720 --> 00:21:49,280
-Sir
+Sir.
 
-461
+471
 00:21:50,240 --> 00:21:51,680
-Once my faith is established
+Once my faith is established,
 
-462
+472
 00:21:51,840 --> 00:21:53,120
 it will not waver.
 
-463
+473
 00:21:53,520 --> 00:21:56,720
 I will fight to the end to achieve communism.
 
-464
+474
 00:21:56,880 --> 00:21:57,600
-Good
+Good.
 
-465
+475
 00:21:58,240 --> 00:21:58,960
-Runzhi
+Runzhi.
 
-466
+476
 00:21:59,440 --> 00:22:01,120
 That's the kind of decision you need.
 
-467
+477
 00:22:01,520 --> 00:22:02,720
 I'm very happy to hear that
 
-468
+478
 00:22:03,040 --> 00:22:04,240
 you want to join us.
 
-469
+479
 00:22:04,400 --> 00:22:06,640
-From this moment we are comrades. 
+From this moment we are comrades.
 
-470
+480
 00:22:09,600 --> 00:22:10,240
 Sir
 
-471
+481
 00:22:11,200 --> 00:22:13,040
-What is the name of our party?
+What is the name of our Party?
 
-472
+482
 00:22:13,280 --> 00:22:19,360
-Communist Party of China
+The Communist Party of China.
 
-473
+483
 00:22:20,560 --> 00:22:21,360
-good
+good.
 
-474
+484
 00:22:21,600 --> 00:22:22,800
 That's a great name.
 
-475
+485
 00:22:24,160 --> 00:22:24,880
 In ancient times,
 
-476
+486
 00:22:25,120 --> 00:22:27,280
-Gonggong's rage collapsed the Mt. Bu Zhou.
+Gonggong's rage collapsed the Mount Bu Zhou.
 
-477
+487
 00:22:27,360 --> 00:22:29,760
-Sky falling down and the ground tearing apart.
+The sky falling down and the ground tearing apart.
 
-478
+488
 00:22:30,480 --> 00:22:31,920
 As the sky twisted and tilted,
 
-479
+489
 00:22:32,000 --> 00:22:34,000
 the sun, moon and stars all changed their places.
 
-480
+490
 00:22:34,400 --> 00:22:35,920
 The ground could no longer cover what's beneath the soil.
 
-481
+491
 00:22:39,120 --> 00:22:40,960
 This is an ancient Chinese myth.
 
-482
+492
 00:22:41,840 --> 00:22:44,640
 There are also many heroes in western mythology.
 
-483
+493
 00:22:44,880 --> 00:22:48,320
-We will be the Prometheus in China.
+We will be the Prometheus of China.
 
-484
+494
 00:22:49,040 --> 00:22:51,200
-Dare to steal fire without fear of punishment.
+Daring to steal fire without fear of punishment.
 
-485
+495
 00:22:51,520 --> 00:22:54,240
-Hold that fire to light up the future for our nation.
+To hold that fire to light up the future for our nation.
 
-486
+496
 00:22:54,480 --> 00:22:55,360
 We also need to prepare ourselves
 
-487
+497
 00:22:55,440 --> 00:22:58,080
 for we are determined to crash this old society completely
 
-488
+498
 00:22:58,480 --> 00:23:00,960
-even if we need to scarifice our lives like what Gonggong did.
+even if we need to sacrifice our lives like Gonggong did.
 
-489
+499
 00:23:02,480 --> 00:23:03,120
 Sir.
 
-490
+500
 00:23:03,600 --> 00:23:05,120
-I'm going back to Hunan in a few days. 
+I'm going back to Hunan in a few days.
 
-491
+501
 00:23:05,840 --> 00:23:07,200
 As for what I should do after I go back,
 
-492
+502
 00:23:07,920 --> 00:23:09,280
 I want to hear your opinion.
 
-493
+503
 00:23:10,800 --> 00:23:11,600
-Runzhi
+Runzhi.
 
-494
+504
 00:23:12,000 --> 00:23:14,800
 You know I've always had high hopes for you.
 
-495
+505
 00:23:15,120 --> 00:23:16,240
 This time,
 
-496
+506
 00:23:16,720 --> 00:23:18,480
 please actively promote Marxism,
 
-497
+507
 00:23:18,880 --> 00:23:19,920
 mobilize the people,
 
-498
+508
 00:23:20,240 --> 00:23:23,440
-prepare for the establishment of the Party organization in Hunan.
+prepare for the establishment of the Party branch in Hunan.
 
-499
+509
 00:23:23,760 --> 00:23:25,440
 I'll take your advice, Sir
 
-500
+510
 00:23:25,600 --> 00:23:26,800
 I will keep contacting you,
 
-501
+511
 00:23:27,040 --> 00:23:28,000
 writing you letters.
 
-502
+512
 00:23:28,320 --> 00:23:29,920
 I will write to you, too.
 
-503
+513
 00:23:43,600 --> 00:23:44,800
 Many years later
 
-504
+514
 00:23:45,520 --> 00:23:47,360
 Mao Zedong recalled.
 
-505
+515
 00:23:48,400 --> 00:23:50,000
 "It is probably for the conversation with Chen Duxiu as he firmly stated his belief
 
-506
+516
 00:23:50,080 --> 00:23:52,320
 at a very critical period
 
-507
+517
 00:23:52,720 --> 00:23:55,440
 in my life,
 
-508
+518
 00:23:55,520 --> 00:23:58,640
 that has left a deep impression on me."
 
-509
+519
 00:23:58,880 --> 00:23:59,760
 He also said
 
-510
+520
 00:24:00,560 --> 00:24:03,840
-"There was this magazine called New Youth.
+"There was this magazine called 'New Youth'.
 
-511
+521
 00:24:04,000 --> 00:24:06,080
 It was edited by Chen Duxiu.
 
-512
+522
 00:24:06,240 --> 00:24:07,200
 Those people who were waken up by this magazine
 
-513
+523
 00:24:07,280 --> 00:24:09,680
 and the May Fourth Movement.
 
-514
+524
 00:24:09,760 --> 00:24:13,040
 Later, some joined the Communist Party.
 
-515
+525
 00:24:13,120 --> 00:24:15,200
 These people were affected by Chen Duxiu
 
-516
+526
 00:24:15,280 --> 00:24:17,920
-and the group of people around him. 
+and the group of people around him.
 
-517
+527
 00:24:18,640 --> 00:24:21,920
 It's fair to say that Chen Duxiu was the one gathered all those people,
 
-518
+528
 00:24:22,000 --> 00:24:24,640
 which eventually leaded to the establishment of the party."
 
-519
+529
 00:24:45,040 --> 00:24:47,920
 Comrades, today's meeting
 
-520
+530
 00:24:48,320 --> 00:24:50,000
-It was proposed by Comrade En Lai.
+was proposed by Comrade Enlai.
 
-521
+531
 00:24:50,480 --> 00:24:52,160
-Their ideas of joint-work and transformation 
+Their ideas of joint-work and transformation
 
-522
+532
 00:24:52,720 --> 00:24:55,600
 about pioneer organizations are worth to listen to.
 
-523
+533
 00:24:56,480 --> 00:24:58,000
-So I propose comrades from Tianjin Awaken Club
+So I propose comrades from Tianjin Awakening Society
 
-524
+534
 00:24:58,240 --> 00:24:59,760
-shuold take the role as the host 
+shuold take the role as the host
 
-525
+535
 00:25:00,080 --> 00:25:01,840
 and to give general report at today's meeting.
 
-526
+536
 00:25:02,080 --> 00:25:03,040
 Is that okay?
 
-527
+537
 00:25:07,120 --> 00:25:09,280
 Yes, comrade, please.
 
-528
+538
+00:25:11,527 --> 00:25:14,360
+[Zhou Enlai, styled Xiangyu]
+
+539
 00:25:12,960 --> 00:25:15,200
 Since Mr. Li Dazhao named me,
 
-529
+540
 00:25:15,520 --> 00:25:16,480
 I will take the job with gratitude.
 
-530
+541
 00:25:16,800 --> 00:25:17,440
 I think
 
-531
+542
 00:25:17,680 --> 00:25:18,560
-for us youth gather under the red banner of reformation
+for us youth to gather under the red banner of reform,
 
-532
+543
 00:25:18,720 --> 00:25:20,240
-we must come together for all the people,
+we must come together for all the people
 
-533
+544
 00:25:20,720 --> 00:25:22,080
-create a union that breaks all boundaries
+and create a union that breaks all boundaries,
 
-534
-00:25:22,240 --> 00:25:27,680
-and based on the spirit of love and mutual assistance.
+545
+00:25:22,240 --> 00:25:24,800
+based on the spirit of love
 
-535
+546
+00:25:25,440 --> 00:25:27,680
+and mutual assistance.
+
+547
 00:25:28,080 --> 00:25:29,120
-In this alliance
+In this alliance,
 
-536
+548
 00:25:29,440 --> 00:25:30,320
-the life of each and everyone
+the lives of each and everyone
 
-537
+549
 00:25:30,400 --> 00:25:32,480
-must be free and equal,
+must be free, equal,
 
-538
+550
 00:25:33,200 --> 00:25:34,400
-Industrious and happy.
+industrious and happy.
 
-539
+551
 00:25:34,800 --> 00:25:36,960
 To realize such a harmonious world,
 
-540
+552
 00:25:37,280 --> 00:25:38,560
 to bring the life of great unity of mankind,
 
-541
+553
 00:25:38,720 --> 00:25:40,400
-we must start with free the people.
+we must start with freeing the people.
 
-542
+554
 00:25:40,720 --> 00:25:42,000
-The foundation will be different groups 
+The foundation will be different groups
 
-543
+555
 00:25:42,080 --> 00:25:43,760
 based on people's occupation.
 
-544
+556
 00:25:44,400 --> 00:25:46,080
 We have to merge ourselves
 
-545
+557
 00:25:46,240 --> 00:25:47,040
 with the common people.
 
-546
+558
 00:25:47,360 --> 00:25:48,480
 We have to make our voices heard to all walks of life,
 
-547
+559
 00:25:48,800 --> 00:25:50,080
 so that what we want can come true.
 
-548
+560
 00:25:56,160 --> 00:25:56,960
 Mr. Shouchang.
 
-549
+561
 00:25:57,520 --> 00:25:58,880
 Please share your thoughts with us.
 
-550
+562
 00:26:02,480 --> 00:26:04,640
 Comrades, just now, Comrade Enlai gave us a speech.
 
-551
+563
 00:26:04,800 --> 00:26:05,520
-Everyone heard it.
+Everyone has heard it.
 
-552
+564
 00:26:06,080 --> 00:26:07,520
 Wonderful.
 
-553
+565
 00:26:08,080 --> 00:26:09,040
 Now all walks of life in the country
 
-554
+566
 00:26:09,600 --> 00:26:12,400
 especially the workers' movement has already started.
 
-555
+567
 00:26:12,800 --> 00:26:14,080
 Indeed it's time that all our pioneer organizations
 
-556
+568
 00:26:14,560 --> 00:26:17,520
 need to work together and to change and improve
 
-557
+569
 00:26:18,080 --> 00:26:19,920
 to strengthen oursleves.
 
-558
+570
 00:26:20,640 --> 00:26:23,840
 But all that has a common premise.
 
-559
+571
 00:26:24,480 --> 00:26:25,280
 About which,
 
-560
+572
 00:26:25,680 --> 00:26:27,520
-everyone needs to have a correct understanding. 
+everyone needs to have a correct understanding.
 
-561
+573
 00:26:28,640 --> 00:26:31,280
 I think it is vital for all organizations
 
-562
+574
 00:26:31,360 --> 00:26:34,800
 to clearly indicate their program and guideline.
 
-563
+575
 00:26:35,440 --> 00:26:36,320
 Unidentified doctrine
 
-564
+576
 00:26:36,640 --> 00:26:38,800
 means no scientific guiding ideology.
 
-565
+577
 00:26:39,280 --> 00:26:42,960
 Internally, it is not enough to unify our members.
 
-566
+578
 00:26:43,600 --> 00:26:47,440
 Externally, it is not enough to unite with other people's actions.
 
-567
+579
 00:26:48,400 --> 00:26:50,240
 Comrades, the time has come now,
 
-568
+580
 00:26:50,720 --> 00:26:52,480
 our organization must raise our own banner
 
-569
+581
 00:26:54,160 --> 00:26:56,480
-showing it to this nation.
+and show it to the nation.
 
-570
+582
+00:27:01,842 --> 00:27:05,162
+[2 Old Yuyangli, Shanghai French Concession]
+
+583
 00:27:02,080 --> 00:27:02,720
-Comrades
+Comrades,
 
-571
+584
 00:27:03,040 --> 00:27:05,120
-Before the official establishment of the party organization,
+before the official establishment of the Party branch,
 
-572
+585
 00:27:06,000 --> 00:27:07,280
 I want to read this out first.
 
-573
+586
 00:27:08,080 --> 00:27:10,400
 I drafted a provisional program of the party.
 
-574
+587
 00:27:11,280 --> 00:27:13,360
 Main contents can be divided into party principles
 
-575
+588
 00:27:14,080 --> 00:27:15,280
 and the purpose of the party.
 
-576
+589
 00:27:16,240 --> 00:27:18,560
 There are three principles of the Communist Party.
 
-577
+590
 00:27:19,120 --> 00:27:21,440
-First, Confiscate all capital.
+First, confiscation of all capital,
 
-578
+591
 00:27:22,560 --> 00:27:24,800
-Confiscation of bank, mines.
+confiscation of bank, mines,
 
-579
+592
 00:27:25,200 --> 00:27:26,960
-Abolish individual oppression. 
+abolition of individual oppression,
 
-580
+593
 00:27:27,280 --> 00:27:28,960
-The scoiety shares the economical benefits. 
+society must share economic benefits.
 
-581
+594
 00:27:29,600 --> 00:27:33,200
-Second, leading the working class to power
+Second, lead the working class to power
 
-582
+595
 00:27:33,840 --> 00:27:35,120
-Down with reactionary forces
+to bring down reactionary forces
 
-583
+596
 00:27:35,680 --> 00:27:37,280
-Transition to the elimination of political power
+and transition to the elimination of political power.
 
-584
+597
 00:27:38,080 --> 00:27:41,200
-Third, eliminate existences of classes. 
+Third, eliminate the existence of classes.
 
-585
+598
 00:27:44,160 --> 00:27:46,080
 There are also three purposes of the Communist Party.
 
-586
+599
 00:27:46,800 --> 00:27:49,680
-First, to carry out class struggle.
+First, to carry out class struggle
 
-587
+600
 00:27:50,160 --> 00:27:51,120
-Unite workers.
+and unite workers,
 
-588
+601
 00:27:51,760 --> 00:27:55,120
-Eventually move from economic struggle to political struggle.
+eventually moving from economic struggle to political struggle
 
-589
+602
 00:27:55,680 --> 00:27:56,640
-Seize political power.
+in order to seize political power.
 
-590
+603
 00:27:56,960 --> 00:27:59,120
-Second, 
+Second, after seizing power,
 
-591
+604
 00:27:59,680 --> 00:28:01,280
 carry out class struggle.
 
-592
+605
 00:28:02,160 --> 00:28:05,120
-Build a communist society
+Third, build a communist society
 
-593
+606
 00:28:05,760 --> 00:28:08,000
-based on mass production. 
+based on mass production.
 
-594
+607
 00:28:10,400 --> 00:28:11,600
-If noone is against what I said,
+If no one is against what I said,
 
-595
+608
 00:28:12,160 --> 00:28:13,360
 please approve by applause.
 
-596
+609
 00:28:16,880 --> 00:28:17,520
-Comrades
+Comrades.
 
-597
+610
 00:28:17,840 --> 00:28:19,360
-According to the Communist Party of China（CPC）'s organizational principles 
+According to the Communist Party of China's organizational principles,
 
-598
+611
 00:28:20,480 --> 00:28:21,680
-We elect Comrade Chen Duxiu
+we elect Comrade Chen Duxiu
 
-599
+612
 00:28:22,080 --> 00:28:24,560
-to be Secretary of the Executive Board of the Communist Party of China（CPC）.
+to be Secretary of the Executive Board of the Communist Party of China.
 
-600
+613
 00:28:24,880 --> 00:28:25,600
-goodGood.
+Hurrah!
 
-601
+614
 00:28:32,240 --> 00:28:33,040
-Comrades
+Comrades.
 
-602
+615
 00:28:35,760 --> 00:28:36,560
 From now on,
 
-603
+616
 00:28:37,680 --> 00:28:39,840
 we are the first members
 
-604
+617
 00:28:40,080 --> 00:28:41,040
 of the Communist Party.
 
-605
+618
 00:28:42,880 --> 00:28:45,680
 As of today, the Chinese working class
 
-606
+619
 00:28:46,320 --> 00:28:48,880
 has its own vanguard party.
 
-607
+620
 00:28:49,520 --> 00:28:52,880
-It's name is the Communist Party of China.
+Its name is the Communist Party of China.
 
-608
+621
 00:28:56,480 --> 00:28:58,640
 Now, we take the oath.
 
-609
+622
 00:29:04,116 --> 00:29:14,160
-[August 1920, the first branch of the Communist Party of China was established in Shanghai]
+[August 1920, the first branch of the Communist Party of China was established in Shanghai.]
 
-610
+623
 00:29:14,160 --> 00:29:15,040
-Chen Duxiu
+Chen Duxiu.
 
-611
+624
 00:29:15,360 --> 00:29:16,160
-Li Hanjun
+Li Hanjun.
 
-612
+625
 00:29:16,400 --> 00:29:17,120
-Yu Xiusong
+Yu Xiusong.
 
-613
+626
 00:29:17,360 --> 00:29:18,080
-Shi Cuntong
+Shi Cuntong.
 
-614
+627
 00:29:18,480 --> 00:29:19,200
-Chen Gongpei
+Chen Gongpei.
 
-615
+628
 00:29:19,600 --> 00:29:21,760
 It is my will to join the Communist Party of China,
 
-616
+629
 00:29:22,080 --> 00:29:25,200
 and fight for communism throughout my life.
 
-617
+630
 00:29:25,680 --> 00:29:27,834
 Long live the Communist Party of China!
 
-618
+631
 00:29:28,229 --> 00:29:30,107
 Long live the Communist Party of China!
 
-619
+632
 00:29:30,479 --> 00:29:34,722
 Long live the Communist Party of China!
 
-620
+633
 00:29:38,000 --> 00:29:42,000
 Today, the Beijing branch of the Communist Party of China
 
-621
+634
 00:29:42,720 --> 00:29:43,760
 is established.
 
-622
+635
 00:29:44,320 --> 00:29:45,120
 The three of us
 
-623
+636
 00:29:45,760 --> 00:29:48,000
-are fortunate to be the first party members of the branch.
+are fortunate to be the first Party members of the branch.
 
-624
+637
 00:29:48,720 --> 00:29:51,280
 Next, we take the oath.
 
-625
+638
 00:30:04,480 --> 00:30:05,360
-Li Dazhao
+Li Dazhao.
 
-626
+639
 00:30:05,920 --> 00:30:06,480
-Zhang Shenfu
+Zhang Shenfu.
 
-627
+640
 00:30:06,960 --> 00:30:07,680
-Zhang Guotai
+Zhang Guotai.
 
-628
+641
 00:30:08,560 --> 00:30:11,200
 It is my will to join the Communist Party of China,
 
-629
+642
 00:30:11,840 --> 00:30:15,920
 and fight for communism throughout my life.
 
-630
+643
 00:30:16,640 --> 00:30:18,800
 Comrades, let's cheer.
 
-631
+644
 00:30:20,000 --> 00:30:22,402
 Long live the Communist Party of China!
 
-632
+645
 00:30:23,266 --> 00:30:25,516
 Long live the Communist Party of China!
 
-633
+646
 00:30:26,426 --> 00:30:28,957
 Long live the Communist Party of China!
 
-634
+647
 00:30:29,406 --> 00:30:32,466
 Long live the Communist Party of China!
 
-635
+648
 00:30:35,680 --> 00:30:37,440
-November 1920
+November 1920,
 
-636
+649
 00:30:38,400 --> 00:30:39,600
-The Hunan self-governmence movement
+the Hunan self-governmence movement
 
-637
+650
 00:30:39,680 --> 00:30:41,680
-with peaceful petition as it's main method
+with peaceful petitions as its main method
 
-638
+651
 00:30:41,760 --> 00:30:42,880
-leaded by Mao Zedong
+lead by Mao Zedong
 
-639
+652
 00:30:43,280 --> 00:30:44,080
 failed.
 
-640
+653
 00:30:45,120 --> 00:30:46,320
-Disappointed by which,
+Disappointed,
 
-641
+654
 00:30:46,400 --> 00:30:47,920
 he went to Pingxiang, Jiangxi
 
-642
+655
 00:30:48,400 --> 00:30:50,160
 to investigate about the underclass,
 
-643
+656
 00:30:50,480 --> 00:30:53,040
 especially the Anyuan coal miners' living conditions
 
-644
+657
 00:30:53,280 --> 00:30:54,320
 and political demands.
 
-645
+658
 00:30:56,080 --> 00:30:57,200
-The facts and lessons learnt through it
+The facts and lessons learnt
 
-646
+659
 00:30:57,440 --> 00:30:58,880
-made him completely giveing up on
+made him completely give up on
 
-647
+660
 00:30:59,040 --> 00:31:02,000
-the last piece of fantasy he had towards the road of reformism.
+the last piece of fantasy he had of the road of reformism.
 
-648
+661
 00:31:03,040 --> 00:31:04,240
 Without hesitation,
 
-649
+662
 00:31:04,320 --> 00:31:07,360
 he embarked on the revolutionary road of thoroughly transforming society
 
-650
+663
 00:31:07,760 --> 00:31:11,520
 and became a staunch Marxist.
 
-651
-00:31:18,560 --> 00:31:19,280
-Runzhi
+664
+00:31:16,240 --> 00:31:21,306
+[Hunan]
 
-652
-00:31:25,760 --> 00:31:29,120
-Runzhi
+665
+00:31:25,760 --> 00:31:26,483
+Runzhi.
 
-653
+666
+00:31:26,866 --> 00:31:27,624
+Runzhi.
+
+667
 00:31:30,000 --> 00:31:30,800
 You're back.
 
-654
+668
 00:31:31,760 --> 00:31:34,000
 What did you get from your trip to Pingxiang?
 
-655
+669
 00:31:34,800 --> 00:31:37,120
 It's a hard journey, it changed me.
 
-656
+670
 00:31:37,200 --> 00:31:38,640
-Feels like a phoenix,
+I feel like a phoenix,
 
-657
+671
 00:31:39,440 --> 00:31:40,480
 rebirth from the fire.
 
-658
+672
+00:31:40,638 --> 00:31:41,754
+[He Shuheng, stlyed Yuheng]
+
+673
 00:31:40,720 --> 00:31:41,040
-Well
+Well.
 
-659
+674
 00:31:41,840 --> 00:31:42,640
-That sounds serious.
+Sounds so serious.
 
-660
+675
+00:31:42,122 --> 00:31:43,107
+[Peng Huan, styled Yinbai]
+
+676
 00:31:42,720 --> 00:31:44,160
 No wonder we were called here early in the morning.
 
-661
+677
 00:31:44,240 --> 00:31:45,200
 What's the matter?
 
-662
+678
 00:31:46,160 --> 00:31:48,160
 There is a fire in my heart.
 
-663
+679
 00:31:48,800 --> 00:31:49,840
 I want to talk to you two about it.
 
-664
+680
 00:31:52,240 --> 00:31:53,280
-What is this fire.
+What is this fire?
 
-665
-00:31:53,360 --> 00:31:54,640
+681
+00:31:53,360 --> 00:31:54,000
 Just tell us.
 
-666
+682
 00:31:57,040 --> 00:31:58,080
 This time I went to Pingxiang,
 
-667
+683
 00:31:58,240 --> 00:31:59,680
 mainly to learn more about the situations there
 
-668
+684
 00:31:59,760 --> 00:32:00,720
 in rural areas and in mines.
 
-669
+685
 00:32:01,440 --> 00:32:02,320
-China now
+The whole of China
 
-670
+686
 00:32:02,800 --> 00:32:04,080
-the whole thing is like a big stove. 
+is now like a big furnace.
 
-671
+687
 00:32:04,720 --> 00:32:08,080
 The common people are in dire straits and suffering greatly.
 
-672
+688
 00:32:09,600 --> 00:32:10,960
 It's like they are pushed towards death every second.
 
-673
+689
 00:32:11,200 --> 00:32:12,880
 Tell us what you saw.
 
-674
+690
 00:32:14,720 --> 00:32:15,920
-Take Anyuan Coal Mine for example.
+Take the Anyuan Coal Mine for example.
 
-675
+691
 00:32:16,480 --> 00:32:17,920
 There are many coal diggers there.
 
-676
+692
 00:32:18,240 --> 00:32:20,480
 They all have to work under the whip of the supervisor.
 
-677
+693
 00:32:20,800 --> 00:32:23,200
 The working conditions are extremely bad.
 
-678
+694
 00:32:24,080 --> 00:32:26,080
 Everyday, they have to work twelve to sixteen hours.
 
-679
+695
 00:32:26,800 --> 00:32:28,320
-They created so much wealth,
+They create so much wealth,
 
-680
+696
 00:32:28,400 --> 00:32:30,640
 yet their wages are pitiful.
 
-681
+697
 00:32:31,120 --> 00:32:33,600
 The miners have to live in shacks.
 
-682
+698
 00:32:34,080 --> 00:32:36,320
 It's freezing cold in winter.
 
-683
+699
 00:32:38,400 --> 00:32:39,600
 The situation in the countryside
 
-684
+700
 00:32:41,280 --> 00:32:42,320
 is even worse.
 
-685
+701
 00:32:42,960 --> 00:32:44,080
 Beggars, refugees,
 
-686
+702
 00:32:44,240 --> 00:32:46,480
-children and female being sold everywhere.
+boys and girls being sold everywhere.
 
-687
+703
 00:32:49,760 --> 00:32:52,640
 This country is rotten to the core.
 
-688
+704
 00:32:54,720 --> 00:32:55,520
 What do you think?
 
-689
+705
 00:33:08,320 --> 00:33:09,520
 I have figured it out.
 
-690
+706
 00:33:10,480 --> 00:33:11,360
 Just like what Chen Duxiu
 
-691
+707
 00:33:11,440 --> 00:33:12,880
 and Mr. Li Dazhao said,
 
-692
+708
 00:33:13,040 --> 00:33:14,560
-we are going to take the road Russian did,
+we are going to take the road the Russians took,
 
-693
+709
 00:33:15,040 --> 00:33:17,280
 to thoroughly transform the whole society
 
-694
+710
 00:33:17,520 --> 00:33:19,680
 so this country can be saved.
 
-695
+711
 00:33:21,200 --> 00:33:22,240
 If we want to save China,
 
-696
+712
 00:33:22,800 --> 00:33:24,080
 there's only one way.
 
-697
+713
 00:33:26,400 --> 00:33:27,120
 Revolution.
 
-698
+714
 00:33:52,000 --> 00:33:54,960
-The world is our world
+People of the World, our World.
 
-699
+715
 00:33:55,680 --> 00:33:58,320
-The country, our country 
+People of the country, our country.
 
-700
+716
 00:33:58,720 --> 00:34:01,200
-Society, our society
+People of society, our society.
 
-701
+717
+00:33:59,950 --> 00:34:01,224
+[He Minfan]
+
+718
 00:34:01,520 --> 00:34:03,760
 If we don't speak up, who will?
 
-702
+719
 00:34:04,320 --> 00:34:06,480
-If we don't take actions, who will?
+If we don't take action, who will?
 
-703
+720
 00:34:09,120 --> 00:34:09,760
-Comrades
+Comrades.
 
-704
+721
 00:34:10,320 --> 00:34:12,560
 Today is a particularly memorable day.
 
-705
+722
 00:34:12,800 --> 00:34:15,440
-The Changsha group of the Communist Party of China（CPC）is formally established.
+The Changsha branch of the Communist Party of China is formally established.
 
-706
+723
 00:34:15,520 --> 00:34:17,680
-Comrade Chen Duxiu, secretary of the Communist Party of China（CPC）
+Comrade Chen Duxiu, Secretary of the Communist Party of China,
 
-707
+724
 00:34:17,920 --> 00:34:19,040
 needs to go to Guangdong
 
-708
+725
 00:34:19,200 --> 00:34:20,640
-to take office as chairman of the Education Committee.
+to take office as Chairman of the Education Committee.
 
-709
+726
 00:34:20,880 --> 00:34:21,600
 So he can't attend
 
-710
+727
 00:34:21,680 --> 00:34:23,440
-the founding ceremony of Changsha Group.
+the founding ceremony of the Changsha branch.
 
-711
+728
 00:34:23,840 --> 00:34:24,960
 He entrusted me to host it.
 
-712
+729
 00:34:25,360 --> 00:34:26,560
 In view of the current situation,
 
-713
+730
 00:34:26,640 --> 00:34:28,080
-this matter can't be made public yet 
+this matter can't be made public yet.
 
-714
+731
 00:34:28,320 --> 00:34:30,800
 We should carry out activities in secret.
 
-715
+732
 00:34:31,280 --> 00:34:31,760
 As for now,
 
-716
+733
 00:34:32,160 --> 00:34:33,840
 our main tasks are as follows.
 
-717
+734
 00:34:34,080 --> 00:34:36,320
-The first is to transform Xinmin Academic Group. 
+The first is to transform Xinmin Academic Society
 
-718
+735
 00:34:36,640 --> 00:34:38,080
-Make it a party organization.
+into a Party organization.
 
-719
+736
 00:34:38,720 --> 00:34:41,840
-The second is to establish Hunan Socialist Youth League.
+The second is to establish the Hunan Socialist Youth League.
 
-720
+737
 00:34:42,000 --> 00:34:42,880
-Now
+Now.
 
-721
+738
 00:34:44,000 --> 00:34:45,440
-Let's raise our fists. 
+Let's raise our fists.
 
-722
+739
 00:34:45,600 --> 00:34:46,960
-Let's say it gently but firmly,
+Let's say it gently but firmly:
 
-723
-00:34:47,680 --> 00:34:50,000
+740
+00:34:47,680 --> 00:34:50,798
 Long live the Communist Party of China.
 
-724
-00:35:12,600 --> 00:35:27,520
+741
+00:35:16,509 --> 00:35:19,595
 Long live the Communist Party of China.
 
-725
+742
+00:35:20,189 --> 00:35:23,280
+Long live the Communist Party of China.
+
+743
+00:35:23,985 --> 00:35:27,592
+Long live the Communist Party of China.
+
+744
+00:35:32,067 --> 00:35:39,624
+[Paris, France]
+
+745
 00:35:32,800 --> 00:35:33,600
-Mr. Songnian
+Mr. Songnian.
 
-726
+746
 00:35:34,400 --> 00:35:35,760
-This is my notes on studying Mraxist works
+This is my notes on studying Marxist works
 
-727
+747
 00:35:35,840 --> 00:35:37,680
 and some thoughts
 
-728
+748
 00:35:37,760 --> 00:35:38,800
 after I came to Europe.
 
-729
+749
 00:35:42,400 --> 00:35:44,000
 I am willing to accept the organization's inspection.
 
-730
+750
 00:35:44,640 --> 00:35:50,720
-Come and sit down, comrade Enlai.
+Come and sit down, Comrade Enlai.
 
-731
+751
 00:35:51,040 --> 00:35:52,880
 I know about your situation in the past.
 
-732
+752
 00:35:53,200 --> 00:35:53,840
 I want to know about
 
-733
+753
 00:35:53,920 --> 00:35:55,760
 changes in your mind since you came to Europe.
 
-734
+754
 00:35:57,440 --> 00:35:59,440
 I arrived in Europe at the end of last year.
 
-735
+755
 00:35:59,680 --> 00:36:01,360
 I lived in England for more than a month,
 
-736
+756
 00:36:01,440 --> 00:36:03,760
 spent that time inspecting the workers' movement in Britain.
 
-737
+757
 00:36:03,920 --> 00:36:05,600
 Through this investigation and research
 
-738
+758
 00:36:05,760 --> 00:36:08,160
 it helped with mine understanding of several popular doctrines in Europe.
 
-739
+759
 00:36:08,240 --> 00:36:09,840
 I made my own deduction and comparison,
 
-740
+760
 00:36:10,080 --> 00:36:10,960
 reached my final determination.
 
-741
+761
 00:36:11,280 --> 00:36:13,600
 British Fabian socialism is mere fantasy.
 
-742
+762
 00:36:13,760 --> 00:36:16,160
-Russia's October Revolution is the correvt road.
+Russia's October Revolution is the correct road.
 
-743
+763
 00:36:16,720 --> 00:36:17,680
-How many Marx's books have you read
+How many of Marx's books have you read
 
-744
+764
 00:36:17,840 --> 00:36:19,440
 after you came to Europe?
 
-745
+765
 00:36:20,400 --> 00:36:21,600
-When I was studying in Japan 
+When I was studying in Japan,
 
-746
+766
 00:36:21,760 --> 00:36:23,280
 I have been exposed to Marxism.
 
-747
+767
 00:36:23,600 --> 00:36:24,400
 Back in China,
 
-748
+768
 00:36:24,560 --> 00:36:26,080
 I have read some books on Marxism
 
-749
+769
 00:36:26,160 --> 00:36:28,240
 borrowed from Mr. Li Dazhao.
 
-750
+770
 00:36:28,480 --> 00:36:29,760
-After coming to Europe.
+After coming to Europe,
 
-751
+771
 00:36:29,920 --> 00:36:31,600
 I read systematically again on
 
-752
+772
 00:36:31,680 --> 00:36:32,800
-Manifesto of the Communist Party,
+the "Communist Manifesto"
 
-753
+773
 00:36:33,040 --> 00:36:35,200
-Socialism from Utopia to Science,
+"Socialism from Utopia to Science",
 
-754
+774
 00:36:35,360 --> 00:36:36,480
-State and Revolution 
+"State and Revolution",
 
-755
+775
 00:36:36,560 --> 00:36:38,000
 and other classic works of Marxism.
 
-756
+776
 00:36:38,320 --> 00:36:40,720
 I have written everything I learnt in this notebook.
 
-757
+777
 00:36:40,800 --> 00:36:42,240
 Now I'm sure
 
-758
+778
 00:36:42,320 --> 00:36:44,800
 I have established the belief of communism.
 
-759
+779
 00:36:45,120 --> 00:36:47,520
-So I asked to join the Communist Party of China（CPC）.
+So I ask to join the Communist Party of China.
 
-760
+780
 00:36:51,440 --> 00:36:52,240
-Comrade Enlai
+Comrade Enlai.
 
-761
+781
 00:36:52,960 --> 00:36:54,800
 I can see how you have come a long way.
 
-762
+782
 00:36:55,040 --> 00:36:56,240
 Before I came to Europe,
 
-763
+783
 00:36:56,400 --> 00:36:58,160
 Comrade Chen Duxiu and Li Dazhao
 
-764
+784
 00:36:58,240 --> 00:36:59,360
-entrusted Zhao Shiyan and me
+entrusted Zhao Shiyan and I
 
-765
+785
 00:36:59,600 --> 00:37:00,960
-to be responsible for the formation of the Communist Party of China（CPC）
+to be responsible for the formation of a Communist Party of China
 
-766
+786
 00:37:01,040 --> 00:37:02,480
-Communist group in France.
+branch in France
 
-767
+787
 00:37:02,560 --> 00:37:04,880
-And give us the power to develop Party members.
+and give us the power to develop Party members.
 
-768
+788
 00:37:05,040 --> 00:37:05,920
-Me and Qingyang,
+I and Qingyang,
 
-769
+789
 00:37:06,080 --> 00:37:08,080
 we are very willing to be your sponsor.
 
-770
+790
 00:37:08,480 --> 00:37:10,560
 Shiyan and I have sent a letter to Mr. Zhongfu
 
-771
+791
 00:37:10,800 --> 00:37:12,240
 about the specific situation.
 
-772
+792
 00:37:12,400 --> 00:37:14,480
 Now it's only his reply we needed.
 
-773
+793
 00:37:14,640 --> 00:37:15,360
 Yes.
 
-774
+794
 00:37:17,040 --> 00:37:17,680
 At the moment,
 
-775
+795
 00:37:17,840 --> 00:37:19,840
-Work-study program is at it's most difficult time. 
+Work-study program is at it's most difficult time.
 
-776
+796
 00:37:19,920 --> 00:37:21,760
-There is huge gaps formed among the students.
+There are huge gaps formed among the students.
 
-777
+797
 00:37:22,000 --> 00:37:24,880
 We should take the chance, do more work,
 
-778
+798
 00:37:25,120 --> 00:37:26,240
 and unite more comrades
 
-779
+799
 00:37:26,320 --> 00:37:27,680
 to join us.
 
-780
+800
 00:37:28,560 --> 00:37:29,200
-Enlai
+Enlai.
 
-781
+801
 00:37:29,600 --> 00:37:31,200
 About Chen Yannian and Chen Qiaonian,
 
-782
+802
 00:37:31,280 --> 00:37:32,240
 how's everything going?
 
-783
+803
 00:37:32,960 --> 00:37:34,320
 I discussed it with Shiyan.
 
-784
+804
 00:37:34,480 --> 00:37:36,240
 We will go and talk to them together.
 
-785
+805
 00:37:37,120 --> 00:37:38,400
-Mr. Song Nian, Enlai.
+Mr. Songnian, Enlai.
 
-786
+806
 00:37:38,640 --> 00:37:40,560
 Mr. Zhongfu agreed to our party building plan.
 
-787
+807
 00:37:40,640 --> 00:37:42,800
-The France branch of the Communist Party of China has us five members.
+The French branch of the Communist Party of China has us five members.
 
-788
+808
 00:37:42,880 --> 00:37:45,280
 Zhang Shenfu, Zhao Shiyan, Chen Gongpei,
 
-789
+809
 00:37:45,440 --> 00:37:47,280
-Liu Qingyang and Zhou Enlai.
+Liu Qingyang, and Zhou Enlai.
 
-790
+810
 00:37:47,520 --> 00:37:49,360
 He asked us to actively develop more members.
 
-791
+811
 00:37:49,680 --> 00:37:51,440
 That's great, that's great.
 
-792
+812
 00:37:51,520 --> 00:37:52,400
 Now I declare
 
-793
+813
 00:37:52,720 --> 00:37:55,520
-the France branch of the Communist Party of China is formally established. 
+the French branch of the Communist Party of China is formally established.
 
-794
-00:38:16,560 --> 00:38:29,520
-Long live the Communist Party of China
+814
+00:38:13,958 --> 00:38:16,026
+[Liu Qingyang]
 
-795
+815
+00:38:16,560 --> 00:38:18,625
+Long live the Communist Party of China!
+
+816
+00:38:19,193 --> 00:38:21,000
+Long live the Communist Party of China!
+
+817
+00:38:21,992 --> 00:38:23,988
+Long live the Communist Party of China!
+
+818
+00:38:24,909 --> 00:38:26,743
+Long live the Communist Party of China!
+
+819
+00:38:27,396 --> 00:38:29,609
+Long live the Communist Party of China!
+
+820
 00:38:31,840 --> 00:38:34,320
-Since the second half of 1920
+Since the second half of 1920,
 
-796
+821
 00:38:35,040 --> 00:38:36,640
-Besides Shanghai and Beijing
+besides Shanghai and Beijing,
 
-797
+822
 00:38:37,040 --> 00:38:40,800
-Dong Biwu, Chen Tanqiu, Bao Huiseng and others in Wuhan.
+Dong Biwu, Chen Tanqiu, Bao Huiseng and others in Wuhan,
 
-798
+823
 00:38:41,440 --> 00:38:44,240
-Wang Jinmei, Deng Engming and others in Jinan.
+Wang Jinmei, Deng Engming and others in Jinan,
 
-799
+824
 00:38:45,280 --> 00:38:47,920
-Tan Pingshan, Chen Gongbo and others in Guangzhou.
+Tan Pingshan, Chen Gongbo and others in Guangzhou,
 
-800
+825
 00:38:48,960 --> 00:38:51,360
-Mao Zedong, He Shuheng and others in Changsha.
+Mao Zedong, He Shuheng and others in Changsha,
 
-801
+826
 00:38:52,000 --> 00:38:54,560
-Shi Cuntong, Zhou Fohai and others in Japan.
+Shi Cuntong, Zhou Fohai and others in Japan,
 
-802
+827
 00:38:55,280 --> 00:39:00,160
-Zhang Shenfu, Zhou Enlai, Zhao Shiyan, Chen Gongpei and others in France.
+Zhang Shenfu, Zhou Enlai, Zhao Shiyan, Chen Gongpei and others in France,
 
-803
+828
 00:39:00,640 --> 00:39:04,080
-All established Communist Party groups successively.
+all successively established Communist Party branches.
 
-804
+829
 00:39:06,960 --> 00:39:08,000
 I'm making an announcement.
 
-805
+830
+00:39:07,387 --> 00:39:10,345
+[2 Old Yuyangli, Shanghai French Concession]
+
+831
 00:39:10,400 --> 00:39:12,640
 "New Youth", from the eighth issue,
 
-806
+832
 00:39:13,120 --> 00:39:13,920
 it will change to
 
-807
+833
 00:39:14,080 --> 00:39:15,600
-an official publication of The Communist Party of China.
+an official publication of the Communist Party of China.
 
-808
+834
 00:39:16,080 --> 00:39:18,160
 It will no longer adopt the rotating-editor system
 
-809
+835
 00:39:18,400 --> 00:39:19,440
 by colleagues in Shanghai and Beijing.
 
-810
+836
 00:39:19,680 --> 00:39:20,880
-Instead, me and Chen Wangdao,
+Instead, I and Chen Wangdao,
 
-811
+837
+00:39:21,110 --> 00:39:23,068
+[Li Da]
+
+838
 00:39:21,120 --> 00:39:22,480
-with Lida, Li Hanjun
+with Li Da, Li Hanjun
 
-812
+839
 00:39:22,880 --> 00:39:24,160
 Shen Yanbing will be in charge of editing.
 
-813
-00:39:24,480 --> 00:39:26,800
-Second, "New Youth" will add two new columns
+840
+00:39:23,348 --> 00:39:25,561
+[Shen Yanbing]
 
-814
-00:39:27,440 --> 00:39:29,440
+841
+00:39:24,480 --> 00:39:26,800
+Second, "New Youth" will add
+
+842
+00:39:27,440 --> 00:39:28,480
+two new columns
+
+843
+00:39:28,560 --> 00:39:29,440
 focusing on Marxist studies
 
-815
+844
 00:39:29,760 --> 00:39:30,880
-and researches in Russia.
+and research in Russia.
 
-816
+845
 00:39:31,120 --> 00:39:32,720
 At the same time it will continue to take
 
-817
+846
 00:39:32,960 --> 00:39:34,800
 the important task of propagating new ideas and new cultures.
 
-818
+847
 00:39:35,200 --> 00:39:36,960
 Third, from this issue
 
-819
+848
 00:39:37,280 --> 00:39:39,760
-the new youth club organized by colleagues in editoral department
+the New Youth Club organized by colleagues in editoral department
 
-820
+849
 00:39:40,800 --> 00:39:42,160
 will be directly in charge of the department
 
-821
+850
 00:39:42,240 --> 00:39:43,760
-and everything about printing and distribution. 
+and everything about printing and distribution.
 
-822
+851
 00:39:44,080 --> 00:39:46,640
 The New Youth officially stops cooperating with Qunyi Publication.
 
-823
+852
 00:39:46,800 --> 00:39:49,440
-At No.279 Fada Road, French Concession, Shanghai
+At 279 Fada Road, Shanghai French Concession,
 
-824
+853
 00:39:49,680 --> 00:39:50,720
 a general distribution office will be set up.
 
-825
+854
 00:39:50,960 --> 00:39:52,560
 Along with 94 representative offices
 
-826
+855
 00:39:52,880 --> 00:39:54,960
 set up in 43 regions of the country.
 
-827
+856
 00:39:55,440 --> 00:39:55,680
-good
+Good!
 
-828
+857
 00:39:55,760 --> 00:39:56,400
-Great
+Great!
 
-829
+858
 00:39:56,960 --> 00:39:57,200
-good
+Good!
 
-830
+859
 00:39:57,920 --> 00:40:00,880
-This is the cover of the new design of New Youth.
+This is the cover of the new design of "New Youth".
 
-831
+860
 00:40:01,280 --> 00:40:02,560
 Please share your opinions.
 
-832
+861
 00:40:07,280 --> 00:40:09,520
 Two big hands clasped tightly on the earth.
 
-833
+862
 00:40:10,160 --> 00:40:11,600
 What does this picture mean?
 
-834
+863
 00:40:15,440 --> 00:40:18,080
 I guess it indicates the tight unity and relationship
 
-835
+864
 00:40:18,320 --> 00:40:18,960
 between China and Russia
 
-836
+865
 00:40:19,120 --> 00:40:20,240
 after the October Revolution.
 
-837
+866
 00:40:20,480 --> 00:40:23,600
 The Chinese and Russian parties shake hands cordially with each other,
 
-838
+867
 00:40:24,080 --> 00:40:24,960
-instead hug.
+instead of hugging.
 
-839
+868
 00:40:26,240 --> 00:40:26,960
 In that way,
 
-840
+869
 00:40:27,120 --> 00:40:28,640
 this picture is very meaningful.
 
-841
+870
 00:40:29,360 --> 00:40:30,080
 Good!
 
-842
+871
+00:40:31,664 --> 00:40:35,268
+[Beijing]
+
+872
 00:40:34,800 --> 00:40:37,760
 Comrades, the situation is evloving rapidly now.
 
-843
+873
 00:40:38,240 --> 00:40:40,080
 Study and publicize Marxism,
 
-844
+874
 00:40:40,240 --> 00:40:41,200
 as for now,
 
-845
+875
 00:40:41,760 --> 00:40:43,760
 it's the trend starting a prairie fire in China's ideological circle.
 
-846
+876
 00:40:44,160 --> 00:40:44,960
 Irresistible and unstoppable.
 
-847
+877
 00:40:45,600 --> 00:40:46,400
 But at the same time
 
-848
+878
 00:40:46,880 --> 00:40:49,680
-the groups of the new culture movement is also undergoing fission.
+the groups of the New Culture Movement is also undergoing fission.
 
-849
+879
 00:40:50,160 --> 00:40:50,960
 What happened?
 
-850
+880
 00:40:52,240 --> 00:40:53,440
 There is a big debate going on now.
 
-851
+881
 00:40:53,920 --> 00:40:55,280
 Should China take the socialist road
 
-852
+882
 00:40:55,840 --> 00:40:56,880
 or the capitalist road?
 
-853
+883
 00:40:57,840 --> 00:40:59,280
 Shall we choose implementation of social revolution
 
-854
+884
 00:40:59,760 --> 00:41:01,920
-Or social improvement?
+or reformism?
 
-855
+885
 00:41:02,640 --> 00:41:04,960
-There is also another big debate 
+There is also another big debate
 
-856
+886
 00:41:06,080 --> 00:41:08,000
 between Marxism and anarchism.
 
-857
+887
 00:41:10,160 --> 00:41:12,320
 Comrades, the two debates
 
-858
+888
 00:41:12,880 --> 00:41:15,120
 are gonna deeply influence the future of the Chinese revolution.
 
-859
+889
 00:41:15,440 --> 00:41:16,480
 So I hope
 
-860
+890
 00:41:16,640 --> 00:41:19,760
-us from Peking University Research Institute of Marxist Theory
+We from the Peking University Marxist Theory Research Society
 
-861
+891
 00:41:20,240 --> 00:41:21,200
 and comrades
 
-862
+892
 00:41:21,360 --> 00:41:23,520
-from Beijing branch of the Communist Party of China,
+from the Beijing branch of the Communist Party of China,
 
-863
+893
 00:41:24,000 --> 00:41:26,160
-actively taking parts in the debates.
+actively take parts in the debates.
 
-864
+894
 00:41:26,720 --> 00:41:29,280
-We need clearly shows our attitudes.
+We need clearly show our standpoint.
 
-865
+895
 00:41:30,080 --> 00:41:30,880
-New youth
+"New Youth"
 
-866
+896
 00:41:30,960 --> 00:41:32,880
-and the upcoming Communist Party magazine
+and the upcoming "Communist Party" magazine
 
-867
+897
 00:41:33,520 --> 00:41:34,560
 will be our battlefield.
 
-868
+898
 00:41:35,440 --> 00:41:36,000
-Yes.
+Hurrah!
